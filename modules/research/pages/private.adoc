@@ -37,9 +37,7 @@ one of the tabs at the top of every page.
 
 === Church Register Duplicates
 
-From: https://www.archive.nrw.de/archivsuche
-
-Go to: +
+From: https://www.archive.nrw.de/archivsuche, naviage to: +
 Landesarchiv NRW Abteilung Ostwestfalen-Lippe -> Personenstandsarchiv Westfalen-Lippe -> 
 Kirchenbuchduplikate, Zivilstands-, Juden- und Dissidentenregister -> Regierungsbezirks Minden -> 
 Frille, Kreis Minden -> Zivilstandregister AND -> Kirchenbuchduplikate
