@@ -253,7 +253,9 @@ Novemb.
 
 == Bleeke Children
 
-=== Children of Carl Friedrich Bleeke and ???
+=== Children of Carl Friedrich Bleeke and ??? Schwier
+
+TODO: working images are in `~/temp/`.
 
 === Children of Johann Heinrich Philip Bleeke and ???
 
