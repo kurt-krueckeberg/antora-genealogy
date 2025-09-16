@@ -7,30 +7,36 @@ Aufgebotene und Getratute im Jahr 1820
 (Die bie einer Kriche bl?? aufgebotene und anbewar? kopulierten Paare
 
 
-// [col="1l,4l,3l,2l,3l,3l,4l,4l,2l,3l,3l,3l,4l"
-// |===
-// |header
-// 
-// |4
-// |Carl Friedrich
-// Bleeke, Anerbe
-// von No 13 in Leteln
-// |Colon Christian Friederick
-// Bleeke auf
-// No 13 in Le-
-// teln
-// |25 Jahr
-// |Eltern haben
-// ?? ??
-// Einwillinung
-// ben
-// |Jungge-
-// selle
-// |Marie Luise
-// Nieman aus
-// Todten hausen
-// |Johann Heinrich
-// Niemann Col. auf
-// No 35 in Todten-
-// has
+[col="1l,4l,3l,2l,3l,3l,4l,4l,2l,3l,3l,3l,4l"
+|===
+|Nro.|Vor- and Zunamen 
+des
+Bräutigum|Stand
+und Wohnort des Vaters|Alter des Bräuti-
+gams|Ob Eltern oder
+Vormund die Einwilligun gegeben,
+und die solches geschehen|||| 
+
+|4
+|Carl Friedrich
+Bleeke, Anerbe
+von No 13 in Leteln
+|Colon Christian Friederick
+Bleeke auf
+No 13 in Le-
+teln
+|25 Jahr
+|Eltern haben
+?? ??
+Einwillinung
+ben
+|Jungge-
+selle
+|Marie Luise
+Nieman aus
+Todten hausen
+|Johann Heinrich
+Niemann Col. auf
+No 35 in Todten-
+has
 
