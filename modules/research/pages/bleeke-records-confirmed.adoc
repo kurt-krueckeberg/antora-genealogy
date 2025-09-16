@@ -9,35 +9,37 @@ Aufgebotene und Getratute im Jahr 1820
 
 [col="1l,4l,3l,2l,3l,3l,4l,4l,2l,3l,3l,3l,4l"
 |===
-|Nro.|Vor- and Zunamen 
+13+|Aufgebotene und Getraute (die bei einer Kirche bloß aufgebotenen und anderwärts kopulirten Paare müssen ohne Nummer eingetragen werden.) im Jahr 1820.
+
+|Nro.|Vor- und Zunamen 
 des
-Bräutigum|Stand
+Bräutigum.|Stand
 und Wohnort des Vaters|Alter des Bräuti-
-gams|Ob Eltern oder
-Vormund die Einwilligun gegeben,
-und die solches geschehen|Ob er schon
+gams.|Ob Eltern oder
+Vormund die Einwilligung gegeben,
+und wie solches geschehen.|Ob er schon
 verehelicht gewesen
 und wie die Ehe getrennt
 worden.|Vor- und Zuname
 der
-Braut|Name,
+Braut.|Namen,
 Stand und Wohnort
 des
-Vaters der Braut|Alter
+Vaters der Braut.|Alter
 der
-Braut|Ob Eltern oder
+Braut.|Ob Eltern oder
 Vormund die Ein-
 willingung gegeben,
 und wie solches
-geschehen|Ob sie schon
+geschehen.|Ob sie schon
 verehelicht gewesen
 und wie 
 die Ehe getrennt
-worden|Tag der Kopulation
+worden.|Tag der Kopulation
 mit
-Buchstaben und Zissern|Name des Predigers,
+Buchstaben und Ziffern.|Name des Predigers,
 der
-die Kopultion verrichtet
+die Kopulation verrichtet.
 
 |4
 |Carl Friedrich
