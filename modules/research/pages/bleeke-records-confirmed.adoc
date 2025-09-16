@@ -282,7 +282,7 @@ Novemb.
 |legitimate
 |link:https://dfg-viewer.de/show?tx_dlf%5Bdouble%5D=0&tx_dlf%5Bid%5D=https%3A%2F%2Fwww.landesarchiv-nrw.de%2Fdigitalisate%2FAbt_Ostwestfalen-Lippe%2FP1%2FB%2F~001%2FB00168_01_1815-1830%2Fmets.xml&tx_dlf%5Bpage%5D=128&cHash=61b00b65e2c7e34f8322e2094b0177fe[Abt.
 Ostwestfalen-Lippe, P 1 B (Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks Minden), Nr. 168
-_01_Jg. 1815-1830], image 128 of 180, Nro 4.
+_01_Jg. 1815-1830], image 128 of 180, record #4.
 
 |Christian Friederich
 Bleeke
@@ -291,7 +291,7 @@ Bleeke
 |legitimate
 |link:https://dfg-viewer.de/show?tx_dlf%5Bdouble%5D=0&tx_dlf%5Bid%5D=https%3A%2F%2Fwww.landesarchiv-nrw.de%2Fdigitalisate%2FAbt_Ostwestfalen-Lippe%2FP1%2FB%2F~001%2FB00168_01_1815-1830%2Fmets.xml&tx_dlf%5Bpage%5D=150&cHash=a6af8af6b49b158c3ecd8d0edb9dd8d0[Abt.
 Ostwestfalen-Lippe, P 1 B (Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks Minden), Nr. 168
-_01_Jg. 1815-1830], image 150 of 180, Nro 9.
+_01_Jg. 1815-1830], image 150 of 180, record #9.
 |===
 
 === Children of Johann Heinrich Philip Bleeke and Christine Luise Schwier
@@ -307,7 +307,7 @@ _01_Jg. 1815-1830], image 150 of 180, Nro 9.
 |illegitimate, 1^st^ child, 1^st^ son
 |https://dfg-viewer.de/show?tx_dlf%5Bdouble%5D=0&tx_dlf%5Bid%5D=https%3A%2F%2Fwww.landesarchiv-nrw.de%2Fdigitalisate%2FAbt_Ostwestfalen-Lippe%2FP1%2FB%2F~001%2FB00168_01_1815-1830%2Fmets.xml&tx_dlf%5Bpage%5D=40&cHash=90b3e7f90b94cba63ceaeaba37f85eb5[Abt.
 Ostwestfalen-Lippe, P 1 B (Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks Minden), Nr. 168
-_01_Jg. 1815-1830], image 40 of 180, Nro 16.
+_01_Jg. 1815-1830], image 40 of 180, record #16.
 
 |Christian Friedrich Bleeke
 |5 May 1821
@@ -315,7 +315,7 @@ _01_Jg. 1815-1830], image 40 of 180, Nro 16.
 |legitimate
 |link:https://www.landesarchiv-nrw.de/data02/Abt_Ostwestfalen-Lippe/P1/B/~001/B00168_01_1815-1830/OWL_P1_B00168_01_1815-1830_080.jpg[Abt.
 Ostwestfalen-Lippe, P 1 B (Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks Minden), Nr. 168
-_01_Jg. 1815-1830], image 80 of 180, Nro 15.
+_01_Jg. 1815-1830], image 80 of 180, record #15.
 |===
 === Children of Johann Heinrich Philip Bleeke and ???
 
