@@ -1,13 +1,15 @@
 = Bleeke Records Confirmed
 :page-role: wide
 
+== Carl Friedrich Bleeke Marriage to Marie Luise Niemann
+
 image::carl-friedrich-bleeke-marriage.png[link=self]
 
 [cols="1l,4l,3l,2l,3l,3l,4l,4l,2l,3l,3l,3l,4l"]
 |===
-//13+^|*Aufgebotene und Getraute (die bei einer Kirche bloß aufgebotenen und anderwärts kopulirten Paare müssen ohne
-//Nummer eingetragen werden.) im Jahr 1820.*
-//
+13+^s|Aufgebotene und Getraute (die bei einer Kirche bloß aufgebotenen und anderwärts kopulirten Paare müssen ohne
+Nummer eingetragen werden.) im Jahr 1820.
+
 
 s|Nro.
 s|Vor- und Zunamen 
