@@ -15,7 +15,29 @@ Bräutigum|Stand
 und Wohnort des Vaters|Alter des Bräuti-
 gams|Ob Eltern oder
 Vormund die Einwilligun gegeben,
-und die solches geschehen|||| 
+und die solches geschehen|Ob er schon
+verehelicht gewesen
+und wie die Ehe getrennt
+worden.|Vor- und Zuname
+der
+Braut|Name,
+Stand und Wohnort
+des
+Vaters der Braut|Alter
+der
+Braut|Ob Eltern oder
+Vormund die Ein-
+willingung gegeben,
+und wie solches
+geschehen|Ob sie schon
+verehelicht gewesen
+und wie 
+die Ehe getrennt
+worden|Tag der Kopulation
+mit
+Buchstaben und Zissern|Name des Predigers,
+der
+die Kopultion verrichtet
 
 |4
 |Carl Friedrich
