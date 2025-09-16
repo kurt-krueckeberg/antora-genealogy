@@ -170,25 +170,29 @@ Bleeke brothers, who were members of the Frille congregation:
 
 === Bleeke
 
-.Bleeke Marriage Dates to confirm:
+.Bleeke Marriage Dates Confirmed:
 |===
-|Groom|Bride|Marriage Date|Cross-referenced +
-volume
+|Groom|Bride|Marriage Date|URL
 
 |Carl Fridrich Bleeke
 |Marie Luise Niemann 
 |March 12, 1820
-|xref:#marriages-1805-1852[Frille Marriages 1805-1853]
+|link:https://dfg-viewer.de/show?tx_dlf%5Bdouble%5D=0&tx_dlf%5Bid%5D=https%3A%2F%2Fwww.landesarchiv-nrw.de%2Fdigitalisate%2FAbt_Ostwestfalen-Lippe%2FP1%2FB%2F~001%2FB00168_01_1815-1830%2Fmets.xml&tx_dlf%5Bpage%5D=70&cHash=507bb1dc0865977ffd9ef86d2c566618[Abt.
+Ostwestfalen-Lippe, P 1 B (Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks Minden), Nr. 168
+_01_Jg. 1815-1830, image 70 of 180, Nro #4].
 
 |Johann Heinrich Philipp Bleeke
 |Christine Maria Schwier
 |Spring of 1819
-|xref:#marriages-1805-1852[Frille Marriages 1805-1853]
+|link:https://dfg-viewer.de/show?tx_dlf%5Bdouble%5D=0&tx_dlf%5Bid%5D=https%3A%2F%2Fwww.landesarchiv-nrw.de%2Fdigitalisate%2FAbt_Ostwestfalen-Lippe%2FP1%2FB%2F~001%2FB00168_01_1815-1830%2Fmets.xml&tx_dlf%5Bpage%5D=71&cHash=379e9317c05c2c014792c3beeafba9b1[Abt.
+Ostwestfalen-Lippe, P 1 B (Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks Minden), Nr. 168
+_01_Jg. 1815-1830, image 71 of 180, Nro 9]
+
 
 |Christian Friedrich Bleeke
 |Christine Luise Eloenore Krückeberg
 |Nov 26, 1826
-|xref:#marriages-1805-1852[Frille Marriages 1805-1853]
+|??
 |===
 
 .Birth and Baptism Dates to Confirm for Carl Friedrich Bleeke's Children
