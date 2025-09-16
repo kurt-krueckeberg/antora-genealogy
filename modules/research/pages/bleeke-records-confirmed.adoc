@@ -272,6 +272,7 @@ Novemb.
 *TODO:* working images are in `~/temp/`.
 
 .Children of Johann Heinrich Philip Bleeke and Christine Luise Schwier
+[cols="1,1,1,4"]
 |===
 |Child|Birth Date|Baptism Date|Legitimate or Illegitimage|URL to Actual Record
 
@@ -296,6 +297,7 @@ _01_Jg. 1815-1830] image 150 of 180, Nro 9.
 === Children of Johann Heinrich Philip Bleeke and Christine Luise Schwier
 
 .Children of Johann Heinrich Philip Bleeke and Christine Luise Schwier
+[cols="1,1,1,4"]
 |===
 |Child|Birth Date|Baptism Date|Legitimate or Illegitimage|URL to Actual Record
 
