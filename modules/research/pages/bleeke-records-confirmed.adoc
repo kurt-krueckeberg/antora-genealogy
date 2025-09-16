@@ -1,7 +1,9 @@
 = Bleeke Records Confirmed
 :page-role: wide
 
-== Carl Friedrich Bleeke Marriage to Marie Luise Niemann
+== Marriages
+
+=== Carl Friedrich Bleeke Marriage to Marie Luise Niemann
 
 image::carl-friedrich-bleeke-marriage.png[title="Click to Enlarge",link=self]
 
@@ -87,7 +89,7 @@ den Pfarrer
 |Schütz
 |===
 
-== Johann Heinrich Philip Bleeke Marriage to 
+=== Johann Heinrich Philip Bleeke Marriage to 
 
 image::johann-heinrich-philip-bleeke-marriage.png[title="Click to Enlarge",link=self]
 
@@ -170,7 +172,7 @@ Sohn
 |Schütz
 |===
 
-== Christian Friedrich Bleeke Marriage to Luise Leonore Krückeberg
+=== Christian Friedrich Bleeke Marriage to Luise Leonore Krückeberg
 
 image::christian-friedrich-bleeke-marriage-1826_upscaled.png[title="Click to Enlarge",link=self]
 
@@ -247,3 +249,12 @@ zigsten (26)
 Novemb.
 |v. z. Pr. Schütz
 |===
+
+
+== Bleeke Children
+
+=== Children of Carl Friedrich Bleeke and ???
+
+=== Children of Johann Heinrich Philip Bleeke and ???
+
+==== Carl Heinrich Bleeke
