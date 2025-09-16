@@ -10,7 +10,6 @@ image::carl-friedrich-bleeke-marriage.png[link=self]
 13+^s|Aufgebotene und Getraute (die bei einer Kirche bloß aufgebotenen und anderwärts kopulirten Paare müssen ohne
 Nummer eingetragen werden.) im Jahr 1820.
 
-
 s|Nro.
 s|Vor- und Zunamen 
 des
@@ -87,4 +86,56 @@ März, auf
 den Pfarrer
 |Schütz
 |===
+
+== Johann Heinrich Philip Bleeke Marriage to 
+
+image::johann-heinrich-philip-bleeke-marriage.png[link=self]
+
+[cols="1l,4l,3l,2l,3l,3l,4l,4l,2l,3l,3l,3l,4l"]
+|===
+13+^s|Aufgebotene und Getraute (die bei einer Kirche bloß aufgebotenen und anderwärts kopulirten Paare müssen ohne
+Nummer eingetragen werden.) im Jahr 1820.
+
+s|Nro.
+s|Vor- und Zunamen 
+des
+Bräutigum.
+s|Stand
+und Wohnort des Vaters
+s|Alter des Bräuti-
+gams.
+s|Ob Eltern oder
+Vormund die Einwilligung gegeben,
+und wie solches geschehen.
+s|Ob er schon
+verehelicht gewesen
+und wie die Ehe getrennt
+worden.
+s|Vor- und Zuname
+der
+Braut.
+s|Namen,
+Stand und Wohnort
+des
+Vaters der Braut.
+s|Alter
+der
+Braut.
+s|Ob Eltern oder
+Vormund die Ein-
+willingung gegeben,
+und wie solches
+geschehen.
+s|Ob sie schon
+verehelicht gewesen
+und wie 
+die Ehe getrennt
+worden.
+s|Tag der Kopulation
+mit
+Buchstaben und Ziffern.
+s|Name des Predigers,
+der
+die Kopulation verrichtet.
+
 
