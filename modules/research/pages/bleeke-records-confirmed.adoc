@@ -340,18 +340,15 @@ _01_Jg. 1815-1830], image 120 of 180, record #47.
 |link:https://dfg-viewer.de/show?tx_dlf%5Bdouble%5D=0&tx_dlf%5Bid%5D=https%3A%2F%2Fwww.landesarchiv-nrw.de%2Fdigitalisate%2FAbt_Ostwestfalen-Lippe%2FP1%2FB%2F~001%2FB00168_01_1815-1830%2Fmets.xml&tx_dlf%5Bpage%5D=151&cHash=15bdb617b3803e4d82ae83eb3fce1b56[Abt.
 Ostwestfalen-Lippe, P 1 B (Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks Minden), Nr. 168
 _01_Jg. 1815-1830], image 151 of 180, record #28.
-
 |===
-=== Children of Johann Heinrich Philip Bleeke and ???
 
-==== Carl Heinrich Bleeke
+=== Children of Christian Friedrich Bleeke and Luise Leonore Krückeberg
 
+.Children of Christian Friedrich Bleeke and Luise Leonore Krückeberg
+[cols="1,1,1,a,4"]
+|===
+|Child|Birth Date|Baptism Date|Legitimate or Illegitimage|URL to Actual Record
 
-== Abt. Ostwestfalen-Lippe, P 1 B (Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks Minden), Nr.
-167 Jg. 1808
-
-=== Image 26 of 33
-
-link:https://dfg-viewer.de/show?tx_dlf%5Bdouble%5D=0&tx_dlf%5Bid%5D=https%3A%2F%2Fwww.landesarchiv-nrw.de%2Fdigitalisate%2FAbt_Ostwestfalen-Lippe%2FP1%2FB%2F~001%2FB00167_1808%2Fmets.xml&tx_dlf%5Bpage%5D=26&cHash=c674c238f1f7db2116a15ad933f352fc[Image
-26 of 33]
+|||||
+|===
 
