@@ -345,13 +345,12 @@ Ostwestfalen-Lippe, P 1 B (Kirchenbuchduplikate und Zivilstandsregister des Regi
 _01_Jg. 1815-1830], image 151 of 180, record #28.
 |===
 
-image::carl-heinrich-bleeke-181-birth.png[title="Click to Enlarge",link=self]
+image::carl-heinrich-bleeke-1818-birth.png[title="Click to Enlarge",link=self]
 
 .Transliteration of Birth Records
 [cols="1l,4l,4l,2l,4l,4l,3l,2l,5l"]
 |===
-13+^s|Aufgebotene und Getraute (die bei einer Kirche bloß aufgebotenen und anderwärts kopulirten Paare müssen ohne
-Nummer eingetragen werden.) im Jahr 1826.
+10+^s|Geborene und Getaufte im Jarhe 1818
 
 s|Nro.
 s|Tauf-Name
