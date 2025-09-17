@@ -347,6 +347,8 @@ _01_Jg. 1815-1830], image 151 of 180, record #28.
 
 === Actual Birth Records
 
+==== Carl Heinrich Bleeke 
+
 image::carl-heinrich-bleeke-1818-birth.png[title="Click to Enlarge",link=self]
 
 .Transliteration of Carl Heinrich Bleeke 1818 Birth Record
@@ -410,6 +412,8 @@ Gottlieb Schwier
 No. 27 Wietersheim
 |===
 
+==== Christian Friedrich Bleeke
+
 image::christian-friedrich-bleeke-1821-birth.png[title="Click to Enlarge",link=self]
 
 .Transliteration of Carl Friedrich Bleeke 1821 Birth Record
@@ -463,6 +467,8 @@ No. 27
 |Carl Friederich
 Bleeke aus Leeteln
 |=== 
+
+==== Carl Friedrich Bleeke
 
 image::carl-friedrich-bleeke-1823-birth.png[title="Click to Enlarge",link=self]
 
