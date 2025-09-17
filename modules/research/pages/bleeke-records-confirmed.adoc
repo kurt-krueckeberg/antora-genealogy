@@ -462,6 +462,42 @@ No. 27
 Bleeke aus Leeteln
 |=== 
 
+image::carl-friedrich-bleeke-1823-birth.png[title="Click to Enlarge",link=self]
+
+.Transliteration of Carl Friedrich Bleeke 1821 Birth Record
+[cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
+|===
+10+^s|Geborene und Getaufte im Jarhe 1821
+
+s|Nro.
+s|Tauf-Name
+des Kindes.
+|Tag und Stunde
+der Geburt
+in
+Buchstaben und Ziffern.
+|Ob es
+ehelich
+oder
+unehelich.
+|Vor- and Zuname
+des Vaters,
+auch Stand desselben
+|Vor- und Zuname
+der
+Mutter.
+|Wohnort
+der
+Eltern
+|Tag
+der
+Taufe.
+|Namen des Predigers,
+der es getauft.
+|Name der Taufzeugen
+|
+|===
+
 === Children of Christian Friedrich Bleeke and Luise Leonore Krückeberg
 
 .Children of Christian Friedrich Bleeke and Luise Leonore Krückeberg
