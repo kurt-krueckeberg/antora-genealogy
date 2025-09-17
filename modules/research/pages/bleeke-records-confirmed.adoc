@@ -75,7 +75,7 @@ die Kopulation verrichtet.
 |Carl Friedrich
 Bleeke, Anerbe
 von No 13 in Leteln
-|Colon Christian Friederick
+|Colon Christian Friederich
 Bleeke auf
 No 13 in Le-
 teln
@@ -347,7 +347,7 @@ _01_Jg. 1815-1830], image 151 of 180, record #28.
 
 image::carl-heinrich-bleeke-1818-birth.png[title="Click to Enlarge",link=self]
 
-.Transliteration of Birth Records
+.Transliteration of Carl Heinrich Bleeke 1818 Birth Record
 [cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
 |===
 10+^s|Geborene und Getaufte im Jarhe 1818
@@ -407,6 +407,57 @@ u. .d. Pfarer
 Gottlieb Schwier
 No. 27 Wietersheim
 |===
+
+image::carl-heinrich-bleeke-1818-birth.png[title="Click to Enlarge",link=self]
+
+.Transliteration of Carl Friedrich Bleeke 1821 Birth Record
+[cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
+|===
+10+^s|Geborene und Getaufte im Jarhe 1818
+
+s|Nro.
+s|Tauf-Name
+des Kindes.
+|Tag und Stunde
+der Geburt
+in
+Buchstaben und Ziffern.
+|Ob es
+ehelich
+oder
+unehelich.
+|Vor- and Zuname
+des Vaters,
+auch Stand desselben
+|Vor- und Zuname
+der
+Mutter.
+|Wohnort
+der
+Eltern
+|Tag
+der
+Taufe.
+|Namen des Predigers,
+der es getauft.
+|Name der Taufzeugen
+
+|13?
+|Christian Friederich Bleeke
+|der Siebensten (7) May[add two dots to y]
+Nachmittags fünf (5)
+Uhr zu Wietersheim N. 27
+|ehelich
+|Johann Heinrich
+Bleeke Col. No. 27
+zu Wietersheim
+|Wietersheim 
+No. 27
+|d 13 May[with two dots]
+|Schütz
+|Carl Friederich
+Bleeke aus Leeteln
+|=== 
 
 === Children of Christian Friedrich Bleeke and Luise Leonore Krückeberg
 
