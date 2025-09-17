@@ -359,29 +359,29 @@ image::carl-heinrich-bleeke-1818-birth.png[title="Click to Enlarge",link=self]
 s|Nro.
 s|Tauf-Name
 des Kindes.
-|Tag und Stunde
+s|Tag und Stunde
 der Geburt
 in
 Buchstaben und Ziffern.
-|Ob es
+s|Ob es
 ehelich
 oder
 unehelich.
-|Vor- and Zuname
+s|Vor- and Zuname
 des Vaters,
 auch Stand desselben
-|Vor- und Zuname
+s|Vor- und Zuname
 der
 Mutter.
-|Wohnort
+s|Wohnort
 der
 Eltern
-|Tag
+s|Tag
 der
 Taufe.
-|Namen des Predigers,
+s|Namen des Predigers,
 der es getauft.
-|Name der Taufzeugen
+s|Name der Taufzeugen
  
 
 |16
@@ -424,29 +424,29 @@ image::christian-friedrich-bleeke-1821-birth.png[title="Click to Enlarge",link=s
 s|Nro.
 s|Tauf-Name
 des Kindes.
-|Tag und Stunde
+s|Tag und Stunde
 der Geburt
 in
 Buchstaben und Ziffern.
-|Ob es
+s|Ob es
 ehelich
 oder
 unehelich.
-|Vor- and Zuname
+s|Vor- and Zuname
 des Vaters,
 auch Stand desselben
-|Vor- und Zuname
+s|Vor- und Zuname
 der
 Mutter.
-|Wohnort
+s|Wohnort
 der
 Eltern
-|Tag
+s|Tag
 der
 Taufe.
-|Namen des Predigers,
+s|Namen des Predigers,
 der es getauft.
-|Name der Taufzeugen
+s|Name der Taufzeugen
 
 |13?
 |Christian Friederich Bleeke
@@ -480,29 +480,29 @@ image::carl-friedrich-bleeke-1823-birth.png[title="Click to Enlarge",link=self]
 s|Nro.
 s|Tauf-Name
 des Kindes.
-|Tag und Stunde
+s|Tag und Stunde
 der Geburt
 in
 Buchstaben und Ziffern.
-|Ob es
+s|Ob es
 ehelich
 oder
 unehelich.
-|Vor- and Zuname
+s|Vor- and Zuname
 des Vaters,
 auch Stand desselben
-|Vor- und Zuname
+s|Vor- und Zuname
 der
 Mutter.
-|Wohnort
+s|Wohnort
 der
 Eltern
-|Tag
+s|Tag
 der
 Taufe.
-|Namen des Predigers,
+s|Namen des Predigers,
 der es getauft.
-|Name der Taufzeugen
+s|Name der Taufzeugen
 
 |30
 |Carl Fried. Bleeke
