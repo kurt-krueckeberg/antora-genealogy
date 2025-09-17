@@ -1,22 +1,19 @@
 = Bleeke Records Confirmed
 :page-role: wide
 
-
 == Frille Church Register Duplicates
 
-Pastors were require to maintain duplicates of their church registers. Those for Frille
-are today in the Nord Rhein Westfalen archives.
+There are duplicate church registers for Frille in the Nord Rhein Westfalen archives. However,for the years 1831, 1832, and 1834, it includes only  births/deaths “on the estates in Frille (village) belonging to the Gerichtsamt Petershagen,” and not the whole Frille parish area. The Bleekes lived in Leteln which was outside the jurisdiction of Gerichtsamt Petershagen.
 
-From: https://www.archive.nrw.de/archivsuche, naviage to:
+To locate thes duplicates go to https://www.archive.nrw.de/archivsuche, and naviage as follows:
 
-....
-Landesarchiv NRW Abteilung Ostwestfalen-Lippe →
-Personenstandsarchiv Westfalen-Lippe →
-Kirchenbuchduplikate, Zivilstands-, Juden- und Dissidentenregister → Regierungsbezirk Detmold →
-Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks Minden →
-Frille, Kreis Minden  →
-Kirchenbuchduplikate.
-....
+[arabic,start="1"]
+. Landesarchiv NRW Abteilung Ostwestfalen-Lippe →
+. Personenstandsarchiv Westfalen-Lippe →
+. Kirchenbuchduplikate, Zivilstands-, Juden- und Dissidentenregister → Regierungsbezirk Detmold →
+. Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks Minden →
+. Frille, Kreis Minden  →
+. Kirchenbuchduplikate.
 
 Link to: link:https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820[Kirchenbuchduplikat der evangelischen
 Gemeinde Frille, Kreis Minden]
