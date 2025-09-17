@@ -348,7 +348,7 @@ _01_Jg. 1815-1830], image 151 of 180, record #28.
 image::carl-heinrich-bleeke-1818-birth.png[title="Click to Enlarge",link=self]
 
 .Transliteration of Birth Records
-[cols="1l,4l,4l,2l,4l,4l,3l,2l,5l"]
+[cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
 |===
 10+^s|Geborene und Getaufte im Jarhe 1818
 
