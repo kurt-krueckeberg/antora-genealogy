@@ -413,7 +413,7 @@ image::christian-friedrich-bleeke-birth-1821.png[title="Click to Enlarge",link=s
 .Transliteration of Carl Friedrich Bleeke 1821 Birth Record
 [cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
 |===
-10+^s|Geborene und Getaufte im Jarhe 1818
+10+^s|Geborene und Getaufte im Jarhe 1821
 
 s|Nro.
 s|Tauf-Name
