@@ -408,7 +408,7 @@ Gottlieb Schwier
 No. 27 Wietersheim
 |===
 
-image::christian-friedrich-bleeke-birth-1821.png[title="Click to Enlarge",link=self]
+image::christian-friedrich-bleeke-1821-birth.png[title="Click to Enlarge",link=self]
 
 .Transliteration of Carl Friedrich Bleeke 1821 Birth Record
 [cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
