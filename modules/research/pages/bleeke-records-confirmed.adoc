@@ -348,52 +348,38 @@ _01_Jg. 1815-1830], image 151 of 180, record #28.
 image::carl-heinrich-bleeke-181-birth.png[title="Click to Enlarge",link=self]
 
 .Transliteration of Birth Records
-[cols="1l,4l,3l,2l,3l,3l,4l,4l,2l,3l,3l,3l,4l"]
+[cols="1l,4l,4l,2l,4l,4l,3l,2l,5l"]
 |===
 13+^s|Aufgebotene und Getraute (die bei einer Kirche bloß aufgebotenen und anderwärts kopulirten Paare müssen ohne
 Nummer eingetragen werden.) im Jahr 1826.
 
 s|Nro.
-s|Vor- und Zunamen 
-des
-Bräutigum.
-s|Stand
-und Wohnort des Vaters
-s|Alter des Bräuti-
-gams.
-s|Ob Eltern oder
-Vormund die Einwilligung gegeben,
-und wie solches geschehen.
-s|Ob er schon
-verehelicht gewesen
-und wie die Ehe getrennt
-worden.
-s|Vor- und Zuname
-der
-Braut.
-s|Namen,
-Stand und Wohnort
-des
-Vaters der Braut.
-s|Alter
-der
-Braut.
-s|Ob Eltern oder
-Vormund die Ein-
-willingung gegeben,
-und wie solches
-geschehen.
-s|Ob sie schon
-verehelicht gewesen
-und wie 
-die Ehe getrennt
-worden.
-s|Tag der Kopulation
-mit
+s|Tauf-Name
+des Kindes.
+|Tag und Stunde
+der Geburt
+in
 Buchstaben und Ziffern.
-s|Name des Predigers,
+|Ob es
+ehelich
+oder
+unehelich.
+|Vor- and Zuname
+des Vaters,
+auch Stand desselben
+|Vor- und Zuname
 der
-die Kopulation verrichtet.
+Mutter.
+|Wohnort
+der
+Eltern
+|Tag
+der
+Taufe.
+|Namen des Predigers,
+der es getauft.
+|Name der Taufzeugen
+ 
 
 |16
 |Carl Heinrich Bleeke
@@ -418,6 +404,9 @@ Wietersheim
 (30) April
 u. .d. Pfarer
 |Schütz
+|Johann Friederich
+Gottlieb Schwier
+No. 27 Wietersheim
 |===
 
 === Children of Christian Friedrich Bleeke and Luise Leonore Krückeberg
