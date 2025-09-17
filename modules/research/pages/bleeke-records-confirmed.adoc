@@ -304,7 +304,7 @@ _01_Jg. 1815-1830], image 150 of 180, record #9.
 |===
 |Child|Birth Date|Baptism Date|Legitimate or Illegitimage|URL to Actual Record
 
-|Carl Heinrich Bleeke
+|Carl Heinrich Bleeke *DONE*
 |27 April 1818
 |30 April 1818
 |illegitimate, 1^st^ child, 1^st^ son
@@ -312,7 +312,7 @@ _01_Jg. 1815-1830], image 150 of 180, record #9.
 Ostwestfalen-Lippe, P 1 B (Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks Minden), Nr. 168
 _01_Jg. 1815-1830], image 40 of 180, record #16.
 
-|Christian Friedrich Bleeke
+|Christian Friedrich Bleeke *DONE*
 |5 May 1821
 |13 May 1821
 |legitimate
@@ -320,7 +320,7 @@ _01_Jg. 1815-1830], image 40 of 180, record #16.
 Ostwestfalen-Lippe, P 1 B (Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks Minden), Nr. 168
 _01_Jg. 1815-1830], image 80 of 180, record #15.
 
-|Carl Fried: Bleeke
+|Carl Fried: Bleeke *DONE*
 |17 July 1823
 |20 July 1823
 |legitimate
@@ -344,6 +344,8 @@ _01_Jg. 1815-1830], image 120 of 180, record #47.
 Ostwestfalen-Lippe, P 1 B (Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks Minden), Nr. 168
 _01_Jg. 1815-1830], image 151 of 180, record #28.
 |===
+
+=== Actual Birth Records
 
 image::carl-heinrich-bleeke-1818-birth.png[title="Click to Enlarge",link=self]
 
