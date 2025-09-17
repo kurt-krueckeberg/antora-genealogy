@@ -279,7 +279,7 @@ Novemb.
 |===
 |Child|Birth Date|Baptism Date|Legitimate or Illegitimage|URL to Actual Record
 
-|Marie Chritine Bleeke
+|Marie Christine Bleeke
 |15 Jan. 1826
 |22 Jan. 1826
 |legitimate
@@ -343,6 +343,81 @@ _01_Jg. 1815-1830], image 120 of 180, record #47.
 |link:https://dfg-viewer.de/show?tx_dlf%5Bdouble%5D=0&tx_dlf%5Bid%5D=https%3A%2F%2Fwww.landesarchiv-nrw.de%2Fdigitalisate%2FAbt_Ostwestfalen-Lippe%2FP1%2FB%2F~001%2FB00168_01_1815-1830%2Fmets.xml&tx_dlf%5Bpage%5D=151&cHash=15bdb617b3803e4d82ae83eb3fce1b56[Abt.
 Ostwestfalen-Lippe, P 1 B (Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks Minden), Nr. 168
 _01_Jg. 1815-1830], image 151 of 180, record #28.
+|===
+
+image::carl-heinrich-bleeke-181-birth.png[title="Click to Enlarge",link=self]
+
+.Transliteration of Birth Records
+[cols="1l,4l,3l,2l,3l,3l,4l,4l,2l,3l,3l,3l,4l"]
+|===
+13+^s|Aufgebotene und Getraute (die bei einer Kirche bloß aufgebotenen und anderwärts kopulirten Paare müssen ohne
+Nummer eingetragen werden.) im Jahr 1826.
+
+s|Nro.
+s|Vor- und Zunamen 
+des
+Bräutigum.
+s|Stand
+und Wohnort des Vaters
+s|Alter des Bräuti-
+gams.
+s|Ob Eltern oder
+Vormund die Einwilligung gegeben,
+und wie solches geschehen.
+s|Ob er schon
+verehelicht gewesen
+und wie die Ehe getrennt
+worden.
+s|Vor- und Zuname
+der
+Braut.
+s|Namen,
+Stand und Wohnort
+des
+Vaters der Braut.
+s|Alter
+der
+Braut.
+s|Ob Eltern oder
+Vormund die Ein-
+willingung gegeben,
+und wie solches
+geschehen.
+s|Ob sie schon
+verehelicht gewesen
+und wie 
+die Ehe getrennt
+worden.
+s|Tag der Kopulation
+mit
+Buchstaben und Ziffern.
+s|Name des Predigers,
+der
+die Kopulation verrichtet.
+
+|16
+|Carl Heinrich Bleeke
+|Sieben und zwanzig-
+sten (27) April auf
+No. 27 in Wieters-
+heim
+|unehelich
+1t Kind
+1t Sohn
+|Johann Heinrich
+Bleeke N: 13 in
+Leeteln
+|Christian Marie
+Schwier auf
+N: 27 in Wieters-
+heim.
+|Leeteln
+und
+Wietersheim
+|Dreißigsten
+(30) April
+u. .d. Pfarer
+|Schütz
 |===
 
 === Children of Christian Friedrich Bleeke and Luise Leonore Krückeberg
