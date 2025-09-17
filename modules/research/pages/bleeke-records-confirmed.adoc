@@ -444,7 +444,7 @@ der es getauft.
 
 |13?
 |Christian Friederich Bleeke
-|der Siebensten (7) May[add two dots to y]
+|der Siebensten (7) Maÿ
 Nachmittags fünf (5)
 Uhr zu Wietersheim N. 27
 |ehelich
@@ -456,7 +456,7 @@ Schwier aus
 Wietersheim
 |Wietersheim 
 No. 27
-|d 13 May[with two dots]
+|d 13 Maÿ
 |Schütz
 |Carl Friederich
 Bleeke aus Leeteln
@@ -464,7 +464,7 @@ Bleeke aus Leeteln
 
 image::carl-friedrich-bleeke-1823-birth.png[title="Click to Enlarge",link=self]
 
-.Transliteration of Carl Friedrich Bleeke 1821 Birth Record
+.Transliteration of Carl Friedrich Bleeke 1823 Birth Record
 [cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
 |===
 10+^s|Geborene und Getaufte im Jarhe 1821
@@ -496,16 +496,25 @@ Taufe.
 der es getauft.
 |Name der Taufzeugen
 
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
+|30
+|Carl Fried. Bleeke
+|siebzehnten (17) Juli Mor-
+gens (9) neun Uhr zu
+Leeteln
+|ehelich
+|Johann Heinrich
+Bleeke, Col. No. 16 in Lee-
+teln
+|Christine Marie geb.
+Schwier aus Wieters-
+heim 
+|Leeteln
+No. 16
+|zwanzigten
+(20)  Julius
+|Schütz
+|Christian Fried. Bleeke
+aus Leeteln
 |===
 
 === Children of Christian Friedrich Bleeke and Luise Leonore Krückeberg
