@@ -538,14 +538,14 @@ link:https://dfg-viewer.de/show?id=9&tx_dlf%5Bid%5D=https%3A%2F%2Fwww.landesarch
 Ostwestfalen-Lippe, P 1 B (Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks Minden), Nr. 168
 _01_Jg. 1815-1830], image 100 of 180, record #29.
 
-=== Marie Luise Eleonore Bleeke 
+=== Marie Luise Eleonore Bleeke 1833 Birth Record
 
 image::marie-luise-eleonore-bleeke-1833-birth.png[title="Click to Enlarge",link=self]
 
 .Transliteration of Marie Luise Eleonore Bleeke 1833 Birth Record
 [cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
 |===
-10+^s|Geborene und Getaufte im Jarhe 1823
+10+^s|Geborene und Getaufte im Jarhe 1833
 
 s|Nro.
 s|Tauf-Name
