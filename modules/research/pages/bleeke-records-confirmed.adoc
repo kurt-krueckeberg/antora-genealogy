@@ -542,6 +542,60 @@ _01_Jg. 1815-1830], image 100 of 180, record #29.
 
 image::marie-luise-eleonore-bleeke-1833-birth.png[title="Click to Enlarge",link=self]
 
+.Transliteration of Marie Luise Eleonore Bleeke 1833 Birth Record
+[cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
+|===
+10+^s|Geborene und Getaufte im Jarhe 1823
+
+s|Nro.
+s|Tauf-Name
+des Kindes.
+s|Tag und Stunde
+der Geburt
+in
+Buchstaben und Ziffern.
+s|Ob es
+ehelich
+oder
+unehelich.
+s|Vor- and Zuname
+des Vaters,
+auch Stand desselben
+s|Vor- und Zuname
+der
+Mutter.
+s|Wohnort
+der
+Eltern
+s|Tag
+der
+Taufe.
+s|Namen des Predigers,
+der es getauft.
+s|Name der Taufzeugen
+
+|48
+|Marie Luise Leonore
+Bleeke
+|fünfzehnten (15) Novembr
+Morgens zweÿ (2) Uhr in
+Leeteln
+|Ehelich
+|Johann Heinrich
+Bleeke Col. N: 16 in
+Leeteln
+|Christine Marie
+Schwier aus Wie-
+tersheim
+|Leeteln
+|Fünf u zwan-
+zig (25)
+Novbr.
+|Schütz
+|Marie Luise Bleeke
+Christine Luise Schwier
+|===
+
 == Children of Christian Friedrich Bleeke and Luise Leonore Krückeberg
 
 .Children of Christian Friedrich Bleeke and Luise Leonore Krückeberg
