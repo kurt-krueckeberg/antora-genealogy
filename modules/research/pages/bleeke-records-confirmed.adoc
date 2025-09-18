@@ -422,7 +422,8 @@ Gottlieb Schwier
 No. 27 Wietersheim
 |===
 
-Citation:
+==== Citation
+
 Evangelische Gemeinde Frille (Kreis Minden), Kirchenbuchduplikate, section headed "Getaufte im Jahre 1818 im
 Kirchspiel Frille königlich Preussischen Anhteils" [sic], Nr. 16, Carl Heinrich Bleeke, born 27 Apr 1818, baptized
 30 Apr 1818, son of Johann Heinrich Bleeke and Christine Marie Schwier; Landesarchiv Nordrhein-Westfalen,
@@ -485,6 +486,8 @@ No. 27
 |Carl Friederich
 Bleeke aus Leeteln
 |=== 
+
+==== Citation
 
 Evangelische Gemeinde Frille (Kreis Minden), Kirchenbuchduplikate, section headed “Gebohrne im Jahre 1821 in
 Kirchspiel Frille” [sic], Nr. 15, Christian Frederich Bleeke, born 7 May 1821, baptized 13 May
