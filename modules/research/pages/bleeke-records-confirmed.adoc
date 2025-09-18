@@ -552,6 +552,55 @@ _01_Jg. 1815-1830], image 100 of 180, record #29.
 
 === Christine Marie Bleeke 1828 Birth Record
 
+image::christine-marie-bleeke-1828-birth.png[title="Click to Enlarge",link=self]
+
+.Transliteration of Christine Marie Bleeke 1828 Birth Record
+[cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
+|===
+10+^s|Geborene und Getaufte im Jarhe 1828
+
+s|Nro.
+s|Tauf-Name
+des Kindes.
+s|Tag und Stunde
+der Geburt
+in
+Buchstaben und Ziffern.
+s|Ob es
+ehelich
+oder
+unehelich.
+s|Vor- and Zuname
+des Vaters,
+auch Stand desselben
+s|Vor- und Zuname
+der
+Mutter.
+s|Wohnort
+der
+Eltern
+s|Tag
+der
+Taufe.
+s|Namen des Predigers,
+der es getauft.
+s|Name der Taufzeugen
+
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|===
+
+
+
+link:https://www.landesarchiv-nrw.de/data02/Abt_Ostwestfalen-Lippe/P1/B/~001/B00168_01_1815-1830/OWL_P1_B00168_01_1815-1830_151.jpg[??}
 *TODO*
 
 === Christine Sophie Eleonore Bleeke 1831 Birth Record
