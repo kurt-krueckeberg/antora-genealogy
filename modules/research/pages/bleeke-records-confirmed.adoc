@@ -10,7 +10,8 @@ To locate thes duplicates go to https://www.archive.nrw.de/archivsuche, and navi
 [arabic,start="1"]
 . Landesarchiv NRW Abteilung Ostwestfalen-Lippe →
 . Personenstandsarchiv Westfalen-Lippe →
-. Kirchenbuchduplikate, Zivilstands-, Juden- und Dissidentenregister → Regierungsbezirk Detmold →
+. Kirchenbuchduplikate, Zivilstands-, Juden- und Dissidentenregister →
+. Regierungsbezirk Detmold →
 . Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks Minden →
 . Frille, Kreis Minden  →
 . Kirchenbuchduplikate.
