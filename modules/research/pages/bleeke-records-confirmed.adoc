@@ -551,6 +551,51 @@ _01_Jg. 1815-1830], image 100 of 180, record #29.
 *TODO*
 image::christine-sophie-eleonore-bleeke-1831-birth.png[title="Click to Enlarge",link=self]
 
+.Transliteration of Christine Sophie Eleonore Bleeke 1831 Birth Record
+[cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
+|===
+10+^s|Geborene und Getaufte im Jarhe 1831
+
+s|Nro.
+s|Tauf-Name
+des Kindes.
+s|Tag und Stunde
+der Geburt
+in
+Buchstaben und Ziffern.
+s|Ob es
+ehelich
+oder
+unehelich.
+s|Vor- and Zuname
+des Vaters,
+auch Stand desselben
+s|Vor- und Zuname
+der
+Mutter.
+s|Wohnort
+der
+Eltern
+s|Tag
+der
+Taufe.
+s|Namen des Predigers,
+der es getauft.
+s|Name der Taufzeugen
+
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|===
+
+
 === Marie Luise Eleonore Bleeke 1833 Birth Record
 
 image::marie-luise-eleonore-bleeke-1833-birth.png[title="Click to Enlarge",link=self]
