@@ -332,7 +332,7 @@ _01_Jg. 1815-1830], image 100 of 180, record #29.
 Ostwestfalen-Lippe, P 1 B (Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks Minden), Nr. 168
 _01_Jg. 1815-1830], image 120 of 180, record #47.
 
-|Christine Marie Bleeke
+|Christine Marie Bleeke *DONE*
 |14 Aug 1828
 |17 Aug 1828
 |legitimate
@@ -340,7 +340,7 @@ _01_Jg. 1815-1830], image 120 of 180, record #47.
 Ostwestfalen-Lippe, P 1 B (Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks Minden), Nr. 168
 _01_Jg. 1815-1830], image 151 of 180, record #28.
 
-|Christine Sophie Eleonore
+|Christine Sophie Eleonore *DONE*
 |August 14, 1831
 |August 21, 1831
 |legitimate
@@ -348,7 +348,7 @@ _01_Jg. 1815-1830], image 151 of 180, record #28.
 Abt. Ostwestfalen-Lippe, P 1 B (Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks Minden), Nr. 168 _02_Jg. 1831-1845], image 17 of 180, record #28.
 
 
-|Marie Luise Eleonore
+|Marie Luise Eleonore *DONE*
 |15 Nov 1833
 |25 Nov 1833
 |legitimate
