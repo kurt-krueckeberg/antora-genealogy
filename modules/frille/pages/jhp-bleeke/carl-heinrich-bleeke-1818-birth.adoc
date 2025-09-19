@@ -1,7 +1,7 @@
 = Carl Heinrich Bleeke 1818 Birth 
 :page-role: wide
 
-image::carl-heinrich-bleeke-1818-birth.png[title="Click to Enlarge",link=self]
+image::jhp-bleeke/carl-heinrich-bleeke-1818-birth.png[title="Click to Enlarge",link=self]
 
 == Transliteration and Translation
 

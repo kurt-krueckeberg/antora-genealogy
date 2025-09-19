@@ -1,7 +1,7 @@
 = Christine Marie Bleeke 1828 Birth Record
 :paage-role: wide
 
-image::christine-marie-bleeke-1828-birth.png[title="Click to Enlarge",link=self]
+image::jhp-bleeke/christine-marie-bleeke-1828-birth.png[title="Click to Enlarge",link=self]
 
 == Transliteration and Translation
 

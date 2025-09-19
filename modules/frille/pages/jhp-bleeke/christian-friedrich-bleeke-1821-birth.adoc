@@ -1,7 +1,7 @@
 = Christian Friedrich Bleeke 1821 Birth
 :page-role: wide
 
-image::christian-friedrich-bleeke-1821-birth.png[title="Click to Enlarge",link=self]
+image::jhp-bleeke/christian-friedrich-bleeke-1821-birth.png[title="Click to Enlarge",link=self]
 
 == Transliteration and Translation
 
