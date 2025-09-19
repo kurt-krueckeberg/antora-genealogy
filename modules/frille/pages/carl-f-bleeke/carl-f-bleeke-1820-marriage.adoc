@@ -1,0 +1,90 @@
+= 1820 Marriage of Carl Friedrich Bleeke to Marie Luise Niemann
+:page-role: wide
+
+image::carl-friedrich-bleeke-marriage.png[title="Click to Enlarge",link=self]
+
+[cols="1l,4l,3l,2l,3l,3l,4l,4l,2l,3l,3l,3l,4l"]
+|===
+13+^s|Aufgebotene und Getraute (die bei einer Kirche bloß aufgebotenen und anderwärts kopulirten Paare müssen ohne
+Nummer eingetragen werden.) im Jahr 1820.
+
+s|Nro.
+s|Vor- und Zunamen 
+des
+Bräutigum.
+s|Stand
+und Wohnort des Vaters
+s|Alter des Bräuti-
+gams.
+s|Ob Eltern oder
+Vormund die Einwilligung gegeben,
+und wie solches geschehen.
+s|Ob er schon
+verehelicht gewesen
+und wie die Ehe getrennt
+worden.
+s|Vor- und Zuname
+der
+Braut.
+s|Namen,
+Stand und Wohnort
+des
+Vaters der Braut.
+s|Alter
+der
+Braut.
+s|Ob Eltern oder
+Vormund die Ein-
+willingung gegeben,
+und wie solches
+geschehen.
+s|Ob sie schon
+verehelicht gewesen
+und wie 
+die Ehe getrennt
+worden.
+s|Tag der Kopulation
+mit
+Buchstaben und Ziffern.
+s|Name des Predigers,
+der
+die Kopulation verrichtet.
+
+|4
+|Carl Friedrich
+Bleeke, Anerbe
+von No 13 in Leteln
+|Colon Christian Friederich
+Bleeke auf
+No 13 in Le-
+teln
+|25 Jahr
+|Eltern haben
+mündlich ihr
+Einwilligung
+gegeben
+|Jungge- 
+selle
+|Marie Luise
+Niemann aus
+Todtenhausen
+|Johann Heinrich
+Niemann Col. auf
+No 35 in Todten-
+hausen
+|24 Jahr
+|Eltern haben
+stillschweigend eingewilligt
+|Unverheÿra-
+thet, schwan-
+ger von ihrem
+Verlobten
+|am zwölften(12)
+März, auf
+den Pfarrer
+|Schütz
+|===
+
+== Citation
+
+*TODO*
