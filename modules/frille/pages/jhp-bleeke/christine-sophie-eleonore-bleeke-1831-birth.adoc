@@ -1,4 +1,5 @@
 = Christine Sophie Eleonore Bleeke 1831 Birth Record
+:page-role: wide
 
 image::jhp-bleeke/christine-sophie-eleonore-bleeke-1831-birth.png[title="Click to Enlarge",link=self]
 

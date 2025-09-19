@@ -1,4 +1,5 @@
-== Marie Luise Eleonore Bleeke 1833 Birth Record
+= Marie Luise Eleonore Bleeke 1833 Birth Record
+:page-role: wide
 
 image::jhp-bleeke/marie-luise-eleonore-bleeke-1833-birth.png[title="Click to Enlarge",link=self]
 

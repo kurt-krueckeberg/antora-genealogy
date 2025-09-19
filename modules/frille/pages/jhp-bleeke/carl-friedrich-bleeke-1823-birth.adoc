@@ -1,4 +1,5 @@
-== Carl Friedrich Bleeke 1823 Birth
+= Carl Friedrich Bleeke 1823 Birth
+:page-role: wide
 
 image::jhp-bleeke/carl-friedrich-bleeke-1823-birth.png[title="Click to Enlarge",link=self]
 

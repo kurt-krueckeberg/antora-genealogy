@@ -1,5 +1,5 @@
 = Christine Marie Bleeke 1828 Birth Record
-:paage-role: wide
+:page-role: wide
 
 image::jhp-bleeke/christine-marie-bleeke-1828-birth.png[title="Click to Enlarge",link=self]
 
