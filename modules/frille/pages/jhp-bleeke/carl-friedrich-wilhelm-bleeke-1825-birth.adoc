@@ -1,4 +1,4 @@
-= Carl Friedrich Wilhelm 1825 Birth Record
+= Carl Friedrich Wilhelm 1825 Birth
 :page-role: wide
 
 image::jhp-bleeke/carl-friederich-wilhelm-bleeke-1825-birth.png[title="Click to Enlarge",link=self]
