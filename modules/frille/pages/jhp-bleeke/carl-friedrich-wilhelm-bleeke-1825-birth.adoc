@@ -1,0 +1,58 @@
+= Carl Friedrich Wilhelm 1825 Birth Record
+
+image::carl-friederich-wilhelm-bleeke-1825-birth.png[title="Click to Enlarge",link=self]
+
+== Transliteration and Translation
+
+.Transliteration of  Carl Friedrich Wilhelm 1825 Birth Record
+[cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
+|===
+10+^s|Geborene und Getaufte im Jarhe 1825
+
+s|Nro.
+s|Tauf-Name
+des Kindes.
+s|Tag und Stunde
+der Geburt
+in
+Buchstaben und Ziffern.
+s|Ob es
+ehelich
+oder
+unehelich.
+s|Vor- and Zuname
+des Vaters,
+auch Stand desselben
+s|Vor- und Zuname
+der
+Mutter.
+s|Wohnort
+der
+Eltern
+s|Tag
+der
+Taufe.
+s|Namen des Predigers,
+der es getauft.
+s|Name der Taufzeugen
+
+|47
+|Carl Friederih
+Wilh. Bleeke
+|dreißigten (30) Novbr.
+Morgens sechs (6) Uhr
+ zu Leeteln
+|ehelich
+|Johann Heinrich
+Bleeke Colon No. 16 in
+Leeteln
+|Christine Marie
+geb. Schwier aus
+Wietersheim
+|Leeteln
+|vier (4)
+December
+|Schütz
+|Christian Fried. Bleeke
+Fried: Wilm: Schildmeier
+|===
