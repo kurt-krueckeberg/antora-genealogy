@@ -79,7 +79,16 @@ s|Day of baptism
 s|Name of the minister
 s|Baptismal witnesses
 
-|... (rows unchanged except fixed phrases translated)
+|48
+|Marie Luise Leonore
+|on the fifteenth (15) of November
+|legitimate
+|Johann Heinrich
+|Christine Marie
+|Leeteln
+|twenty-fifth (25) of November
+|Schütz
+|Marie Luise Bleeke; Christine Luise Schwier
 |===
 
 == Citation
