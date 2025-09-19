@@ -12,7 +12,8 @@
 * xref:frille:anne-margarethe-volkening.adoc[]
 * Carl Friedrich Bleeke's (1794) Children
 ** TODO
-* Johann Heinrich Philipp Bleeke's (1797) Children** xref:frille:jhp-bleeke/carl-heinrich-bleeke-1818-birth.adoc[]
+* Johann Heinrich Philipp Bleeke's (1797) Children
+** xref:frille:jhp-bleeke/carl-heinrich-bleeke-1818-birth.adoc[]
 ** xref:frille:jhp-bleeke/christian-friedrich-bleeke-1821-birth.adoc[]
 ** xref:frille:jhp-bleeke/carl-friedrich-bleeke-1823-birth.adoc[]
 ** xref:frille:jhp-bleeke/carl-friedrich-wilhelm-bleeke-1825-birth.adoc[]
