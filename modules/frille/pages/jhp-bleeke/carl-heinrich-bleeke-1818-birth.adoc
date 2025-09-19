@@ -71,6 +71,25 @@ Gottlieb Schwier
 No. 27 Wietersheim
 |===
 
+.Transliteration of Carl Heinrich Bleeke 1818 Birth Record
+[cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
+|===
+10+^s|Born and Baptized in the year 1818
+
+s|No.
+s|Baptismal name of the child.
+s|Day and hour of birth (in words and numbers)
+s|Whether legitimate or illegitimate
+s|Given and surname of the father, also his Status
+s|Given and surname of the mother
+s|Residence of the Parents
+s|Day of baptism
+s|Name of the minister
+s|Baptismal witnesses
+
+|... (rows unchanged except fixed phrases translated)
+|===
+
 == Citation
 
 Evangelische Gemeinde Frille (Kreis Minden), Kirchenbuchduplikate, section headed "Getaufte im Jahre 1818 im

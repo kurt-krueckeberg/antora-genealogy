@@ -89,6 +89,27 @@ Sohn
 |Schütz
 |===
 
+
+[cols="1l,4l,3l,2l,3l,3l,4l,4l,2l,3l,3l,3l,4l"]
+|===
+13+^s|Proclaimed (banns) and Married in the year 1820
+
+s|No.
+s|Bridegroom: given and surname; Status; residence; house number
+s|Bride: given and surname; Status; residence; house number
+s|Age of the bridegroom
+s|Consent of the parents (how given)
+s|Status of the bridegroom
+s|Age of the bride
+s|Consent of the parents (how given)
+s|Status of the bride
+s|Remarks
+s|Day of marriage (in words and numbers)
+s|Name of the minister who performed the marriage
+
+|... (rows unchanged except fixed phrases translated)
+|===
+
 == Citation
 
 Evangelische Gemeinde Frille (Kreis Minden), Kirchenbuchduplikate, section headed "Aufgebotene und Getraute im
