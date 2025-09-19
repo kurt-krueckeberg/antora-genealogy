@@ -1,6 +1,11 @@
 = 1826 Marriage of Christian Friedrich Bleeke to Luise Leonore Krückeberg
 :page-role: wide
 
+This record is from the
+link:https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820&mandant=10003[Landesarchiv
+NRW Abteilung Ostwestfalen-Lippe /P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks
+Minden, Nr. B 168 Jg. 1815-1830].
+
 image::christian-friedrich-bleeke-1826-marriage.png[title="Click to Enlarge",link=self]
 
 [cols="1l,4l,3l,2l,3l,3l,4l,4l,2l,3l,3l,3l,4l"]
