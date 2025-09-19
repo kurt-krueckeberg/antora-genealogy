@@ -43,7 +43,7 @@ der es getauft.
 s|Name der Taufzeugen
 
 |47
-|Carl Friederih
+|Carl Friederich
 Wilh. Bleeke
 |dreißigten (30) Novbr.
 Morgens sechs (6) Uhr
@@ -64,3 +64,10 @@ Fried: Wilm: Schildmeier
 |===
 
 == Citation
+
+Evangelische Gemeinde Frille (Kreis Minden), Kirchenbuchduplikate, section headed “Gebohrne im Jahre 1825”, Nr. 15,
+Carl Friederich Wilhelm Bleeke, born 30 Nov. 1825, baptized 4 Dec. 1825, son of Johann Heinrich Bleeke and Christine Marie Schwier;
+Landesarchiv Nordrhein-Westfalen, Abteilung Ostwestfalen-Lippe (Detmold), Personenstandsarchiv Westfalen-Lippe;
+P 1 B-D, B 168 (Jg. 1815–1830); digital images, Archivsuche – Archive in NRW (DFG-Viewer), Bild 120/180 (accessed 18 September 2025);
+duplicate register;
+provenance: Land- und Stadt- bzw. Kreisgericht Minden.
