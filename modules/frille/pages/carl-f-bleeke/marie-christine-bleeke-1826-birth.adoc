@@ -88,7 +88,7 @@ Mother.
 s|Dwelling Place
 of the
 Parents
-|Baptism Day
+s|Baptism Day
 s|Name of the Pastor who
 baptized child.
 s|Baptismal Sponsors
