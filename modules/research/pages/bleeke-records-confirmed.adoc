@@ -359,7 +359,7 @@ Kirchenbuchduplikat der evangelischen Gemeinde Frille, Kreis Minden (GHT 1831-18
 
 === Carl Heinrich Bleeke 1818 Birth 
 
-image::carl-heinrich-bleeke-1818-birth.png[title="Click to Enlarge",link=self]
+image::frille:jhp-bleeke/carl-heinrich-bleeke-1818-birth.png[title="Click to Enlarge",link=self]
 
 .Transliteration of Carl Heinrich Bleeke 1818 Birth Record
 [cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
