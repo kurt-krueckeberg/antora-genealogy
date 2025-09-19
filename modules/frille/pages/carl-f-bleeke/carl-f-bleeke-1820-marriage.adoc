@@ -1,7 +1,7 @@
 = 1820 Marriage of Carl Friedrich Bleeke to Marie Luise Niemann
 :page-role: wide
 
-image::carl-friedrich-bleeke-marriage.png[title="Click to Enlarge",link=self]
+image::carl-friedrich-bleeke-1820-marriage.png[title="Click to Enlarge",link=self]
 
 [cols="1l,4l,3l,2l,3l,3l,4l,4l,2l,3l,3l,3l,4l"]
 |===
