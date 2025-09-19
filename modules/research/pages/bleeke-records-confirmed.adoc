@@ -433,7 +433,7 @@ register; provenance: Land- und Stadt- bzw. Kreisgericht Minden.
 
 === Christian Friedrich Bleeke 1821 Birth
 
-image::jhp-bleeke/christian-friedrich-bleeke-1821-birth.png[title="Click to Enlarge",link=self]
+image::frille:jhp-bleeke/christian-friedrich-bleeke-1821-birth.png[title="Click to Enlarge",link=self]
 
 .Transliteration of Carl Friedrich Bleeke 1821 Birth Record
 [cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
@@ -498,7 +498,7 @@ provenance: Land- und Stadt- bzw. Kreisgericht Minden.
 
 === Carl Friedrich Bleeke 1823 Birth
 
-image::jhp-bleeke/carl-friedrich-bleeke-1823-birth.png[title="Click to Enlarge",link=self]
+image::frille:jhp-bleeke/carl-friedrich-bleeke-1823-birth.png[title="Click to Enlarge",link=self]
 
 .Transliteration of Carl Friedrich Bleeke 1823 Birth Record
 [cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
@@ -564,7 +564,7 @@ Kreisgericht Minden.
 
 === Carl Friedrich Wilhelm 1825 Birth Record
 
-image::jhp-bleeke/carl-friederich-wilhelm-bleeke-1825-birth.png[title="Click to Enlarge",link=self]
+image::frille:jhp-bleeke/carl-friederich-wilhelm-bleeke-1825-birth.png[title="Click to Enlarge",link=self]
 
 .Transliteration of  Carl Friedrich Wilhelm 1825 Birth Record
 [cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
@@ -621,7 +621,7 @@ Fried: Wilm: Schildmeier
 
 === Christine Marie Bleeke 1828 Birth Record
 
-image::jhp-bleeke/christine-marie-bleeke-1828-birth.png[title="Click to Enlarge",link=self]
+image::frille:jhp-bleeke/christine-marie-bleeke-1828-birth.png[title="Click to Enlarge",link=self]
 
 .Transliteration of Christine Marie Bleeke 1828 Birth Record
 [cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
@@ -691,7 +691,7 @@ _01_Jg. 1815-1830], image 151 of 180, record #28.
 
 === Christine Sophie Eleonore Bleeke 1831 Birth Record
 
-image::jhp-bleeke/christine-sophie-eleonore-bleeke-1831-birth.png[title="Click to Enlarge",link=self]
+image::frille:jhp-bleeke/christine-sophie-eleonore-bleeke-1831-birth.png[title="Click to Enlarge",link=self]
 
 .Transliteration of Christine Sophie Eleonore Bleeke 1831 Birth Record
 [cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
@@ -752,7 +752,7 @@ Abt. Ostwestfalen-Lippe, P 1 B (Kirchenbuchduplikate und Zivilstandsregister des
 
 === Marie Luise Eleonore Bleeke 1833 Birth Record
 
-image::jhp-bleeke/marie-luise-eleonore-bleeke-1833-birth.png[title="Click to Enlarge",link=self]
+image::frille:jhp-bleeke/marie-luise-eleonore-bleeke-1833-birth.png[title="Click to Enlarge",link=self]
 
 .Transliteration of Marie Luise Eleonore Bleeke 1833 Birth Record
 [cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
