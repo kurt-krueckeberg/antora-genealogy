@@ -532,7 +532,7 @@ s|Namen des Predigers,
 der es getauft.
 s|Name der Taufzeugen
 
-|30
+|29
 |Carl Fried. Bleeke
 |siebzehnten (17) Juli Mor-
 gens (9) neun Uhr zu
@@ -553,9 +553,14 @@ No. 16
 aus Leeteln
 |===
 
-link:https://dfg-viewer.de/show?id=9&tx_dlf%5Bid%5D=https%3A%2F%2Fwww.landesarchiv-nrw.de%2Fdigitalisate%2FAbt_Ostwestfalen-Lippe%2FP1%2FB%2F%7E001%2FB00168_01_1815-1830%2Fmets.xml&tx_dlf%5Bpage%5D=100[Abt.
-Ostwestfalen-Lippe, P 1 B (Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks Minden), Nr. 168
-_01_Jg. 1815-1830], image 100 of 180, record #29.
+===
+
+Evangelische Gemeinde Frille (Kreis Minden), Kirchenbuchduplikate, section headed "Gebohrne u Getaufte im Jahre
+1823" [sic], Nr. 29, Carl Fried. Bleeke, born 10 July 1823, baptized 20 July 1823, son of Johann Heinrich Bleeke
+and Christine Marie Schwier; Landesarchiv Nordrhein-Westfalen, Abteilung Ostwestfalen-Lippe (Detmold),
+Personenstandsarchiv Westfalen-Lippe; P 1 B-D, B 168 (Jg. 1815–1830); digital images, Archivsuche – Archive in NRW
+(DFG-Viewer), Bild 100/180 (accessed 18 September 2025); duplicate register; provenance: Land- und Stadt- bzw.
+Kreisgericht Minden.
 
 === Carl Friedrich Wilhelm 1825 Birth Record
 
@@ -672,6 +677,13 @@ re Schildtmeÿer
 Anne Sophie Dorothea
 Schwier
 |===
+
+Evangelische Gemeinde Frille (Kreis Minden), Kirchenbuchduplikate, section headed "Geborne und Getaufte im Jahre
+1828 Kirchspiel Frille", Nr. 28, Christine Marie Bleeke, born 14 Aug. 1828, baptized 17 Aug. 1823, son of Johann Heinrich Bleeke
+and Christine Marie Schwier; Landesarchiv Nordrhein-Westfalen, Abteilung Ostwestfalen-Lippe (Detmold),
+Personenstandsarchiv Westfalen-Lippe; P 1 B-D, B 168 (Jg. 1815–1830); digital images, Archivsuche – Archive in NRW
+(DFG-Viewer), Bild 151/180 (accessed 18 September 2025); duplicate register; provenance: Land- und Stadt- bzw.
+Kreisgericht Minden.
 
 link:https://dfg-viewer.de/show?tx_dlf%5Bdouble%5D=0&tx_dlf%5Bid%5D=https%3A%2F%2Fwww.landesarchiv-nrw.de%2Fdigitalisate%2FAbt_Ostwestfalen-Lippe%2FP1%2FB%2F~001%2FB00168_01_1815-1830%2Fmets.xml&tx_dlf%5Bpage%5D=151&cHash=15bdb617b3803e4d82ae83eb3fce1b56[Abt.
 Ostwestfalen-Lippe, P 1 B (Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks Minden), Nr. 168
