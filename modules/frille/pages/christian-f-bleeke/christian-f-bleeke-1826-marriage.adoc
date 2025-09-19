@@ -1,7 +1,7 @@
 = 1826 Marriage of Christian Friedrich Bleeke to Luise Leonore Krückeberg
 :page-role: wide
 
-image::christian-friedrich-bleeke-marriage-1826_upscaled.png[title="Click to Enlarge",link=self]
+image::christian-friedrich-bleeke-1826-marriage.png[title="Click to Enlarge",link=self]
 
 [cols="1l,4l,3l,2l,3l,3l,4l,4l,2l,3l,3l,3l,4l"]
 |===
