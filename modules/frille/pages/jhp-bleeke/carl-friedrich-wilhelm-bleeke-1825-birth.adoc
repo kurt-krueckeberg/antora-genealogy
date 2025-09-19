@@ -79,7 +79,21 @@ s|Day of baptism
 s|Name of the minister
 s|Baptismal witnesses
 
-|... (rows unchanged except months normalized, e.g., Nov. / Jul.)
+|47
+|Carl Friederich Wilh. Bleeke
+|thirtieth (30) Nov.
+6 o'clock a.m. in Leeteln
+|legitimate
+|Johann Heinrich
+Bleeke Colon No. 16 in
+Leeteln
+|Christine Marie nee Schwier from Wietersheim
+|Leeteln
+|four (4)
+December
+|Schütz
+|Christian Fried. Bleeke
+Fried: Wilm: Schildmeier
 |===
 
 == Citation

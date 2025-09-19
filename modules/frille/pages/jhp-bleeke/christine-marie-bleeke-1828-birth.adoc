@@ -81,7 +81,20 @@ s|Day of baptism
 s|Name of the minister
 s|Baptismal witnesses
 
-|... (rows unchanged except fixed phrases translated)
+|28
+|Chritine Marie
+Bleeke
+|fourteenth (14th) Aug. six (6) o'clock a.m. in Leeteln
+|legitimate
+|Johann Heinrich Philipp Bleeke
+Colon No 16 in Leeteln
+|Christine Marie nee Schwier from Wietersheim
+|seventeenth (17) August
+|Leeteln
+|Schütz
+|Christine Marie Leonore Schildtmeier
+Anne Sophie Dorothea
+Schwier
 |===
 
 == Citation

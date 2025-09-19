@@ -79,7 +79,17 @@ s|Day of baptism
 s|Name of the minister
 s|Baptismal witnesses
 
-|... (rows unchanged except fixed phrases translated)
+|28
+|Christine Sophie
+Leonore Bleeke
+|fourteenth (14) August 12 a.m. Uhr in Leeteln
+|legitimate
+|Johann Heinrich Bleeke Colon  No. 16 in Leeteln
+|Christein Marie nee Schwier from Wietersheim
+|Leeteln
+|21st August
+|Schütz
+|Christine Luise Leonore Bleeke
 |===
 
 == Citation

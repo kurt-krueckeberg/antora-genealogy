@@ -42,7 +42,6 @@ s|Namen des Predigers,
 der es getauft.
 s|Name der Taufzeugen
  
-
 |16
 |Carl Heinrich Bleeke
 |Sieben und zwanzig-
@@ -87,7 +86,28 @@ s|Day of baptism
 s|Name of the minister
 s|Baptismal witnesses
 
-|... (rows unchanged except fixed phrases translated)
+|16
+|Carl Heinrich Bleeke
+|twenty seven (27) April at No. 27 in Wietersheim
+|illegitimate
+1t child
+1t son
+|Johann Heinrich
+Bleeke N. 13 in
+Leeteln
+|Christian Marie
+Schwier at
+N. 27 in Wietersheim.
+|Leeteln
+and 
+Wietersheim
+|thirtieth
+(30) April
+and the pastor
+|Schütz
+|Johann Friederich
+Gottlieb Schwier
+No. 27 Wietersheim
 |===
 
 == Citation
