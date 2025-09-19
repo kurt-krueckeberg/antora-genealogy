@@ -77,7 +77,16 @@ s|Day of baptism
 s|Name of the minister
 s|Baptismal witnesses
 
-|... (rows remain with names/places as in the original)
+|29
+|Carl Fried. Bleeke
+|on the seventeenth (17) of July at 9 o’clock in the morning in Leeteln
+|legitimate
+|Johann Heinrich Bleeke, Colon (farmer), No. 16 in Leeteln
+|Christine Marie née Schwier from Wietersheim
+|Leeteln No. 16
+|twentieth (20) of July
+|Schütz
+|Christian Fried. Bleeke of Leeteln
 |===
 
 == Citation
