@@ -11,7 +11,7 @@ image::christian-f-bleeke/philippine-luise-leonore-bleeke-1833-birth.png[title=C
 == Transliteration and Translation
 
 .Transliteration of Philippine Luise Leonore Bleeke 1833 Birth
-[cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
+[cols="1l,4l,4l,2l,4l,4l,3l,2l,2l,5l"]
 |===
 10+^s|Geborne und Getaufte im Jarhe 1833
 
@@ -67,7 +67,7 @@ Maÿ
 |===
 
 .Translation of Philippine Luise Leonore Bleeke 1833 Birth
-[cols="1,4,4,2,4,4,3,2,3,5a"]
+[cols="1,4,4,2,4,4,3,2,2,5a"]
 |===
 10+^s|Births and Baptisms in the year 1823
 
