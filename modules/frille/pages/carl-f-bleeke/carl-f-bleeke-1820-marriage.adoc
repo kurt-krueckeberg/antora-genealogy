@@ -8,6 +8,7 @@ Minden, Nr. B 168 Jg. 1815-1830].
 
 image::carl-friedrich-bleeke-1820-marriage.png[title="Click to Enlarge",link=self]
 
+.Transliteration of  1820 Marriage of Carl Friedrich Bleeke to Marie Luise Niemann
 [cols="1l,4l,3l,2l,3l,3l,4l,4l,2l,3l,3l,3l,4l"]
 |===
 13+^s|Aufgebotene und Getraute (die bei einer Kirche bloß aufgebotenen und anderwärts kopulirten Paare müssen ohne
@@ -89,6 +90,41 @@ März, auf
 den Pfarrer
 |Schütz
 |===
+
+.Translation of 1820 Marriage of Carl Friedrich Bleeke to Marie Luise Niemann
+[cos="1,4,3,2,3,3,4,4,2,3,3,3,4"]
+|===
+13+^s|Proclaimed (banns) and Married in the year 1820
+
+s|No.
+s|Bridegroom: given and surname
+s|Bride: given and surname;
+s|Status and Residence of Father
+s|Age of the bridegroom
+s|Consent of the parents (how given)
+s|Status of the bridegroom
+s|Age of the bride
+s|Consent of the parents (how given)
+s|Status of the bride
+s|Remarks
+s|Day of marriage (in words and numbers)
+s|Name of the minister who performed the marriage
+
+|4
+|Carl Friedrich Bleeke, Anerbe from No 13 in Leteln
+|Colon Christian Friederich Bleeke of No 13 in Leteln
+|25 years
+|Parents have given their verbal consent
+|Bachelor
+|Marie Luise Niemann from Todtenhausen
+|Johann Heinrich Niemann Colon of No 35 in Todtenhausen
+|24 years
+|Parents have tacitly consented
+|Unmarried, pregnant by her fiancé
+|on twelfeth of March (12), by the minister
+|Schütz
+|===
+
 
 == Citation
 

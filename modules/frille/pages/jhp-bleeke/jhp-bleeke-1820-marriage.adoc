@@ -10,6 +10,7 @@ image::johann-heinrich-philip-bleeke-marriage.png[title="Click to Enlarge",link=
 
 == Transliteration and Translation
 
+.Transliteration of 1820 Johann Heinrich Philip Bleeke Marriage to Christine Marie Schwier
 [cols="1l,4l,3l,2l,3l,3l,4l,4l,2l,3l,3l,3l,4l"]
 |===
 13+^s|Aufgebotene und Getraute (die bei einer Kirche bloß aufgebotenen und anderwärts kopulirten Paare müssen ohne
@@ -89,8 +90,8 @@ Sohn
 |Schütz
 |===
 
-
-[cols="1l,4l,3l,2l,3l,3l,4l,4l,2l,3l,3l,3l,4l"]
+.Translation of 1820 Johann Heinrich Philip Bleeke Marriage to Christine Marie Schwier
+[cos="1,4,3,2,3,3,4,4,2,3,3,3,4"]
 |===
 13+^s|Proclaimed (banns) and Married in the year 1820
 
