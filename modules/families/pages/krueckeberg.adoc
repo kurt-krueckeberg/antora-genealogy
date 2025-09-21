@@ -13,6 +13,7 @@ We know from this tyepwritten document
 
 image::Familienschein-des-Auswanderers.jpg[align=left,width=1600,title='Familienschein des Auswanderers',xref=image$Familienschein-des-Auswanderers.jpg]
 
+[verse]
 ____
 Familienschein des Auswanderers
 Carl Friederich Krückeberg
