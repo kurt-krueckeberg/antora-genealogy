@@ -1,12 +1,12 @@
-= Carl Friedrich Bleeke 1823 Birth
+= Philippine Luise Leonore Bleeke 1833 Birth
 :page-role: wide
 
 This record is from the ???
-link:https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820&mandant=10003[Landesarchiv
-NRW Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks
-Minden, Nr. B 168 Jg. 1815-1830].
+link:https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_0248b6a4-ed8c-41ef-8e2b-f61ac1448763[Landesarchiv NRW
+Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des
+Regierungsbezirks Minden, Nr. B 168 Jg. 1831-1845]
 
-image::
+image::philippine-luise-leonore-bleeke-1833-birth.png[title=Click to Enlarge,link=self]
 
 .Transliteration of 
 [cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
