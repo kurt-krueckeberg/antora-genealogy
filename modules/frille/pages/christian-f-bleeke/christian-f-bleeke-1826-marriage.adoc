@@ -8,6 +8,7 @@ Minden, Nr. B 168 Jg. 1815-1830].
 
 image::christian-friedrich-bleeke-1826-marriage.png[title="Click to Enlarge",link=self]
 
+.Transliteration of 1826 Marriage of Christian Friedrich Bleeke to Luise Leonore Krückeberg
 [cols="1l,4l,3l,2l,3l,3l,4l,4l,2l,3l,3l,3l,4l"]
 |===
 13+^s|Aufgebotene und Getraute (die bei einer Kirche bloß aufgebotenen und anderwärts kopulirten Paare müssen ohne
@@ -79,6 +80,41 @@ licht
 |Sechs und zwan-
 zigsten (26) 
 Novemb.
+|v. z. Pr. Schütz
+|===
+
+.Translation of 1826 Marriage of Christian Friedrich Bleeke to Luise Leonore Krückeberg
+ 1820 Johann Heinrich Philip Bleeke Marriage to Christine Marie Schwier
+[cols="1,4,3,2,3,3,4,4,2,3,3,3,4"]
+|===
+13+^s|Proclaimed (banns) and Married in the year 1820
+
+s|No.
+s|Bridegroom: given and surname
+s|Bride: given and surname;
+s|Status and Residence of Father
+s|Age of the bridegroom
+s|Consent of the parents (how given)
+s|Status of the bridegroom
+s|Age of the bride
+s|Consent of the parents (how given)
+s|Status of the bride
+s|Remarks
+s|Day of marriage (in words and numbers)
+s|Name of the minister who performed the marriage
+
+|7
+|Christian Friederich Bleeke, Einlieger in Leeteln
+|Christian Friederich Bleeke Colon No. 1[3] in Leeteln
+|25 years
+|verbally
+|unmarried
+|Luise Eleonore Krückeberg
+|Jobst Heinrich Krückeberg Colon No. 10 in Bärenbusch
+|30 years
+|verbaly
+|unmarried
+|twenty six (26) Nov.
 |v. z. Pr. Schütz
 |===
 
