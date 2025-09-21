@@ -65,7 +65,7 @@ hausen
 |=== 
 
 .Translation of Marie Christine Bleeke 1826 Birth
-[cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
+[cols="1,4,4,2,4,4,3,2,3,5"]
 |===
 10+^s|Birth and Baptims in 1826
 

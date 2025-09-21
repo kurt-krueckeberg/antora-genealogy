@@ -62,7 +62,7 @@ ke
 |=== 
 
 .Translation  of Christian Friederich 1828 Birt
-[cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
+[cols="1,4,4,2,4,4,3,2,3,5"]
 |===
 10+^s|Births and Baptims in 1828
 
