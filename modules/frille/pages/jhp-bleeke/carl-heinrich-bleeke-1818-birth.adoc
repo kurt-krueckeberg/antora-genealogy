@@ -71,7 +71,7 @@ No. 27 Wietersheim
 |===
 
 .Translation of Carl Heinrich Bleeke 1818 Birth Record
-[cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
+[cols="1,4,4,2,4,4,3,2,3,5"]
 |===
 10+^s|Born and Baptized in the year 1818
 
