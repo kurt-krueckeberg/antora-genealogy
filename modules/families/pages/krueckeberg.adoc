@@ -1,5 +1,7 @@
 = Krueckeberg Background
+:page-role: wide
 
+[role="section-narrow"]
 == Krückeberg Triangle
 
 xref:attachment$krueckeberg-triangle-document.pdf[Select Krückeberg Immigrants to the American Midwest] by Steven T Krueckeberg, May 2023,
@@ -160,6 +162,7 @@ thus translates as: **Emigrant's Family Records**.
 At the bottom of the document is the name of an official who is "von Bergkirchen" ("from Bergkirchen"). Bergkirchen is 
 22 miles distant from Petzen.
 
+[role="section-narrow"]
 === Immanuel Church Biography
 
 Similiar family vital family details are found in the Immanuel Lutheran
