@@ -91,7 +91,7 @@ s|Baptismal witnesses
 |Leeteln at N. 17
 |twenty seven (27) May
 |Schütz
-|
+<|
 [arabic,start=1]
 . Sophie Luise Simon
 . Christine Marie Backemeyer
