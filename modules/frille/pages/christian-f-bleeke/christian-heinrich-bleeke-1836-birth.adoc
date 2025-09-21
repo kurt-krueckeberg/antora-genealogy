@@ -11,7 +11,7 @@ image::christian-f-bleeke/christian-heinrich-bleeke-1836-birth.png[title=Click t
 .Transliteration of 
 [cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
 |===
-10+^s|Geborene und Getaufte im Jarhe 1836
+10+^s|Geborne und Getaufte im Jarhe 1836
 
 s|Nro.
 s|Tauf-Name
@@ -40,20 +40,30 @@ s|Namen des Predigers,
 der es getauft.
 s|Name der Taufzeugen
 
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
+|8
+|Christian Heinrich
+Bleeke
+|Acht und zwanzigsten (28)
+Januear Mittages vier (4)
+Uhr in Leeteln
+|Ehelich
+|Christian Friedrich Ble-
+ke Ein. beÿ N: 17 in
+Leeteln
+|Christine Luise geb.
+Krückeberg aus Bee-
+renbusch
+|Leeteln
+|Ein und dreißig-
+sten (31) Janu-
+ar
+|Schütz
+|1. Johann Heinrich Krückeberg
+2. Christian Ko[hlm]eier
 |===
 
 .Translation of
-[cols="1,4,4,2,4,4,3,2,3,5"]
+[cols="1,4,4,2,4,4,3,2,3,5a"]
 |===
 10+^s|Born and Baptized in the year 1823
 
@@ -68,23 +78,26 @@ s|Day of baptism
 s|Name of the minister
 s|Baptismal witnesses
 
+|8
+|Christian Heinrich Bleeke
+|twenty eight (28) January four (4) p.m. in Leeteln
+|legitimate
+|Christian Friedrich Bleke resident at No. 17 in Leeteln
+|Christine Luise nee Krückeberg from Beerenbusch
+|Leeteln
+|thirty one (31) January
+|Schütz
 |
-|
-|
-|
-|
-|
-|
-|
-|
-|
+[arabic,start=1]
+. Johann Heinrich Krückeberg
+. Christian Ko[hlm]eier
 |===
 
 == Citation
 
 Evangelische Gemeinde Frille (Kreis Minden), Kirchenbuchduplikate, section headed "Geborne und Getaufte
-im Jahr 1833 Kirchspiel Frille köngilich Preußischen Anteil" [sice.], Nr. 19, Philippine Luise Leonore Bleeke, born
-21 May 1836, baptized 27 May 1833; Landesarchiv Nordrhein-Westfalen, Abteilung Ostwestfalen-Lippe (Detmold),
+im Jahr 1836 Kirchspiel Frille" [sic.], Nr. 19, Christian Heinrich Bleeke, born
+28 Jan. 1836, baptized 31 Jan. 1836; Landesarchiv Nordrhein-Westfalen, Abteilung Ostwestfalen-Lippe (Detmold),
 Personenstandsarchiv Westfalen-Lippe; P 1 B-D, B 168 (Jg. 1831-1845); digital images, Archivsuche – Archive in NRW
 (DFG-Viewer), Bild 100/180 (accessed 20 September 2025); duplicate register; provenance: Land- und Stadt- bzw.
 Kreisgericht Minden.
