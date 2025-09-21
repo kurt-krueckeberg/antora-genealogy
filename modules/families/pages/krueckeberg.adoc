@@ -13,19 +13,18 @@ We know from this tyepwritten document
 
 image::Familienschein-des-Auswanderers.jpg[align=left,width=1600,title='Familienschein des Auswanderers',xref=image$Familienschein-des-Auswanderers.jpg]
 
-
-[verse]
 ____
 Familienschein des Auswanderers
-CARL FRIEDERICH KRUECKEBERG
+Carl Friederich Krückeberg
 von N. 18 in Beerenbusch, Deutschland.
 
 Laut Angabe des hiesigen Kirchenbuchs wurde Carl Friederich Krückeberg
-(eheliches 2tes Kind und 1ster Sohn des Carl Friedrich Gottlieb
-Krueckeberg, Schneiders in Beerenbusch, und seine Ehefrau Philippine
-Leonore geb. Bleeken, von N. 11 in Evensen), d. 21sten Mai, 1807 Abends 8
-Uhr geboren und d. 24ten im Namen des Dreieinigen Gottes in hiesiger Kirche
-getauft, wobei als Taufzeugen erschienen:
+(eheliches 2tes Kind und 1ster Sohn des Carl Friedrich Gottlieb Krueckeberg,
+Schneiders in Beerenbusch, und seine Ehefrau Philippine Leonore geb. Bleeken,
+von N. 11 in Evensen), d. 21sten Mai, 1807 Abends 8 Uhr geboren und d. 24ten
+im Namen des Dreieinigen Gottes in hiesiger Kirche getauft, wobei als Taufzeugen
+erschienen:
+
 1) Hans Heinrich Wilhairm N. 11,
 2) Johann Heinrich Deerberg N. 6 in Evensen,
 3) Jobst Heinrich Krueckeberg von Beerenbusch.
@@ -41,7 +40,7 @@ ehel.  3te Kind, 3te Tochter des Friedrich Wilhelm Weiland, Kol. n.
 Gevatterinnen waren, Dorothea Deerberg, N. 6, und Katharine Leonore
 Kuhlmann, N. 3 in Even.
 
-Obigen Eheleuten ev. luth. Glaubensbekenntnisses sind nachfol¬
+Obigen Eheleuten ev. luth. Glaubensbekenntnisses sind nachfol-
 gende Kinder am Leben:
 
 1. Carl Heinrich Wilhelm Krueckeberg, geb. d. 4ten Feb. 1835,
@@ -64,14 +63,14 @@ getauft den 30ten im Namen des Dreieinigen Gottes.
 6. Ernst Heinrich Krueckeberg, geb. d. 6ten Feb. 1850, morgens
 6 Uhr; getauft d. 13ten im Namen des Dreieinigen Gottes.
 
-Die Uebereinstimmung vorstehender Angaben mit den hiesigen Kirchenbuechern
+Die Übereinstimmung vorstehender Angaben mit den hiesigen Kirchenbuechern
 bescheinigt den Auswanderern unter Anwuenschung des goettlichen Segens—sub fide pastorali
 
 Petzen d. 23sten September 1850
 Pede vacanti
 der vikarirende Prediger
 
-Fuerstentum Schaumburg Lippe.
+Fürstentum Schaumburg Lippe.
 
 L. Schwerdtmann von Bergkirchen.
 ____
