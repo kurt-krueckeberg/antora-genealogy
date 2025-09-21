@@ -13,11 +13,14 @@ We know from this tyepwritten document
 
 image::Familienschein-des-Auswanderers.jpg[align=left,width=1600,title='Familienschein des Auswanderers',xref=image$Familienschein-des-Auswanderers.jpg]
 
+[cols="1a,1a"]
+|====
+|German|English
+
+|
 [verse]
 ____
-Familienschein des Auswanderers
-Carl Friederich Krückeberg
-von N. 18 in Beerenbusch, Deutschland.
+Familienschein des Auswanderers Carl Friederich Krückeberg von N. 18 in Beerenbusch, Deutschland.
 
 Laut Angabe des hiesigen Kirchenbuchs wurde Carl Friederich Krückeberg
 (eheliches 2tes Kind und 1ster Sohn des Carl Friedrich Gottlieb Krueckeberg,
@@ -75,6 +78,66 @@ Fürstentum Schaumburg Lippe.
 
 L. Schwerdtmann von Bergkirchen.
 ____
+
+|
+[verse]
+____
+Family Certificate of the Emigrant Carl Friederich Krückeberg from No. 18 in Beerenbusch, Germany.
+
+According to the entry in the local church book, Carl Friederich Krückeberg
+(legitimate second child and first son of Carl Friedrich Gottlieb Krückeberg,
+tailor in Beerenbusch, and his wife Philippine Leonore, née Bleeken,
+of No. 11 in Evensen), was born on May 21, 1807, at 8 o’clock in the evening,
+and baptized on the 24th, in the name of the Triune God, in this church.
+As baptismal sponsors appeared:
+
+1. Hans Heinrich Wilhairm, No. 11,
+2. Johann Heinrich Deerberg, No. 6 in Evensen,
+3. Jobst Heinrich Krückeberg of Beerenbusch.
+
+He made his Evangelical Lutheran confession of faith on Quasimodogeniti Sunday in 1821.
+
+He married on November 16, 1834, the maiden
+Luise Dorothea Weiland, born January 2, 1811, at 2 o’clock in the afternoon,
+baptized on the 6th in the name of the Triune God in this church;
+the legitimate third child, third daughter of Friedrich Wilhelm Weiland, colonist at
+No. 20 in Evensen, and his wife Anna Katharine, née Drinckuth.
+Her baptismal sponsors were Dorothea Deerberg, No. 6, and Katharine Leonore
+Kuhlmann, No. 3 in Evensen.
+
+To the above married couple of the Evangelical Lutheran confession, the following
+children are living:
+
+1. Carl Heinrich Wilhelm Krückeberg, born February 4, 1835,
+   at 3 o’clock in the morning; baptized on the 8th in the name of the Triune God;
+   confirmed on Quasimodogeniti Sunday, April 15, 1849.
+
+2. Caroline Philippine Krückeberg, born October 15, 1837,
+   at 11 o’clock midday; baptized on the 22nd in the name of the Triune God.
+
+3. Caroline Philippine Sophie Krückeberg, born September 8, 1840,
+   at 2 o’clock in the morning; baptized on the 13th in the name of the Triune God.
+
+4. Wilhelmine Christine Krückeberg, born September 6, 1843,
+   at 9 o’clock in the evening; baptized on the 14th in the name of the Triune God.
+
+5. Friederich Wilhelm Krückeberg, born July 23, 1846;
+   baptized on the 30th in the name of the Triune God.
+
+6. Ernst Heinrich Krückeberg, born February 6, 1850, at 6 o’clock in the morning;
+   baptized on the 13th in the name of the Triune God.
+
+The agreement of the above information with the local church books is hereby certified
+to the emigrants, with invocation of divine blessing—*sub fide pastorali*.
+
+Petzen, September 23, 1850
+*Pede vacanti*
+the acting preacher
+
+Principality of Schaumburg-Lippe.
+____
+|===
+
 
 that the Krückeberg family originated from an area near Petzen called Berenbusch. This document originated from Harry Frederick Krueckeberg who 
 believed it was among his father's papers, and he believed his father had typed it. I obtained the copy above from Melvin Krueckeberg several
