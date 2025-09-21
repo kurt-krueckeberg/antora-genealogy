@@ -63,7 +63,7 @@ December
 Fried: Wilm: Schildmeier
 |===
 
-.Transliteration of  Carl Friedrich Wilhelm 1825 Birth Record
+.Translation of Carl Friedrich Wilhelm 1825 Birth Record
 [cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
 |===
 10+^s|Born and Baptized in the year 1825

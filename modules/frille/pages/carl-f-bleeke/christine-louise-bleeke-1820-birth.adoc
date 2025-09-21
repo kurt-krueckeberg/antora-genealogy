@@ -70,39 +70,26 @@ Volkening aus Leeteln
 10+^s|Geborene und Getaufte im Jarhe 1826
 
 s|Num.
-s|Baptism-Name
-of the child.
-s|Day and Hour
-of the Birth
-in letters and numbers.
-s|Whether it is
-legitimate
-or 
-illegitimate
-s|Given and Surname
-of the Father,
-and his Status.
-s|Given and Surname
-of the 
-Mother.
-s|Dwelling Place
-of the
-Parents
+s|Baptism-Name of the child.
+s|Day and Hour of the Birth (in words and numbers).
+s|Whether it is legitimate or illegitimate
+s|Given and Surname of the Father, and his Status.
+s|Given and Surname of the Mother.
+s|Dwelling Place of the Parents
 s|Baptism Day
-s|Name of the Pastor who
-baptized child.
+s|Name of the Pastor who baptized child.
 s|Baptismal Sponsors
 
-|TODO
-|
-|
-|
-|
-|
-|
-|
-|
-|
+|4
+|Marie Christine Bleeke
+|twenty eighth March 9 p.m.(28^th^ March 9 p.m.) in Leeteln
+|legitimate
+|Carl Friederich Bleeke Anerbe of N. 13 in Leeteln
+|Marie Louise Niemann from Todtenhausen
+|No. 13
+|thirty first March (31^st^ March)
+|Schütz
+|Anne Margrethe Volkening from Leeteln
 |=== 
 
 

@@ -70,7 +70,7 @@ Gottlieb Schwier
 No. 27 Wietersheim
 |===
 
-.Transliteration of Carl Heinrich Bleeke 1818 Birth Record
+.Translation of Carl Heinrich Bleeke 1818 Birth Record
 [cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
 |===
 10+^s|Born and Baptized in the year 1818
