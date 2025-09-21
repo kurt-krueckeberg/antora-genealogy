@@ -67,7 +67,7 @@ Maÿ
 |===
 
 .Translation of Philippine Luise Leonore Bleeke 1833 Birth
-[cols="1,4,4,2,4,4,3,2,3,5"]
+[cols="1,4,4,2,4,4,3,2,3,5a"]
 |===
 10+^s|Births and Baptisms in the year 1823
 
@@ -91,9 +91,11 @@ s|Baptismal witnesses
 |Leeteln at N. 17
 |twenty seven (27) May
 |Schütz
-|1.) Sophie Luise Simon
-2.) Christine Marie Backemeyer
-3.) Philippine Caroline Krückeberg
+|
+[arabic,start=1]
+. Sophie Luise Simon
+. Christine Marie Backemeyer
+. Philippine Caroline Krückeberg
 |===
 
 == Citation
