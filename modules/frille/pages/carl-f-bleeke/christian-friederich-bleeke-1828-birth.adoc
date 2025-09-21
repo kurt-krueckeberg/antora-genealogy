@@ -61,24 +61,21 @@ März
 ke
 |=== 
 
-.Translation of 1820 Marriage of Carl Friedrich Bleeke to Marie Luise Niemann
-[cols="1,4,3,2,3,3,4,4,2,3,3,3,4"]
+.Translation of Marie Christine Bleeke 1826 Birth
+[cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
 |===
-13+^s|Proclaimed (banns) and Married in the year 1820
+10+^s|Geborene und Getaufte im Jarhe 1826
 
-s|No.
-s|Groom's first and last name.
-s|Father's social status and place of residence
-s|Groom's age.
-s|Whether parents or guardians gave their consent, and how this happened.
-s|Whether he was already married and how the marriage was dissolved.
-s|Bride's first and last name.
-s|Name, social status, and place of residence of the bride's father.
-s|Bride's age.
-s|Whether parents or guardians gave their consent, and how this happened.
-s|Whether they were already married and how the marriage was dissolved.
-s|Date of marriage (in words and numbers).
-s|Name of the preacher performing the marriage.
+s|Num.
+s|Baptism-Name of the child.
+s|Day and Hour of the Birth (in words and numbers).
+s|Whether it is legitimate or illegitimate
+s|Given and Surname of the Father, and his Status.
+s|Given and Surname of the Mother.
+s|Dwelling Place of the Parents
+s|Baptism Day
+s|Name of the Pastor who baptized child.
+s|Baptismal Sponsors
 
 |9
 |Christian Friederich Bleeke
