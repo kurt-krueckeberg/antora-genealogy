@@ -14,7 +14,7 @@ We know from this tyepwritten document
 image::Familienschein-des-Auswanderers.jpg[align=left,width=1600,title='Familienschein des Auswanderers',xref=image$Familienschein-des-Auswanderers.jpg]
 
 [cols="1a,1a"]
-|====
+|===
 |German|English
 
 |
