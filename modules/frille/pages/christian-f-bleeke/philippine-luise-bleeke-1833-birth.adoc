@@ -61,13 +61,13 @@ N. 17
 zwanzig (27)
 Maÿ
 |Schütz
-|1. Sophie Luise Simon
+<|1. Sophie Luise Simon
 2. Christine Marie Backemeyer
 3. Philippine Caroline Krückeberg
 |===
 
 .Translation of Philippine Luise Leonore Bleeke 1833 Birth
-[cols="1,4,4,2,4,4,3,2,2,5a"]
+[cols="1,4,4,2,4,4,3,2,2,5"]
 |===
 10+^s|Births and Baptisms in the year 1823
 
@@ -92,10 +92,9 @@ s|Baptismal witnesses
 |twenty seven (27) May
 |Schütz
 <|
-[arabic,start=1]
-. Sophie Luise Simon
-. Christine Marie Backemeyer
-. Philippine Caroline Krückeberg
+1. Sophie Luise Simon
+2. Christine Marie Backemeyer
+3. Philippine Caroline Krückeberg
 |===
 
 == Citation
