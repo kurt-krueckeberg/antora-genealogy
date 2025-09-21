@@ -50,8 +50,8 @@ Maÿ Morgens neun (9) Uhr
 in Leeteln 
 |Ehelich
 |Christian Friedrich
-Bleeke Tag[??????] und
-E[???] N: 17 in Leeteln
+Bleeke Tagelöhner und
+Ein[wohner?]. beÿ N: 17 in Leeteln
 |Christian Marie
 Krückeberg aus
 Leeteln
@@ -82,16 +82,18 @@ s|Day of baptism
 s|Name of the minister
 s|Baptismal witnesses
 
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
+|19
+|Philippine Luise Leonre Bleeke
+|twenty one (21) May nine (9) a.m. in Leeteln 
+|legitimate
+|Christian Friedrich Bleeke day-laborer and resident at No. 17 in Leeteln
+|Christian Marie Krückeberg from Leeteln
+|Leeteln at N. 17
+|twenty seven (27) May
+|Schütz
+|1.) Sophie Luise Simon
+2.) Christine Marie Backemeyer
+3.) Philippine Caroline Krückeberg
 |===
 
 == Citation
