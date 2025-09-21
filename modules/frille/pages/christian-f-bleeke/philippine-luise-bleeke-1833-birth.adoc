@@ -6,7 +6,7 @@ link:https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_0248b6a4
 Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des
 Regierungsbezirks Minden, Nr. B 168 Jg. 1831-1845]
 
-image::philippine-luise-leonore-bleeke-1833-birth.png[title=Click to Enlarge,link=self]
+image::christian-f-bleeke/philippine-luise-leonore-bleeke-1833-birth.png[title=Click to Enlarge,link=self]
 
 .Transliteration of 
 [cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
