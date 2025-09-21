@@ -1,18 +1,17 @@
 = Christian Heinrich Bleeke 1836 Birth
 :page-role: wide
 
-TODO: Change!!!!!!!!!!!!!!!!!
-This record is from the 
-link:https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820&mandant=10003[Landesarchiv
-NRW Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks
-Minden, Nr. B 168 Jg. 1815-1830].
+This record is from 
+link:https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_0248b6a4-ed8c-41ef-8e2b-f61ac1448763[Landesarchiv NRW
+Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des
+Regierungsbezirks Minden, Nr. B 168 Jg. 1831-1845]
 
-image::
+image::christian-f-bleeke/christian-heinrich-bleeke-1836-birth.png[title=Click to Enlarge,link=self]
 
 .Transliteration of 
 [cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
 |===
-10+^s|Geborene und Getaufte im Jarhe 1823
+10+^s|Geborene und Getaufte im Jarhe 1836
 
 s|Nro.
 s|Tauf-Name
@@ -83,9 +82,9 @@ s|Baptismal witnesses
 
 == Citation
 
-Evangelische Gemeinde Frille (Kreis Minden), Kirchenbuchduplikate, section headed "Gebohrne u Getaufte im Jahre
-1823" [sic], Nr. 29, Carl Fried. Bleeke, born 10 July 1823, baptized 20 July 1823, son of Johann Heinrich Bleeke
-and Christine Marie Schwier; Landesarchiv Nordrhein-Westfalen, Abteilung Ostwestfalen-Lippe (Detmold),
-Personenstandsarchiv Westfalen-Lippe; P 1 B-D, B 168 (Jg. 1815–1830); digital images, Archivsuche – Archive in NRW
-(DFG-Viewer), Bild 100/180 (accessed 18 September 2025); duplicate register; provenance: Land- und Stadt- bzw.
+Evangelische Gemeinde Frille (Kreis Minden), Kirchenbuchduplikate, section headed "Geborne und Getaufte
+im Jahr 1833 Kirchspiel Frille köngilich Preußischen Anteil" [sice.], Nr. 19, Philippine Luise Leonore Bleeke, born
+21 May 1836, baptized 27 May 1833; Landesarchiv Nordrhein-Westfalen, Abteilung Ostwestfalen-Lippe (Detmold),
+Personenstandsarchiv Westfalen-Lippe; P 1 B-D, B 168 (Jg. 1831-1845); digital images, Archivsuche – Archive in NRW
+(DFG-Viewer), Bild 100/180 (accessed 20 September 2025); duplicate register; provenance: Land- und Stadt- bzw.
 Kreisgericht Minden.
