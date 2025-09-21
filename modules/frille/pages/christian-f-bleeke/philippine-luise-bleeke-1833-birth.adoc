@@ -8,7 +8,9 @@ Regierungsbezirks Minden, Nr. B 168 Jg. 1831-1845]
 
 image::christian-f-bleeke/philippine-luise-leonore-bleeke-1833-birth.png[title=Click to Enlarge,link=self]
 
-.Transliteration of 
+== Transliteration and Translation
+
+.Transliteration of Philippine Luise Leonore Bleeke 1833 Birth
 [cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
 |===
 10+^s|Geborne und Getaufte im Jarhe 1833
@@ -40,19 +42,31 @@ s|Namen des Predigers,
 der es getauft.
 s|Name der Taufzeugen
 
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
+|19
+|Philippine Luise Leo-
+nre Bleeke
+|Ein un zwanzigten (21)
+Maÿ Morgens neun (9) Uhr
+in Leeteln 
+|Ehelich
+|Christian Friedrich
+Bleeke Tag[??????] und
+E[???] N: 17 in Leeteln
+|Christian Marie
+Krückeberg aus
+Leeteln
+|Leeteln beÿ
+N. 17
+|Sieben und
+zwanzig (27)
+Maÿ
+|Schütz
+|Sophie Luise Simon
+Christine Marie Backemeyer
+Philippine Caroline Krückeberg
 |===
 
-.Translation of 
+.Translation of Philippine Luise Leonore Bleeke 1833 Birth
 [cols="1,4,4,2,4,4,3,2,3,5"]
 |===
 10+^s|Births and Baptisms in the year 1823
