@@ -19,6 +19,8 @@ We know from this tyepwritten document
 |
 |===
 
+==== Translation
+
 [cols="1a,1a"]
 |===
 |German|English
