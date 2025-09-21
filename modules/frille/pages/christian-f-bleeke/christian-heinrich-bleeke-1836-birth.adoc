@@ -63,7 +63,7 @@ ar
 |===
 
 .Translation of
-[cols="1,4,4,2,4,4,3,2,3,5a"]
+[cols="1,4,4,2,4,4,3,2,3,5"]
 |===
 10+^s|Born and Baptized in the year 1823
 
@@ -87,10 +87,9 @@ s|Baptismal witnesses
 |Leeteln
 |thirty one (31) January
 |Schütz
-|
-[arabic,start=1]
-. Johann Heinrich Krückeberg
-. Christian Ko[hlm]eier
+<|1. Johann Heinrich Krückeberg
+
+2. Christian Ko[hlm]eier
 |===
 
 == Citation
