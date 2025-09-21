@@ -67,7 +67,7 @@ hausen
 .Translation of Marie Christine Bleeke 1826 Birth
 [cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
 |===
-10+^s|Geborene und Getaufte im Jarhe 1826
+10+^s|Birth and Baptims in 1826
 
 s|Num.
 s|Baptism-Name
