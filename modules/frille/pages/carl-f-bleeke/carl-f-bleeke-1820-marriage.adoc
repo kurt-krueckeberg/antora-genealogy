@@ -92,7 +92,7 @@ den Pfarrer
 |===
 
 .Translation of 1820 Marriage of Carl Friedrich Bleeke to Marie Luise Niemann
-[cos="1,4,3,2,3,3,4,4,2,3,3,3,4"]
+[cols="1,4,3,2,3,3,4,4,2,3,3,3,4"]
 |===
 13+^s|Proclaimed (banns) and Married in the year 1820
 

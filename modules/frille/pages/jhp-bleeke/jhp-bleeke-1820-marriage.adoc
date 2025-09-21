@@ -91,7 +91,7 @@ Sohn
 |===
 
 .Translation of 1820 Johann Heinrich Philip Bleeke Marriage to Christine Marie Schwier
-[cos="1,4,3,2,3,3,4,4,2,3,3,3,4"]
+[cols="1,4,3,2,3,3,4,4,2,3,3,3,4"]
 |===
 13+^s|Proclaimed (banns) and Married in the year 1820
 
