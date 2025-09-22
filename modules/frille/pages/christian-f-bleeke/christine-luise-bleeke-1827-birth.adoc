@@ -43,16 +43,25 @@ s|Namen des Predigers,
 der es getauft.
 s|Name der Taufzeugen
 
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
+|49
+|Christine Luise
+Bleeke.
+|Neunzehnten (19) Decbr.
+Abenbds fünf (5) Uhr
+zu Leeteln
+|ehelich
+|Christian Friederich
+Bleeke, Einlieger beÿ
+No. 11 in Leeteln
+|Christine Luise
+Leonore Krükkeberg aus Berenbusch
+|Leeteln
+|drei und 
+zwanzigsten
+(23) Decbr.
+|Schütz
+|Christine Marie
+Bleeke.
 |===
 
 .Translation of Christine Luise Bleeke 1827 Birth
@@ -71,16 +80,16 @@ s|Day of baptism
 s|Name of the minister
 s|Name of Godparents
 
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
+|49
+|Christine Luise Bleeke
+|nineteenth (19) Dec. five (5) p.m. at Leeteln
+|legitimate
+|Christian Friederich Bleeke, Einlieger at No. 11 in Leeteln
+|Christine Luise Leonore Krükkeberg from Berenbusch
+|Leeteln
+|twenty third (23) December
+|Schütz
+|Christine Marie Bleeke
 |===
 
 == Citation
