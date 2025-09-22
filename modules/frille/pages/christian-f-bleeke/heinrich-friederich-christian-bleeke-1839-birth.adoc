@@ -69,7 +69,7 @@ zwanzigten
 |===
 
 .Translation of Heinrich Friederich Christian Bleeke 1839 Birth
-[cols="1,4,4,2,4,4,3,2,3,5"]
+[cols="1,4,4,2,4,4,3,2,3,5a"]
 |===
 10+^s|Born and Baptized in the year 1823
 
@@ -94,11 +94,11 @@ s|Baptismal witnesses
 |Twenty first (21) July
 |Schütz
 <|
-1) Heinrich [Röseme]
-2) Heinrich Rödenbeck
-3) Friederich Heine
-4) Heinrich Steinkamper
-5) Heinrich Frodemann
+1) Heinrich [Röseme] +
+2) Heinrich Rödenbeck +
+3) Friederich Heine +
+4) Heinrich Steinkamper +
+5) Heinrich Frodemann +
 6) Fried. Marks.
 |===
 
