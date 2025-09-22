@@ -93,7 +93,7 @@ s|Baptismal witnesses
 |Leeteln
 |Twenty first (21) July
 |Schütz
-|
+<|
 1) Heinrich [Röseme]
 2) Heinrich Rödenbeck
 3) Friederich Heine
