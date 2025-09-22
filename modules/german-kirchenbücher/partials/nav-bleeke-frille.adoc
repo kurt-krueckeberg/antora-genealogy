@@ -28,3 +28,4 @@
 * Christian Friedrich Bleeke's (1800) Children
 ** xref:frille:christian-f-bleeke/philippine-luise-bleeke-1833-birth.adoc[] 
 ** xref:frille:christian-f-bleeke/christian-heinrich-bleeke-1836-birth.adoc[] 
+** xref:frille:christian-f-bleeke/christine-luise-bleeke-1827-birth.adoc[]
