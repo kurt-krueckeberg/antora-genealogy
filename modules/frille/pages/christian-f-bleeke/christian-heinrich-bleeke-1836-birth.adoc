@@ -8,7 +8,7 @@ Regierungsbezirks Minden, Nr. B 168 Jg. 1831-1845]
 
 image::christian-f-bleeke/christian-heinrich-bleeke-1836-birth.png[title=Click to Enlarge,link=self]
 
-.Transliteration of 
+.Transliteration of Christian Heinrich Bleeke 1836 Birth 
 [cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
 |===
 10+^s|Geborne und Getaufte im Jarhe 1836
@@ -62,7 +62,7 @@ ar
 2. Christian Ko[hlm]eier
 |===
 
-.Translation of
+.Translation of Christian Heinrich Bleeke 1836 Birth
 [cols="1,4,4,2,4,4,3,2,3,5"]
 |===
 10+^s|Born and Baptized in the year 1823

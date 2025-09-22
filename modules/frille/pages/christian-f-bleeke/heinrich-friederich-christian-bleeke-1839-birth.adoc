@@ -1,29 +1,81 @@
 = Heinrich Friederich Christian Bleeke 1839 Birth
 :page-role: wide
 
+This record is from 
+link:https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_0248b6a4-ed8c-41ef-8e2b-f61ac1448763[Landesarchiv NRW
+Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des
+Regierungsbezirks Minden, Nr. B 168 Jg. 1831-1845]
+
 image::christian-f-bleeke/heinrich-friederich-christian-bleeke-1839-birth.png[title=Click to Enlarge,link=self]
 
+.Transliteration of Heinrich Friederich Christian Bleeke 1839 Birth
+[cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
+|===
+10+^s|Geborne und Getaufte im Jarhe 1836
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+s|Nro.
+s|Tauf-Name
+des Kindes.
+s|Tag und Stunde
+der Geburt
+in
+Buchstaben und Ziffern.
+s|Ob es
+ehelich
+oder
+unehelich.
+s|Vor- and Zuname
+des Vaters,
+auch Stand desselben
+s|Vor- und Zuname
+der
+Mutter.
+s|Wohnort
+der
+Eltern
+s|Tag
+der
+Taufe.
+s|Namen des Predigers,
+der es getauft.
+s|Name der Taufzeugen
 
 |
-1) Heinrich Rihene
-2) Heinrich Rödenbeck
-3) Friederich Heine
-4) Heinrich Steinkam[per]
-5) Heinrich Frod[e]mann
-6) Fried. Ma[r/c]k
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|===
+
+.Translation of Heinrich Friederich Christian Bleeke 1839 Birth
+[cols="1,4,4,2,4,4,3,2,3,5"]
+|===
+10+^s|Born and Baptized in the year 1823
+
+s|No.
+s|Baptismal name of the child.
+s|Day and hour of birth (in words and numbers)
+s|Whether legitimate or illegitimate
+s|Given and surname of the father, also his Status
+s|Given and surname of the mother
+s|Residence of the Parents
+s|Day of baptism
+s|Name of the minister
+s|Baptismal witnesses
+
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|===
