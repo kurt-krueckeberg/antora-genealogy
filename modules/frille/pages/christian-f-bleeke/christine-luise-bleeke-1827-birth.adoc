@@ -69,6 +69,7 @@ s|Given and surname of the mother
 s|Residence of the Parents
 s|Day of baptism
 s|Name of the minister
+s|Name of Godparents
 
 |
 |
