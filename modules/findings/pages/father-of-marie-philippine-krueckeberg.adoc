@@ -187,24 +187,28 @@ eheliche Tochter des verstorbenen Heinrich Krückeberg n. 19 in Evesen
 ____
 + 
 If Marie Philippine was his daughter, why was she not living with her sisters and her mother prior to her marriage no. 19 Evesen? 
-. When Johann Heinrich Krückeberg died in 1805 his death records gives his "Gewerbe (trade, occupation)" as "Colon", a farmer, an active
-farmer. A Colon was a leaseholder, not an outright owner of the farm. The lease type was often heritable and lifelong.
+. When Johann Heinrich Krückeberg died in 1805 his death records gives his "Gewerbe (trade, occupation)" as
+"Colon", a farmer, an active farmer. A Colon was a leaseholder, not an outright owner of the farm. The lease type
+was often heritable and lifelong.
 +
-The marriage record for Marie Philippine states she is "Tochter des Johann Heinrich Krückeberg Leibzüchters aus n.10 in Bärenbusch" (daughter
-of a *Leibzuchter* at no. 10 Bärenbusch). A "Leibzüchter" is a retired farmer living on the family farm, usually with life rights. 
+The marriage record for Marie Philippine states she is "Tochter des Johann Heinrich Krückeberg Leibzüchters aus
+n.10 in Bärenbusch" (daughter of a *Leibzuchter* at no. 10 Bärenbusch). A "Leibzüchter" is a retired farmer living
+on the family farm, usually with life rights. 
 +
-"Colon" and "Leibzüchter" reflect different, non-overlapping stages of life and responsibility within the rural social structure of Schaumburg-Lippe.
+"Colon" and "Leibzüchter" reflect different, non-overlapping stages of life and responsibility within the rural
+social structure of Schaumburg-Lippe.
 +
 Johann Heinrich Krückeberg (1767-1805) died a *Colon* before he ever could become a *Leibzüchter*.
-. Johann Heinrich had a son who died around age three. He had only three children alive when he died, his three daughters, who are identified by
-their baptism, confirmation and marriage (for the two eldest) records in the Petzen "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
-1785-1827" as:
+. Johann Heinrich had a son, but he died around age three. When he died, his wife and three children survived him,
+his three daughters, who are identified by their baptism, confirmation and marriage (for the two eldest) records in the
+Petzen "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827" as:
 
 +
 --
-* Philippina Eleonora,
-* Christine Louise and
-* Sophie Caroline.
+[arabic,start=1]
+. Philippina Eleonora,
+. Christine Louise and
+. Sophie Caroline.
 --
 +
 That he had only three living children at the time of his death is confirmed by his 1805 xref:petzen:petzen-band2-image243.adoc[death and
