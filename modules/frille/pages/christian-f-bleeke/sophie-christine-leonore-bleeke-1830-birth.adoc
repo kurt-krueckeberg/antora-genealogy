@@ -1,11 +1,10 @@
 = Sophie Christine Leonore Bleeke 1830 Birth
 :page-role: wide
 
-TODO
 This record is from 
-link:https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_0248b6a4-ed8c-41ef-8e2b-f61ac1448763[Landesarchiv NRW
+link:https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820[Landesarchiv NRW
 Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des
-Regierungsbezirks Minden, Nr. B 168 Jg. ??????]
+Regierungsbezirks Minden, Nr. B 168 Jg. 1815-1830]
 
 image::christian-f-bleeke/sophie-christine-leonore-bleeke-1830-birth.png[title=Click to Enlarge,link=self]
 
@@ -43,7 +42,7 @@ s|Namen des Predigers,
 der es getauft.
 s|Name der Taufzeugen
 
-|
+|41
 |
 |
 |
@@ -71,7 +70,7 @@ s|Day of baptism
 s|Name of the minister
 s|Name of Godparents
 
-|
+|41
 |
 |
 |
@@ -84,11 +83,9 @@ s|Name of Godparents
 |===
 
 == Citation
-TODO:
 
-Evangelische Gemeinde Frille (Kreis Minden), Kirchenbuchduplikate, section headed "Geborne und Getaufte
-im Jahr 1833 Kirchspiel Frille köngilich Preußischen Anteil" [sic.], Nr. 19, Philippine Luise Leonore Bleeke, born
-21 May 1833, baptized 27 May 1833; Landesarchiv Nordrhein-Westfalen, Abteilung Ostwestfalen-Lippe (Detmold),
-Personenstandsarchiv Westfalen-Lippe; P 1 B-D, B 168 (Jg. 1831-1845); digital images, Archivsuche – Archive in NRW
-(DFG-Viewer), Bild 100/180 (accessed 20 September 2025); duplicate register; provenance: Land- und Stadt- bzw.
-Kreisgericht Minden.
+Evangelische Gemeinde Frille (Kreis Minden), Kirchenbuchduplikate, section headed "Gebohrne und Getaufte
+im Jahr 1830" [sic.], Nr. 41, Sophie Christine Leonore Bleeke, born 27 July 1830, baptized 1 Aug. 1830;
+Landesarchiv Nordrhein-Westfalen, Abteilung Ostwestfalen-Lippe (Detmold), Personenstandsarchiv Westfalen-Lippe;
+P 1 B-D, B 168 (Jg. 1815-1830); digital images, Archivsuche – Archive in NRW (DFG-Viewer), Bild 172/180
+(accessed 20 September 2025); duplicate register; provenance: Land- und Stadt- bzw. Kreisgericht Minden.

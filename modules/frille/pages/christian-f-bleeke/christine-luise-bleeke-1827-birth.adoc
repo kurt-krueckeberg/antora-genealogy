@@ -1,11 +1,10 @@
 = Chirstine Luise Bleeke 1827 Birth
 :page-role: wide
 
-TODO
 This record is from 
-link:https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_0248b6a4-ed8c-41ef-8e2b-f61ac1448763[Landesarchiv NRW
+link:https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820[Landesarchiv NRW
 Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des
-Regierungsbezirks Minden, Nr. B 168 Jg. ??????]
+Regierungsbezirks Minden, Nr. B 168 Jg. 1815-1830]
 
 image::christian-f-bleeke/christine-luise-bleeke-1827-birth.png[title=Click to Enlarge,link=self]
 
@@ -98,6 +97,6 @@ TODO:
 Evangelische Gemeinde Frille (Kreis Minden), Kirchenbuchduplikate, section headed "Geborne und Getaufte
 im Jahr 1833 Kirchspiel Frille köngilich Preußischen Anteil" [sic.], Nr. 19, Philippine Luise Leonore Bleeke, born
 21 May 1833, baptized 27 May 1833; Landesarchiv Nordrhein-Westfalen, Abteilung Ostwestfalen-Lippe (Detmold),
-Personenstandsarchiv Westfalen-Lippe; P 1 B-D, B 168 (Jg. 1831-1845); digital images, Archivsuche – Archive in NRW
+Personenstandsarchiv Westfalen-Lippe; P 1 B-D, B 168 (Jg. 1815-1830); digital images, Archivsuche – Archive in NRW
 (DFG-Viewer), Bild 100/180 (accessed 20 September 2025); duplicate register; provenance: Land- und Stadt- bzw.
 Kreisgericht Minden.
