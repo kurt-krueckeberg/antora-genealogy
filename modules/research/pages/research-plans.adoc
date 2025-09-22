@@ -2,10 +2,6 @@
 
 Merge what is below with what is in xref:ROOT:todo.adoc[todoes].
 
-== Bückeburg Abteilung von dem Niedersächen Landesarchiv
-
-Research plan for "Vexx" on Archion.de forum.
-
 == Adams CO, Indiana, Naturalization Records
 
 The PDF of xref:naturalization:attachment$Foreword_from_An_Index_to_Naturalzation_Records_in_pre_1907_Order_Books_of_Indiana_County_Courts.pdf[An Index to Naturalization Records In pre-1907 Order Books of Indiana County Courts].
