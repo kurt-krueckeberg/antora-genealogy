@@ -28,6 +28,5 @@
 * xref:missing-naturalization-img-numbers.adoc[]
 * xref:bleeke-children-confirmations.adoc[]
 * xref:allen_franz_docs.adoc[]
-* xref:bleeke-records-confirmed.adoc[]
 //* xref:todds-research-report.adoc[]
 //* xref:which-anne-volkening.adoc[]
