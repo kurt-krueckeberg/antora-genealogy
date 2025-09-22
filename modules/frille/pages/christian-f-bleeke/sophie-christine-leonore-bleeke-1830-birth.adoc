@@ -1,0 +1,94 @@
+= Sophie Christine Leonore Bleeke 1830 Birth
+:page-role: wide
+
+TODO
+This record is from 
+link:https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_0248b6a4-ed8c-41ef-8e2b-f61ac1448763[Landesarchiv NRW
+Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des
+Regierungsbezirks Minden, Nr. B 168 Jg. ??????]
+
+image::christian-f-bleeke/sophie-christin-leonore-bleeke-1830-birth.png[title=Click to Enlarge,link=self]
+
+== Transliteration and Translation
+
+.Transliteration of Sophie Christine Leonore Bleeke 1830 Birth
+[cols="1l,4l,4l,2l,4l,4l,3l,2l,2l,5l"]
+|===
+10+^s|Geborne und Getaufte im Jarhe 1833
+
+s|Nro.
+s|Tauf-Name
+des Kindes.
+s|Tag und Stunde
+der Geburt
+in
+Buchstaben und Ziffern.
+s|Ob es
+ehelich
+oder
+unehelich.
+s|Vor- and Zuname
+des Vaters,
+auch Stand desselben
+s|Vor- und Zuname
+der
+Mutter.
+s|Wohnort
+der
+Eltern
+s|Tag
+der
+Taufe.
+s|Namen des Predigers,
+der es getauft.
+s|Name der Taufzeugen
+
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|===
+
+.Translation of Sophie Christine Leonore Bleeke 1830 Birth
+[cols="1,4,4,2,4,4,3,2,2,5"]
+|===
+10+^s|Births and Baptisms in the year 1823
+
+s|No.
+s|Baptismal name of the child.
+s|Day and hour of birth (in words and numbers)
+s|Whether legitimate or illegitimate
+s|Given and surname of the father, also his Status
+s|Given and surname of the mother
+s|Residence of the Parents
+s|Day of baptism
+s|Name of the minister
+s|Name of Godparents
+
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|===
+
+== Citation
+TODO:
+
+Evangelische Gemeinde Frille (Kreis Minden), Kirchenbuchduplikate, section headed "Geborne und Getaufte
+im Jahr 1833 Kirchspiel Frille köngilich Preußischen Anteil" [sic.], Nr. 19, Philippine Luise Leonore Bleeke, born
+21 May 1833, baptized 27 May 1833; Landesarchiv Nordrhein-Westfalen, Abteilung Ostwestfalen-Lippe (Detmold),
+Personenstandsarchiv Westfalen-Lippe; P 1 B-D, B 168 (Jg. 1831-1845); digital images, Archivsuche – Archive in NRW
+(DFG-Viewer), Bild 100/180 (accessed 20 September 2025); duplicate register; provenance: Land- und Stadt- bzw.
+Kreisgericht Minden.
