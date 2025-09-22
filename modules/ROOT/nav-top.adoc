@@ -7,4 +7,4 @@
 ** xref:germ-hist-geo.adoc[]
 ** xref:schaumburg-lippe-sources.adoc[]
 * xref:timeline.adoc[]
-* xref:todo.adoc[]
+//* xref:todo.adoc[]
