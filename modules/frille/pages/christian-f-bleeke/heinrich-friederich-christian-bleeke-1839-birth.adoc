@@ -84,14 +84,20 @@ s|Day of baptism
 s|Name of the minister
 s|Baptismal witnesses
 
+|31
+|Heinrich Friederich Christian Bleeke
+|Eighteenth (18) July ten (10) p.m. in Leeteln 
+|legitimate
+|Christian Friederich Bleeke Ein[lieger] at No. 13 in Leeteln 
+|Christian Luise nee Krückeberg fromu Beerenbusch
+|Leeteln
+|Twenty first (21) July
+|Schütz
 |
-|
-|
-|
-|
-|
-|
-|
-|
-|
+1) Heinrich [Röseme]
+2) Heinrich Rödenbeck
+3) Friederich Heine
+4) Heinrich Steinkamper
+5) Heinrich Frodemann
+6) Fried. Marks.
 |===
