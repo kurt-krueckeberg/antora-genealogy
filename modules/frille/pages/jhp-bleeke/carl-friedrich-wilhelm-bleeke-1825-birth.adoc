@@ -10,7 +10,7 @@ image::jhp-bleeke/carl-friederich-wilhelm-bleeke-1825-birth.png[title="Click to 
 
 == Transliteration and Translation
 
-.Transliteration of  Carl Friedrich Wilhelm 1825 Birth Record
+.Transliteration of Carl Friedrich Wilhelm 1825 Birth Record
 [cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
 |===
 10+^s|Geborene und Getaufte im Jarhe 1825
