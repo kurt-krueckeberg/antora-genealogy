@@ -1,4 +1,4 @@
-= 1820 Marriage of Carl Friedrich Bleeke to Marie Luise Niemann
+= 1820 Marriage of Carl Friederich Bleeke to Marie Luise Niemann
 :page-role: wide
 
 This record is from the
@@ -8,7 +8,7 @@ Minden, Nr. B 168 Jg. 1815-1830].
 
 image::carl-friedrich-bleeke-1820-marriage.png[title="Click to Enlarge",link=self]
 
-.Transliteration of 1820 Marriage of Carl Friedrich Bleeke to Marie Luise Niemann
+.Transliteration of 1820 Marriage of Carl Friederich Bleeke to Marie Luise Niemann
 [cols="1l,4l,3l,2l,3l,3l,4l,4l,2l,3l,3l,3l,4l"]
 |===
 13+^s|Aufgebotene und Getraute (die bei einer Kirche bloß aufgebotenen und anderwärts kopulirten Paare müssen ohne
@@ -57,7 +57,7 @@ der
 die Kopulation verrichtet.
 
 |4
-|Carl Friedrich
+|Carl Friederich
 Bleeke, Anerbe
 von No 13 in Leteln
 |Colon Christian Friederich
@@ -91,7 +91,7 @@ den Pfarrer
 |Schütz
 |===
 
-.Translation of 1820 Marriage of Carl Friedrich Bleeke to Marie Luise Niemann
+.Translation of 1820 Marriage of Carl Friederich Bleeke to Marie Luise Niemann
 [cols="1,4,3,2,3,3,4,4,2,3,3,3,4"]
 |===
 13+^s|Proclaimed (banns) and Married in the year 1820
@@ -111,7 +111,7 @@ s|Date of marriage (in words and numbers).
 s|Name of the preacher performing the marriage.
 
 |4
-|Carl Friedrich Bleeke, Anerbe from No 13 in Leteln
+|Carl Friederich Bleeke, Anerbe from No 13 in Leteln
 |Colon Christian Friederich Bleeke of No 13 in Leteln
 |25 years
 |Parents have given their verbal consent
@@ -128,7 +128,7 @@ s|Name of the preacher performing the marriage.
 == Citation
 
 Evangelische Gemeinde Frille (Kreis Minden), Kirchenbuchduplikate, section headed "Aufgebotene und Getraute im
-Jahr 1820", Nr. 4, Carl Heinrich Bleeke married 12 March 1820 to Marie Luise Niemann; Landesarchiv Nordrhein-Westfalen,
+Jahr 1820", Nr. 4, Carl Friederich Bleeke married 12 March 1820 to Marie Luise Niemann; Landesarchiv Nordrhein-Westfalen,
 Abteilung Ostwestfalen-Lippe (Detmold), Personenstandsarchiv Westfalen-Lippe; P 1 B-D, B 168 (Jg. 1815–1830);
 digital images, Archivsuche – Archive in NRW (DFG-Viewer), Bild 70/180 (accessed 18 September 2025); duplicate
 register; provenance: Land- und Stadt- bzw. Kreisgericht Minden.
