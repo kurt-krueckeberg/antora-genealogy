@@ -12,6 +12,7 @@ nav:
   - modules/families/nav.adoc
   - modules/churches/nav.adoc
   - modules/german-kirchenbücher/nav.adoc
+  - modules/family-church-records/nav.adoc
   - modules/us-kirchenbücher/nav.adoc
   - modules/timelines/nav.adoc
   - modules/persons/nav.adoc
