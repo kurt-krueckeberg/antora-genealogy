@@ -1,4 +1,7 @@
 .Family Church Records
+* xref:understand.adoc[]
+* xref:nachträge.adoc[]
+** xref:significance-of-nachträge.adoc[]
 * Bleeke
 ** xref:frille:frille-band1-image128.adoc[]
 ** xref:frille:frille-band2-image11.adoc[]
