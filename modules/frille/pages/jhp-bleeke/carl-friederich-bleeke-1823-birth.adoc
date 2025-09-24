@@ -1,4 +1,4 @@
-= Carl Friedrich Bleeke 1823 Birth
+= Carl Friederich Bleeke 1823 Birth
 :page-role: wide
 
 This record is from the
@@ -8,7 +8,7 @@ Minden, Nr. B 168 Jg. 1815-1830].
 
 image::jhp-bleeke/carl-friedrich-bleeke-1823-birth.png[title="Click to Enlarge",link=self]
 
-.Transliteration of Carl Friedrich Bleeke 1823 Birth Record
+.Transliteration of Carl Friederich Bleeke 1823 Birth Record
 [cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
 |===
 10+^s|Geborene und Getaufte im Jarhe 1823
@@ -61,7 +61,7 @@ No. 16
 aus Leeteln
 |===
 
-.Translation of Carl Friedrich Bleeke 1823 Birth Record
+.Translation of Carl Friederich Bleeke 1823 Birth Record
 [cols="1,4,4,2,4,4,3,2,3,5"]
 |===
 10+^s|Born and Baptized in the year 1823

@@ -10,7 +10,7 @@ image::jhp-bleeke/christian-friedrich-bleeke-1821-birth.png[title="Click to Enla
 
 == Transliteration and Translation
 
-.Transliteration of Carl Friedrich Bleeke 1821 Birth Record
+.Transliteration of Carl Friederich Bleeke 1821 Birth Record
 [cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
 |===
 10+^s|Geborene und Getaufte im Jarhe 1821
@@ -62,7 +62,7 @@ No. 27
 Bleeke aus Leeteln
 |=== 
 
-.Translation of Carl Friedrich Bleeke 1821 Birth Record
+.Translation of Carl Friederich Bleeke 1821 Birth Record
 [cols="1,4,4,2,4,4,3,2,3,5"]
 |===
 10+^s|Born and Baptized in the year 1821
