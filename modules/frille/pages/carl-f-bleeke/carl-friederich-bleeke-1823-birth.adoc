@@ -6,7 +6,7 @@ link:https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8
 NRW Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks
 Minden, Nr. B 168 Jg. 1815-1830].
 
-image::carl-f-bleeke/carl-friederich-bleeke-1823-birth.jpg[title="Click to Enlarge",link=self]
+image::carl-f-bleeke/carl-friederich-bleeke-1823-birth.png[title="Click to Enlarge",link=self]
 
 == Transliteration and Translation
 
