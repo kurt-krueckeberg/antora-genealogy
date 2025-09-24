@@ -18,7 +18,7 @@
 ** xref:frille:carl-f-bleeke/carl-friederich-bleeke-1823-birth.adoc[] 
 ** xref:frille:carl-f-bleeke/marie-christine-bleeke-1826-birth.adoc[] 
 ** xref:frille:carl-f-bleeke/christian-friederich-bleeke-1828-birth.adoc[]
-** xref:frille:carl-f-bleeke/johann-hartweg-gottlieb-leberecht-bleeke-1830-birth.adoc[]
+** xref:frille:carl-f-bleeke/johann-hartweg-gottlieb-bleeke-1830-birth.adoc[]
 * Johann Heinrich Philipp Bleeke's (1797) Children
 ** xref:frille:jhp-bleeke/carl-heinrich-bleeke-1818-birth.adoc[]
 ** xref:frille:jhp-bleeke/christian-friederich-bleeke-1821-birth.adoc[]
