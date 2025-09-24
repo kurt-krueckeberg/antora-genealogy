@@ -42,23 +42,16 @@ s|Namen des Predigers,
 der es getauft.
 s|Name der Taufzeugen
 
-|65
-|Johann Hartweg Gott-
-lieb Leberecht Bleeke
-|Neunzehnten (9t) Decbr.
-Abds neun (9) Uhr
-in Leeteln
-|Ehelich
-|Carl Friederich Blee-
-ke Col. No. 13 in
-Leeteln
-|Marie Luise geb.
-Niemann aus Todtenhausen
-|Leeteln
-|Neunzehnten (19) Decbr
-|Schütz
-|Johann Hartwig
-Wehmeÿer Schul[ehrer?] in Leeteln
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
 |=== 
 
 [IMPORTANT]
@@ -84,31 +77,24 @@ s|Baptism Day
 s|Name of the Pastor who baptized child.
 s|Baptismal Sponsors
 
-|65
-|Sophie Luise Leonore Bleeke footnote:hartweg-name[The manuscript reads *Hartweg* (clear *e* without tittle); however, *Hartweg* is
-unattested as a given name in contemporary sources, while *Hartwig* is standard in Westphalia. Indexed under **Hartwig**.]
-|Neunzehnten (9t) Decbr.
-Abds neun (9) Uhr
-in Leeteln
-|Ehelich
-|Carl Friederich Blee-
-ke Col. No. 13 in
-Leeteln
-|Marie Luise geb.
-Niemann aus Todtenhausen
-|Leeteln
-|Neunzehnten (19) Decbr
-|Schütz
-|Johann Hartwig Wehmeÿer Schul[lehrer] in Leeteln
-
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
 |=== 
 
 
 == Citation
 
-Evangelische Gemeinde Frille (Kreis Minden), Kirchenbuchduplikate, section headed “Gebohrne und Getaufte im Jahr
-1833 Kirchspiel Frille”, Nr. 65, Sophie Luise Leonore Bleeke, born 9 Dec. 1833, baptized 19 Dec. 1833,
-son of Carl Friederich Bleeke and Marie Luise geb. Niemann; Landesarchiv Nordrhein-Westfalen, Abteilung Ostwestfalen-Lippe (Detmold),
-Personenstandsarchiv Westfalen-Lippe; P 1 B-D, B 168 (Jg. 1815–1833); digital images, 
-Archivsuche – Archive in NRW (DFG-Viewer), Image 173 of 180 (accessed 18 September 2025); duplicate register;
-provenance: Land- und Stadt- bzw. Kreisgericht Minden.
+Evangelische Gemeinde Frille (Kreis Minden), Kirchenbuchduplikate, section headed “Geborne und Getaufte im Jahr
+1833 Kirchspiel Frille königlich Preussichen Anteil”, Nr. 8, Sophie Luise Leonore Bleeke, born 4 March 1833,
+baptized 10 March, son of Carl Friederich Bleeke and Marie Luise geb. Niemann; Landesarchiv Nordrhein-Westfalen,
+Abteilung Ostwestfalen-Lippe (Detmold), Personenstandsarchiv Westfalen-Lippe; P 1 B-D, B 168 (Jg. 1815–1833);
+digital images, Archivsuche – Archive in NRW (DFG-Viewer), Image 36 of 210 (accessed 18 September 2025);
+duplicate register; provenance: Land- und Stadt- bzw. Kreisgericht Minden.
