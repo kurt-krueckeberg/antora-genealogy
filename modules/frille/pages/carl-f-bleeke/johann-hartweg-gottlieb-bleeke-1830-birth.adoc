@@ -1,4 +1,4 @@
-= Christian Friederich Bleeke 1828 Birth
+= Johann Hartweg Gottlieb Leberecht Bleeke 1828 Birth
 :page-role: wide
 
 This record is from the
@@ -6,11 +6,11 @@ link:https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8
 NRW Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks
 Minden, Nr. B 168 Jg. 1815-1830].
 
-image::carl-f-bleeke/christian-friederich-bleeke-1828-birth.png[title="Click to Enlarge",link=self]
+image::carl-f-bleeke/johann-hartweg-gottlieb-lebrecht-bleeke.png[title="Click to Enlarge",link=self]
 
 == Transliteration and Translation
 
-.Transliteration of Christian Friederich Bleeke 1828 Birth
+.Transliteration of Johann Hartweg Gottlieb Leberecht Bleeke 1828 Birth
 [cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
 |===
 10+^s|Geborene und Getaufte im Jarhe 1828
@@ -42,26 +42,19 @@ s|Namen des Predigers,
 der es getauft.
 s|Name der Taufzeugen
 
-|9
-|Christian Friederich
-Bleeke
-|Acht und zwanzigsten
-(28t) Februar Abds
-Zehn (10) Uhr zu Leeteln
-|Ehelich
-|Carl Friederich
-Bleeke Col No. 13 
-|Marie Luise geb.
-Niemann
-|Leeteln
-|Zweiten (2t)
-März
-|Schütz
-|Johann Heinrich Blee-
-ke
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
 |=== 
 
-.Translation of Christian Friederich Bleeke 1828 Birth
+.Translation  of Johann Hartweg Gottlieb Leberecht Bleeke 1828 Birt
 [cols="1,4,4,2,4,4,3,2,3,5"]
 |===
 10+^s|Births and Baptims in 1828
@@ -77,24 +70,24 @@ s|Baptism Day
 s|Name of the Pastor who baptized child.
 s|Baptismal Sponsors
 
-|9
-|Christian Friederich Bleeke
-|twenty eighth (28^th^) Feb. ten (10) p.m. at Leeteln
-|legitimate
-|Carl Friederich Bleeke Col No. 13 
-|Marie Luise nee Niemann
-|Leeteln
-|second (2^nd^) March
-|Schütz
-|Johann Heinrich Bleeke
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
 |=== 
 
 
 == Citation
 
-Evangelische Gemeinde Frille (Kreis Minden), Kirchenbuchduplikate, section headed “Geborne und Getaufte im Jahr
-1828 Kirchspiel Frille”, Nr. 9, Christian Friederich Bleeke, born 28 Feb. 1828, baptized 2 March 1828, son of Carl Friederich Bleeke
-and Marie Luise Niemann; Landesarchiv Nordrhein-Westfalen, Abteilung Ostwestfalen-Lippe (Detmold),
+Evangelische Gemeinde Frille (Kreis Minden), Kirchenbuchduplikate, section headed “Gebohrne und Getaufte im Jahr
+1830 Kirchspiel Frille”, Nr. 65, Johann Hartweg Gottlieb Leberecht Bleeke, born 9 Dec. 1830, baptized 19 Dec. 1830,
+son of Carl Friederich Bleeke and Marie Luise geb. Niemann; Landesarchiv Nordrhein-Westfalen, Abteilung Ostwestfalen-Lippe (Detmold),
 Personenstandsarchiv Westfalen-Lippe; P 1 B-D, B 168 (Jg. 1815–1830); digital images, 
-Archivsuche – Archive in NRW (DFG-Viewer), Image 150 of 180 (accessed 18 September 2025); duplicate register;
+Archivsuche – Archive in NRW (DFG-Viewer), Image 173 of 180 (accessed 18 September 2025); duplicate register;
 provenance: Land- und Stadt- bzw. Kreisgericht Minden.
