@@ -20,7 +20,7 @@
 ** xref:bios/abraham-stendler.adoc[]
 ** xref:bios/georg-conrad-wilhelm-reinking.adoc[Georg Conrad W. Reinking]
 ** xref:bios/david-bibelheimer.adoc[]
-* Taufregister
-** xref:image46.adoc[]
-* xref:bios/pastors-at-immanuel.adoc[Pastors]
-* link:https://www.genealogycenter.info/search_adamsimmanuel.php[Search Cemetery Database]
+//* Taufregister
+//** xref:image46.adoc[]
+//* xref:bios/pastors-at-immanuel.adoc[Pastors]
+//* link:https://www.genealogycenter.info/search_adamsimmanuel.php[Search Cemetery Database]
