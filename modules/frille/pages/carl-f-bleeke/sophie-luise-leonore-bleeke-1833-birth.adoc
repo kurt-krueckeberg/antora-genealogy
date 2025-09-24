@@ -42,16 +42,25 @@ s|Namen des Predigers,
 der es getauft.
 s|Name der Taufzeugen
 
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
+|8
+|Sophie Luise Leonore
+Bleeke
+|Vierten (4) März Morgs
+dreÿ (3) Uhr in Leeteln
+|Ehelich
+|Carl Friederich Bleeke
+Col.  No. 13 in Leeteln
+|Marie Luise geb. Nie
+mann aus Todten-
+hausen.
+|Leeteln No. 13
+|Zehnten (10)
+März
+|Schütz
+|1) Sophie† Charlotte †Christine
+Wehmeier
+2) Sophie Luise Friedericke
+Steinmeÿer
 |=== 
 
 [IMPORTANT]
@@ -77,16 +86,18 @@ s|Baptism Day
 s|Name of the Pastor who baptized child.
 s|Baptismal Sponsors
 
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
+
+|8
+|Sophie Luise Leonore Bleeke
+|fourth (4) Marche three (3) a.m. in Leeteln
+|legitimage
+|Carl Friederich Bleeke Colon  No. 13 in Leeteln
+|Marie Luise nee Niemann aus Todtenhausen.
+|Leeteln No. 13
+|tenth (10) March
+|Schütz
+|1) Sophie† Charlotte †Christine Wehmeier
+2) Sophie Luise Friedericke Steinmeier
 |=== 
 
 
