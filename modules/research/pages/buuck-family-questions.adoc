@@ -3,7 +3,8 @@
 
 == Is 'Fredrick Buck' the 'Ernst Friedrich Buuck'?
 
-A **Fredrick Buck** of Adams county, Indiana, was awarded a xref:federal-land-records:attachment$Buck_Frederick_Land_Patent_Adams_CO_IN.pdf[Land Patent]:
+A **Fredrick Buck** of Adams county, Indiana, was awarded a
+xref:federal-land-records:attachment$Buck_Frederick_Land_Patent_Adams_CO_IN.pdf[Land Patent]:
 
 [quote, Award of land patent to Frederick Buck of Adams county, Indiana]
 .Frederick Buck awarded land patent
@@ -37,8 +38,8 @@ Question: Is this Ernst Friedrich Buuck of Preble township, Adams county, Indian
 
 == Is This the 1836 Arrival of Friedrich Buuck (born abt. 1800) Family?
 
-Passenger link:https://www.ancestry.com/imageviewer/collections/7488/images/NYM237_31-0120?pId=1022455917[Arrival List] on Ancstry.com
-of Ship **Birg Sophie** from Bremen, [1?]st arrived August 1836.
+Passenger link:https://www.ancestry.com/imageviewer/collections/7488/images/NYM237_31-0120?pId=1022455917[Arrival
+List] on Ancstry.com of Ship **Birg Sophie** from Bremen, [1?]st arrived August 1836.
 
 [caption="Buck family members for: "]
 .Propsective Arrival of Friedrich Buuck (born abt. 1800) with this family from Bremen

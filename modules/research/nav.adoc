@@ -18,8 +18,6 @@
 * xref:chwk-preble-land-question.adoc[]
 * xref:bleeke-allen-co.adoc[]
 * xref:buuck-family-questions.adoc[]
-* xref:buuck-research-question.adoc[]
-* xref:questions-to-pursue.adoc[]
 * xref:research-plans.adoc[]
 * xref:naturalization-research-plan.adoc[]
 * xref:familienschein-original.adoc[]
