@@ -43,16 +43,30 @@ der es getauft.
 s|Name der Taufzeugen
 
 |65
-|Johann Hartweg Gottlieb Leberecht Bleeke
-|Neunzehnten (9t) Decbr. Abds neun (9) Uhr in Leeteln
+|Johann Hartweg Gott-
+lieb Leberecht Bleeke
+|Neunzehnten (9t) Decbr.
+Abds neun (9) Uhr
+in Leeteln
 |Ehelich
-|Carl Friederich Bleeke Col. No. 13 in Leeteln
-|Marie Luise geb. Niemann aus Todtenhausen
+|Carl Friederich Blee-
+ke Col. No. 13 in
+Leeteln
+|Marie Luise geb.
+Niemann aus Todtenhausen
 |Leeteln
 |Neunzehnten (19) Decbr
 |Schütz
-|Johann Hartwig Wehmeÿer Schul[???]serer in Leeteln
+|Johann Hartwig
+Wehmeÿer Schul[-Cassirer] in Leeteln
 |=== 
+
+[IMPORTANT]
+====
+The child's name reads as *Johann Hartweg...*. The *e* is clear and without a dot above it; however, *Hartweg* is
+unattested as a given name in contemporary sources, while *Hartwig* is standard in Westphalia. The godfather's
+forenames includes *Harwig*. The scribe may have inadvertently written *Hartweg* for *Harwig*?
+====
 
 .Translation  of Johann Hartweg Gottlieb Leberecht Bleeke 1828 Birt
 [cols="1,4,4,2,4,4,3,2,3,5"]
@@ -70,16 +84,23 @@ s|Baptism Day
 s|Name of the Pastor who baptized child.
 s|Baptismal Sponsors
 
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
+|65
+|Johann Hartweg Gottlieb Leberecht Bleeke footnote:hartweg-name[The manuscript reads *Hartweg* (clear *e* without tittle); however, *Hartweg* is
+unattested as a given name in contemporary sources, while *Hartwig* is standard in Westphalia. Indexed under **Hartwig**.]
+|Neunzehnten (9t) Decbr.
+Abds neun (9) Uhr
+in Leeteln
+|Ehelich
+|Carl Friederich Blee-
+ke Col. No. 13 in
+Leeteln
+|Marie Luise geb.
+Niemann aus Todtenhausen
+|Leeteln
+|Neunzehnten (19) Decbr
+|Schütz
+|Johann Hartwig Wehmeÿer Schul[-Cassirer] in Leeteln
+
 |=== 
 
 
