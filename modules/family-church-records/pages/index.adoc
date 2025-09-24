@@ -1,0 +1,52 @@
+= German Kirchenbücher Records
+
+== Holdings in the Bückeburg Deparment of the Lower Saxonz State Archives
+
+The Bückeburg Abteilung of the Niedersachen Landesarchiv (Bückeburg Department of the Lower Saxony State Archives) has microfilm of the 
+Kirchenbücher for Petzen and Frille and all other Bückeburg Gemeinde (parishes).
+
+Their holdings are available online using link:https://www.arcinsys.niedersachsen.de/arcinsys/start[Arcsys].
+Niedersachsen and Bremen.
+
+You can use it to browse the Bückeburg link:https://www.arcinsys.niedersachsen.de/arcinsys/start.action?opennutzunginfo=false[Kirchenbücher der Evangelische Gemeinden in Schaumburg-Lippe](the
+church registers of the Protestand parishes in Schaumburg-Lippe).
+
+=== Archion.de Holdings
+
+Digitized Kirchenbücher for Petzen (Krückeberg, Bleeke and Weiland) Frille (Bleeke), Buchholz (Kleinschmidt) and  Windheim (Buuck)
+are available link:http://www.archion.de/[www.archion.de], the Protestant Kirchbücher portal (for a subscription). 
+
+==== Synopsis
+
+The bad news is, the Frille digitalized church registers end with the
+year 1804, and the Petzen church registers end with 1827.
+
+However, for Frille, there are _Abschriften_ of its church registers that extend to more recent
+times. An _Abschribt_(the plural form is _Abschriften_) is: a copy; transcript, or
+transcription. While one would have to travel to Bückeburg (and make appointment in advanced with
+the Bückeburg archive) to view these Abschriften. The table below shows what timeframes are available.
+
+=== Frille Abschriften
+
+The Frille Abschriften, copies or transcriptions of the Kirchebbücher are availabe for these
+much more recent timeframes. These volume
+
+[caption="More recent Frille records  "]
+.Frille Abschriften (transcription, copy) 
+[%autowidth, %header,width="%40"]
+|===
+|Record Type | Timeframe Available
+
+|Marriage Records
+|1805-1852
+
+|Marriage Records
+|1853-1906
+
+|Deaths Records
+|1805-1960
+
+|Confirmations
+| 1808-1898
+|===
+
