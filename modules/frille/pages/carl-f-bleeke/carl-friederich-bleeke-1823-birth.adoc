@@ -42,16 +42,23 @@ s|Namen des Predigers,
 der es getauft.
 s|Name der Taufzeugen
 
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
+|39
+|Carl Fried: Bleeke
+|zwölften (12) October
+Nachts elf (11) Uhr zu
+Leeteln.
+|ehelich
+|Carl Fried: Bleeke
+No. 13 Leeteln
+|Marie Luise Nie-
+mann
+|Leeteln
+No. 13
+|Neunzehnten
+(19) October
+|Schütz
+|Carl Fried: Hartmann
+aus Frille
 |=== 
 
 .Translation of Carl Friederich Bleeke 1820 Birth
@@ -70,16 +77,18 @@ s|Baptism Day
 s|Name of the Pastor who baptized child.
 s|Baptismal Sponsors
 
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
+|39
+|Carl Fried: Bleeke
+|twelfeth (12) October
+eleven (11) p.m. at Leeteln
+|legitimage
+|Carl Fried: Bleeke No. 13 Leeteln
+|Marie Luise Niemann
+|Leeteln No. 13
+|nineteenth (19) October
+|Schütz
+|Carl Fried: Hartmann from Frille
+
 |=== 
 
 == Citation
