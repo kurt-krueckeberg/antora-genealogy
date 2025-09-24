@@ -3,6 +3,7 @@
 * xref:petzen-frille-research.adoc[]
 * xref:schaumburg-lippe-censuses.adoc[]
 * xref:stand-meaning.adoc[]
+* xref:carl-f-bleeke-military-service.adoc[]
 * xref:friedrich-wilhelm-weiland-evesen-questions.adoc[]
 * xref:schaumburg-lippe-nonchurch-records.adoc[]
 * xref:OrtsFamilienBücher.adoc[]
