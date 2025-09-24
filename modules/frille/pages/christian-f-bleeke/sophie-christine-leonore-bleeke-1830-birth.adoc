@@ -43,19 +43,29 @@ der es getauft.
 s|Name der Taufzeugen
 
 |41
-|
-|
-|
-|
-|
-|
-|
-|
-|
+|Sophie Christine
+Leonore Bleeke
+|Sieben and zwanzigsten
+(27t) Julÿ Morgs sechs
+(6) Uhr in Leeteln
+|Ehelich
+|Christian Friederich
+Bleeke Tagelöhner und
+Einlieg[er] beÿ N: 16
+|Christine Luise
+geb. Krückeberg
+aus Bärenbusch
+|Leeteln
+|Einsten 
+(1) August
+|Schütz
+|Marie Leonore Stahlhut
+Sophie Luise Steinmeÿer
+Sophie Dorothea Krückeberg
 |===
 
 .Translation of Sophie Christine Leonore Bleeke 1830 Birth
-[cols="1,4,4,2,4,4,3,2,2,5"]
+[cols="1,4,4,2,4,4,3,2,2,5a"]
 |===
 10+^s|Births and Baptisms in the year 1823
 
@@ -71,15 +81,25 @@ s|Name of the minister
 s|Name of Godparents
 
 |41
-|
-|
-|
-|
-|
-|
-|
-|
-|
+|Sophie Christine
+Leonore Bleeke
+|Sieben and zwanzigsten
+(27t) Julÿ Morgs sechs
+(6) Uhr in Leeteln
+|Ehelich
+|Christian Friederich
+Bleeke Tagelöhner und
+Einlieg[er] beÿ N: 16
+|Christine Luise
+geb. Krückeberg
+aus Bärenbusch
+|Leeteln
+|Einsten 
+(1) August
+|Schütz
+|Marie Leonore Stahlhut +
+Sophie Luise Steinmeÿer +
+Sophie Dorothea Krückeberg
 |===
 
 == Citation
