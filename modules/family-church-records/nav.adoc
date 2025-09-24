@@ -23,6 +23,7 @@
 *** xref:frille:carl-f-bleeke/johann-hartweg-gottlieb-bleeke-1830-birth.adoc[]
 *** xref:frille:carl-f-bleeke/sophie-luise-leonore-bleeke-1833-birth.adoc[]
 *** xref:frille:carl-f-bleeke/christine-friederike-marie-leonore-bleeke-1835-birth.adoc[]
+*** xref:german-evangelical-lutheran-and-reformed-church:friedrich-joseph-bleke-1837-baptism.adoc[]
 ** Johann Heinrich Philipp Bleeke's (1797) Children
 *** xref:frille:jhp-bleeke/carl-heinrich-bleeke-1818-birth.adoc[]
 *** xref:frille:jhp-bleeke/christian-friederich-bleeke-1821-birth.adoc[]
@@ -31,6 +32,7 @@
 *** xref:frille:jhp-bleeke/christine-marie-bleeke-1828-birth.adoc[]
 *** xref:frille:jhp-bleeke/christine-sophie-eleonore-bleeke-1831-birth.adoc[]
 *** xref:frille:jhp-bleeke/marie-luise-eleonore-bleeke-1833-birth.adoc[]
+*** xref:german-evangelical-lutheran-and-reformed-church:emilie-bleke-1837-baptism.adoc[]
 ** Christian Friedrich Bleeke's (1800) Children
 *** xref:frille:christian-f-bleeke/christine-luise-bleeke-1827-birth.adoc[]
 *** xref:frille:christian-f-bleeke/sophie-christine-leonore-bleeke-1830-birth.adoc[]
