@@ -51,30 +51,35 @@ was published in ????:
 [quote, Naturalization, page 1]
 .Adams County Trumpeter of the Adams County Historical Society, Vol. 6., No. 3, October 1988, page 1:
 ____
-The US Department of Justice sponsored a nationwide project from October, 1941, to April, 1942, to locate and index these
-records. We are fortunate that all 92 counties in the state of Indiana participated in the project which was administered by
-the Division of Community Services Programs, Works Projects Administration. War effort superseded completion of the project
-nationwide. The completed index survey files were found in the late seventies in the archives division of the Indiana State
-Library. The family history section of the Indiana Historical Society became interested in the files and in 1981 published
-“An Index to Indiana naturalization records found in various order books of the ninety-two local courts prior to 1907”. A copy is
-still available for $10 to members and $20 to non-members from the Indiana Historical Society….
+The US Department of Justice sponsored a nationwide project from October, 1941, to April, 1942, to locate and index
+these records. We are fortunate that all 92 counties in the state of Indiana participated in the project which was
+administered by the Division of Community Services Programs, Works Projects Administration. War effort superseded
+completion of the project nationwide. The completed index survey files were found in the late seventies in the
+archives division of the Indiana State Library. The family history section of the Indiana Historical Society became
+interested in the files and in 1981 published “An Index to Indiana naturalization records found in various order
+books of the ninety-two local courts prior to 1907”. A copy is still available for $10 to members and $20 to
+non-members from the Indiana Historical Society….
 ____
 
-The index gives 1.) the person's name, 2.) the name of the court order book and 3.) the page number within the book.
+The index gives 1.) the person's name, 2.) the name of the court order book and 3.) the page number within the
+book.
 
 [IMPORTANT]
 ====
-**An Index to Indiana naturalization records found in various order books of the ninety-two local courts prior to 1907**
-is available at several libraries in Indiana. The complete holdings in Indiana county libraries is link:https://evergreen.lib.in.us/eg/opac/record/18411727[here].
+**An Index to Indiana naturalization records found in various order books of the ninety-two local courts prior to
+1907** is available at several libraries in Indiana. The complete holdings in Indiana county libraries is
+link:https://evergreen.lib.in.us/eg/opac/record/18411727[here].
 
-The copy in the Adams County Pulib Library, Decatur, is link:https://apls.evergreenindiana.org/GroupedWork/c74895c5-bfe9-5a92-13cb-2adcf2ce7bdb-eng/Home?searchId=4291430&recordIndex=1&page=1&searchSource=local&referred=resultIndex[INREF
+The copy in the Adams County Pulib Library, Decatur, is
+link:https://apls.evergreenindiana.org/GroupedWork/c74895c5-bfe9-5a92-13cb-2adcf2ce7bdb-eng/Home?searchId=4291430&recordIndex=1&page=1&searchSource=local&referred=resultIndex[INREF
 929.377 IND]
 ====
 
 Starting in 1854 separate naturalization ledgers were begun in Adams county, Indiana.
 
-FamilySearch has digitized the link:https://www.familysearch.org/search/catalog/1150012[Adams' County Court Order books] and
-they are availalbe to view at afflilates like the Genealogy Center, where the images can be downloaded to one's harddrive.
+FamilySearch has digitized the link:https://www.familysearch.org/search/catalog/1150012[Adams' County Court Order
+books] and they are availalbe to view at afflilates like the Genealogy Center, where the images can be downloaded
+to one's harddrive.
 
 [IMPORTANT]
 .Guides to Understanding the WPA Indexes and Surverys
@@ -82,15 +87,21 @@ they are availalbe to view at afflilates like the Genealogy Center, where the im
 
 The first volume below seems to hold the most essential background. 
 
-* FamilySearach digitized book link:https://www.familysearch.org/library/books/records/item/398714-the-wpa-historical-records-survey-a-guide-to-the-unpublished-inventories-indexes-and-transcripts[The WPA historical records survey : a guide to the unpublished inventories, indexes, and transcripts]
+* FamilySearach digitized book
+link:https://www.familysearch.org/library/books/records/item/398714-the-wpa-historical-records-survey-a-guide-to-the-unpublished-inventories-indexes-and-transcripts[The
+WPA historical records survey : a guide to the unpublished inventories, indexes, and transcripts]
 
-* Family History Library lecture: link:https://youtu.be/fRc8GQghBsI?si=ehbVYszx0pPoLJtN[Certifying Citizenship: An Introduction to U.S. Naturalization Records]
+* Family History Library lecture: link:https://youtu.be/fRc8GQghBsI?si=ehbVYszx0pPoLJtN[Certifying Citizenship: An
+Introduction to U.S. Naturalization Records]
 
-* FamilyTree Magazine article on link:https://familytreemagazine.com/records/occupational/good-works-wpa-projects/[Where to Look for Works Progress Administration (WPA) Records]
+* FamilyTree Magazine article on
+link:https://familytreemagazine.com/records/occupational/good-works-wpa-projects/[Where to Look for Works
+Progress Administration (WPA) Records]
 
 * National Archives page on link:https://www.archives.gov/research/immigration/naturalization[Naturalization]
 
-* Ancestry's Family History Learning Hub's article on link:https://www.ancestry.com/c/family-history-learning-hub/wpa[Works Progress Administration (WPA)]
+* Ancestry's Family History Learning Hub's article on
+link:https://www.ancestry.com/c/family-history-learning-hub/wpa[Works Progress Administration (WPA)]
 ====
 
 == Maps
