@@ -1,0 +1,39 @@
+= Carl Friedrich Bleeke (born 1794) Military Service
+
+His headstone mentions the battle of Waterloo. Do his military records exist?
+
+Sources to consult:
+Good question—tracking down German military service records from the Napoleonic period can be tricky, but not impossible. Here’s how it works in your ancestor’s case:
+
+== 1. Where records might exist
+
+Since your ancestor was born in **Leteln (today part of Porta Westfalica, Kreis Minden, North Rhine–Westphalia)** and likely fought at Waterloo as a Prussian soldier:
+
+* **Prussian Army records** are the most likely source.
+* These are generally held today in the **Geheimes Staatsarchiv Preußischer Kulturbesitz (GStA PK)** in Berlin, and in part in the **Bundesarchiv-Militärarchiv in Freiburg**.
+* Local/regional recruiting and Landwehr rolls may also survive in the **Landesarchiv NRW (North Rhine–Westphalia State Archive, Abteilung OWL in Detmold)**, since Minden fell under their jurisdiction.
+
+== 2. What kinds of documents might exist
+
+* **Stammrollen / Musterungslisten (muster rolls)**: registers listing men called up for service.
+* **Kriegsteilnehmerlisten (campaign rolls)**: lists of those who served in specific campaigns (1813–1815).
+* **Pension or veteran files**: if he applied for benefits, but many emigrants did not.
+* **Landwehr registers**: after 1813, all able-bodied men were assigned to Landwehr units.
+* **Local militia rolls**: sometimes kept in parish or Amts archives.
+
+== 3. Where to start searching
+
+1. **Bundesarchiv (Freiburg)** – Ask about Napoleonic-era army personnel records for the *1. Westfälisches Landwehr-Infanterie-Regiment* or *Infanterie-Regiment Nr. 15/18*, units from Minden region.
+2. **Geheimes Staatsarchiv PK (Berlin)** – They hold the central Prussian Army administration records.
+3. **Landesarchiv NRW (Detmold branch)** – They may have surviving district mustering rolls (Kreis Minden).
+4. **FamilySearch / published regimental histories** – Some muster rolls and Landwehr lists from 1813–15 have been microfilmed or transcribed.
+5. **Waterloo Medal Rolls / casualty lists** – Some were published, especially for British units, but there are also lists of Prussian fallen and decorated soldiers.
+
+== 4. Practical challenges
+
+* **Not all records survive.** Napoleonic campaigns were chaotic, and many local muster lists were lost.
+* **Prussian records are not centralized online.** Requests must often be made by mail/email to the archives.
+* **Name variants matter.** "Bleeke" vs. "Bleke" vs. "Bliecke" might all appear.
+
+== Step-by-Step Research Plan
+
