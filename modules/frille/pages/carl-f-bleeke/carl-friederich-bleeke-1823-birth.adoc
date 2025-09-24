@@ -10,7 +10,7 @@ image::carl-f-bleeke/carl-friederich-bleeke-1823-birth.png[title="Click to Enlar
 
 == Transliteration and Translation
 
-.Transliteration of Carl Friederich Bleeke 1820 Birth
+.Transliteration of Carl Friederich Bleeke 1823 Birth
 [cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
 |===
 10+^s|Geborene und Getaufte im Jarhe 1820
@@ -61,7 +61,7 @@ No. 13
 aus Frille
 |=== 
 
-.Translation of Carl Friederich Bleeke 1820 Birth
+.Translation of Carl Friederich Bleeke 1823 Birth
 [cols="1,4,4,2,4,4,3,2,3,5"]
 |===
 10+^s|Births and Baptims in 1820
