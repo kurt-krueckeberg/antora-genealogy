@@ -1,4 +1,4 @@
-= Christine Sophie Leonore Bleeke 1841 Birth
+= Chrsitine Luise Leonore Bleeke 1841 Birth
 :page-role: wide
 
 This record is from 
@@ -8,7 +8,7 @@ Regierungsbezirks Minden, Nr. B 168 Jg. 1831-1845]
 
 image::christian-f-bleeke/christine-sophie-leonore-bleeke-1841-birth.png[title=Click to Enlarge,link=self]
 
-.Transliteration of Christine Sophie Leonore Bleeke 1841 Birth
+.Transliteration of Christine Luise Leonore Bleeke 1843 Birth
 [cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
 |===
 10+^s|Geborne und Getaufte im Jarhe 1836
@@ -51,7 +51,7 @@ s|Name der Taufzeugen
 |
 |===
 
-.Translation of Christine Sophie Leonore Bleeke 1841 Birth
+.Translation of Christine Luise Leonore Bleeke 1843 Birth
 [cols="1,4,4,2,4,4,3,2,3,5a"]
 |===
 10+^s|Born and Baptized in the year 1823
@@ -82,7 +82,7 @@ s|Baptismal witnesses
 == Citation
 
 Evangelische Gemeinde Frille (Kreis Minden), Kirchenbuchduplikate, section headed "Geborne und Getaufte im Jahr
-1841 in Kirchspiel Frille" [sic.], Nr. 16, Christine Sophie Leonore Bleeke, born 7 April 1841, baptized 12 April
+1841 in Kirchspiel Frille" [sic.], Nr. 16, Chrsitine Luise Leonore Bleeke, born 7 April 1841, baptized 12 April
 1841; Landesarchiv Nordrhein-Westfalen, Abteilung Ostwestfalen-Lippe (Detmold), Personenstandsarchiv
 Westfalen-Lippe; P 1 B-D, B 168 (Jg. 1831-1845); digital images, Archivsuche – Archive in NRW (DFG-Viewer), Image
 146/180 (accessed 20 September 2025); duplicate register; provenance: Land- und Stadt- bzw.  Kreisgericht Minden.
