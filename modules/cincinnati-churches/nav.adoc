@@ -1,1 +1,6 @@
 * xref:index.adoc[]
+** Bleeke occurances in Norddeutsche Lutherische Kirche Kirchenbuch
+*** xref:north-german-lutheran:vol2-page20-bleeke.adoc[]
+*** xref:north-german-lutheran:vol2-page24-bleeke.adoc[]
+*** xref:north-german-lutheran:vol2-page28-bleeke.adoc[]
+*** xref:north-german-lutheran:vol2-page34-bleeke.adoc[]
