@@ -1,4 +1,4 @@
-= Christine Friedericke Marie Leonore Bleeke 1835 Birth
+= Christine Friederike Marie Leonore Bleeke 1835 Birth
 :page-role: wide
 
 This record is from the
@@ -6,11 +6,11 @@ link:https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8
 NRW Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks
 Minden, Nr. B 168 Jg. 1831-1845].
 
-image::carl-f-bleeke/christine-friedericke-marie-leonore-bleeke-1835-birth.png[title="Click to Enlarge",link=self]
+image::carl-f-bleeke/christine-friederike-marie-leonore-bleeke-1835-birth.png[title="Click to Enlarge",link=self]
 
 == Transliteration and Translation
 
-.Transliteration of Christine Friedericke Marie Leonore Bleeke 1835 Birth
+.Transliteration of Christine Friederike Marie Leonore Bleeke 1835 Birth
 [cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
 |===
 10+^s|Geborene und Getaufte im Jarhe 1835
@@ -42,8 +42,8 @@ s|Namen des Predigers,
 der es getauft.
 s|Name der Taufzeugen
 
-|
-|
+|8
+|Christine Friedrike
 |
 |
 |
@@ -54,7 +54,7 @@ s|Name der Taufzeugen
 |
 |=== 
 
-.Translation  of Christine Friedericke Marie Leonore Bleeke 1835 Birth
+.Translation  of Christine Friederike Marie Leonore Bleeke 1835 Birth
 [cols="1,4,4,2,4,4,3,2,3,5"]
 |===
 10+^s|Births and Baptims in 1835
@@ -87,7 +87,7 @@ s|Baptismal Sponsors
 == Citation
 
 Evangelische Gemeinde Frille (Kreis Minden), Kirchenbuchduplikate, section headed “Geborne und Getaufte im Jahr
-1835 Kirchspiel Frille königlich Preussichen Anteil” [sic.], Nr. 8, Christine Friedericke Marie Leonore Bleeke,
+1835 Kirchspiel Frille königlich Preussichen Anteil” [sic.], Nr. 8, Christine Friederike Marie Leonore Bleeke,
 born ?? ?? ??, baptized ?? ?? ??, son of Carl Friederich Bleeke and Marie Luise geb. Niemann; Landesarchiv Nordrhein-Westfalen,
 Abteilung Ostwestfalen-Lippe (Detmold), Personenstandsarchiv Westfalen-Lippe; P 1 B-D, B 168 (Jg. 1815–1835);
 digital images, Archivsuche – Archive in NRW (DFG-Viewer), Image 63 of 210 (accessed 18 September 2025);
