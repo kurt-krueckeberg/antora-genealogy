@@ -66,6 +66,8 @@ Christine Marie Leonore Schäkel
 Christine Sophoe Luise Steinkämper
 |===
 
+.Explanation of terms
+****
 [NOTE]
 ====
 * *Einlieger* = a lodger/sub-tenant or cottager *without his own farm or land*. It’s a residential/tenure status
@@ -74,6 +76,7 @@ Christine Sophoe Luise Steinkämper
 * *Taglöhner* (Tagelöhner) = a day laborer, hired as needed and paid by the day. It’s an *occupation/economic role*.
 
 ====
+****
 
 .Translation of Christine Marie Leonore Bleeke 1843 Birth
 [cols="1,4,4,2,4,4,3,2,3,5a"]
