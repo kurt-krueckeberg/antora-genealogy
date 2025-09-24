@@ -1,4 +1,4 @@
-= Chrsitine Luise Leonore Bleeke 1843 Birth
+= Christine Marie Leonore Bleeke 1843 Birth 
 :page-role: wide
 
 This record is from 
@@ -6,9 +6,9 @@ link:https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_0248b6a4
 Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des
 Regierungsbezirks Minden, Nr. B 168 Jg. 1831-1845]
 
-image::christian-f-bleeke/christine-luise-leonore-bleeke-1843-birth.png[title=Click to Enlarge,link=self]
+image::christian-f-bleeke/christine-marie-leonore-bleeke-1843-birth.png[title=Click to Enlarge,link=self]
 
-.Transliteration of Christine Luise Leonore Bleeke 1843 Birth
+.Transliteration of Christine Marie Leonore Bleeke 1843 Birth
 [cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
 |===
 10+^s|Geborne und Getaufte im Jarhe 1836
@@ -52,7 +52,7 @@ p
 |
 |===
 
-.Translation of Christine Luise Leonore Bleeke 1843 Birth
+.Translation of Christine Marie Leonore Bleeke 1843 Birth
 [cols="1,4,4,2,4,4,3,2,3,5a"]
 |===
 10+^s|Born and Baptized in the year 1823
