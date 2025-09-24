@@ -44,18 +44,30 @@ s|Name der Taufzeugen
 
 |8
 |Christine Friedrike
-|
-|
-|
-|
-|
-|
-|
-|
+Marie Leonoe Blee-
+ke
+|Zwanzigsten (20) Febru-
+ar Abds sieben (7)
+Uhr in Leeteln
+|Ehelich
+|Carl Friedrich Blee-
+ke Col. v. No. 13
+in Leeteln
+|Marie Luise geb.
+Niemann aus
+Todtenhasuen
+|Leeteln
+|Einsten (1)
+März
+|Schütz
+|Friederike Wehmeÿer
+Maire Siemon
+Leonore Meÿer
+Leonore v. Behrend
 |=== 
 
 .Translation  of Christine Friederike Marie Leonore Bleeke 1835 Birth
-[cols="1,4,4,2,4,4,3,2,3,5"]
+[cols="1,4,4,2,4,4,3,2,3,5a"]
 |===
 10+^s|Births and Baptims in 1835
 
@@ -71,16 +83,19 @@ s|Name of the Pastor who baptized child.
 s|Baptismal Sponsors
 
 
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
+|8
+|Christine Friedrike Marie Leonoe Bleeke
+|Zwanzigsten (20) Frebruary seven (7) p.m. in Leeteln
+|legitimate
+|Carl Friedrich Bleeke Colon of No. 13 in Leeteln
+|Marie Luise nee Niemann from Todtenhasuen
+|Leeteln
+|first (1) March
+|Schütz
+|Friederike Wehmeÿer +
+Maire Siemon +
+Leonore Meÿer +
+Leonore v. Behrend
 |=== 
 
 
