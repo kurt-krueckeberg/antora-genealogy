@@ -1,4 +1,4 @@
-* xref:german-evangelical-lutheran-and-reformed-church:vol1-page42-emilie-bleke.adoc[]
-* xref:german-evangelical-lutheran-and-reformed-church:vol1-page42-friedrich-joseph-bleke.adoc[]
-* xref:german-evangelical-lutheran-and-reformed-church:vol1-page172-carl-friedrich-wilhelm-bleeke.adoc[]
+* xref:german-evangelical-lutheran-and-reformed-church:emilie-bleke-1837-baptism.adoc[]
+* xref:german-evangelical-lutheran-and-reformed-church:friedrich-joseph-bleke-1837-baptism.adoc[]
+* xref:german-evangelical-lutheran-and-reformed-church:carl-friedrich-wilhelm-bleeke-1837-confirmation.adoc[]
 
