@@ -1,0 +1,4 @@
+* xref:zion-friedheim.adoc[]
+* xref:st-cosmos.adoc[]
+* xref:1830s-lutheran-churches-cincinnati.adoc[]
+* xref:immanuel-lutheran-decatur.adoc[]
