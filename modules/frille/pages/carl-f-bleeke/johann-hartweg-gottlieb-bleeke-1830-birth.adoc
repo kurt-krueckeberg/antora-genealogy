@@ -1,4 +1,4 @@
-= Johann Hartweg Gottlieb Leberecht Bleeke 1828 Birth
+= Johann Hartweg Gottlieb Leberecht Bleeke 1830 Birth
 :page-role: wide
 
 This record is from the
@@ -10,10 +10,10 @@ image::carl-f-bleeke/johann-hartweg-gottlieb-lebrecht-bleeke.png[title="Click to
 
 == Transliteration and Translation
 
-.Transliteration of Johann Hartweg Gottlieb Leberecht Bleeke 1828 Birth
+.Transliteration of Johann Hartweg Gottlieb Leberecht Bleeke 1830 Birth
 [cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
 |===
-10+^s|Geborene und Getaufte im Jarhe 1828
+10+^s|Geborene und Getaufte im Jarhe 1830
 
 s|Nro.
 s|Tauf-Name
@@ -68,10 +68,10 @@ unattested as a given name in contemporary sources, while *Hartwig* is standard 
 given names includes *Harwig*. Did th scribe inadvertently write *Hartweg* for *Harwig*?
 ====
 
-.Translation  of Johann Hartweg Gottlieb Leberecht Bleeke 1828 Birt
+.Translation  of Johann Hartweg Gottlieb Leberecht Bleeke 1830 Birt
 [cols="1,4,4,2,4,4,3,2,3,5"]
 |===
-10+^s|Births and Baptims in 1828
+10+^s|Births and Baptims in 1830
 
 s|Num.
 s|Baptism-Name of the child.
