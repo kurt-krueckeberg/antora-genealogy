@@ -78,6 +78,8 @@ gebe
 .Translation of Carl Friederich Bleeke 1825 Death
 [cols="1,5,4,1,1,1,4,3,3,4,2,3"]
 |===
+12+^s|Deaths in 1825
+
 <s|Num.
 ^s|Given and Surname of the Deceased, (for children the name and status of the father, too).
 ^s|Status of the Deceased.
