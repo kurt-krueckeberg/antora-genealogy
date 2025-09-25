@@ -13,7 +13,7 @@ image::christian-f-bleeke/sophie-christine-leonore-bleeke-1830-birth.png[title=C
 .Transliteration of Sophie Christine Leonore Bleeke 1830 Birth
 [cols="1l,4l,4l,2l,4l,4l,3l,2l,2l,5l"]
 |===
-10+^s|Geborne und Getaufte im Jarhe 1833
+10+^s|Geborne und Getaufte im Jarhe 1830
 
 s|Nro.
 s|Tauf-Name
@@ -67,7 +67,7 @@ Sophie Dorothea Krückeberg
 .Translation of Sophie Christine Leonore Bleeke 1830 Birth
 [cols="1,4,4,2,4,4,3,2,2,5a"]
 |===
-10+^s|Births and Baptisms in the year 1823
+10+^s|Births and Baptisms in the year 1830
 
 s|No.
 s|Baptismal name of the child.
