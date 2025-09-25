@@ -15,8 +15,6 @@ We would also like the records below confirmed.
 
 == Frille Volumes
 
-The original church registers are not listed in link:https://www.arcinsys.niedersachsen.de/[Arcinsys] catalog.
-
 === Frille Church Register Duplicates in NRW Detmold Archive
 
 From: https://www.archive.nrw.de/archivsuche
@@ -33,7 +31,12 @@ From: https://www.archive.nrw.de/archivsuche
 Link: link:https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820[Kirchenbuchduplikat der evangelischen
 Gemeinde Frille, Kreis Minden]
 
-=== Baptism
+=== Frille Records in Niedersächsisches Landesarchiv, Bückeburg Abteilung
+
+The original Frille church registers are not listed in link:https://www.arcinsys.niedersachsen.de/[Arcinsys] catalog.
+These below are Abschriften or contain Abschriften.
+
+==== Baptisms
 
 [[baptisms]]
 .Frille Baptism Church register copies in Bückeburg Archive
@@ -55,7 +58,7 @@ link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514
 |Paper copy
 |===
 
-=== Confirmations
+==== Confirmations
 
 .Frille Confirmations church register copies in Bückeburg Archive
 [cols="2,4,2,2"]
@@ -73,7 +76,7 @@ link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514
 |Paper copy, film (digital?), microfiche
 |===
 
-=== Marriages
+==== Marriages
 
 .Frille Marriage Church register copies in Bückeburg Archive
 [cols="2,4,2,2"]
@@ -106,7 +109,7 @@ Heiratsregister der ev. luth. Kirche Frille
 |Paper copy
 |===
 
-=== Deaths
+==== Deaths
 
 .Frille Death Kirchenbücher Volumes in Bückeburg Archive
 [cols="2,4,2,2"]
