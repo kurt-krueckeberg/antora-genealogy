@@ -4,12 +4,23 @@
 
 The families of brothers Carl Friedrich Bleeke (1794-1853) and Johann Heinrich Philip Bleeke (1797-1883) were frist
 members of the Deutsche Evangelisch-Lutherische und Reformierte Kirche von Cincinnati (German Evangelical Lutheran
-and Reformed Church of Cincinnati). Three Bleeke children were born during this time:
+and Reformed Church of Cincinnati). Two Bleeke children were born during this time and one was confirmed and
+died:
 
-[arabic,start=1]
-.
-.
-.
+*Born:*
+
+* xref:german-evangelical-lutheran-and-reformed-church:friedrich-joseph-bleke-1837-baptism.adoc[Friedrich Joseph
+Bleeke], son of Carl Friedrich Bleeke
+* xref:german-evangelical-lutheran-and-reformed-church:emilie-bleke-1837-baptism.adoc[Emilie Bleeke], daughter of Johann Heinrich Philip Bleeke
+
+*Confirmed:*
+
+* xref:german-evangelical-lutheran-and-reformed-church:carl-friedrich-wilhelm-bleeke-1837-confirmation.adoc[Carl
+* Freidrich Wilhelm Bleeke]
+
+*Died:* TODO
+
+
 
 When the church split on December 17, 1838, the Johann Heinrich Bleeke family and likely the Carl Friedrich Bleeke
 family joined those who desired to found a new church, the Norddeutsche Evangelisch-Lutherische Kirche (the North
