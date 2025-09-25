@@ -17,7 +17,7 @@ We would also like the records below confirmed.
 
 The original church registers are not listed in link:https://www.arcinsys.niedersachsen.de/[Arcinsys] catalog.
 
-=== Frille Church Register Duplicates
+=== Frille Church Register Duplicates in NRW Detmold Archive
 
 From: https://www.archive.nrw.de/archivsuche
 
@@ -27,8 +27,8 @@ From: https://www.archive.nrw.de/archivsuche
 .     Kirchenbuchduplikate, Zivilstands-, Juden- und Dissidentenregister ->
 .       Regierungsbezirks Minden ->
 .          Frille, Kreis Minden -> 
-.                     -> Zivilstandregister 
-.                     -> Kirchenbuchduplikate
+.                     Zivilstandregister +
+                      Kirchenbuchduplikate
 
 Link: link:https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820[Kirchenbuchduplikat der evangelischen
 Gemeinde Frille, Kreis Minden]
