@@ -13,7 +13,7 @@ image::christian-f-bleeke/christine-luise-bleeke-1827-birth.png[title=Click to E
 .Transliteration of Christine Luise Bleeke 1827 Birth
 [cols="1l,4l,4l,2l,4l,4l,3l,2l,2l,5l"]
 |===
-10+^s|Geborne und Getaufte im Jarhe 1833
+10+^s|Geborne und Getaufte im Jarhe 1827
 
 s|Nro.
 s|Tauf-Name
@@ -66,7 +66,7 @@ Bleeke.
 .Translation of Christine Luise Bleeke 1827 Birth
 [cols="1,4,4,2,4,4,3,2,2,5"]
 |===
-10+^s|Births and Baptisms in the year 1823
+10+^s|Births and Baptisms in the year 1827
 
 s|No.
 s|Baptismal name of the child.
