@@ -91,18 +91,21 @@ and adult or underage surviving children.
 ^s|Day of Burial
 ^s|Graveyard where buried
 
+|14
+|Carl Friederich Bleeke  
+third son of Johann  
+Heinrich Bleeke, colonist at No. 16  
+in Leteln
 |
+|1
+|10
 |
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
+|the father  
+and siblings
+|Eleventh (11) of May  
+evening seven (7) o’clock in Frille
+|measles
+|No physician gave help
+|Fifteenth (15) of May
+|Frille
 |===
-
-
