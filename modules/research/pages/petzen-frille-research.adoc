@@ -43,20 +43,14 @@ Gemeinde Frille, Kreis Minden]
 
 |link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514254[NLA BU, S 8, Frille Absch. Nr.
 1]
-|*Baptism register* of the Evangelical Lutheran Church in Frille +
-*Includes:* Chronological transcript of the Evangelical Lutheran church records of the Frille parish office, compiled by Manfred Pöhler
-
-*Taufregister* der ev. luth. Kirche Frille +
+|*Taufregister* der ev. luth. Kirche Frille +
 *Includes:* Chronologische Abschrift der ev.-luth. Kirchenbücher des Pfarramts Frille, zusammengestellt von Manfred Pöhler
 |1664 - 1803
 |Digital, Paper, Macro- and Microfiche
 
 a|[[baptisms-1805-1935]]
 link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514280[NLA BU S 8 Frille Abschr. Nr.7]
-|*Baptism register* of the Evangelical Lutheran Church in Frille +
-*Includes:* Chronological transcript of the Evangelical Lutheran church records of the Frille parish office, compiled by Manfred Pöhler
-
-*Taufregister* der ev. luth. Kirche Frille +
+|*Taufregister* der ev. luth. Kirche Frille +
 *Includes:* Chronologische Abschrift der ev.-luth. Kirchenbücher des Pfarramts Frille, zusammengestellt von Manfred Pöhler
 |1805 - 1935
 |Paper copy
@@ -70,16 +64,12 @@ link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514
 |Call Number|Description|Duration|Format
 
 |link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514272[NLA BU, S 8, Frille Nr. 5]
-|*Confirmation and death register* of the Evangelical Lutheran Church in Frille
-
-Konfirmations- und Sterberegister der ev. luth. Kirche Frille
+|*Konfirmations- und Sterberegister* der ev. luth. Kirche Frille
 |1868-1898; 1664-1804
 |Paper copy
 
 |https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514267[NLA BU, S 8, Frille Absch. Nr. 3]
-|*Confirmation register* of the Evangelical Lutheran Church in Frille
-
-Konfirmationsregister der ev. luth. Kirche Frille
+|*Konfirmationsregister* der ev. luth. Kirche Frille
 |1808-1820; 1868-1898
 |Paper copy, film (digital?), microfiche
 |===
@@ -93,25 +83,19 @@ Konfirmationsregister der ev. luth. Kirche Frille
 
 a|[[marriage-1664-1799]]
 link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514269[NLA BU, S 8, Frille Nr. 4]
-|*Marriage banns and marriage register* of the Evangelical Lutheran Church in Frille
-
-Eheberedungen und Heiratsregister der ev. luth. Kirche Frille
+|*Eheberedungen und Heiratsregister* der ev. luth. Kirche Frille
 |1695-1756; 1664-1799
 |Paper copy, Microfiche, film (digital?)
 
 a|[[marriage-1757-1813]]
 link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514279[NLA BU, S 8, Frille Nr. 6]
-|*Marriage banns* in Frille
-
-Eheberedungen Frille
+|*Eheberedungen* Frille
 |1757 - 1813
 |Paper copy
 
 a|[[marriages-1805-1852]]
 link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514283[NLA BU, S 8, Frille Nr. 8]
-|*Marriage register* of the Evangelical Lutheran Church in Frille
-
-Heiratsregister der ev. luth. Kirche Frille
+|*Heiratsregister* der ev. luth. Kirche Frille
 |1805 - 1852
 |Paper copy
 
@@ -132,9 +116,7 @@ Heiratsregister der ev. luth. Kirche Frille
 
 a|[[deaths-1664-1898]]
 link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514272[NLA BU, S 8, Frille Nr. 5]
-|*Confirmation and death register* of the Evangelical Lutheran Church in Frille
-
-Konfirmations- und Sterberegister der ev. luth. Kirche Frille
+|*Konfirmations- und Sterberegister* der ev. luth. Kirche Frille
 |1868-1898; 1664-1804
 |Paper copy
 
@@ -148,9 +130,7 @@ Sterberegister der ev. luth. Kirche Frille
 
 a|[[deaths-1805-1960]]
 link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514297[NLA BU, S 8, Frille Nr. 11]
-|*Death register* of the Evangelical Lutheran Church in Frille
-
-Sterberegister der ev. luth. Kirche Frille
+|*Sterberegister* der ev. luth. Kirche Frille
 |1805 - 1960
 |Paper copy
 |===
