@@ -21,7 +21,6 @@ The original church registers are not listed in link:https://www.arcinsys.nieder
 
 From: https://www.archive.nrw.de/archivsuche
 
-Go to: 
 [arabic,start=1]
 . Landesarchiv NRW Abteilung Ostwestfalen-Lippe ->
 .   Personenstandsarchiv Westfalen-Lippe ->
