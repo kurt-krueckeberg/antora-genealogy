@@ -13,7 +13,7 @@ image::jhp-bleeke/carl-friederich-bleeke-1825-death.png[title=Click to Enlarge,l
 .Transliteration of Carl Friederich Bleeke 1825 Death
 [cols="1l,5l,3l,1l,1l,1l,4l,3l,3l,4l,2l,3l"]
 |===
-^+12s|Gestorbene im Jahr 1825
+12+^s|Gestorbene im Jahr 1825
 
 <s|Nro.
 ^s|Vor- und Zunamen
