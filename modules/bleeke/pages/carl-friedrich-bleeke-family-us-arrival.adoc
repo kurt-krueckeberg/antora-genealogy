@@ -1,9 +1,9 @@
 = Carl Friedrich Bleeke (1794-1853) Family Arrival in New York
 
 The Carl Friedrich Bleeke (1794-1853) family arrived in New York from Bremen on 3 December 1836. The passenger list
-is available on <<cite, FamilySearch>>. These names have been transcribed:
+is available on <<cite, FamilySearch>>. The passenger list line numbers and names are:
 
-[arabic,start=1]
+[arabic,start=63]
 . C F Blecke
 . Marie Louise Blecke
 . Christina Blecke
