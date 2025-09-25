@@ -77,7 +77,7 @@ gebe
 ^s|Age +
   Days.
 ^s|If the deceased had a spouse +
-and adult or under age surviving children.
+and adult or underage surviving children.
 ^s|Day and Hour +
    of Death
 (in words and numbers).
