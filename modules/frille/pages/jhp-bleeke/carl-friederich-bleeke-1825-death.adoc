@@ -1,7 +1,7 @@
 = Carl Friederich Bleeke 1825 Death
 :page-role: wide
 
-image::carl-friederich-bleeke-1825-death.png[title=Click to Enlarge,link=self]
+image::jhp-bleeke/carl-friederich-bleeke-1825-death.png[title=Click to Enlarge,link=self]
 
 == Transliteration and Translation
 
