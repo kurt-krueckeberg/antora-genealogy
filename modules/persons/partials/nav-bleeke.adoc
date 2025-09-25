@@ -3,6 +3,7 @@
 ** xref:bleeke:jhp-bleeke/jhp-bleeke-land-patents.adoc[]
 ** xref:bleeke:1853-school-enumeration.adoc[]
 * Carl Friedrich Bleeke
+** xref:carl-friedrich-bleeke-family-us-arrival.adoc[]
 ** xref:bleeke:1853-school-enumeration.adoc[]
 * Christian Friedrich Bleeke
 ** xref:bleeke:1853-school-enumeration.adoc[]
