@@ -65,7 +65,7 @@ ar
 .Translation of Christian Heinrich Bleeke 1836 Birth
 [cols="1,4,4,2,4,4,3,2,3,5"]
 |===
-10+^s|Born and Baptized in the year 1823
+10+^s|Born and Baptized in the year 1836
 
 s|No.
 s|Baptismal name of the child.
