@@ -145,8 +145,8 @@ Bleeke brothers, who were members of the Frille congregation:
 
 .Bleeke Marriage Dates to confirm:
 |===
-|Groom|Bride|Marriage Date|Cross-referenced +
-volume
+|Bräutigam|Braut|Heiratsdatum|	Querverweis(Cross-referenced) +
+Band
 
 |Carl Fridrich Bleeke
 |Marie Luise Niemann 
@@ -225,7 +225,7 @@ It should be search also for these specific records:
 
 .Krückeberg Marriage Records to Confirm
 |===
-|Groom|Bride|Date|Church
+|Bräutigam|Braut|Heiratsdatum|Kirchspiel
 
 |Johann Heinrich Krückeberg|Caroline Sophie Weÿland |Jan. 26, 1833|Petzen
 
@@ -239,7 +239,7 @@ I would like these facts for the children of Johann Heinrich Krückeberg (born 1
 [caption="Johann Heinrich Krückeberg's Children: "]
 .Petzen Baptisms to Confirm
 |===
-|Child|Birth|Baptism|Confirmation
+|Kind|Geburtsdatum|Taufe|Konfirmation
 
 |Caroline Philippine Dorathee
 |February 27, 1834
@@ -262,7 +262,7 @@ I would like these facts for the children of Carl Friedrich Krückeberg (born 18
 [caption="Carl Friedrich Krückeberg's Children: "]
 .Petzen Baptisms to Confirm
 |===
-|Child|Birth|Baptism|Confirmation
+|Kind|Geburtsdatum|Taufe|Konfirmation
 
 |Carl Heinrich Wilhelm| Feb. 4, 1835|Feb. 8, 1835|April 30, 1849 or March 31,1850
 :w
@@ -283,11 +283,11 @@ Death dates to confirm:
 
 .Death Dates to Confirm
 |===
-|Name|Approx. Death Date
+|Name|ungefähr Sterbedatum
 
-|Philippine Eleonore Krückeberg|1838
+|Philippine Eleonore nee Werkmesiter Krückeberg|16 Dec. 1840
 
-|Philippine Christine Eleonore Krückeberg|??? 8, 1849
+|Philippine Christine Eleonore geb. Tegtmeyer Krückeberg|Monat? 8, 1849
 |===
 
 ==== Emigration Dates to Look for
