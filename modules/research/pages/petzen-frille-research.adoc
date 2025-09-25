@@ -3,54 +3,36 @@
 == Records
 
 We would like to have the event, dates and facts for any Petzen post-1828 church records for any Krückebergs
-who appear. The surname will be underlined in the Kirchenbuch. We need transliteration of the original--not
-translations!
+who appear. 
 
 == Accompanying Citations
 
 We also need an accompanying *citations* for each record. What is the name of the microfiche volume (or roll, etc)
 and where on the microfiche is it found, which film number or image number? We need enough information so that
-anyone else can go to the Bückeburg archive and find the record easily and verify it.
+anyone else could go to the Bückeburg archive and find the record source easily and verify it.
 
 We would also like the records below confirmed.
 
 == Frille Volumes
 
-The Frille volumes are apparently transcripts of the Frille church registers. I assume they are already
-in contemporary German and not the old _Kurrent_ handwritting. While they are not the original source, the
-original church registers (Kirchenbücher), they should be consulted first. The original church registers 
-are not listed in link:https://www.arcinsys.niedersachsen.de/[Arcinsys] catalog.
+The original church registers are not listed in link:https://www.arcinsys.niedersachsen.de/[Arcinsys] catalog.
 
-To view any of these volumes in person in the Bückeburg archive, follow these steps:
-[arabic,start="1"]
-. Create an Arcinsys Account:
-** Go to link:https://www.arcinsys.niedersachsen.de/arcinsys/start.action?oldNodeid=[Arcinsys for Niedersachen and
-Bremem].
-** In upper right corner: Login -> Register
-. Login to to your link:https://www.arcinsys.niedersachsen.de/arcinsys/start.action?oldNodeid=[Arcinsys account]
-. Click on the call number of the volume in the table below.
-. Bookmark it within Arcinsys (you must be logged in to bookmark items)
-. After you have bookmarked all the volumes you desire, go to
-link:https://www.arcinsys.niedersachsen.de/arcinsys/nutzer/merkzettel.action[Memo List] to view them. *Memo List* is
-one of the tabs at the top of every page.
-. Add to view in person an item in your Memo List, click *"into the order basket"*. This will reserve it for the date you supply.
+=== Frille Church Register Duplicates
 
-//=== Church Register Duplicates
-//
-//From: https://www.archive.nrw.de/archivsuche
-//
-//Go to: 
-//[arabic,start=1]
-//. Landesarchiv NRW Abteilung Ostwestfalen-Lippe ->
-//.   Personenstandsarchiv Westfalen-Lippe ->
-//.     Kirchenbuchduplikate, Zivilstands-, Juden- und Dissidentenregister ->
-//.       Regierungsbezirks Minden ->
-//.          Frille, Kreis Minden -> 
-//.                     -> Zivilstandregister 
-//.                     -> Kirchenbuchduplikate
-//
-//Link to: http:https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820[Kirchenbuchduplikat der evangelischen
-//Gemeinde Frille, Kreis Minden]
+From: https://www.archive.nrw.de/archivsuche
+
+Go to: 
+[arabic,start=1]
+. Landesarchiv NRW Abteilung Ostwestfalen-Lippe ->
+.   Personenstandsarchiv Westfalen-Lippe ->
+.     Kirchenbuchduplikate, Zivilstands-, Juden- und Dissidentenregister ->
+.       Regierungsbezirks Minden ->
+.          Frille, Kreis Minden -> 
+.                     -> Zivilstandregister 
+.                     -> Kirchenbuchduplikate
+
+Link: link:https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820[Kirchenbuchduplikat der evangelischen
+Gemeinde Frille, Kreis Minden]
 
 === Baptism
 
