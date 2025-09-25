@@ -11,7 +11,7 @@ image::christian-f-bleeke/christine-marie-leonore-bleeke-1843-birth.png[title=Cl
 .Transliteration of Christine Marie Leonore Bleeke 1843 Birth
 [cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
 |===
-10+^s|Geborne und Getaufte im Jarhe 1836
+10+^s|Geborne und Getaufte im Jarhe 1843
 
 s|Nro.
 s|Tauf-Name
@@ -81,7 +81,7 @@ Christine Sophoe Luise Steinkämper
 .Translation of Christine Marie Leonore Bleeke 1843 Birth
 [cols="1,4,4,2,4,4,3,2,3,5a"]
 |===
-10+^s|Born and Baptized in the year 1823
+10+^s|Born and Baptized in the year 1843
 
 s|No.
 s|Baptismal name of the child.
