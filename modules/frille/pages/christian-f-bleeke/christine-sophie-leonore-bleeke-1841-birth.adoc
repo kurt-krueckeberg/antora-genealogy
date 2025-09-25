@@ -11,7 +11,7 @@ image::christian-f-bleeke/christine-sophie-leonore-bleeke-1841-birth.png[title=C
 .Transliteration of Christine Sophie Leonore Bleeke 1841 Birth
 [cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
 |===
-10+^s|Geborne und Getaufte im Jarhe 1836
+10+^s|Geborne und Getaufte im Jarhe 1841
 
 s|Nro.
 s|Tauf-Name
@@ -65,7 +65,7 @@ April
 .Translation of Christine Sophie Leonore Bleeke 1841 Birth
 [cols="1,4,4,2,4,4,3,2,3,5a"]
 |===
-10+^s|Born and Baptized in the year 1823
+10+^s|Born and Baptized in the year 1841
 
 s|No.
 s|Baptismal name of the child.
