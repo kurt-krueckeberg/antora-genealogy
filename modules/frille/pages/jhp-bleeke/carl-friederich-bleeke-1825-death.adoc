@@ -32,7 +32,12 @@ in Buchstaben und
 ^s|Krankheit,
  woran er
 gestorben.
-^s|Whether the deceased received the help of a licensed physician or surgeon at all, or only within the last 48 hours
+^s|Ob der Verstorbene
+überhaupt oder nur in
+den letzten 48 Studen
+die Hülfe eines appro-
+birten Arztes oder Mund-
+arztes genossen hat.
 ^s|Tag
  des
 Begrabnisses
@@ -55,7 +60,7 @@ und Geschwister
 |Elften (11) Maÿ
 Abds sieben (7)
 Uhr zu Frille
-|Mas
+|Masern
 |Kein Arzt
 gebe
 |Fünfzehten (15)
