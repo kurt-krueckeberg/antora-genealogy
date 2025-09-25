@@ -63,7 +63,7 @@ link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514
 |===
 |Call Number|Description|Duration|Format
 
-|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514272[NLA BU, S 8, Frille Nr. 5]
+|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514272[NLA BU S 8 Frille Abschr. Nr.5]
 |*Konfirmations- und Sterberegister* der ev. luth. Kirche Frille
 |1868-1898; 1664-1804
 |Paper copy
