@@ -231,7 +231,9 @@ and Chrisitan Friedrich Bleek born April 27, 1821.
 |===
 
 We have the xref:frille:christian-f-bleeke/christine-luise-bleeke-1827-birth.adoc[birth and baptism dates] in the table below
-from the Frille Kirchenbuchduplikate, but would like them confirmed. 
+from the Frille Kirchenbuchduplikate, but would like them confirmed. We would like transliterations of the
+confirmation record for Christine Luise Bleeke, born December 19, 1827, and Sophie Christine Leonore Bleeke, born
+July 27, 1830.
 
 .Birth, Baptism and Confirmation Dates to Confirm for the children of Christian Friedrich Bleeke:
 |===
@@ -239,7 +241,7 @@ from the Frille Kirchenbuchduplikate, but would like them confirmed.
 
 |Christine Luise Bleeke|19 Dec, 1827|23 Dec. 1827|1841/1842?|xref:#baptisms-1805-1935[Frille Baptisms 1805-1935] and xref:#frille-confirmations[Frille Konfirmations]
 
-|Sophie Christine Leonore Bleek|27 July 1830|1 Aug 1830|1843/1844?|xref:#baptisms-1805-1935[Frille Baptisms 1805-1935] and xref:#frille-confirmations[Frille Konfirmations]
+|Sophie Christine Leonore Bleeke|27 July 1830|1 Aug 1830|1843/1844?|xref:#baptisms-1805-1935[Frille Baptisms 1805-1935] and xref:#frille-confirmations[Frille Konfirmations]
 
 |Philippine Luise Leonore Bleeke|21 May 1833|27 May 1833|in Adams or Allen County, Indiana|
 
@@ -252,10 +254,10 @@ from the Frille Kirchenbuchduplikate, but would like them confirmed.
 |Christine Marie Leonore Bleke|24 Dec. 1843|31 Dec. 1843|in Adams or Allen County, Indiana|
 |===
 
-==== Confirmation Records Transliterated
+//==== Confirmation Records Transliterated
 
-The Carl Friedrich Bleeke emigrated around late October of 1836 and arrived in NYC on
-December 3^rd^, 1838.
+//The Carl Friedrich Bleeke emigrated around late October of 1836 and arrived in NYC on
+//December 3^rd^, 1838.
 
 === Krückeberg
 
