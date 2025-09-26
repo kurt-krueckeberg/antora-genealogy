@@ -146,10 +146,9 @@ link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514
 
 == Individuals
 
-I would like to have birth/baptism, confirmation, and marriage data for the following two 
-Bleeke brothers, who were members of the Frille congregation:
-
 === Bleeke
+
+We have these dates from the Frille Kirchenbuchduplikate, but would like them confirmed.
 
 .Bleeke Marriage Dates to confirm:
 |===
@@ -172,6 +171,10 @@ Band
 |xref:#marriages-1805-1852[Frille Marriages 1805-1853]
 |===
 
+We have these xref:frille:carl-f-bleeke/christine-louise-bleeke-1820-birth.adoc[birth and baptism dates] from the Frille Kirchenbuchduplikate, but would like them confirmed.
+We would like to have a transliteration of the confirmation record for Christine Louise Bleeke, who was
+born 28 March 1820.
+
 .Birth, Baptism and Confirmation Dates to Confirm for Carl Friedrich Bleeke's Children
 |===
 |Child|Birth|Baptism|Confirmation|Querverweis(Cross-referenced) +
@@ -193,6 +196,9 @@ Volume
 
 |Friederich Joseph Bleeke|12 Mar. 1837 in Cincinnati|19 Mar. 1837 in Cincinnati|Iowa|
 |===
+
+We have these xref:frille:hp-bleeke/carl-heinrich-bleeke-1818-birth.adoc[birth and baptism dates] from the Frille Kirchenbuchduplikate, but would like them confirmed.
+We would like to have a transliteration of the confirmation record for Carl Heinrich Bleeke and ????
 
 .Birth, Baptism and Death Dates to Confirm for the children of Johann Heinrich Philipp Bleeke:
 |===
