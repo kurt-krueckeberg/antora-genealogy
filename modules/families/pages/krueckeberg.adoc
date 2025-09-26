@@ -13,7 +13,7 @@ explains his discovery of a geographical _Krückeberg Triangle_.
 
 We know from this tyepwritten document 
 
-image::Familienschein-des-Auswanderers.jpg[align=left,width=1600,title='Familienschein des Auswanderers',xref=image$Familienschein-des-Auswanderers.jpg]
+image::Familienschein-des-Auswanderers.jpg[align=left,width=800,title='Familienschein des Auswanderers',xref=image$Familienschein-des-Auswanderers.jpg]
 
 ==== Translation
 

@@ -293,7 +293,7 @@ This tyepwritten document came down to me through my father's cousin's father wh
 //[cols="1a,1a",options="noheader",grid=none,frame=none]
 //|===
 //|
-image::families:Familienschein-des-Auswanderers.jpg[align=left,width=1600,title='Familienschein des Auswanderers',link=self]
+image::families:Familienschein-des-Auswanderers.jpg[align=left,width=800,title='Familienschein des Auswanderers',link=self]
 //|
 //|===
 
