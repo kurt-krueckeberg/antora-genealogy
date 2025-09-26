@@ -1,6 +1,5 @@
 = Krǘckeberg Records
 
-The transliteration and translation of the Krückeberg records in the Petzen church registers 
-are based on the online the
-link:https://www.archion.de/de/alle-archive/niedersachsen/niedersaechsisches-landesarchiv/kirchenbuecher-der-evangelisch-lutherischen-landeskirche-schaumburg-lippe/petzen[digitized
-versions] link:https://archion.de[Archion.de].
+The transliterations and translations of the Krückeberg records found in the Petzen church registers 
+are based on the online the digitized versions] of the link:https://www.archion.de/de/alle-archive/niedersachsen/niedersaechsisches-landesarchiv/kirchenbuecher-der-evangelisch-lutherischen-landeskirche-schaumburg-lippe/petzen[Petzen
+Kirchenbücher] found on link:https://archion.de[Archion.de].
