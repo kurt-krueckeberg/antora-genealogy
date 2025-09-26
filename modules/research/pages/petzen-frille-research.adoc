@@ -197,7 +197,7 @@ Volume
 |Friederich Joseph Bleeke|12 Mar. 1837 in Cincinnati|19 Mar. 1837 in Cincinnati|Iowa|
 |===
 
-We have these xref:frille:hp-bleeke/carl-heinrich-bleeke-1818-birth.adoc[birth and baptism dates] from the Frille Kirchenbuchduplikate, but would like them confirmed.
+We have these xref:frille:jhp-bleeke/carl-heinrich-bleeke-1818-birth.adoc[birth and baptism dates] from the Frille Kirchenbuchduplikate, but would like them confirmed.
 We would like to have a transliteration of the confirmation record for Carl Heinrich Bleeke and ????
 
 .Birth, Baptism and Death Dates to Confirm for the children of Johann Heinrich Philipp Bleeke:
