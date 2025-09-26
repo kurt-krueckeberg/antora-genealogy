@@ -1,11 +1,11 @@
 = Bleeke Records
 
-The Bleeke church records come from these sources:
+The Bleeke church records are from these sources:
 [arabic,start=1]
-. The Archion Frille volumes:
+. These link:https:archion.de[Archion.de] Frille volumes:
 ** Verzeichnis der Getauften, Getrauten, Gestorbenen 1664-1757
 ** Verzeichnis der Getauften, Getrauten, Gestorbenen 1758-1804
-. These Frille Kirchenbuchduplikate:
+. These *Landesarchiv NRW, Abteilung Ostwestfalen-Lippe* Frille Kirchenbuchduplikate:
 ** link:https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820&mandant=10003[Landesarchiv
 NRW Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks
 Minden, Nr. B 168 Jg. 1815-1830]
@@ -15,6 +15,6 @@ Minden, Nr. B 168 Jg. 1831-1845].
 . The link:http://hdl.handle.net/2374.UC/753629[online PDF] of the 1814-1848 church register of the *Nord deutschlische
 lutheranische Kirche* (*German Evangelical Lutheran and Reformed Church*) found in the Archives and Rare Books
 Library, University of Cincinnati.  
-. TIF images of the church register of Immanuel Lutheran Church, Decatur, Indiana.
+. TIF images of the church register of Immanuel Lutheran Church, Decatur, Indiana, received from the church.
 
 
