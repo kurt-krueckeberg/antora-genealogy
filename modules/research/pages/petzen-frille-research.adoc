@@ -198,7 +198,8 @@ Volume
 |===
 
 We have these xref:frille:jhp-bleeke/carl-heinrich-bleeke-1818-birth.adoc[birth and baptism dates] from the Frille Kirchenbuchduplikate, but would like them confirmed.
-We would like to have a transliteration of the confirmation record for Carl Heinrich Bleeke and ????
+We would like to have a transliteration of the confirmation record for Carl Heinrich Bleeke born April 27, 1818, 
+and Chrisitan Friedrich Bleek born April 27, 1821.
 
 .Birth, Baptism and Death Dates to Confirm for the children of Johann Heinrich Philipp Bleeke:
 |===
@@ -208,7 +209,7 @@ We would like to have a transliteration of the confirmation record for Carl Hein
 |skip
 |xref:#baptisms-1805-1935[Frille Baptisms 1805-1935]
 
-|Christian Fridrich| May 7, 1821|on May 13, 1821|April 5, 1835 (Judica Sunday 1835)
+|Christian Friedrich| May 7, 1821|on May 13, 1821|April 5, 1835 (Judica Sunday 1835)
 |skip
 |xref:#baptisms-1805-1935[Frille Baptisms 1805-1935]
 
