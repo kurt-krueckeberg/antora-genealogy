@@ -216,14 +216,9 @@ Volume
 
 === Krückeberg
 
-==== Marriage Records to Confirm
+==== Marriage Records
 
-The post-1827 Kirchenbuch should be search from 1828 to 185?? for any Krückebergs mentioned.
-The surname will be underlined.
-
-It should be search also for these specific records:
-
-.Krückeberg Marriage Records to Confirm
+.Krückeberg Marriage Records to Transliterate
 |===
 |Bräutigam|Braut|Heiratsdatum|Kirchspiel
 
@@ -232,12 +227,10 @@ It should be search also for these specific records:
 |Carl Friedrich Krückeberg|Luise Dorothea Weiland|Nov. 16, 1834|Petzen
 |===
 
-==== Baptisms/Births and Confirmations to Confirm
-
-I would like these facts for the children of Johann Heinrich Krückeberg (born 1806) confirmed:
+==== Baptisms/Births and Confirmations to Transliterate
 
 [caption="Johann Heinrich Krückeberg's Children: "]
-.Petzen Baptisms to Confirm
+.Petzen Baptisms to Confirm and Transliterate
 |===
 |Kind|Geburtsdatum|Taufe|Konfirmation
 
@@ -257,15 +250,14 @@ I would like these facts for the children of Johann Heinrich Krückeberg (born 1
 |N/A
 |===
 
-I would like these facts for the children of Carl Friedrich Krückeberg (born 1807) confirmed:
 
 [caption="Carl Friedrich Krückeberg's Children: "]
-.Petzen Baptisms to Confirm
+.Petzen Baptisms to Confirm and Transliterate
 |===
 |Kind|Geburtsdatum|Taufe|Konfirmation
 
 |Carl Heinrich Wilhelm| Feb. 4, 1835|Feb. 8, 1835|April 30, 1849 or March 31,1850
-:w
+
 |Caroline Philippine|Oct. 15, 1837|Oct. 22, 1837|skip
 
 |Caroline Philippine Sophie|Sept. 8, 1840|Sept 13, 1840|skip
@@ -277,11 +269,8 @@ I would like these facts for the children of Carl Friedrich Krückeberg (born 18
 |Ernst Heinrich|Feb. 6, 1850|Feb. 13, 1850|skip
 |===
 
-==== Deaths to Confirm
+==== Deaths to Confirm and Transliterate
 
-Death dates to confirm:
-
-.Death Dates to Confirm
 |===
 |Name|ungefähr Sterbedatum
 
@@ -296,7 +285,15 @@ The Petzen church register for the years 1849 and 1850 may indicate the dates Jo
 and Carl Friedrich Krückeberg (born 1807) emigrated. Johann Heinrich Krückeberg arrived November 5, 1849, in NYC,
 and Carl Friedrich Krückeberg arrived November 19, 1850.
 
-Some three to four months prior (maybe sooner, maybe later) there might be a note in the church register. The
-note might be an addendum added to their marriage record, so their marriage records should also be checked.
-Krückeberg 
-a notation accompanying the names of Johann Heinrich Krückeberg
+
+=== Familienschein des Auswanderers Carl Friedrich Krückeberg
+
+This tyepwritten document came down to me through my father's cousin's father who died in 1972..
+
+[cols="1a,1a",options="noheader",grid=none,frame=none]
+|===
+|image::families:Familienschein-des-Auswanderers.jpg[align=left,width=1600,title='Familienschein des Auswanderers',xref=image$Familienschein-des-Auswanderers.jpg]
+|
+|===
+
+
