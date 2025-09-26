@@ -197,7 +197,7 @@ Volume
 |===
 |Name|Birth|Baptism|Confirmation|Death|Cross-referenced volumes
 
-|Carl Heinrich| April 27, 1818|April 30, 1818|n April 29, 1832 (Sunday after Easter 1832)
+|Carl Heinrich| April 27, 1818|April 30, 1818| April 29, 1832 (Sunday after Easter 1832)
 |skip
 |xref:#baptisms-1805-1935[Frille Baptisms 1805-1935]
 
@@ -219,14 +219,6 @@ Volume
 
 |Marie Louise Eleonore| November 15, 1833|November 24, 1833|skip|skip
 |xref:#baptisms-1805-1935[Frille Baptisms 1805-1935]
-|===
-
-.Death Records to Confirm
-[cols="3,3,1",width="60%"]
-|===
-|Name|Father|Death Date
-
-|Carl Friederich Bleeke|Johann Heinrich Bleeke|11 May 1825
 |===
 
 === Confirmation Records Transliterated
