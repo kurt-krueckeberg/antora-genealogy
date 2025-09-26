@@ -20,7 +20,7 @@ We would also like the records below confirmed.
 The Frille duplicate church registers in the Landesarchiv NRW Abteilung Ostwestfalen-Lippe have been examined for
 the marriage records for Carl Friedrich Bleeke (1794-1853), Johann Heinrich Philip Bleeke (1797-1883) and
 Christian Friedrich Bleeke (1880-1889) are listed under the xref:family-church-records:bleeke.adoc[Bleeke records].
-The birth records and one confirmation record of their children are also there.
+The birth records of their children are also there.
 
 From: https://www.archive.nrw.de/archivsuche
 
