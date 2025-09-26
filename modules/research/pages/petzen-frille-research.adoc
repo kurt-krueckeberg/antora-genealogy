@@ -66,6 +66,7 @@ link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514
 
 ==== Confirmations
 
+[[frille-confirmations]]
 .Frille Confirmations church register copies in Bückeburg Archive
 [cols="2,4,2,2"]
 |===
@@ -219,6 +220,25 @@ Volume
 
 |Marie Louise Eleonore| November 15, 1833|November 24, 1833|skip|skip
 |xref:#baptisms-1805-1935[Frille Baptisms 1805-1935]
+|===
+
+.Birth, Baptism and Confirmation Dates to Confirm for the children of Christian Friedrich Bleeke:
+|===
+|Name|Birth|Baptism|Confirmation|Cross-referenced volumes
+
+|Christine Luise Bleeke|19 Dec, 1827|23 Dec. 1827|1841/1842?|xref:#baptisms-1805-1935[Frille Baptisms 1805-1935] and xref:#frille-confirmations[Frille Konfirmations]
+
+|Sophie Christine Leonore Bleek|27 July 1830|1 Aug 1830|1843/1844?|xref:#baptisms-1805-1935[Frille Baptisms 1805-1935] and xref:#frille-confirmations[Frille Konfirmations]
+
+|Philippine Luise Leonore Bleeke|21 May 1833|27 May 1833|in Adams or Allen County, Indiana|
+
+|Christian Heinrich Bleeke|28 Jan. 1836|31 Jann. 1836|in Adams or Allen  County, Indiana|
+
+|Heinrich Friedrich Christian Bleeke|18 July 1839|21 July 1839|in Adams or Allen County, Indiana|
+
+|Christine Sophie Leonore Bleeke|7 April 1841|12 April 1841|in Adams or Allen County, Indiana|
+
+|Christine Marie Leonore Bleke|24 Dec. 1843|31 Dec. 1843|in Adams or Allen County, Indiana|
 |===
 
 === Confirmation Records Transliterated
