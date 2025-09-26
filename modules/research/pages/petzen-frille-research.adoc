@@ -186,11 +186,11 @@ Volume
 
 |Johann Hartwig Gottlieb Lebrecht Bleeke| 9 Dec. 1830|xref:#baptisms-1805-1935[Frille Baptisms 1805-1935]
 
-|Sophie Luise Bleeke| March 3, 1833|xref:#baptisms-1805-1935[Frille Baptisms 1805-1935]
+|Sophie Luise Bleeke| 4 March 1833|xref:#baptisms-1805-1935[Frille Baptisms 1805-1935]
 
 |Christine Friederike Marie Leonore Bleeke| 20 Feb. 1835|xref:#baptisms-1805-1935[Frille Baptisms 1805-1935]
 
-|Friederich Joseph Bleeke|12 March 1837 (in Cincinnati, Ohio)|
+|Friederich Joseph Bleeke|12 March 1837 (in Cincinnati, Ohio)|already confirmed
 |===
 
 .Birth, Baptism and Death Dates to Confirm for the children of Johann Heinrich Philipp Bleeke:
@@ -220,6 +220,14 @@ Volume
 |Marie Louise Eleonore| November 15, 1833|November 24, 1833|skip|skip
 |xref:#baptisms-1805-1935[Frille Baptisms 1805-1935]
 |===
+
+.Death Records to Confirm
+[cols="3,3,1",width="60%"]
+|===
+|Name|Father|Death Date
+
+|Carl Friederich Bleeke|Johann Heinrich Bleeke|11 May 1825
+|==
 
 === Confirmation Records Transliterated
 
