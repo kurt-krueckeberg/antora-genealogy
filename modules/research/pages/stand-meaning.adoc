@@ -4,8 +4,10 @@ Discussion of the meaing of *Stand* and *Einlieger*.
 
 == Social Status Terms in Schaumburg-Lippe Baptism Records (1801–1805)
 
-When reviewing Lutheran baptism records from Schaumburg-Lippe between 1801 and
-1805, you’ll often find entries for the father's *Stand* (social status or
+When reviewing the Petzen, Schaumburg-Lippe, you’ll often find entries for the father's *Stand* 
+The records between between 1801 and 1805
+
+you’ll often find entries for the father's *Stand* (social status or
 occupation). These labels reveal a great deal about the economic and social
 structure of the parish.
 
@@ -167,7 +169,6 @@ Create stats for images 77-84 that give number of entries with a given term for 
 |Meyer|1
 |===
 
-
 [caption="Total occurances of *Stand* terms in: "] 
 .Image 83
 [%header,width=20%,cols="1,4"]
@@ -180,10 +181,6 @@ Create stats for images 77-84 that give number of entries with a given term for 
 
 |Anerbe|3
 |===
-
-
-
-
 
 == Discussion
 

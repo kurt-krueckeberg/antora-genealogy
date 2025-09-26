@@ -51,7 +51,7 @@
 ** xref:windheim:windheim-band4-image183.adoc[]
 * Kleinschmidt
 ** xref:buchholz:buchholz-band2-image198.adoc[]
-* Krückeberg
+* xref:krückeberg.adoc[]
 ** xref:petzen:petzen-band1a-image89.adoc[]
 ** xref:petzen:petzen-band1b-image36.adoc[]
 ** xref:petzen:petzen-band1a-image140.adoc[]
