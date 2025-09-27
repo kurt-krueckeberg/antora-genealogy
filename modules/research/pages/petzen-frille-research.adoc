@@ -172,8 +172,9 @@ Band
 |===
 
 We have the xref:frille:carl-f-bleeke/christine-louise-bleeke-1820-birth.adoc[birth and baptism dates] in the table
-below from the Frille Kirchenbuchduplikate, but would like them confirmed. We would like to have a transliteration of
-the confirmation record for *Christine Louise Bleeke, who was born 28 March 1820*.
+below from the Frille Kirchenbuchduplikate, but would like them confirmed. We would like to have a transliteration
+(along with the column headers) of the confirmation record for *Christine Louise Bleeke, who was born 28 March
+1820*.
 
 .Birth, Baptism and Confirmation Dates to Confirm for Carl Friedrich Bleeke's Children
 |===
@@ -198,9 +199,9 @@ Volume
 |===
 
 We have the xref:frille:jhp-bleeke/carl-heinrich-bleeke-1818-birth.adoc[birth and baptism dates] in the table below
-from the Frille Kirchenbuchduplikate, but would like them confirmed. We would like to have a transliteration of the
-confirmation record for *Carl Heinrich Bleeke born April 27, 1818*, and *Chrisitan Friedrich Bleeke born April 27,
-1821*.
+from the Frille Kirchenbuchduplikate, but would like them confirmed. We would like to have a transliteration (along
+with the column headers) of the confirmation record for *Carl Heinrich Bleeke born April 27, 1818*, and *Chrisitan
+Friedrich Bleeke born April 27, 1821*.
 
 .Birth, Baptism and Death Dates to Confirm for the children of Johann Heinrich Philipp Bleeke:
 |===
@@ -230,10 +231,10 @@ confirmation record for *Carl Heinrich Bleeke born April 27, 1818*, and *Chrisit
 |xref:#baptisms-1805-1935[Frille Baptisms 1805-1935]
 |===
 
-We have the xref:frille:christian-f-bleeke/christine-luise-bleeke-1827-birth.adoc[birth and baptism dates] in the table below
-from the Frille Kirchenbuchduplikate, but would like them confirmed. We would like transliterations of the
-confirmation record for *Christine Luise Bleeke, born December 19, 1827*, and *Sophie Christine Leonore Bleeke, born
-July 27, 1830*.
+We have the xref:frille:christian-f-bleeke/christine-luise-bleeke-1827-birth.adoc[birth and baptism dates] in the
+table below from the Frille Kirchenbuchduplikate, but would like them confirmed. We would like transliterations
+(along with the column headers) of the confirmation record for *Christine Luise Bleeke, born December 19, 1827*,
+and *Sophie Christine Leonore Bleeke, born July 27, 1830*.
 
 .Birth, Baptism and Confirmation Dates to Confirm for the children of Christian Friedrich Bleeke:
 |===
