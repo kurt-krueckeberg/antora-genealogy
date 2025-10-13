@@ -17,6 +17,12 @@
       </button>
     </div>
     <div id="topbar-nav" class="navbar-menu">
+    {{#with (resolvePage 'nla-docs::index.adoc')}}
+      <a class="navbar-item" href="{{@root.siteRootPath}}{{url}}">Overview</a>
+    {{/with}}
+    {{#with (resolvePage 'nla-docs::license.adoc')}}
+      <a class="navbar-item" href="{{@root.siteRootPath}}{{url}}">License &amp; Reuse</a>
+    {{/with}}
     </div>
   </nav>
 </header>
