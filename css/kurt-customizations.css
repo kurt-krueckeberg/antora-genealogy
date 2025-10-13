@@ -45,11 +45,6 @@ body.wide .imageblock img {
  *  
  */
 
-.literalblock.bordered {
-  border: 2px solid #444;
-  border-radius: 4px;
-}
-
 /* Reduce cell padding for these paired tables */
 table.tableblock.widepair td {
   padding-left: 1.25em;
