@@ -1,3 +1,16 @@
+==
+
+Change literal blocks to have a border by doing:
+
+Change transliteration and translation literal blocks from
+
+`....` 
+
+to:
+
+`[literal.bordered,subs="verbatim,quotes"]`
+`....`
+
 == Confirm these interfamily relationships
 
 Johann Heinrich Krückeberg,  born 1806, married a Weiland, as did Carl Friedrich Krückeberg.
