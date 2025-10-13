@@ -2,7 +2,7 @@
 :page-role: nongray
 
 All original content on this website — including genealogical research notes, transliterations, translations, commentary, and edited document images —  
-is © 2021–2025 Kurt Krückeberg, unless otherwise noted.
+is © 2021–2025 Kurt Krueckeberg, unless otherwise noted.
 
 This work is licensed under the
 link:https://creativecommons.org/licenses/by-nc-sa/4.0/[Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International License (CC BY-NC-SA 4.0)].
@@ -16,7 +16,7 @@ under the following terms:
 
 * **Attribution** — You must give appropriate credit, provide a link to this website or the license, and indicate if changes were made.  
   Example attribution:  
-  _“Based on genealogical research and translations by Kurt Krückeberg (https://docs.krueckeberg.org), licensed under CC BY-NC-SA 4.0.”_
+  _“Based on genealogical research and translations by Kurt Krueckeberg (https://docs.krueckeberg.org), licensed under CC BY-NC-SA 4.0.”_
 
 * **NonCommercial** — You may not use the material for commercial purposes.
 
