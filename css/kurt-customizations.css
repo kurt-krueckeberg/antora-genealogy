@@ -32,6 +32,52 @@ body.wide .imageblock img {
   height: auto;
 }
 
+/* CSS style for adding a border to literal blocks within tables. This is used
+ * for displaying the transliteration/translation tables. The steps:
+ *
+ * 1. Specify the table using: [.widepair,cols="1a,1a",grid=none,frame=none]
+ *
+ *    This increase the center gutter width between the adjacent cells.
+ *    grid=none,frame=none will eliminate the appearance of grid lines.
+ *    
+ * 2. [literal.bordered] -- This will cause the literblock to have a border
+ * that is solid, 3px wide border with slightly round corners
+ *  
+ */
+
+/* Your dark border */
+.literalblock.bordered {
+  border: 2px solid #444;
+  border-radius: 4px;
+}
+
+/* Reduce cell padding for these paired tables */
+table.tableblock.widepair td {
+  padding-left: 1.25em;
+  padding-right: 1.25em;
+}
+
+/* Making sections narrower */
+.literal-narrow {
+    max-width: 95ch;
+    border-left: 3px solid #ccc; /* A visual separator */ 
+}
+
+
+/* used in: [role="literal-max-width"] */
+.literal-narrower {
+    max-width: 90ch;
+    border-left: 3px solid #ccc; /* A visual separator */ 
+}
+
+.section-narrow {
+    max-width: 95ch;
+}
+
+.section-narrower {
+    max-width: 90ch;
+}
+
 .grid-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
