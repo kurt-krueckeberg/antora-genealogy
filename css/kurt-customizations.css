@@ -9,6 +9,19 @@ body.wide .doc
    }
 }
 
+/* === Make top nav text visible on dark header background === */
+.navbar,
+.navbar .navbar-item,
+.navbar a.navbar-item {
+  color: #f8f8f8 !important;      /* light gray-white text */
+}
+
+.navbar a.navbar-item:hover {
+  color: #ffffff !important;      /* pure white on hover */
+  background: none !important;    /* avoid gray highlight */
+}
+
+
 /* When ':page-role: wide' is used, images will have shadwow-border. */
 body.wide .imageblock img {
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
