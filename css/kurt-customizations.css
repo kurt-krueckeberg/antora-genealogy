@@ -45,7 +45,6 @@ body.wide .imageblock img {
  *  
  */
 
-/* Your dark border */
 .literalblock.bordered {
   border: 2px solid #444;
   border-radius: 4px;
@@ -56,6 +55,17 @@ table.tableblock.widepair td {
   padding-left: 1.25em;
   padding-right: 1.25em;
 }
+
+/* Bordering the content only of literal blocks */
+.literalblock.bordered > .content {
+  background-color: #f9f9f9;      /* subtle contrast */
+  box-shadow: 0 0 4px rgba(0,0,0,0.15);  /* soft depth */
+  margin-top: 0.4em;              /* separation from title */
+  padding: 0.85em 1em;            /* breathing room inside box */
+  border-radius: 6px;             /* rounded corners */
+  border: 3px solid #444;         /* dark gray frame */
+}
+
 
 /* Making sections narrower */
 .literal-narrow {
