@@ -20,8 +20,11 @@
     {{#with (resolvePage 'genealogy::index.adoc')}}
       <a class="navbar-item" href="{{@root.siteRootPath}}{{url}}">Overview</a>
     {{/with}}
-    {{#with (resolvePage 'nla-docs::license.adoc')}}
+
+    {{#with (resolvePage 'genealogy::license.adoc')}}
       <a class="navbar-item" href="{{@root.siteRootPath}}{{url}}">License &amp; Reuse</a>
+    {{else}}
+      <span class="navbar-item" style="opacity:.7">License &amp; Reuse (not found)</span>
     {{/with}}
     </div>
   </nav>
