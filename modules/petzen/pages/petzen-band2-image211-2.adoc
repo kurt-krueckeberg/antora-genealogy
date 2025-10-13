@@ -18,6 +18,7 @@ The confirmation of Christine Philippine Krückeberg in 1817, on the 1^st^ Sunda
 known as **Sonntag Qadsimodogeniti**, appears on <<image211-447-1, image 211>>, page 438, entry 6, among the list of Mädchen (girls) confirmed.
 
 .Transliteration of Header
+[literal.bordered,subs="verbatim,quotes"]
 ....
                                                           447 
                 Verzeichnis 
@@ -27,6 +28,7 @@ Knaben
 ....
 
 .Translation of Header
+[literal.bordered,subs="verbatim,quotes"]
 ....
                                                          447
                 Register 
@@ -42,6 +44,7 @@ Christine Philippine Krückeberg is the 9^th^ Mädchen (girl) listed.
 image::petzen-band2-img211-447-2.jpg[align=left,title="Click to enlarge",link=self]
 
 .Transliteration of Mädchen Entries 5, 6 and 7
+[literal.bordered,subs="verbatim,quotes"]
 ....
 Mädchen
 

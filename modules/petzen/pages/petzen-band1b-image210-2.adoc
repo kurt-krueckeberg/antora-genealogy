@@ -26,6 +26,7 @@ appears on <<band1b-img210, image 210>>, on the right-hand page of the Petzen "V
 image::petzen-band1b-img210.jpg[title="Anna Christina Kruckebergen Burial (Click to enlarge)",link=self]
 
 .Transliteration
+[literal.bordered,subs="verbatim,quotes"]
 ....
           Begraben                                                                 1773
 
@@ -36,6 +37,7 @@ d 29ten Aug ist hierselbst beerdigt Anna Christina
 ....
 
 .Translation
+[literal.bordered,subs="verbatim,quotes"]
 ....
         Burial                                                                     1773
 

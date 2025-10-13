@@ -11,6 +11,7 @@ The baptism of Annna Maria Elisabeth Bleek[e] is on <<image136, image 132>>, rig
 image::petzen-band1a-img136.jpg[align=center,title='Overview (Click to enlarge)',link=self]
 
 .Transliteration
+[literal.bordered,subs="verbatim,quotes"]
 ....
 den 1 Septembr. ist Heinrich Bleeck[e] aus Evesen Töchterlein 
 Anna Maria Elisabeth getauft. Gev. Hans Herman

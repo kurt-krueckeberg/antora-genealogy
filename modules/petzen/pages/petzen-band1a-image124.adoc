@@ -13,6 +13,7 @@ image::petzen-band1a-img124-alternate-left-page-bleeke.jpg[align=left,title='Ann
 image::petzen-band1a-img124-left-page-bleeke.jpg[align=left,title='Anna Engel Bleecke, image 124, left page (Click to enlarge)',link=self]
 
 .Transliteration
+[literal.bordered,subs="verbatim,quotes"]
 ....
 10 den 16 Junÿ ist Henrich Bleecke aus Evesen Töcherl[ein] Anna Engel
 getauft. Geb[Gev]. des Schäffers von der Höchersau Ehefrau
@@ -21,6 +22,7 @@ getauft. Geb[Gev]. des Schäffers von der Höchersau Ehefrau
 NOTE: See xref:petzen:petzen-band1a-image247.adoc[] for an explanation of *Höckersau*.
 
 .Translation
+[literal.bordered,subs="verbatim,quotes"]
 ....
 10 16th June the infant daughter of Henrich Bleecke from Evesen Anna Engel
 was baptized. Godmother the wife of the shepherd of the Höchersau.

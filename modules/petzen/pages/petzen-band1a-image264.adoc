@@ -92,6 +92,7 @@ baptism record it appears as **aue**, **Höckersaue**.
 ****
 
 .Transliteration of 1779 Baptsim of Carl Friderich Gottlieb Kruckeberg
+[literal.bordered,subs="verbatim,quotes"]
 ....
 Getaufte                                                               1779
 
@@ -103,6 +104,7 @@ Getaufte                                                               1779
 ....
 
 .Translation
+[literal.bordered,subs="verbatim,quotes"]
 ....
 Baptisms                                                                1779 
 

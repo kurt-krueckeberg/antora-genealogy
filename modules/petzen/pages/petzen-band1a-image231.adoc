@@ -4,6 +4,7 @@
 image::petzen-band1a-img231-blecken.jpg[align=left,title='Johan Heinrich Blecken (Click to enlarge)',link=self]
 
 .Transliteration
+[literal.bordered,subs="verbatim,quotes"]
 ....
 d 12n Octobr hat dee [?] Taufte empfangen des Johann Heinrich
 Blecken aus Evesen No 11 mit seiner Ehefrau Anna

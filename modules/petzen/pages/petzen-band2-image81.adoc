@@ -35,12 +35,14 @@ image::petzen-band2-img81-157-header.jpg[title="Header page 157 portion(Click to
 == Transliteration and Translation of header for pages 156 and 157
 
 .Transliteration
+[literal.bordered,subs="verbatim,quotes"]
 ....
 156                                           1802 u[nd] 1803                                  1802 u[nd] 1803                       157
 Geborene aus den [im?]gepf[???]ten Schaub: Lipp: Dorfschaften      Geborene aus den [in?] gepf[????]ten Schaumb: Lipp: Dorfschaften
 ....
 
 .Translation
+[literal.bordered,subs="verbatim,quotes"]
 ....
 156                                           1802 and 1803s                                     1802 and 1803                       157
 Births in the [ministered-to?] Schaumb[urg] Lippe villages               Births in the [ministered-to?] Schaumburg Lippe villages

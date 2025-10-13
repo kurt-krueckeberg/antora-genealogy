@@ -79,11 +79,13 @@ image::petzen-band2-img314-655.jpg[title="Johann Heinrich Krückeberg (Click to 
 === Transliteration and Translation of Pages 654 and 655
 
 .Transliteration of Page Header
+[literal.bordered,subs="verbatim,quotes"]
 ....
 654   Gestorbene in Kirchspiel Petzen                                     im Jahr 1822                      655
 ....
 
 .Translation of Page Header
+[literal.bordered,subs="verbatim,quotes"]
 ....
 654   Deaths in the Petzen Parish                                         in the year 1822                  655
 ....

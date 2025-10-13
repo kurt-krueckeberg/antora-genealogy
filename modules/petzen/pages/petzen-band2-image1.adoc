@@ -15,6 +15,7 @@ image::petzen-band2-cover.jpg[align=left,title="Click to enlarge",link=self]
 === Transliteration and Translation
 
 .Transliteration
+[literal.bordered,subs="verbatim,quotes"]
 ....
 Kirchen Buch
   darin
@@ -30,6 +31,7 @@ von 1785 bis 1827   von 1785 bis 1799
 ....
 
 .Translation
+[literal.bordered,subs="verbatim,quotes"]
 ....
 Church Register
     in which

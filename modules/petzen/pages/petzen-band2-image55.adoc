@@ -62,11 +62,13 @@ This entry appears on <<image55-105,image 55, page 105>> of Petzen Kirchenbuch v
 image::petzen-band2-img55-105.jpg[align="left",title="Click to enlarge",link=self]
 
 .Transliteration of page 105 header
+[literal.bordered,subs="verbatim,quotes"]
 ....
                         Getaufte 1792                                           105
 ....
 
 .Translation of page 105 header
+[literal.bordered,subs="verbatim,quotes"]
 ....
                         Baptisms 1792                                           105
 ....
@@ -83,6 +85,7 @@ this case, "of the same [month]".
 ====
 
 .Transliteration of page 105, entry 9
+[literal.bordered,subs="verbatim,quotes"]
 ....
 9) 3ten Febr ist Philippine Caroline Christine Krueckebergen
    des Jobst Heinrich Krückeberg [Sc]husters in Berenbusch No [no number]
@@ -102,6 +105,7 @@ this case, "of the same [month]".
 ....
 
 .Transliteration and translation of margin notations
+[literal.bordered,subs="verbatim,quotes"]
 ....
 1. cop. 23.2.1812
 2. cop. 11.5.34

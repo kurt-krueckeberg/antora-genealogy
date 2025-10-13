@@ -56,18 +56,21 @@ The transliteration of the header for page 5 and marriage entries 8, 10 and 13 a
 ====
 
 .Transliteration
+[literal.bordered,subs="verbatim,quotes"]
 ....
                         Getraute       1790                               5
 ....
 
 
 .Translation
+[literal.bordered,subs="verbatim,quotes"]
 ....
                        Married Couples 1790                                5
 ....
 
 
 .Transliteration
+[literal.bordered,subs="verbatim,quotes"]
 ....
 
 13) d 12th October ist copulirt Jobst Heinrich Kruckeberg aus Berenbusch
@@ -84,6 +87,7 @@ is denoted with the preceding `gest.`, meaning **gestorben** (died).
 ====
 
 .Translation
+[literal.bordered,subs="verbatim,quotes"]
 ....
 
 13) On 12th October Jobst Heinrich Kruckeberg from Berenbusch

@@ -8,6 +8,7 @@ The baptism of Catherina Margarethe Bleeck  is found on image <<image121, 121>>,
 image::petzen-band1a-img121.jpg[align=left,title='Henrich Bleecke, image 176, right page (Click to enlarge)',link=self]
 
 .Transliteration
+[literal.bordered,subs="verbatim,quotes"]
 ....
 den 21. January hatt Henrich Bleeck auß Eversen eine Tochter taufft lassen
 so Catharina Margaretha genandt und [sein/sind] die Gevatterinnen [gew???]

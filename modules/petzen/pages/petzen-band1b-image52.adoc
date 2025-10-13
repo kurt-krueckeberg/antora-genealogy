@@ -25,6 +25,7 @@ the top, right-hand page, of the Petzen " Verzeichnis der Getrauten und Gestorbe
 image::petzen-band1b-img52.jpg[title="Johan Henrich Krückeberg Marriage(Click to enlarge)",link=self]
 
 .Transliteration
+[literal.bordered,subs="verbatim,quotes"]
 ....
 d. 14ten Junii Johann Heinrich Krückeberg
      aus Bernbusch mit Anne Christine Elisebet 

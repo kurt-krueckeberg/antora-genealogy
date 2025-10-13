@@ -11,6 +11,7 @@ Petzen "Verzeichnis der Getaufte und Konfirmirte, 1641-1784"
 image::petzen-band1a-img261-left.jpg[align=left,title='Sophia Ernestine Bleken Baptism 1778 (Click to enlarge)',link=self]
 
 .Transliteration
+[literal.bordered,subs="verbatim,quotes"]
 ....
 26) d 11t[en] Sept ist getauft Sophia Ernestine Bleken
     des Johann Heinrich Bleken aus Evesen mit seiner
@@ -19,6 +20,7 @@ image::petzen-band1a-img261-left.jpg[align=left,title='Sophia Ernestine Bleken B
 ....
 
 .Translation
+[literal.bordered,subs="verbatim,quotes"]
 ....
 26) On 11th Sept Sophia Ernestine Belken was
     baptized, the daughter of Johann Heinrich Bleken from Evesen, by his

@@ -26,6 +26,7 @@ appears on <<band1b-img178-left, image 178>>, on the left-hand page, of the Petz
 image::petzen-band1b-img178-left.jpg[title="Burial of Louisa Eleonore Krückeberg (Click to enlarge)",link=self]
 
 .Transliteration
+[literal.bordered,subs="verbatim,quotes"]
 ....
 1757             Begraben                                                                 
 d 28t Jan. Louisa Eleonore Krückebergs
@@ -33,6 +34,7 @@ d 28t Jan. Louisa Eleonore Krückebergs
 ....
 
 .Translation
+[literal.bordered,subs="verbatim,quotes"]
 ....
 1757             Begraben                                                                 
 d 28th Jan. Louisa Eleonore Krückeberg

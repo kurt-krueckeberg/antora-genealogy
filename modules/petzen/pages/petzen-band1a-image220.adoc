@@ -49,6 +49,7 @@ entry: 5 July 1767.
 ****
 
 .Transliteration of Page Header and 1767 Baptism of Johann Heinrich Wilhelm Krückeberg
+[literal.bordered,subs="verbatim,quotes"]
 ....
 1776                  Getaufte 
 
@@ -62,6 +63,7 @@ Eodem) ist alhier getauft Johann Heinrich Kruckebergs aus
 
 
 .Translation of Page Header and 1767 Baptism of Johann Heinrich Wilhelm Krückeberg
+[literal.bordered,subs="verbatim,quotes"]
 ....
 On the same day the son of Johann Heinrich Kruckeberg
  Berenbusch, by his wife Anne Christine Elisabeth

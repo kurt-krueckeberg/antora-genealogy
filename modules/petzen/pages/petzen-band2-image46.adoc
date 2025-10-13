@@ -6,6 +6,7 @@
 image::petzen-band2-img46-87.jpg[align=left,title="Christin Maria Weiland Baptism, page 87 (Click to enlarge)",link=self]
 
 .Transliteration and Translation
+[literal.bordered,subs="verbatim,quotes"]
 ....
                                Getaufte(Baptized) 1789                      87
 19) d 24zen May: ist getauft Christina Maria Weilands

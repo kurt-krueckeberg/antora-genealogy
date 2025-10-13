@@ -37,6 +37,7 @@ image::petzen-band2-img70-header-134.jpg[title="Header page 134 portion (Click t
 image::petzen-band2-img70-header-135.jpg[title="Header page 135 portion (Click to enlarge)",link=self]
 
 .Transliteration of header for pages 134-135
+[literal.bordered,subs="verbatim,quotes"]
 ....
 134                           Gebohrne(births)                       im Jahr (in the year) 1789                 135
 ....

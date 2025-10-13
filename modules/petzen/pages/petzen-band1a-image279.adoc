@@ -38,6 +38,7 @@ image::petzen-band1a-img279-overview.jpg[align=left,title='Left page overview of
 image::petzen-band1a-img279-entry2.jpg[align=left,title='Johanna Sophie Charlotte Krückeberg, entry 2, left page of image 279 (Click to enlarge)',link=self]
 
 .Transliteration of 1782 Baptsim of Johanna Sophie Charolotte Krückeberg
+[literal.bordered,subs="verbatim,quotes"]
 ....
 1781,1782      Getaufte
 
@@ -63,6 +64,7 @@ xref:petzen-band1a-image264.adoc[1779 Carl Friderich Gottlieb Krückeberg] bapti
 ====
 ****
 .Translation
+[literal.bordered,subs="verbatim,quotes"]
 ....
 1781,1782      Baptisms
 2) on Jan 13th [of 1782] Johanna Sophie Charlotte

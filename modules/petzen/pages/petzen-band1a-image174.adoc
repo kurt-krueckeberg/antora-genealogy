@@ -31,6 +31,7 @@ The baptism is on the bottom of the left-hand page, the pages being unnumbered.
 image::petzen-band1a-img174-left.jpg[align=left,title="Click to enlarge",link=self]
 
 .Transliteration
+[literal.bordered,subs="verbatim,quotes"]
 ....
 d. 26 Oct. Anna Louisa Eleonore Krückebergs getauft
 Pater _ _ _ Krückeberg aus Berenbusch Gevatter Rödenbecks
@@ -40,6 +41,7 @@ Tochter aus Scheye
 NOTE: The village *Scheye* below is the same as link:https://www.meyersgaz.org/place/20702058[Scheie].
 
 .Translation
+[literal.bordered,subs="verbatim,quotes"]
 ....
 26 Oct. Anna Louisa Eleonore Krückebergs baptized
 Father _ _ _ Krückeberg aus Berenbusch Godmother Rödenbeck's

@@ -30,6 +30,7 @@ image::petzen-band2-img212-2.jpg[title="First entry, top-right column of Knaben,
 **Quasimodogeniti** is the 1^st^ Sunday After Easter.
 
 .Transliteration of Header for page 449
+[literal.bordered,subs="verbatim,quotes"]
 ....
 Verzeichnis der am Sonntage Quasidmodgeniti
 1821 Confirmierten Kinder - aus dem Schaumb.[Schaumburg inferred]
@@ -45,12 +46,14 @@ Knaben
 ....
 
 .Translation of Header for page 448
+[literal.bordered,subs="verbatim,quotes"]
 ....
 Register (or listing) of children confirmed  
 1821 - from Schaumb.[Schaumburg inferred]
 ....
 
 .Translation of Knaben (boys) listed in top left list of page 449
+[literal.bordered,subs="verbatim,quotes"]
 ....
 Boys 
 

@@ -57,6 +57,7 @@ records continue on with those in 1728, and the Krückeberg son is the 18^th^ ba
 **** 
 
 .Transliteration 
+[literal.bordered,subs="verbatim,quotes"]
 ....
 18)  28 Julÿ ist Johann Heinrich Krückebergs aus Berenbusch
 Söhnlein Johann Friedrich getauft. Gevatter
@@ -64,6 +65,7 @@ sind gewesen Johann Tönnies Eggerding und H Herman Wiese
 ....
 
 .Translation
+[literal.bordered,subs="verbatim,quotes"]
 ....
 18) On 28 July The little son of Johann Heinrich Krückeberg from Berenbusch
 was baptized. Godfathers were Johann Tönnies Eggerding and H Herman Wiese

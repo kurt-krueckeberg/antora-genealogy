@@ -11,6 +11,7 @@ The 17 December 1730 baptism of Sophia Margarthe Bleeck is found on <<image144, 
 image::petzen-band1a-img144.jpg[align=left,title='Sophia Margarthe Bleeck baptism (Click to enlarge)',link=self]
 
 .Transliteration
+[literal.bordered,subs="verbatim,quotes"]
 ....
 den 17 Decembr ist Heinrich Bleeck aus Evesen
 Töchterl[ein]. Sophia Margaretha getauft gevattet
@@ -19,6 +20,7 @@ ist gewesen die [j]unge Sandersche aus Berenbusch
 
 
 .Translation
+[literal.bordered,subs="verbatim,quotes"]
 ....
 On 17 Decembr Sophia Margarethe, the little daugher of Heinrich Bleeck from Evesen,
       was baptized. Godmother was the [young] Sandersche from Berenbusch

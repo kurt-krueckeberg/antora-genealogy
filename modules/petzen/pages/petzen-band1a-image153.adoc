@@ -16,12 +16,14 @@ The year **1736** appears on the previous image, image number 152, toward the bo
 for 1737 begin to be listed.
 
 .Transliteration
+[literal.bordered,subs="verbatim,quotes"]
 ....
 Octob d 7tn Weiland Soldat von Evesen ein Söhnliein: Hanß
 Heinrich. Gewatter Hardtung v. Evesen Schäfer. Weiland [Blurred letter]ön[?]hof 
 ....
 
 .Translation
+[literal.bordered,subs="verbatim,quotes"]
 ....
 October 7th Soldier Weiland from Evesen a son: Hans
 Heinrich. Godfater Hardtung from Evesen shepherd. Weiland [?]ön[k?]hof

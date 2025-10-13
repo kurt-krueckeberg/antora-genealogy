@@ -9,16 +9,19 @@ The baptism record for Phlippina Eleonore Werkmeister Baptism is on <<image287, 
 image::petzen-band1a-img287-left-page.jpg[align=left,title='Left page, top entry (Click to enlarge)',link=self]
 
 .Transliteration of Page Header
+[literal.bordered,subs="verbatim,quotes"]
 ....
 1783    Getaufte
 ....
 
 .Translation of Page Header
+[literal.bordered,subs="verbatim,quotes"]
 ....
 1783    Baptisms
 ....
 
 .Transliteration of Baptism Record
+[literal.bordered,subs="verbatim,quotes"]
 ....
 #24 d 4ten May: ist Phlippina Eleonore Werkmeistern
 des Heinrich Tönnies Werkmeisters aus
@@ -29,6 +32,7 @@ Margarethe Brauns aus Evesen
 ....
 
 .Translation of Baptism Record
+[literal.bordered,subs="verbatim,quotes"]
 ....
 On 4th May Philippina Eleonore Werkmeister, the begotten daugther of
 Tönnies Werkmeister from Evesen No. 11 and his wife Ilse

@@ -24,6 +24,7 @@ image::petzen-band1a-img310-right.jpg[align=left,title='Johann Heinrich Krückeb
 NOTE: No page number is written on this page.
 
 .Transliteration
+[literal.bordered,subs="verbatim,quotes"]
 ....
                      Confirmati 1757
 
@@ -39,6 +40,7 @@ Johan Heinrich Krückeberg aus Bernbusch
 ....
 
 .Translation
+[literal.bordered,subs="verbatim,quotes"]
 ....
                      Confirmed 1757
 

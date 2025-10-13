@@ -28,6 +28,7 @@ NOTE: The text is difficult to be certain of. *von der Fr. Verwalterin Gaden zur
 image::petzen-band1a-img163.jpg[title="Sophia Maria Krückeberg (Click to enlarge)",link=self]
 
 .Transliteration 
+[literal.bordered,subs="verbatim,quotes"]
 ....
 27t Kruekeberg in Behrenbusch ein Tochterlein Sophia
 Maria [genennet] von der Fr. Verwalterin Gaden
@@ -38,6 +39,7 @@ NOTE: The month of December is written two entries above written as the abbrevia
 **Decemb**.
 
 .Translation
+[literal.bordered,subs="verbatim,quotes"]
 ....
 On 27th [December]: Kruekeberg in Behrenbusch,
 a little daughter named Sophia Maria.

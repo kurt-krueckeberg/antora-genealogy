@@ -40,6 +40,7 @@ names? It is might be **benahmsen**, with **benahmsen** likely just another form
 for _benennen_, "to name somebody or something after, or for".
 
 .Transliteration
+[literal.bordered,subs="verbatim,quotes"]
 ....
 Anno 1744
 
@@ -60,6 +61,7 @@ that begin before the word 'Sohn'
 ====
 
 .Translation
+[literal.bordered,subs="verbatim,quotes"]
 ....
 the 19th January a Krückeberg son was baptized
 named Johann Heinrich, Godfathers are G[eorg?]

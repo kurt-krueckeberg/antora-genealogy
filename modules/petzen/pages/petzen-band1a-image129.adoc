@@ -11,12 +11,14 @@ The baptism of Catherine Elisabeth Bleeck is on <<image129, image 129>>, right-h
 image::petzen-band1a-img129.jpg[align=left,title='Catharine Elisabeth Bleeck, image 129, right page (Click to enlarge)',link=self]
 
 .Transliteration
+[literal.bordered,subs="verbatim,quotes"]
 ....
 13 d 20	April ist Henrich Bleeck aus Ev. Töchterlein Catharine Elisabeth
    getauft. Gev. Bleeck von Meißsen Ehefrau
 ....
 
 .Translation
+[literal.bordered,subs="verbatim,quotes"]
 ....
 13 On April 20th the daughter of Henrich Bleeck from Ev[esen], Catharine Elisabeth,
    was baptized. Godmother wife of Bleeck from Meißsen.

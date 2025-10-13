@@ -11,6 +11,7 @@ The baptism of Johann Daniel Bleeck is on <<image132, image 132>>, right hand pa
 image::petzen-band1a-img132.jpg[align=center,title='Overview (Click to enlarge)',link=self]
 
 .Transliteration
+[literal.bordered,subs="verbatim,quotes"]
 ....
 31 d 24t[en] Octbr. ist Heinrich Bleeck aus Evesen Söhnlien
      Johann Daniel getauft gav. [dessen] Vater im Mei[ßen]  

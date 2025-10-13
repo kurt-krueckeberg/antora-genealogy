@@ -15,12 +15,14 @@ This is it enhanced:
 image::petzen-band1a-img120-right-page-bleek.png[align=left,title='Maria Elisabeth Bleek, image 120, right page (Click to enlarge)',link=self]
 
 .Transliteration
+[literal.bordered,subs="verbatim,quotes"]
 ....
 18 den 26 Junÿ ist Henrich Bleeck aus Evesen Töchterlein Maria
 Elisabeth getauftt. ge[v?]. des Vaters Mutter.
 ....
 
 .Translation
+[literal.bordered,subs="verbatim,quotes"]
 ....
 18 The 26th of June was Bleek from Evensen's little daughter Maria 
 Elisabeth baptized. [???] the father's mother.

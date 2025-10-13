@@ -20,6 +20,7 @@ their child is born.
 image::petzen-band1a-img243-blecken-right-page.jpg[align=left,title='Annne Phlippine Maria Blecken (Click to enlarge)',link=self]
 
 .Transliteration
+[literal.bordered,subs="verbatim,quotes"]
 ....
          Getaufte                         1775
 [first entry, which continues from prior page, omitted]
@@ -62,6 +63,7 @@ was born his daughter, who was baptized."**
 ****
 
 .Translation
+[literal.bordered,subs="verbatim,quotes"]
 ....
          Baptisms                         1775
 [first entry, which continues from prior page, omitted]

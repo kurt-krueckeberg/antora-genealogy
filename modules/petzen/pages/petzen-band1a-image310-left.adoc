@@ -23,6 +23,7 @@ NOTE: No page numbers are written on these pages.
 image::petzen-band1a-img310-left.jpg[align=left,title='Sophie Maria Krückeberg Confirmed 1755 (Click to enlarge)',link=self]
 
 .Transliteration of last four entries on left-hand page
+[literal.bordered,subs="verbatim,quotes"]
 ....
                    Confirmati 1755
 
@@ -44,6 +45,7 @@ etc.).
 ====
 
 .Translation of last four entries on left-hand page
+[literal.bordered,subs="verbatim,quotes"]
 ....
                    Confirmed 1755
 

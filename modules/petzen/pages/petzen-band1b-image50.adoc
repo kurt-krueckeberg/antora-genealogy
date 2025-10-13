@@ -25,6 +25,7 @@ the right-hand page, of the Petzen " Verzeichnis der Getrauten und Gestorbenen 1
 image::petzen-band1b-img50.jpg[title="Johan Henrich Krückeberg Marriage(Click to enlarge)",link=self]
 
 .Transliteration
+[literal.bordered,subs="verbatim,quotes"]
 ....
 d. 29t Januarii Johan Henr[ich]. Krückeberg
      aus Berenbusch mit Ilse Margarethe 

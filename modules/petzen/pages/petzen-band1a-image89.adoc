@@ -11,6 +11,7 @@ This is the enhanced image of his baptism record:
 image::petzen-band1a-img89.jpg[align=left,title='Anna Maria Weiland, image 176, right page (Click to enlarge)',link=self]
 
 .Transliteration
+[literal.bordered,subs="verbatim,quotes"]
 ....
 Anna [Elsbeÿ] Notmaÿer, mit [Kuckeberg/Kruckeberg] aus dem Bückeburg,
 unehelichs gezeugtes Söhnlein Hans Otto, getauft
@@ -21,6 +22,7 @@ Gevatter: Notmaÿer in Berenbusch.
 NOTE: **Elsbeÿ** may be an form of Elsbeth or Elisabeth.
 
 .Translation
+[literal.bordered,subs="verbatim,quotes"]
 ....
 Anna Elisbeth Notmaier, with Kückeberg from Bückeburg,
 an illegitimately begotten little son named Hans Otto,

@@ -16,11 +16,13 @@ image::petzen-band2-img28-left.jpg[align=left,title="Click to enlarge",link=self
 image::petzen-band2-img28-right.jpg[align=left,title="Click to enlarge",link=self]
 
 .Transliteration of page header
+[literal.bordered,subs="verbatim,quotes"]
 ....
 50                 Copulierte im Kirchspiel Petzen         |                      im Jahr 1812                      51
 ....
 
 .Translation of page header
+[literal.bordered,subs="verbatim,quotes"]
 ....
 50                 Marriages in the Parish Petzen          |                      in the year 1812                   51
 ....

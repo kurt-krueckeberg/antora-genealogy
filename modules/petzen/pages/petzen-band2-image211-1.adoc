@@ -25,6 +25,7 @@ Quadimodogeniti (the 1^st^ Sunday After Easter), 1816.
 image::petzen-band2-img211-446-header.jpg[align=left,title="Click to enlarge",link=self]
 
 .Transliteration of Header
+[literal.bordered,subs="verbatim,quotes"]
 ....
 446 
                 Verzeichnis 
@@ -34,6 +35,7 @@ Knaben
 ....
 
 .Translation of Header
+[literal.bordered,subs="verbatim,quotes"]
 ....
 446 
                 Register 
@@ -49,6 +51,7 @@ Sophie Wilhelmine Krückeberg is the 9^th^ Mädchen (girl) listed onm page 446.
 image::petzen-band2-img211-446.jpg[align=left,title="Click to enlarge",link=self]
 
 .Transliteration of Entries 8, 9 and 10
+[literal.bordered,subs="verbatim,quotes"]
 ....
  8. Caroline Ernestine Louise Ahldags. Evesen n. 1
  9. Sophie Wilhelmine Krückebergs. Bärenbusch n. 10

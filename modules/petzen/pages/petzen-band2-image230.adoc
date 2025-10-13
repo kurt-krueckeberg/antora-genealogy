@@ -38,6 +38,7 @@ Page 485, entry 16:
 image::petzen-band2-img230-entry16.jpg[[title="Croemer/Krückeberg begraben 1794 (Click to enlarge),link=self]
 
 .Transliteration of page 485, entry 16
+[literal.bordered,subs="verbatim,quotes"]
 ....
                                       
 16) d 29 ist beerdigt Friderich Wilhelm Kruckeberg:Croemer des Johann

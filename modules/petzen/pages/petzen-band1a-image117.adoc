@@ -11,6 +11,7 @@ The enhanced image is below:
 image::petzen-band1a-img117-bleecke.jpg[align=left,title='Henrich Bleecke, image 176, right page (Click to enlarge)',link=self]
 
 .Transliteration
+[literal.bordered,subs="verbatim,quotes"]
 ....
 den 24 Junÿ Henrich Bleecke aus/auf der
 banstans/banstau ein Sohn tauft lassen

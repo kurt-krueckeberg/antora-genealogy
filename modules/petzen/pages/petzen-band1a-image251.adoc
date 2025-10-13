@@ -11,6 +11,7 @@ Petzen "Verzeichnis der Getaufte und Konfirmirte, 1641-1784".
 image::petzen-band1a-img251-bleke.jpg[align=left,title='Fridrich Wilhelm Bleke Baptism 1776 (Click to enlarge)',link=self]
 
 .Transliteration
+[literal.bordered,subs="verbatim,quotes"]
 ....
 41) d 26t[en] Decembr. ist getauft Fridrich Wilhelm Bleke
               des Heinrich Wilhelm Bleken aus Evesen mit seiner
@@ -20,6 +21,7 @@ image::petzen-band1a-img251-bleke.jpg[align=left,title='Fridrich Wilhelm Bleke B
 ....
 
 .Translation
+[literal.bordered,subs="verbatim,quotes"]
 ....
 41) The 26th of Decembr. Fridrich Wilhelm Bleke was baptized,
               the legitimate son of Heinrich Wilhelm Bleken from Evesen, by hi

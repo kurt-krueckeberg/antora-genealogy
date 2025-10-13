@@ -25,16 +25,19 @@ image::petzen-band2-img212-1.jpg[title="First entry, top right column of Knaben,
 **Quasimodogeniti** is the 1^st^ Sunday After Easter.
 
 .Transliteration of Header for page 448
+[literal.bordered,subs="verbatim,quotes"]
 ....
 der am Sonntage Quasidmodgeniti 1818 Confirmierten Kinder - aus dem Schaumb.
 ....
 
 .Translation of Header for page 448
+[literal.bordered,subs="verbatim,quotes"]
 ....
 The children confirmed on Sonday Quasidmodgeniti 1818 - from Schaumb[urg]
 ....
 
 .Transliteration of right column at the top of page 448
+[literal.bordered,subs="verbatim,quotes"]
 ....
 Am Sonntag Quasimodogentiti
 1820. sind Confirmiert
@@ -46,6 +49,7 @@ Knaben
 ....
 
 .Translation of right column at the top of page 448
+[literal.bordered,subs="verbatim,quotes"]
 ....
 On Sunday Quasimodogentiti
 1820. were confirmed

@@ -79,11 +79,13 @@ image::petzen-band2-img96-overview.jpg[title="Overview of pages 186-187 (Click t
 == Transliteration and Translation of Header for Pages 186 and 187
 
 .Transliteration of Header for Pages 186 and 187
+[literal.bordered,subs="verbatim,quotes"]
 ....
 186         Getaufte im Kirchspiele Petzen                      im Jahr 1807                            187
 ....
 
 .Translation of Header for Pages 186 and 187
+[literal.bordered,subs="verbatim,quotes"]
 ....
 186         Baptisms in the Parish of Petzen                   in the Year 1807                          187
 ....

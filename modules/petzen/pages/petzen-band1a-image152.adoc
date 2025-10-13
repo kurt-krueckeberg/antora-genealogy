@@ -43,12 +43,14 @@ an abbreviation for it.
 ****
 
 .Transliteration 
+[literal.bordered,subs="verbatim,quotes"]
 ....
 d[en] 29 dito Krückeberg v. [b/ß b/ß] ein Töchterl[ein] tauft
 lassen Dorothea Elisabeth Soldat Weilands Frau Gevatterin
 ....
 
 .Translation
+[literal.bordered,subs="verbatim,quotes"]
 ....
 The 29 January Krückeberg v. [Berenbusch: see note] a little daughter was
 baptized Dorothea Elisabeth Soldier Weiland's wife godmother.

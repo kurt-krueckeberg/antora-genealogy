@@ -26,6 +26,7 @@ Getrauten und Gestorbenen, 1641-1784".
 image::petzen-band1b-img204.jpg[title="Stillbon son of Johann Heinrich Kruckebergn (Click to enlarge)",link=self]
 
 .Transliteration
+[literal.bordered,subs="verbatim,quotes"]
 ....
           Begrabene                                                                 1773
 
@@ -34,6 +35,7 @@ d 23  Jun. ist beigestz[t] des Johann Heinrich Kruckeberg
 ....
 
 .Translation
+[literal.bordered,subs="verbatim,quotes"]
 ....
           Burials                                                                  1773
 

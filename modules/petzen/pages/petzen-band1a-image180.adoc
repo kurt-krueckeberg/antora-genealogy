@@ -29,6 +29,7 @@ The baptism of Carl Philip Krückeberg is on <<image180, image 180>>, right page
 image::petzen-band1a-img180.jpg[align=left,title='Carl Philip Krückberg baptism, (Click to enlarge)',link=self]
 
 .Transliteration
+[literal.bordered,subs="verbatim,quotes"]
 ....
 d. 4[ten] Novemb. Carl Philip Krückeberg
 des Leineweber Kruckebergs zu Bernbusch Sohn
@@ -36,6 +37,7 @@ getauft: Gev[atter]. Fahlsings Sohn aus Eversen
 ....
 
 .Translation
+[literal.bordered,subs="verbatim,quotes"]
 ....
 On the 4th of November, Carl Philip Krückeberg,
 son of the linen weaver Krückeberg of Bernbusch,

@@ -24,6 +24,7 @@ entry 12, among the list of Mädchen (girls) confirmed.
 image::petzen-band2-img211-447-3.jpg[align=left,title="Click to enlarge",link=self]
 
 .Transliteration of Header
+[literal.bordered,subs="verbatim,quotes"]
 ....
                                                           447 
                 Verzeichnis 
@@ -33,6 +34,7 @@ Knaben
 ....
 
 .Translation of Header
+[literal.bordered,subs="verbatim,quotes"]
 ....
                                                          447
                 Register 
@@ -43,6 +45,7 @@ Boys
 
 
 .Transliteration of Mädchen (Girls) Entries 11-13
+[literal.bordered,subs="verbatim,quotes"]
 ....
 Mädchen
 

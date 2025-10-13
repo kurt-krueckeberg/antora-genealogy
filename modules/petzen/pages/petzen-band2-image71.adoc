@@ -61,11 +61,13 @@ image::petzen-band2-img71-137.jpg[title="Header and first three entries, page 13
 == Transliteration and Translation of Header for Pages 136 and 137
 
 .Transliteration of header for pages 136-137
+[literal.bordered,subs="verbatim,quotes"]
 ....
 136                           Gebohrne                               im Jahr 1798                        137
 ....
 
 .Translation of header for pages 136-137
+[literal.bordered,subs="verbatim,quotes"]
 ....
 136                           Births                                 in year 1798                         137
 ....
@@ -96,6 +98,7 @@ zahl| Namen des Kindes|Namen des Vaters|Haus Nro|Orstschaft|Namen der Mutter|geb
 |===
 
 .Transliteration of dates written below her name
+[literal.bordered,subs="verbatim,quotes"]
 ....
  cop.  1.12.1816
  gest. 11.9.1878
@@ -120,6 +123,7 @@ No.| Child's Name|Father's Name|Haus No.|Locality|Mother's name|birth.|bap.|Name
 |===
 
 .Translation of Nachtrag dates written below her name
+[literal.bordered,subs="verbatim,quotes"]
 ....
  married  12/1/1816
  died      9/11/1878

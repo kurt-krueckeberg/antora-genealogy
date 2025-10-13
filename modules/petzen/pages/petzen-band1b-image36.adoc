@@ -25,6 +25,7 @@ page, of the Petzen " Verzeichnis der Getrauten und Gestorbenen 1641-1784".
 image::petzen-band1b-img36.jpg[title="Johann Heinrich Krückeberg Marriage(Click to enlarge)",link=self]
 
 .Transliteration
+[literal.bordered,subs="verbatim,quotes"]
 ....
 den 28ten Septemb ist Johann Henrich Krückeberg aus
      Berenbsuch mit Anna Maria Vahlsings aus Evesen copuliet

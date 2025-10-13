@@ -16,6 +16,7 @@ image::petzen-band1a-img259.jpg[align=left,title='Stillborn son of Johann Christ
 `Isabein` is a short form of Elisabeth
  
 .Transliteration adn Translation
+[literal.bordered,subs="verbatim,quotes"]
 ....
 18) d 27ten Jul: ist des Johan Christian Weilands Einlieger in
     Penzen mit seiner Ehefrau Christine Ilsabei
