@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 rm -rf public
 npx antora local-playbook.yml 
-cp  css/kurt-customizations.css public/_/css/
 cp  fonts/* public/_/font/
 /usr/bin/rm -rf /var/www/krueckeberg.org/docs/*
 /usr/bin/cp -r public /var/www/krueckeberg.org/docs
