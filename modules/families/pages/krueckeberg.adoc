@@ -4,8 +4,8 @@
 [role="section-narrow"]
 == Krückeberg Triangle
 
-xref:attachment$krueckeberg-triangle-document.pdf[Select Krückeberg Immigrants to the American Midwest] by Steven T Krueckeberg, May 2023,
-explains his discovery of a geographical _Krückeberg Triangle_.
+xref:attachment$select-krueckeberg-immigrants-to-the-midwest.pdf[Select Krückeberg Immigrants to the American
+Midwest] by Steven T Krueckeberg, October 2025, explains his discovery of a geographical _Krückeberg Triangle_.
 
 == Family Records
 
