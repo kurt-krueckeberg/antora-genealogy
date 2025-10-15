@@ -45,7 +45,7 @@ link:https://blogs.loc.gov/law/2017/10/the-peace-of-westphalia/[Peace of Westpha
         <span class="title">Carl Friedrich Bleeke Born</span>
         <span>2 Nov 1794</span>
       </div>
-      <p>Carl Friedrich Bleeke (1794&ndash;1853) born at Leteln Nr. 13, Leteln, Principality of Minden, Kingdom of Prussia, Holy Roman Empire of the German Nation.</p>
+      <p>Carl Friedrich Bleeke (1794&ndash;1853) born at Leteln Nr. 13, Principality of Minden, Kingdom of Prussia, Holy Roman Empire of the German Nation.</p>
       <div class="bottom">
 ++++
 xref:frille:frille-band2-image123.adoc[]
@@ -130,7 +130,7 @@ xref:petzen:petzen-band2-image71.adoc[Baptism Record]
         <span class="title">Christian Friedrich Bleeke Born</span>
         <span>25 Dec 1800</span>
       </div>
-      <p>Christian Friedrich Bleeke (1800&ndash;1889) born at Leteln Nr. 13,Leteln, Amt Reineberg (or Amt Hausberge)*, Principality of Minden, Kingdom of Prussia, Holy Roman Empire of the German Nation.</p>
+      <p>Christian Friedrich Bleeke (1800&ndash;1889) born at Leteln Nr. 13,Leteln, Principality of Minden, Kingdom of Prussia, Holy Roman Empire of the German Nation.</p>
       <div class="bottom">
 ++++
 xref:frille:frille-band2-image152.adoc[]
