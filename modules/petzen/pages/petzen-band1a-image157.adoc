@@ -27,7 +27,7 @@ image::petzen-band1a-img157-krueckeberg.jpg[title="Johann Wilhelm Krückeberg (C
 .Transliteration 
 [literal.bordered,subs="verbatim,quotes"]
 ....
-11 hÿ Krückeberg [in] [ẞ. ẞ.] ein Söhnl[ein] tauft
+11 hÿ Krückeberg [in] [B. B.] ein Söhnl[ein] tauft
 lassen Johann Wilhelm [benamst?] [uncertain]
 [seina?] Gevatter Valsing
 ....
@@ -36,7 +36,7 @@ lassen Johann Wilhelm [benamst?] [uncertain]
 ****
 [IMPORTANT]
 ====
-* *Berenbusch* is not mentioned explicitly. It is assumed that image:berenbusch-abbreviation.jpg[] is
+* *Berenbusch* is not mentioned explicitly. Likely the two *"B"*s in image:berenbusch-abbreviation.jpg[] are
 an abbreviation for it. 
 ====
 
