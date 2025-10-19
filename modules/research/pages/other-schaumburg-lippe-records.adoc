@@ -8,60 +8,72 @@ Bückeburg (and why they help), in rough order of payoff.
 === Most promising (land/tax/household identity)
 
 [arabic]
-. *Kontributions- & Schatzungsregister (tax rolls)* Annual/periodic
-lists of taxpayers by village/Status (Colon, Anbauer/Brinksitzer,
-Einwohner). Often note a head of household and sometimes predecessors
-("`jetzt …, zuvor …`"). ➜ Lets you see *which Krückeberg heads* (Johann
-Heinrich, Jobst, etc.) paid in Berenbusch and their *status*—perfect to
-split children by household.
-. *Lager-/Hof-/Meier-Register (Rentkammer house & land books)*
+. *Kontributions- & Schatzungsregister (tax rolls)* +
+ +
+Annual/periodic lists of taxpayers by village/Status (Colon,
+Anbauer/Brinksitzer, Einwohner). Often note a head of household and sometimes
+predecessors ("`jetzt …, zuvor …`"). +
+➜ Lets you see *which Krückeberg heads* (Johann Heinrich, Jobst, etc.) paid in
+Berenbusch and their *status*—perfect to split children by household.
+. *Lager-/Hof-/Meier-Register (Rentkammer house & land books)* +
+ +
 Estate/lease registers for each *Kolon/Meierhof*: tenant’s name,
-obligations, acreages, transfers. ➜ Ties a *named Krückeberg* to a
-*specific holding*; later entries often back-reference earlier tenants
-(useful even if the exact year is a bit later than 1750).
+obligations, acreages, transfers. +
+➜ Ties a *named Krückeberg* to a *specific holding*; later entries often
+back-reference earlier tenants (useful even if the exact year is a bit later
+than 1750).
 . *Hof-, Kauf-, Tausch-, Übergabe- & Meierbriefe (property/tenure
-charters)* Deeds/leases when a farm or part of it changed hands; include
-*giver/receiver, kin, witnesses*. ➜ Identifies *fathers/sons* and the
-*house succession*, anchoring which adult Krückeberg fathered which
-cohort.
-. *Altenteil/Leibzucht contracts (retirement portion)* When an elder
-cedes the farm to the heir; lists *spouses, parents, children*, and
-support owed. ➜ Names the *heir* and often the *spouse’s family*
-(Vahlsing links possible).
+  charters)* Deeds/leases when a farm or part of it changed hands; include
+  *giver/receiver, kin, witnesses*. +
+➜ Identifies *fathers/sons* and the *house succession*, anchoring which adult
+Krückeberg fathered which cohort.
+. *Altenteil/Leibzucht contracts (retirement portion)* +
+ +
+When an elder cedes the farm to the heir; lists *spouses, parents, children*, and support owed. +
+➜ Names the *heir* and often the *spouse’s family* (Vahlsing links possible).
 
 == Civil & court material (relationship clues)
 
 [arabic, start=5]
-. *Inventare & Teilungen / Testamente / Vormundschaftsakten* Post-death
-inventories and partitions; guardianship for minors. ➜ Enumerate
+. *Inventare & Teilungen / Testamente / Vormundschaftsakten* +
+ Post-death
+inventories and partitions; guardianship for minors. +
+ ➜ Enumerate
 *children by name and age* and explicitly state *father/mother*—gold for
 assigning the 1730s–1740s births.
-. *Untergerichts-/Amtsprotokolle (local court minutes)* Routine village
-cases, acknowledgements, loans, sureties. ➜ Put *two Krückeberg men* in
-the same entry with relationships (brother, neighbor, son-in-law).
+. *Untergerichts-/Amtsprotokolle (local court minutes)* +
+ Routine village
+cases, acknowledgements, loans, sureties. +
+ ➜ Put *two Krückeberg men* in the same entry with relationships (brother,
+neighbor, son-in-law).
 
 == Military & obligations (heads of household lists)
 
 [arabic, start=7]
-. *Landmiliz Muster- & Steuerrollen / Rekrutierungslisten* Militia or
-recruiting lists by village/status. ➜ Name *eligible males* with
+. *Landmiliz Muster- & Steuerrollen / Rekrutierungslisten* +
+ Militia or
+recruiting lists by village/status. +
+ ➜ Name *eligible males* with
 residence; good to see *Jobst vs. Johann Heinrich* alive in specific
 years.
-. *Frondienst-/Hand- & Spanndienst-Verzeichnisse* Labor and draft-team
-obligations (who turns up for road/estate work). ➜ Confirms *which
-Krückeberg* held a team (often only the colon) vs. which were
+. *Frondienst-/Hand- & Spanndienst-Verzeichnisse* +
+ Labor and draft-team
+obligations (who turns up for road/estate work). +
+ ➜ Confirms *which Krückeberg* held a team (often only the colon) vs. which were
 smallholders.
 
 === Fiscal/administrative byplaces (sometimes earlier/later but useful)
 
 [arabic, start=9]
-. *Brandkasse (fire-insurance) registers* _(often mid-18th c. +)_ House
-lists with *owner/tenant*, construction details, valuations. ➜ Even if a
-tad later, entries frequently say *"`jetzt …, vor diesem …`"*, linking
-back to your timeframe.
-. *Forst- und Holzlisten / Weide- & Hude-Register* Rights to
-wood/pasture allocated by household. ➜ Another way to separate
-households in a village with few surnames.
+. *Brandkasse (fire-insurance) registers* +
+ _(often mid-18th c. +)_ House
+lists with *owner/tenant*, construction details, valuations. +
+ ➜ Even if a tad later, entries frequently say *"`jetzt …, vor diesem …`"*,
+linking back to your timeframe.
+. *Forst- und Holzlisten / Weide- & Hude-Register* +
+ Rights to
+wood/pasture allocated by household. +
+ ➜ Another way to separate households in a village with few surnames.
 
 === How to use them fast and surgically
 
@@ -70,7 +82,7 @@ households in a village with few surnames.
 for Ortsregister/Findbücher keywords: *Berenbusch, Kontribution,
 Schatzung, Lagerbuch, Meier, Hofbrief, Altenteil, Inventar,
 Vormundschaft, Militär/Milice, Brandkasse*.
-* *Extraction grid* for each hit:
+* *Extraction grid* for each hit: +
 `+Year • Record type • Village • Status (Colon/Anbauer) • Name (exact) • House/holding note • Kin mentioned • Predecessor/Successor+`.
 * *Goal*: Prove *≥2 simultaneous Krückeberg heads* in Berenbusch and
 attach *Vahlsing* ties where they appear (e.g., witness "`N.N.
@@ -96,59 +108,78 @@ Bückeburg (and why they help), in rough order of payoff.
 === Most promising (land/tax/household identity)
 
 [arabic]
-. *Kontributions- & Schatzungsregister (tax rolls)* Annual/periodic
+. *Kontributions- & Schatzungsregister (tax rolls)* +
+ Annual/periodic
 lists of taxpayers by village/Status (Colon, Anbauer/Brinksitzer,
 Einwohner). Often note a head of household and sometimes predecessors
-("`jetzt …, zuvor …`"). ➜ Lets you see *which Krückeberg heads* (Johann
+("`jetzt …, zuvor …`"). +
+ ➜ Lets you see *which Krückeberg heads* (Johann
 Heinrich, Jobst, etc.) paid in Berenbusch and their *status*—perfect to
 split children by household.
-. *Lager-/Hof-/Meier-Register (Rentkammer house & land books)*
+. *Lager-/Hof-/Meier-Register (Rentkammer house & land books)* +
+
 Estate/lease registers for each *Kolon/Meierhof*: tenant’s name,
-obligations, acreages, transfers. ➜ Ties a *named Krückeberg* to a
+obligations, acreages, transfers. +
+ ➜ Ties a *named Krückeberg* to a
 *specific holding*; later entries often back-reference earlier tenants
 (useful even if the exact year is a bit later than 1750).
 . *Hof-, Kauf-, Tausch-, Übergabe- & Meierbriefe (property/tenure
 charters)* Deeds/leases when a farm or part of it changed hands; include
-*giver/receiver, kin, witnesses*. ➜ Identifies *fathers/sons* and the
+*giver/receiver, kin, witnesses*. +
+ ➜ Identifies *fathers/sons* and the
 *house succession*, anchoring which adult Krückeberg fathered which
 cohort.
-. *Altenteil/Leibzucht contracts (retirement portion)* When an elder
+. *Altenteil/Leibzucht contracts (retirement portion)* +
+ When an elder
 cedes the farm to the heir; lists *spouses, parents, children*, and
-support owed. ➜ Names the *heir* and often the *spouse’s family*
+support owed. +
+ ➜ Names the *heir* and often the *spouse’s family*
 (Vahlsing links possible).
 
 == Civil & court material (relationship clues)
 
 [arabic, start=5]
-. *Inventare & Teilungen / Testamente / Vormundschaftsakten* Post-death
-inventories and partitions; guardianship for minors. ➜ Enumerate
+. *Inventare & Teilungen / Testamente / Vormundschaftsakten* +
+ Post-death
+inventories and partitions; guardianship for minors. +
+ ➜ Enumerate
 *children by name and age* and explicitly state *father/mother*—gold for
 assigning the 1730s–1740s births.
-. *Untergerichts-/Amtsprotokolle (local court minutes)* Routine village
-cases, acknowledgements, loans, sureties. ➜ Put *two Krückeberg men* in
+. *Untergerichts-/Amtsprotokolle (local court minutes)* +
+ Routine village
+cases, acknowledgements, loans, sureties. +
+ ➜ Put *two Krückeberg men* in
 the same entry with relationships (brother, neighbor, son-in-law).
 
 == Military & obligations (heads of household lists)
 
 [arabic, start=7]
-. *Landmiliz Muster- & Steuerrollen / Rekrutierungslisten* Militia or
-recruiting lists by village/status. ➜ Name *eligible males* with
+. *Landmiliz Muster- & Steuerrollen / Rekrutierungslisten* +
+ Militia or
+recruiting lists by village/status. +
+ ➜ Name *eligible males* with
 residence; good to see *Jobst vs. Johann Heinrich* alive in specific
 years.
-. *Frondienst-/Hand- & Spanndienst-Verzeichnisse* Labor and draft-team
-obligations (who turns up for road/estate work). ➜ Confirms *which
+. *Frondienst-/Hand- & Spanndienst-Verzeichnisse* +
+ Labor and draft-team
+obligations (who turns up for road/estate work). +
+ ➜ Confirms *which
 Krückeberg* held a team (often only the colon) vs. which were
 smallholders.
 
 === Fiscal/administrative byplaces (sometimes earlier/later but useful)
 
 [arabic, start=9]
-. *Brandkasse (fire-insurance) registers* _(often mid-18th c. +)_ House
-lists with *owner/tenant*, construction details, valuations. ➜ Even if a
+. *Brandkasse (fire-insurance) registers* +
+ _(often mid-18th c. +)_ House
+lists with *owner/tenant*, construction details, valuations. +
+ ➜ Even if a
 tad later, entries frequently say *"`jetzt …, vor diesem …`"*, linking
 back to your timeframe.
-. *Forst- und Holzlisten / Weide- & Hude-Register* Rights to
-wood/pasture allocated by household. ➜ Another way to separate
+. *Forst- und Holzlisten / Weide- & Hude-Register* +
+ Rights to
+wood/pasture allocated by household. +
+ ➜ Another way to separate
 households in a village with few surnames.
 
 === How to use them fast and surgically
