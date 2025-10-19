@@ -256,3 +256,91 @@ BU asking specifically for *Berenbusch (Petzen)* items in *K 1/K 90*,
 any *Aushebungslisten* naming Krückebergs in the 1730s–1740s (F 2), and
 any *inventories/guardianships* for Krückebergs circa 1725–1760 (H
 121d).
+
+== How To Use NLA Bückeburg Archival Series Effectively
+
+=== 1. What “series for Amt Bückeburg / Rentkammer … and Untergericht Bückeburg” means
+
+The archive organizes its holdings (*Bestände*) by the government office that originally created them.  
+For your period (1725–1750) the relevant offices for *Berenbusch* were:
+
+* *Amt Bückeburg* – the local administrative and judicial district that governed Petzen, Berenbusch, Nordholz, etc.
+* *Rentkammer Bückeburg* (also called *Kammer- or Domänenverwaltung*) – the treasury and land office that managed taxes, leases, and meierhof records.
+* *Untergericht Bückeburg* – the lower court that handled local legal and inheritance matters.
+
+When you look in the NLA catalogue (*Arcinsys*), you search inside the *series (Bestände)* for those offices — that’s where documents about villagers actually appear.
+
+=== 2. What “Ortsregister / Findbücher keywords” means
+
+Every archival series has an index (*Findbuch* or *Ortsregister*) — basically a searchable list of files.  
+When you consult staff or use *Arcinsys*, you tell them the place and subject you’re after.  
+For example, you would say:
+
+> Bitte nach Unterlagen im Bestand K 1 (Rentkammer Bückeburg) bzw. A 12 (Amt Bückeburg) mit den Stichwörtern *Berenbusch*, *Petzen* und den Sachbegriffen *Kontribution*, *Schatzung*, *Lagerbuch*, *Meier*, *Hofbrief*, *Altenteil*, *Inventar*, *Vormundschaft*, *Miliz*, *Brandkasse* suchen.
+
+That means:
+
+> Please look in the Rentkammer and Amt Bückeburg series for files relating to Berenbusch/Petzen that concern taxation, land leases, farm charters, inheritance contracts, guardianships, militia lists, or fire-insurance records.
+
+=== 3. What those German keywords stand for
+
+|===
+|Keyword | English meaning | What kind of info it yields
+
+|*Kontribution / Schatzung*
+|Tax assessments
+|Lists of householders and payers
+
+|*Lagerbuch / Meierregister*
+|Rent or lease books
+|Names of tenants and acreages
+
+|*Hofbrief / Meierbrief / Kaufbrief*
+|Farm or property charters
+|Identifies buyer/seller, kin, and witnesses
+
+|*Altenteil*
+|Retirement portion / cession contract
+|Lists parents and heirs; shows farm succession
+
+|*Inventar / Vormundschaft*
+|Probate or guardianship records
+|Names of children, ages, and relationships
+
+|*Militär / Milice*
+|Militia or recruiting lists
+|Adult males by village and year
+
+|*Brandkasse*
+|Fire-insurance registers
+|Householders and building valuations
+|===
+
+These are the technical search words archivists recognize when filtering the indexes.
+
+=== 4. How to use this information concretely
+
+. Go to the NLA-Bückeburg online catalogue: https://www.arcinsys.niedersachsen.de/
+. In the search bar, choose *Bestand* = `K 1` or `A 12` (Rentkammer or Amt Bückeburg).
+. Type *Berenbusch* (or *Petzen*) plus one of those subject keywords, for example:
++
+----
+Berenbusch Kontribution
+Berenbusch Lagerbuch
+Berenbusch Vormundschaft
+----
+. Note the reference numbers (e.g., `K 1 Nr. 842`) that appear.
+. Email the archive giving those references and ask whether the files cover 1725–1750 and can be viewed or copied.
+
+=== 5. Why this matters for your research
+
+Those series are the only surviving secular records that can show who lived in *Berenbusch* besides what the church books say.  
+They can confirm:
+
+* which *Krückeberg* households existed at the same time,
+* which held which *Kolon* or farm,
+* who inherited or sold land,
+* who appears in *tax* or *militia* registers.
+
+That is the paper trail that complements the Petzen *Kirchenbuch* entries.
+
