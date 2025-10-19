@@ -9,14 +9,12 @@ Bückeburg (and why they help), in rough order of payoff.
 
 [arabic]
 . *Kontributions- & Schatzungsregister (tax rolls)* +
- +
 Annual/periodic lists of taxpayers by village/Status (Colon,
 Anbauer/Brinksitzer, Einwohner). Often note a head of household and sometimes
 predecessors ("`jetzt …, zuvor …`"). +
 ➜ Lets you see *which Krückeberg heads* (Johann Heinrich, Jobst, etc.) paid in
 Berenbusch and their *status*—perfect to split children by household.
 . *Lager-/Hof-/Meier-Register (Rentkammer house & land books)* +
- +
 Estate/lease registers for each *Kolon/Meierhof*: tenant’s name,
 obligations, acreages, transfers. +
 ➜ Ties a *named Krückeberg* to a *specific holding*; later entries often
@@ -28,7 +26,6 @@ than 1750).
 ➜ Identifies *fathers/sons* and the *house succession*, anchoring which adult
 Krückeberg fathered which cohort.
 . *Altenteil/Leibzucht contracts (retirement portion)* +
- +
 When an elder cedes the farm to the heir; lists *spouses, parents, children*, and support owed. +
 ➜ Names the *heir* and often the *spouse’s family* (Vahlsing links possible).
 
