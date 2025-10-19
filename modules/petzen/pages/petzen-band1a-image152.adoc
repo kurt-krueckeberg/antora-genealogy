@@ -45,7 +45,7 @@ an abbreviation for it.
 .Transliteration 
 [literal.bordered,subs="verbatim,quotes"]
 ....
-d[en] 29 dito Krückeberg v. [b/ß b/ß] ein Töchterl[ein] tauft
+d[en] 29 dito Krückeberg v. [B. B.] ein Töchterl[ein] tauft
 lassen Dorothea Elisabeth Soldat Weilands Frau Gevatterin
 ....
 
@@ -56,7 +56,7 @@ The 29 January Krückeberg v. [Berenbusch: see note] a little daughter was
 baptized Dorothea Elisabeth Soldier Weiland's wife godmother.
 ....
 
-NOTE: If the two characters following "v. [von=of, from]" are two b's, they might be abbreviations
+NOTE: If the two characters following "v. [von=of, from]" are two B's, they likely are abbreviations
 for Berenbusch. 
 
 
