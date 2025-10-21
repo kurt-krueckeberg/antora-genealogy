@@ -75,11 +75,11 @@ table.tableblock.widepair td {
     border-left: 3px solid #ccc; /* A visual separator */ 
 }
 
-.section-narrow {
+.narrow {
     max-width: 95ch;
 }
 
-.section-narrower {
+.narrower {
     max-width: 90ch;
 }
 
