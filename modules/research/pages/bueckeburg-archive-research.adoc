@@ -138,121 +138,115 @@ We would also like the records below confirmed.
 //|Paper copy
 //|===
 
-== Individuals
+//=== Bleeke
+//
+//We have the dates in the table below from the Frille Kirchenbuchduplikate, but would like them confirmed.
+//
+//.Bleeke Marriage Dates to confirm:
+//|===
+//|Bräutigam|Braut|Heiratsdatum|	Querverweis(Cross-referenced) +
+//Band
+//
+//|Carl Fridrich Bleeke
+//|Marie Luise Niemann 
+//|March 12, 1820
+//|xref:#marriages-1805-1852[Frille Marriages 1805-1853]
+//
+//|Johann Heinrich Philipp Bleeke
+//|Christine Maria Schwier
+//|July 9, 1820
+//|xref:#marriages-1805-1852[Frille Marriages 1805-1853]
+//
+//|Christian Friedrich Bleeke
+//|Christine Luise Eloenore Krückeberg
+//|Nov 26, 1826
+//|xref:#marriages-1805-1852[Frille Marriages 1805-1853]
+//|===
+//
+//We have the xref:frille:carl-f-bleeke/christine-louise-bleeke-1820-birth.adoc[birth and baptism dates] in the table
+//below from the Frille Kirchenbuchduplikate, but would like them confirmed. We would like to have a transliteration
+//(along with the column headers) of the confirmation record for *Christine Louise Bleeke, who was born 28 March
+//1820*.
+//
+//.Birth, Baptism and Confirmation Dates to Confirm for Carl Friedrich Bleeke's Children
+//|===
+//|Child|Birth|Baptism|Confirmation|Querverweis(Cross-referenced) +
+//Volume
+//
+//|Christine Louise Bleeke| 28 Mar. 1820|31 Mar. 1820|1834?|xref:#baptisms-1805-1935[Frille Baptisms 1805-1935]
+//
+//|Carl Friedrich Bleeke| 12 Oct. 1823|19 Oct. 1823|Cincinnati, Ohio|
+//
+//|Marie Christine Bleeke|15 Jan. 1826|22 Jan. 1826|Cincinnati, Ohio|
+//
+//|Christian Friederich Bleeke| 28 Feb. 1828|2 Mar. 1828|Adams County, Indiana|
+//
+//|Johann Hartwig Gottlieb Lebrecht Bleeke| 9 Dec. 1830|19 Dec. 1830|Adams County, Indiana|
+//
+//|Sophie Luise Bleeke| 4 March 1833|10 Mar. 1833|Iowa|
+//
+//|Christine Friederike Marie Leonore Bleeke| 20 Feb. 1835|1 Mar. 1835|Iowa|
+//
+//|Friederich Joseph Bleeke|12 Mar. 1837 in Cincinnati|19 Mar. 1837 in Cincinnati|Iowa|
+//|===
+//
+//We have the xref:frille:jhp-bleeke/carl-heinrich-bleeke-1818-birth.adoc[birth and baptism dates] in the table below
+//from the Frille Kirchenbuchduplikate, but would like them confirmed. We would like to have a transliteration (along
+//with the column headers) of the confirmation record for *Carl Heinrich Bleeke born April 27, 1818*, and *Chrisitan
+//Friedrich Bleeke born April 27, 1821*.
+//
+//.Birth, Baptism and Death Dates to Confirm for the children of Johann Heinrich Philipp Bleeke:
+//|===
+//|Name|Birth|Baptism|Confirmation|Death|Querverweis(Cross-referenced) volumes
+//
+//|Carl Heinrich| April 27, 1818|April 30, 1818| April 29, 1832 (Sunday after Easter 1832)
+//|skip
+//|xref:#baptisms-1805-1935[Frille Baptisms 1805-1935]
+//
+//|Christian Friedrich| May 7, 1821|on May 13, 1821|April 5, 1835 (Judica Sunday 1835)
+//|skip
+//|xref:#baptisms-1805-1935[Frille Baptisms 1805-1935]
+//
+//|Carl Friedrich| July 17, 1823|July 20, 1823. |skip|May 11, 1825
+//|xref:#baptisms-1805-1935[Frille Baptisms 1805-1935] and xref:#deaths[Frille Deaths]
+//
+//|Carl Friedrich Wilhelm| November 30, 1825| December 4, 1825|skip|skip
+//|xref:#baptisms-1805-1935[Frille Baptisms 1805-1935]
+//
+//|Christine Maria| August 11, 1828| August 17, 1828|skip|skip
+//|xref:#baptisms-1805-1935[Frille Baptisms 1805-1935]
+//
+//|Christine Sophie Eleonore|August 13, 1831|August 21, 1831|skip|skip
+//|xref:#baptisms-1805-1935[Frille Baptisms 1805-1935]
+//
+//|Marie Louise Eleonore| November 15, 1833|November 24, 1833|skip|skip
+//|xref:#baptisms-1805-1935[Frille Baptisms 1805-1935]
+//|===
+//
+//We have the xref:frille:christian-f-bleeke/christine-luise-bleeke-1827-birth.adoc[birth and baptism dates] in the
+//table below from the Frille Kirchenbuchduplikate, but would like them confirmed. We would like transliterations
+//(along with the column headers) of the confirmation record for *Christine Luise Bleeke, born December 19, 1827*,
+//and *Sophie Christine Leonore Bleeke, born July 27, 1830*.
+//
+//.Birth, Baptism and Confirmation Dates to Confirm for the children of Christian Friedrich Bleeke:
+//|===
+//|Name|Birth|Baptism|Confirmation|Querverweis(Cross-referenced) volumes
+//
+//|Christine Luise Bleeke|19 Dec, 1827|23 Dec. 1827|1841/1842?|xref:#baptisms-1805-1935[Frille Baptisms 1805-1935] and xref:#frille-confirmations[Frille Konfirmations]
+//
+//|Sophie Christine Leonore Bleeke|27 July 1830|1 Aug 1830|1843/1844?|xref:#baptisms-1805-1935[Frille Baptisms 1805-1935] and xref:#frille-confirmations[Frille Konfirmations]
+//
+//|Philippine Luise Leonore Bleeke|21 May 1833|27 May 1833|in Adams or Allen County, Indiana|
+//
+//|Christian Heinrich Bleeke|28 Jan. 1836|31 Jann. 1836|in Adams or Allen  County, Indiana|
+//
+//|Heinrich Friedrich Christian Bleeke|18 July 1839|21 July 1839|in Adams or Allen County, Indiana|
+//
+//|Christine Sophie Leonore Bleeke|7 April 1841|12 April 1841|in Adams or Allen County, Indiana|
+//
+//|Christine Marie Leonore Bleke|24 Dec. 1843|31 Dec. 1843|in Adams or Allen County, Indiana|
+//|===
 
-=== Bleeke
-
-We have the dates in the table below from the Frille Kirchenbuchduplikate, but would like them confirmed.
-
-.Bleeke Marriage Dates to confirm:
-|===
-|Bräutigam|Braut|Heiratsdatum|	Querverweis(Cross-referenced) +
-Band
-
-|Carl Fridrich Bleeke
-|Marie Luise Niemann 
-|March 12, 1820
-|xref:#marriages-1805-1852[Frille Marriages 1805-1853]
-
-|Johann Heinrich Philipp Bleeke
-|Christine Maria Schwier
-|July 9, 1820
-|xref:#marriages-1805-1852[Frille Marriages 1805-1853]
-
-|Christian Friedrich Bleeke
-|Christine Luise Eloenore Krückeberg
-|Nov 26, 1826
-|xref:#marriages-1805-1852[Frille Marriages 1805-1853]
-|===
-
-We have the xref:frille:carl-f-bleeke/christine-louise-bleeke-1820-birth.adoc[birth and baptism dates] in the table
-below from the Frille Kirchenbuchduplikate, but would like them confirmed. We would like to have a transliteration
-(along with the column headers) of the confirmation record for *Christine Louise Bleeke, who was born 28 March
-1820*.
-
-.Birth, Baptism and Confirmation Dates to Confirm for Carl Friedrich Bleeke's Children
-|===
-|Child|Birth|Baptism|Confirmation|Querverweis(Cross-referenced) +
-Volume
-
-|Christine Louise Bleeke| 28 Mar. 1820|31 Mar. 1820|1834?|xref:#baptisms-1805-1935[Frille Baptisms 1805-1935]
-
-|Carl Friedrich Bleeke| 12 Oct. 1823|19 Oct. 1823|Cincinnati, Ohio|
-
-|Marie Christine Bleeke|15 Jan. 1826|22 Jan. 1826|Cincinnati, Ohio|
-
-|Christian Friederich Bleeke| 28 Feb. 1828|2 Mar. 1828|Adams County, Indiana|
-
-|Johann Hartwig Gottlieb Lebrecht Bleeke| 9 Dec. 1830|19 Dec. 1830|Adams County, Indiana|
-
-|Sophie Luise Bleeke| 4 March 1833|10 Mar. 1833|Iowa|
-
-|Christine Friederike Marie Leonore Bleeke| 20 Feb. 1835|1 Mar. 1835|Iowa|
-
-|Friederich Joseph Bleeke|12 Mar. 1837 in Cincinnati|19 Mar. 1837 in Cincinnati|Iowa|
-|===
-
-We have the xref:frille:jhp-bleeke/carl-heinrich-bleeke-1818-birth.adoc[birth and baptism dates] in the table below
-from the Frille Kirchenbuchduplikate, but would like them confirmed. We would like to have a transliteration (along
-with the column headers) of the confirmation record for *Carl Heinrich Bleeke born April 27, 1818*, and *Chrisitan
-Friedrich Bleeke born April 27, 1821*.
-
-.Birth, Baptism and Death Dates to Confirm for the children of Johann Heinrich Philipp Bleeke:
-|===
-|Name|Birth|Baptism|Confirmation|Death|Querverweis(Cross-referenced) volumes
-
-|Carl Heinrich| April 27, 1818|April 30, 1818| April 29, 1832 (Sunday after Easter 1832)
-|skip
-|xref:#baptisms-1805-1935[Frille Baptisms 1805-1935]
-
-|Christian Friedrich| May 7, 1821|on May 13, 1821|April 5, 1835 (Judica Sunday 1835)
-|skip
-|xref:#baptisms-1805-1935[Frille Baptisms 1805-1935]
-
-|Carl Friedrich| July 17, 1823|July 20, 1823. |skip|May 11, 1825
-|xref:#baptisms-1805-1935[Frille Baptisms 1805-1935] and xref:#deaths[Frille Deaths]
-
-|Carl Friedrich Wilhelm| November 30, 1825| December 4, 1825|skip|skip
-|xref:#baptisms-1805-1935[Frille Baptisms 1805-1935]
-
-|Christine Maria| August 11, 1828| August 17, 1828|skip|skip
-|xref:#baptisms-1805-1935[Frille Baptisms 1805-1935]
-
-|Christine Sophie Eleonore|August 13, 1831|August 21, 1831|skip|skip
-|xref:#baptisms-1805-1935[Frille Baptisms 1805-1935]
-
-|Marie Louise Eleonore| November 15, 1833|November 24, 1833|skip|skip
-|xref:#baptisms-1805-1935[Frille Baptisms 1805-1935]
-|===
-
-We have the xref:frille:christian-f-bleeke/christine-luise-bleeke-1827-birth.adoc[birth and baptism dates] in the
-table below from the Frille Kirchenbuchduplikate, but would like them confirmed. We would like transliterations
-(along with the column headers) of the confirmation record for *Christine Luise Bleeke, born December 19, 1827*,
-and *Sophie Christine Leonore Bleeke, born July 27, 1830*.
-
-.Birth, Baptism and Confirmation Dates to Confirm for the children of Christian Friedrich Bleeke:
-|===
-|Name|Birth|Baptism|Confirmation|Querverweis(Cross-referenced) volumes
-
-|Christine Luise Bleeke|19 Dec, 1827|23 Dec. 1827|1841/1842?|xref:#baptisms-1805-1935[Frille Baptisms 1805-1935] and xref:#frille-confirmations[Frille Konfirmations]
-
-|Sophie Christine Leonore Bleeke|27 July 1830|1 Aug 1830|1843/1844?|xref:#baptisms-1805-1935[Frille Baptisms 1805-1935] and xref:#frille-confirmations[Frille Konfirmations]
-
-|Philippine Luise Leonore Bleeke|21 May 1833|27 May 1833|in Adams or Allen County, Indiana|
-
-|Christian Heinrich Bleeke|28 Jan. 1836|31 Jann. 1836|in Adams or Allen  County, Indiana|
-
-|Heinrich Friedrich Christian Bleeke|18 July 1839|21 July 1839|in Adams or Allen County, Indiana|
-
-|Christine Sophie Leonore Bleeke|7 April 1841|12 April 1841|in Adams or Allen County, Indiana|
-
-|Christine Marie Leonore Bleke|24 Dec. 1843|31 Dec. 1843|in Adams or Allen County, Indiana|
-|===
-
-//==== Confirmation Records Transliterated
-
-//The Carl Friedrich Bleeke emigrated around late October of 1836 and arrived in NYC on
-//December 3^rd^, 1838.
 
 === Krückebergs
 
