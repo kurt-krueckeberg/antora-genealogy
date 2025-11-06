@@ -1,0 +1,23 @@
+= Who are the parents the Krückeberg Children Born Between 1728 to 1750
+
+There were seven Krückeberg children born between 1728 and 1750, but we have only one recorded
+Krückeberg marriage that we know of prior to 1728 that of xref:petzen:petzen-band1b-image36.adoc[Johann Henrich Krückeberg to Anna Marie
+Vahlsing on September 28, 1727].
+
+The birth records for the children born between 1728 and 1750 do not list the parents given names:
+
+.Krückeberg Childrenßß1728 to 1750
+[cols="2a,1,2a"
+|===
+|Infant's Name|Birth Date|Parents Names
+
+|xref:petzen:petzen-band1a-image140.adoc[]||
+
+|xref:petzen:petzen-band1a-image152.adoc[]||
+
+|xref:petzen:petzen-band1a-image167.adoc[]||
+
+|xref:petzen:petzen-band1a-image174.adoc[]||
+
+|xref:petzen:petzen-band1a-image180.adoc[]||
+|===
