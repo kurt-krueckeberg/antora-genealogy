@@ -2,9 +2,11 @@
 
 == List of Names of all Colonists in the Districts of Bückeburg and Arensburg
 
-Look for Krückebergs in link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4869389[Namensverzeichnis sämtlicher Kolonen der
-Ämter Bückeburg und Arensburg, mit Nummerierung der sämtlichen Häuser. (Microfiches vorhanden!)] (List of names of all colonists in the districts
-of Bückeburg and Arensburg, with numbering of all houses).
+Find Krückebergs in
+link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4869389[Namensverzeichnis sämtlicher Kolonen der
+Ämter Bückeburg und Arensburg, mit Nummerierung der sämtlichen Häuser. (Microfiches vorhanden!)] 
+
+(List of names of all colonists in the districts of Bückeburg and Arensburg, with numbering of all houses).
 
 [cols="1,9,1"]
 |===

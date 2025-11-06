@@ -7,7 +7,6 @@
 ** xref:stand-meaning.adoc[]
 ** xref:carl-f-bleeke-military-service.adoc[]
 ** xref:bueckeburg-bleeke-research.adoc[]
-** xref:bueckeburg-krueckeberg-research.adoc[]
 ** xref:familienschein-original.adoc[]
 ** xref:OrtsFamilienBücher.adoc[]
 //** xref:friedrich-wilhelm-weiland-evesen-questions.adoc[]
