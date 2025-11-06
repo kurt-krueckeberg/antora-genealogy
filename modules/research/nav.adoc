@@ -1,7 +1,7 @@
 .Research Threads
 * xref:background-info.adoc[]
 * German Records-related Research Questions
-** xref:petzen-frille-research.adoc[]
+** xref:bueckeburg-archive-research.adoc[]
 ** xref:other-schaumburg-lippe-records.adoc[Non-Church Records for Schuamburg-Lippe]
 ** xref:schaumburg-lippe-censuses.adoc[]
 ** xref:stand-meaning.adoc[]
