@@ -9,15 +9,15 @@ The birth records for the children born between 1728 and 1750 do not list the pa
 .Krückeberg Childrenßß1728 to 1750
 [cols="2a,1,2a"
 |===
-|Infant's Name|Birth Date|Parents Names
+|Infant's Name|Baptism Date|Parents Names
 
-|xref:petzen:petzen-band1a-image140.adoc[]||
+|xref:petzen:petzen-band1a-image140.adoc[]| July 7, 1728|
 
-|xref:petzen:petzen-band1a-image152.adoc[]||
+|xref:petzen:petzen-band1a-image152.adoc[]|Jan. 29 1736|
 
-|xref:petzen:petzen-band1a-image167.adoc[]||
+|xref:petzen:petzen-band1a-image167.adoc[]|Jan. 29 1736|
 
-|xref:petzen:petzen-band1a-image174.adoc[]||
+|xref:petzen:petzen-band1a-image174.adoc[]|Feb. 11 1739|
 
-|xref:petzen:petzen-band1a-image180.adoc[]||
+|xref:petzen:petzen-band1a-image180.adoc[]|Dec. 27 1741|
 |===
