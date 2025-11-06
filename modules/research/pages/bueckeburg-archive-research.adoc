@@ -30,136 +30,113 @@ anyone else could go to the Bückeburg archive and find the record source easily
 
 We would also like the records below confirmed.
 
-== Frille Volumes
-
-=== Frille Church Register Duplicates in NRW Detmold Archive
-
-The Frille duplicate church registers in the Landesarchiv NRW Abteilung Ostwestfalen-Lippe have been examined for
-the marriage records for Carl Friedrich Bleeke (1794-1853), Johann Heinrich Philip Bleeke (1797-1883) and
-Christian Friedrich Bleeke (1880-1889) are listed under the xref:family-church-records:bleeke.adoc[Bleeke records].
-The birth records of their children are also there.
-
-From: https://www.archive.nrw.de/archivsuche
-
-[arabic,start=1]
-. link:https://www.archive.nrw.de/archivsuche?link=TEKTONIK-Tekt_a6fa801b-a7f8-46ae-b87c-3e1930f294b5[Landesarchiv NRW Abteilung Ostwestfalen-Lippe] ->
-. link:https://www.archive.nrw.de/archivsuche?link=TEKTONIK-Tekt_16ffdb05-f60a-47fa-848e-747a9921bb33[Personenstandsarchiv Westfalen-Lippe] ->
-. link:https://www.archive.nrw.de/archivsuche?link=TEKTONIK-Tekt_1c3f1fff-65fb-4bd0-9f6f-d53fbee4e471[Kirchenbuchduplikate, Zivilstands-, Juden- und Dissidentenregister] ->
-. link:https://www.archive.nrw.de/archivsuche?link=TEKTONIK-Tekt_ca036f68-be9a-4699-bd76-e0028956cae9[Regierrungsbezirk
-Detmold] ->
-. link:https://www.archive.nrw.de/archivsuche?link=BESTAND-Best_9f7d2003-c149-40fb-a2a1-41bef6f521cd[P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks Minden] ->
-. link:https://www.archive.nrw.de/archivsuche?link=KLASSIFIKATION-Klas_2b89c798-9570-4e76-bea3-1eab6f4b3e03[Frille, Kreis Minden] -> 
-** link:https://www.archive.nrw.de/archivsuche?link=KLASSIFIKATION-Klas_68ffc783-c858-4ae3-909d-c58597fdc708[Zivilstandregister] +
-** link:https://www.archive.nrw.de/archivsuche?link=KLASSIFIKATION-Klas_2b647820-98c2-4c4c-9b86-03e1b356d9c8[Kirchenbuchduplikate]
-
-//Link: link:https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820[Kirchenbuchduplikat der evangelischen
-//Gemeinde Frille, Kreis Minden]
-
-=== Frille Records in Niedersächsisches Landesarchiv, Bückeburg Abteilung
-
-The original Frille church registers are not listed in link:https://www.arcinsys.niedersachsen.de/[Arcinsys] catalog.
-These below are Abschriften or contain Abschriften.
-
-==== Baptisms
-
-.Frille Baptism Church register copies in Bückeburg Archive
-[cols="2,4a,2,2"]
-|===
-|Call Number|Description|Duration|Formats
-
-|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514254[NLA BU, S 8, Frille Absch. Nr.1]
-|*Taufregister* der ev. luth. Kirche Frille +
-*Includes:* Chronologische Abschrift der ev.-luth. Kirchenbücher des Pfarramts Frille, zusammengestellt von Manfred Pöhler
-|1664 - 1803
-|Digital, Paper, Macro- and Microfiche
-
-a|[[baptisms-1805-1935]]
-link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514280[NLA BU S 8 Frille Abschr. Nr.7]
-|*Taufregister* der ev. luth. Kirche Frille +
-*Includes:* Chronologische Abschrift der ev.-luth. Kirchenbücher des Pfarramts Frille, zusammengestellt von Manfred Pöhler
-|1805 - 1935
-|Paper copy
-|===
-
-==== Confirmations
-
-[[frille-confirmations]]
-.Frille Confirmations church register copies in Bückeburg Archive
-[cols="2,4,2,2"]
-|===
-|Call Number|Description|Duration|Format
-
-|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514272[NLA BU S 8 Frille Abschr. Nr.5]
-|*Konfirmations- und Sterberegister* der ev. luth. Kirche Frille
-|1868-1898; 1664-1804
-|Paper copy
-
-|https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514267[NLA BU, S 8, Frille Absch. Nr.3]
-|*Konfirmationsregister* der ev. luth. Kirche Frille
-|1808-1820; 1868-1898
-|Paper copy, film (digital?), microfiche
-|===
-
-==== Marriages
-
-.Frille Marriage Church register copies in Bückeburg Archive
-[cols="2,4,2,2"]
-|===
-|Call Number|Description|Duration|Format
-
-a|[[marriage-1664-1799]]
-link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514269[NLA BU, S 8, Frille Abschr. Nr.4]
-|*Eheberedungen und Heiratsregister* der ev. luth. Kirche Frille
-|1695-1756; 1664-1799
-|Paper copy, Microfiche, film (digital?)
-
-a|[[marriage-1757-1813]]
-link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514279[NLA BU, S 8, Frille Abschr. Nr.6]
-|*Eheberedungen* Frille
-|1757 - 1813
-|Paper copy
-
-a|[[marriages-1805-1852]]
-link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514283[NLA BU, S 8, Frille Abschr. Nr.8]
-|*Heiratsregister* der ev. luth. Kirche Frille
-|1805 - 1852
-|Paper copy
-
-|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514287[NLA BU, S 8, Frille Abschr. Nr.9]
-|*Marriage register* of the Evangelical Lutheran Church in Frille
-
-Heiratsregister der ev. luth. Kirche Frille
-|1853 - 1906
-|Paper copy
-|===
-
-==== Deaths
-
-.Frille Death Kirchenbücher Volumes in Bückeburg Archive
-[cols="2,4,2,2"]
-|===
-|Call Number|Description|Duration|Format
-
-a|[[deaths-1664-1898]]
-link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514272[NLA BU S 8 Frille Abschr. Nr.5]
-|*Konfirmations- und Sterberegister* der ev. luth. Kirche Frille
-|1868-1898; 1664-1804
-|Paper copy
-
-a|[[deaths-1664-1804]]
-link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514295[NLA BU, S 8, Frille Abschr. Nr.10]
-|*Death register* of the Evangelical Lutheran Church in Frille
-
-Sterberegister der ev. luth. Kirche Frille
-|1664 - 1804
-|Paper copy
-
-a|[[deaths-1805-1960]]
-link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514297[NLA BU, S 8, Frille Abschr. Nr.11]
-|*Sterberegister* der ev. luth. Kirche Frille
-|1805 - 1960
-|Paper copy
-|===
+//=== Frille Gemeinde
+//
+//=== Frille Records in Niedersächsisches Landesarchiv, Bückeburg Abteilung
+//
+//The original Frille church registers are not listed in link:https://www.arcinsys.niedersachsen.de/[Arcinsys] catalog.
+//These below are Abschriften or contain Abschriften.
+//
+//==== Baptisms
+//
+//.Frille Baptism Church register copies in Bückeburg Archive
+//[cols="2,4a,2,2"]
+//|===
+//|Call Number|Description|Duration|Formats
+//
+//|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514254[NLA BU, S 8, Frille Absch. Nr.1]
+//|*Taufregister* der ev. luth. Kirche Frille +
+//*Includes:* Chronologische Abschrift der ev.-luth. Kirchenbücher des Pfarramts Frille, zusammengestellt von Manfred Pöhler
+//|1664 - 1803
+//|Digital, Paper, Macro- and Microfiche
+//
+//a|[[baptisms-1805-1935]]
+//link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514280[NLA BU S 8 Frille Abschr. Nr.7]
+//|*Taufregister* der ev. luth. Kirche Frille +
+//*Includes:* Chronologische Abschrift der ev.-luth. Kirchenbücher des Pfarramts Frille, zusammengestellt von Manfred Pöhler
+//|1805 - 1935
+//|Paper copy
+//|===
+//
+//==== Confirmations
+//
+//[[frille-confirmations]]
+//.Frille Confirmations church register copies in Bückeburg Archive
+//[cols="2,4,2,2"]
+//|===
+//|Call Number|Description|Duration|Format
+//
+//|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514272[NLA BU S 8 Frille Abschr. Nr.5]
+//|*Konfirmations- und Sterberegister* der ev. luth. Kirche Frille
+//|1868-1898; 1664-1804
+//|Paper copy
+//
+//|https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514267[NLA BU, S 8, Frille Absch. Nr.3]
+//|*Konfirmationsregister* der ev. luth. Kirche Frille
+//|1808-1820; 1868-1898
+//|Paper copy, film (digital?), microfiche
+//|===
+//
+//==== Marriages
+//
+//.Frille Marriage Church register copies in Bückeburg Archive
+//[cols="2,4,2,2"]
+//|===
+//|Call Number|Description|Duration|Format
+//
+//a|[[marriage-1664-1799]]
+//link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514269[NLA BU, S 8, Frille Abschr. Nr.4]
+//|*Eheberedungen und Heiratsregister* der ev. luth. Kirche Frille
+//|1695-1756; 1664-1799
+//|Paper copy, Microfiche, film (digital?)
+//
+//a|[[marriage-1757-1813]]
+//link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514279[NLA BU, S 8, Frille Abschr. Nr.6]
+//|*Eheberedungen* Frille
+//|1757 - 1813
+//|Paper copy
+//
+//a|[[marriages-1805-1852]]
+//link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514283[NLA BU, S 8, Frille Abschr. Nr.8]
+//|*Heiratsregister* der ev. luth. Kirche Frille
+//|1805 - 1852
+//|Paper copy
+//
+//|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514287[NLA BU, S 8, Frille Abschr. Nr.9]
+//|*Marriage register* of the Evangelical Lutheran Church in Frille
+//
+//Heiratsregister der ev. luth. Kirche Frille
+//|1853 - 1906
+//|Paper copy
+//|===
+//
+//==== Deaths
+//
+//.Frille Death Kirchenbücher Volumes in Bückeburg Archive
+//[cols="2,4,2,2"]
+//|===
+//|Call Number|Description|Duration|Format
+//
+//a|[[deaths-1664-1898]]
+//link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514272[NLA BU S 8 Frille Abschr. Nr.5]
+//|*Konfirmations- und Sterberegister* der ev. luth. Kirche Frille
+//|1868-1898; 1664-1804
+//|Paper copy
+//
+//a|[[deaths-1664-1804]]
+//link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514295[NLA BU, S 8, Frille Abschr. Nr.10]
+//|*Death register* of the Evangelical Lutheran Church in Frille
+//
+//Sterberegister der ev. luth. Kirche Frille
+//|1664 - 1804
+//|Paper copy
+//
+//a|[[deaths-1805-1960]]
+//link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514297[NLA BU, S 8, Frille Abschr. Nr.11]
+//|*Sterberegister* der ev. luth. Kirche Frille
+//|1805 - 1960
+//|Paper copy
+//|===
 
 == Individuals
 
@@ -277,11 +254,11 @@ and *Sophie Christine Leonore Bleeke, born July 27, 1830*.
 //The Carl Friedrich Bleeke emigrated around late October of 1836 and arrived in NYC on
 //December 3^rd^, 1838.
 
-=== Krückeberg
+=== Krückebergs
 
-==== Marriage Records to Transliterate
+==== Marriage Records
 
-.Krückeberg Marriage Records to Transliterate
+.Krückeberg Marriages Approximate Dates
 |===
 |Bräutigam|Braut|Heiratsdatum|Kirchspiel
 
@@ -290,7 +267,7 @@ and *Sophie Christine Leonore Bleeke, born July 27, 1830*.
 |Carl Friedrich Krückeberg|Luise Dorothea Weiland|Nov. 16, 1834|Petzen
 |===
 
-==== Baptisms/Births and Confirmations to Transliterate
+==== Baptisms/Births and Confirmations Approximate Dates
 
 [caption="Johann Heinrich Krückeberg's Children: "]
 .Petzen Baptisms to Confirm and Transliterate
