@@ -16,7 +16,7 @@ link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v48693
 |1740 - 1830
 |===
 
-== KRückeberg Records
+== Krückeberg Records
 
 We would like to have the event, dates and facts for any Petzen post-1828 church records for any Krückebergs
 who appear. 
@@ -247,9 +247,7 @@ We would also like the records below confirmed.
 //|===
 
 
-=== Krückebergs
-
-==== Marriage Records
+=== Marriage Records
 
 .Krückeberg Marriages Approximate Dates
 |===
@@ -260,7 +258,7 @@ We would also like the records below confirmed.
 |Carl Friedrich Krückeberg|Luise Dorothea Weiland|Nov. 16, 1834|Petzen
 |===
 
-==== Baptisms/Births and Confirmations Approximate Dates
+=== Baptisms/Births and Confirmations Approximate Dates
 
 [caption="Johann Heinrich Krückeberg's Children: "]
 .Petzen Baptisms to Confirm and Transliterate
@@ -283,7 +281,6 @@ We would also like the records below confirmed.
 |Check Bückeburg Landesarchiv. Perhaps confirmed in Adams County, Indiana
 |===
 
-
 [caption="Carl Friedrich Krückeberg's Children: "]
 .Petzen Baptisms to Confirm and Transliterate
 |===
@@ -302,7 +299,7 @@ We would also like the records below confirmed.
 |Ernst Heinrich|Feb. 6, 1850|Feb. 13, 1850|in Adams County, Indiana
 |===
 
-==== Krückeberg Deaths to Confirm and Transliterate
+=== Krückeberg Deaths to Confirm and Transliterate
 
 |===
 |Name|ungefähr Sterbedatum
@@ -320,13 +317,13 @@ We would also like the records below confirmed.
 * xref:petzen:petzen-band1a-image174.adoc[]
 * xref:petzen:petzen-band1a-image180.adoc[]
 
-==== Emigration Dates to Look for
+=== Emigration Dates to Look for
 
 The Petzen church register for the years 1849 and 1850 may indicate the dates Johann Heinrich Krückeberg (born
 1806) and Carl Friedrich Krückeberg (born 1807) emigrated. Johann Heinrich Krückeberg arrived November 5, 1849, in
 NYC, and Carl Friedrich Krückeberg arrived November 19, 1850.
 
-==== Familienschein des Auswanderers Carl Friedrich Krückeberg
+=== Familienschein des Auswanderers Carl Friedrich Krückeberg
 
 This tyepwritten document came down to me through my father's cousin's father who died in 1972. We do not
 know if the original version exists. It may have not been an official document. We don't know?
