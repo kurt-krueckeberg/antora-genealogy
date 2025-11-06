@@ -17,12 +17,12 @@ link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v48693
 |1740 - 1830
 |===
 
-== Records
+== Records for Individuals
 
 We would like to have the event, dates and facts for any Petzen post-1828 church records for any Krückebergs
 who appear. 
 
-== Accompanying Citations
+=== Accompanying Citations
 
 We also need an accompanying *citations* for each record. What is the name of the microfiche volume (or roll, etc)
 and where on the microfiche is it found, which film number or image number? We need enough information so that
