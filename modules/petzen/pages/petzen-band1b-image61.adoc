@@ -38,6 +38,7 @@ image::petzen-band1b-img61.jpg[title="Johann Heinrich Krückeberg Marriage(Click
 ....
 
 .Translation
+[literal.bordered,subs="verbatim,quotes"]
 .... 
           ANNO 1773
 
