@@ -17,7 +17,7 @@ link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v48693
 |1740 - 1830
 |===
 
-== Records for Individuals
+== KRückeberg Records
 
 We would like to have the event, dates and facts for any Petzen post-1828 church records for any Krückebergs
 who appear. 
@@ -312,6 +312,14 @@ We would also like the records below confirmed.
 
 |Philippine Christine Eleonore geb. Tegtmeyer Krückeberg|Monat? 8, 1849
 |===
+
+*TODO:* Add those individuals currently listed as children of Johann Henrich
+
+* xref:petzen-band1a-image140.adoc[]
+* xref:petzen-band1a-image152.adoc[]
+* xref:petzen-band1a-image167.adoc[]
+* xref:petzen-band1a-image174.adoc[]
+* xref:petzen-band1a-image180.adoc[]
 
 ==== Emigration Dates to Look for
 
