@@ -18,7 +18,7 @@ for these individuals:
 
 * Bleeke brothers and their wives and children:
 ** xref:research:bueckeburg-bleeke-research.adoc[]
-** xref:research:petzen-frille-research.adoc[]
+** xref:research:bueckeburg-archive-research.adoc[]
 * Philippine Eleonore nee Werkmeister Krückeberg.
 * Weilands who settled in Adams CO, and the wives and children
 * Johann Heinrich Krückeberg, his wife and children
