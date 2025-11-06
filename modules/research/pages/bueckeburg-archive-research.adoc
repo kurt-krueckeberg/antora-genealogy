@@ -315,11 +315,11 @@ We would also like the records below confirmed.
 
 *TODO:* Add those individuals currently listed as children of Johann Henrich
 
-* xref:petzen-band1a-image140.adoc[]
-* xref:petzen-band1a-image152.adoc[]
-* xref:petzen-band1a-image167.adoc[]
-* xref:petzen-band1a-image174.adoc[]
-* xref:petzen-band1a-image180.adoc[]
+* xref:petzen:petzen-band1a-image140.adoc[]
+* xref:petzen:petzen-band1a-image152.adoc[]
+* xref:petzen:petzen-band1a-image167.adoc[]
+* xref:petzen:petzen-band1a-image174.adoc[]
+* xref:petzen:petzen-band1a-image180.adoc[]
 
 ==== Emigration Dates to Look for
 
