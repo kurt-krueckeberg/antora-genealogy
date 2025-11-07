@@ -15,13 +15,20 @@ parents given names:
 |===
 |Infant's Name|Baptism Date|Parents Names
 
-|xref:petzen:petzen-band1a-image140.adoc[]| July 7, 1728|*Johann Heinrich Krückebergs* aus Berenbusch
-Söhnlein Johann Friedrich getauft (Johann Friedrich, the son of Johann Heinrich Krückeberg from Berenbusch, was
-baptized)
+|xref:petzen:petzen-band1a-image140.adoc[]| July 7, 1728|His birth record states: +
+....
+*Johann Heinrich Krückebergs* aus Berenbusch Söhnlein Johann Friedrich getauft
+....
+
+Translation: +
+....
+Johann Friedrich, the son of Johann Heinrich Krückeberg from Berenbusch, was baptized.
+....
 
 |xref:petzen:petzen-band1a-image152.adoc[]|29 Jan. 1736|Krückeberg v. [B. B.] ein Töchterl[ein] tauft lassen (Krückeberg from Berenbusch had a daughter baptized.)
                                               
-|xref:petzen:petzen-band1a-image157.adoc[]|11 Feb. 1739|xref:petzen:petzen-band1b-image167.adoc[death record]: +
+|xref:petzen:petzen-band1a-image157.adoc[]|11 Feb. 1739|His xref:petzen:petzen-band1b-image167.adoc[death record]
+states: +
 ....
 d 5t Novemb. Johann Wilhelm Krückeberg
      Patris Johann Heinrich Krückeberg aus Berenbusch
