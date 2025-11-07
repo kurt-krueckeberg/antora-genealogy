@@ -1,10 +1,18 @@
 = TODO
 
+== Archion.de
+
+I have a one month pass. Are there any records that need to be confirmed or found.
+
+NOTE: I did not find any "Krückeberg" confirmations listed between 1735, the earliest year,
+and 1748. I did not find a confirmation record for Johann Friedrich Krückeberg (1728-?).
+
 == Bückebuerg Research
 
 Link to possible non-church records in Bückeburg: https://chatgpt.com/c/68f51006-a9e8-8331-9e4c-8aa9c1a66581
 
-Combine `m/research/p/other-schaumburg-lippe-records.adoc` into 
+Combine `m/research/p/other-schaumburg-lippe-records.adoc` into `bueckeburg-archive-research.adoc`.
+
 
 == Guidance on FamilySearch One-World Tree
 
