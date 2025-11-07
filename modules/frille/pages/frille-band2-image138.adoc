@@ -9,7 +9,7 @@ image::frille-band2-img138.png[title=Click to Enlarge,link=self]
 ====
 *"Eodem"* means *"on the same days"* as the entry above, whose date is *13 Mai*.
 
-Thus, the birth date is *13 Mai*.
+Thus, the baptism date is *13 May 1798*.
 ====
 
 [.widepair,cols="1a,1a",frame=none,grid=none]
