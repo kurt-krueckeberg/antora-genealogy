@@ -123,6 +123,8 @@
 ** xref:petzen:petzen-band2-image355.adoc[]
 * Söest Krückeberg
 ** xref:wallensen:wallensen-kirchenbuch-1807-1848-image114.adoc[]
+* Schwier
+** xref:frille:frille-band2-image138.adoc[]
 * Werkmeister
 ** xref:petzen:petzen-band1a-image287.adoc[]
 * Weiland
