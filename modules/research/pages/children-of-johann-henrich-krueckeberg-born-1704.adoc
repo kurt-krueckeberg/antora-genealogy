@@ -30,6 +30,13 @@ baptized)
 |xref:petzen:petzen-band1a-image180.adoc[]|Dec. 27 1741|
 |===
 
+=== Confirmation Records
+
 *TODO:* There should be a confirmation record for Johann Fridrich, born July 1728, in the Petzen
 link:https://www.archion.de/de/alle-archive/niedersachsen/niedersaechsisches-landesarchiv/kirchenbuecher-der-evangelisch-lutherischen-landeskirche-schaumburg-lippe/petzen/329073[Verzeichnis
 der Getauften und Konfirmierten 1641-1784] of 1728 in approximately the years 1741 to 1743?
+
+=== Jobst Krückeberg
+
+A Jobst Krückeberg was the father of Sophia Maria Kruekeberg, who was baptiyed in 1741; we know this from
+her xref:petzen:petzen-band2-image239.adoc[death record] where her father is listed.
