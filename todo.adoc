@@ -4,8 +4,10 @@
 
 I have a one month pass. Are there any records that need to be confirmed or found.
 
-NOTE: I did not find any "Krückeberg" confirmations listed between 1735, the earliest year,
-and 1748. I did not find a confirmation record for Johann Friedrich Krückeberg (1728-?).
+NOTE: I did not find any "Krückeberg" confirmations listed between 1735, the earliest year available,
+and 1748. There is no confirmation record for Johann Friedrich Krückeberg (1728-?).
+
+TODO: I will go through the burial records again starting with 1728 at: https://www.archion.de/p/ba6e2c6cb0/ 
 
 == Bückebuerg Research
 
