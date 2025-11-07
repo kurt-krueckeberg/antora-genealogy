@@ -40,7 +40,11 @@ Here’s a version you could paste into the FamilySearch *"`Reason this
 relationship is correct (or removed)`"* box when you detach a child from
 Johann Henrich & Anna Maria:
 
-== Reference ""How to Improve the FamilySearch Family Tree by Applying the Genealogical Proof Standard"
+== Reference "How to Improve the FamilySearch Family Tree by Applying the Genealogical Proof Standard"
+
+See:
+link:https://familylocket.com/how-to-improve-the-familysearch-family-tree-by-applying-the-genealogical-proof-standard/[How to
+Improve the FamilySearch Family Tree by Applying the Genealogical Proof Standard
 
 See
 link:https://familylocket.com/how-to-improve-the-familysearch-family-tree-by-applying-the-genealogical-proof-standard/[How to
@@ -141,3 +145,6 @@ That keeps it collegial and emphasizes method, not blame.
 If you’d like, you can paste in one specific baptism + death scenario
 (name, dates, parish), and I can help you draft *one ultra-precise note*
 for that exact case that you can reuse with slight tweaks.
+
+
+
