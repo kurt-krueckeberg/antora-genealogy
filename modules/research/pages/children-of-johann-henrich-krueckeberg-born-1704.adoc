@@ -5,15 +5,15 @@ only one recorded Krückeberg marriage that we know of prior to 1728, that of
 xref:petzen:petzen-band1b-image36.adoc[Johann Henrich Krückeberg to Anna Marie
 Vahlsing on September 28, 1727].
 
-The birth records for the children born between 1728 and 1750 do not list the
+The birth records for the children born between 1736 and 1750 do not list the
 parents given names:
 
-.Krückeberg Childrenßß1728 to 1750
+.Krückeberg Children born from 1728 to 1750
 [cols="2a,1,2a"]
 |===
 |Infant's Name|Baptism Date|Parents Names
 
-|xref:petzen:petzen-band1a-image140.adoc[]| July 7, 1728|Johann Heinrich Krückebergs aus Berenbusch
+|xref:petzen:petzen-band1a-image140.adoc[]| July 7, 1728|*Johann Heinrich Krückebergs* aus Berenbusch
 Söhnlein Johann Friedrich getauft (Johann Friedrich, the son of Johann Heinrich Krückeberg from Berenbusch, was
 baptized)
 
