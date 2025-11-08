@@ -1,29 +1,41 @@
-= Topics
+= Questions
 
-== What Does Stand Mean?
+Q: What Does 'Stand' Mean?
 
-== The Farming System of Schaumburg-Lippe
+Q: The Farming System of Schaumburg-Lippe.
 
-== What Was the Literacy Level?
+Q: Did Johann Heinrich, a Kolonist, own the soil?
 
-== What was the Social Structure of Society?
+Q: What Was the Literacy Level?
 
-== Was Illegitimacy High?
+Q: Did you need permission to marry
 
-== Emigration
+Q: What were the Rentkammer and the Vormundliche Kammer responsible for when it came to ...case files/
 
-=== Was Permission Needed to Emigrate
+Q: Inheritance of Debt.
 
-== What Religion was Allowed
+Q: Familienschein -- official
 
-== Military
+Q: Route from Berenbusch to Bremerhaven
+
+Q: What was the Social Structure of Society?
+
+Q: Was Illegitimacy High?
+
+Q: Emigration
+
+Q: Was Permission Needed to Emigrate
+
+Q: What Religion was Allowed
+
+Q: Military:
 
 Battle of Waterloo: https://www.findagrave.com/memorial/9433700/carl-friederich-blake?_gl=1*szr64h*_gcl_au*ODE3ODA0MzkzLjE3NTU1NDYzNTc.*_ga*MTQyODk3NzAxOC4xNzU1NTQ2MzU4*_ga_LMK6K2LSJH*czEyNjJkMzMyLWYxMTItNDllMS1hMzMwLTQ5MjMxMDVkZGMyMSRvMjIkZzEkdDE3NTg1OTc0NDAkajkkbDAkaDA.*_ga_4QT8FMEX30*czEyNjJkMzMyLWYxMTItNDllMS1hMzMwLTQ5MjMxMDVkZGMyMSRvMjIkZzEkdDE3NTg1OTc0NDAkajkkbDAkaDA.#view-photo=71054612
 You’re right to want this in plain, human terms. Here’s a clean,
 self-contained explainer, then a walk-through of the "`Stand`" words you
 tallied and what their mix says about village life.
 
-== How landholding worked (in plain language)
+Q: How landholding worked (in plain language):
 
 Think of land as having two layers:
 
@@ -62,7 +74,7 @@ they were _not_ buying his whole tenant farm; they were weighing
 *reacquiring that specific add-on parcel/right* the family had purchased
 earlier.
 
-== What the church-book "`Stand`" labels mean
+Q: What the church-book "`Stand`" labels mean
 
 These words describe a person’s *social/economic position at the moment
 of the entry* (baptism, marriage, burial). They’re quick tags, not full
@@ -87,7 +99,7 @@ take over the core farm.
 * *Reuter/Reiter* — a *horseman/soldier*.
 * *Carabinier* — also a *soldier* (light cavalry).
 
-=== What your counts suggest
+Q: What your counts suggest
 
 You noted (combining your lines): many *Hausherr* and *Einlieger*, very
 few *Meier*, a fair number of *Anerbe*, and an occasional *Knecht* or
