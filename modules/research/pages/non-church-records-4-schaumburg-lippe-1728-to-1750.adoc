@@ -133,6 +133,7 @@ These records bridge the gap between the 1728–1750 Kirchenbücher and the late
 == 7. Optional next step
 
 If desired, you can draft an email to NLA Bückeburg requesting:
+
 * _Berenbusch (Petzen)_ items in *K 1 / K 90* (tax & lease books),  
 * any *Aushebungs- / Milizlisten* naming Krückebergs in *F 2*, and  
 * any *Inventar / Vormundschaft* files ca. 1725–1760 in *H 121d*.
