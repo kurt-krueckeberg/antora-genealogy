@@ -3,6 +3,7 @@
 * German Records-related Research Questions
 ** xref:bueckeburg-archive-research.adoc[]
 ** xref:children-of-johann-henrich-krueckeberg-born-1704.adoc[]
+** xref:researching-1728-to-1750.adoc[] 
 ** xref:other-schaumburg-lippe-records.adoc[Non-Church Records for Schuamburg-Lippe]
 ** xref:schaumburg-lippe-censuses.adoc[]
 ** xref:stand-meaning.adoc[]

@@ -1,5 +1,13 @@
 = TODO
 
+== Non Kirchenbücher Research
+
+Combine these two documents:
+xref:research:researching-1728-to-1750.adoc[] 
+xref:research:other-schaumburg-lippe-records.adoc[Non-Church Records for Schuamburg-Lippe]
+
+Link to possible non-church records in Bückeburg: https://chatgpt.com/c/68f51006-a9e8-8331-9e4c-8aa9c1a66581
+
 == Archion.de
 
 I have a one month pass. Are there any records that need to be confirmed or found.
@@ -8,152 +16,3 @@ NOTE: I did not find any "Krückeberg" confirmations listed between 1735, the ea
 and 1748. There is no confirmation record for Johann Friedrich Krückeberg (1728-?).
 
 TODO: I will go through the burial records again starting with 1728 at: https://www.archion.de/p/ba6e2c6cb0/ 
-
-== Bückebuerg Research
-
-Link to possible non-church records in Bückeburg: https://chatgpt.com/c/68f51006-a9e8-8331-9e4c-8aa9c1a66581
-
-Combine `m/research/p/other-schaumburg-lippe-records.adoc` into `bueckeburg-archive-research.adoc`.
-
-
-== Guidance on FamilySearch One-World Tree
-
-See: This link:https://chatgpt.com/c/690cdc07-4e7c-8325-912a-e824940dc472[Chatgpt's FamilySearch Tree guidance]
-
-You’re absolutely right to question that "`multiple Krückeberg
-families`" wording — that’s me getting a bit ahead of the actual
-evidence you’ve described.
-
-You _don’t_ need to prove there were lots of Krückeberg families in
-Berenbusch to be cautious. The fact that you can document *at least two
-distinct men* with that surname in the right time/place (Johann Henrich
-and Jobst Heinrich) is already enough to treat the unnamed "`Krückeberg
-in Berenbusch`" entries as *ambiguous*.
-
-Let’s tighten the language so it matches what you actually know.
-
-== 1. What your evidence really supports
-
-From what you’ve said, you can safely state:
-
-* In 1704, *Johann Henrich Krückeberg* is born.
-* He marries *Anna Maria Vahlsing* in 1727.
-* One child has a *death record* naming his father explicitly as _Johann
-Henrich Krückeberg_ → that child is securely their son.
-* Several other baptism entries only say *"`Krückeberg in Berenbusch`"*
-(no given names for the parents).
-* One of the children your cousin attached (Sophie Marie Krückeberg)
-turned out *not* to be their daughter, because her 1801 death record
-names her father as *Jobst Heinrich Krückeberg*, not Johann Henrich.
-
-From that, you can firmly say:
-
-* There were *at least two different men* surname Krückeberg in
-Berenbusch in that period (Johann Henrich and Jobst Heinrich).
-* Therefore, the bare phrase "`Krückeberg in Berenbusch`" in baptisms
-*cannot safely be assumed* to mean Johann Henrich & Anna Maria.
-
-You do _not_ have to claim "`numerous families`"; "`at least two
-possible fathers`" is already enough to make the point.
-
-== 2. Revised evidence-based wording (for _Reason_ statements)
-
-Here’s a version you could paste into the FamilySearch *"`Reason this
-relationship is correct (or removed)`"* box when you detach a child from
-Johann Henrich & Anna Maria:
-
-____
-The baptismal entry for this child names only "`Krückeberg in
-Berenbusch`" without given names for the parents. We have documentary
-evidence of at least two different men named Krückeberg in Berenbusch
-during this period: – Johann Henrich Krückeberg, married to Anna Maria
-Vahlsing (m. 1727), and – Jobst Heinrich Krückeberg, named as the father
-of Sophie Marie Krückeberg in her death record dated 17 Mar 1801.
-Because the baptism does not specify which Krückeberg is the father, the
-parentage cannot be established at this time. This child has been
-detached from Johann Henrich Krückeberg and Anna Maria Vahlsing pending
-further evidence.
-____
-
-That keeps everything tightly tied to what you *actually know* and
-establishes the logical problem clearly.
-
-== 3. Shorter "`reason`" version (if you want something more compact)
-
-If the full version feels too long for every child, you could use this
-shorter template and keep the full explanation in a Note/Discussion:
-
-____
-The baptism only names "`Krückeberg in Berenbusch`" and does not give
-the parents’ given names. At least two men named Krückeberg are
-documented in Berenbusch at this time (Johann Henrich and Jobst
-Heinrich). The child’s parentage cannot be identified from current
-records, so this relationship has been removed pending further evidence.
-____
-
-== 4. Suggested _alert note_ or _Discussion_ text for the earliest couple
-
-On the earliest Krückeberg couple’s page, you might add a *Note* (marked
-as an alert) or a *Discussion* item like this:
-
-____
-*Research note on children of Johann Henrich Krückeberg & Anna Maria
-Vahlsing*
-
-Johann Henrich Krückeberg (b. 1704) married Anna Maria Vahlsing in 1727.
-One son is securely documented as their child through his death record,
-which names his father as "`Johann Henrich Krückeberg.`"
-
-Several other baptismal entries in the Petzen/Frille Kirchenbücher refer
-only to "`Krückeberg in Berenbusch`" without giving the parents’ given
-names. From later records we know of at least two different men named
-Krückeberg in Berenbusch during this period, including *Jobst Heinrich
-Krückeberg*, named in the 17 March 1801 death record of his daughter
-Sophie Marie Krückeberg ("`surviving daughter of Jobst Heinrich
-Krückeberg, born blind`").
-
-Because the baptisms do not specify which Krückeberg is the father,
-these children cannot at present be assigned with confidence to Johann
-Henrich and Anna Maria.
-
-Please do not attach additional children to this couple based solely on
-baptisms that name only "`Krückeberg in Berenbusch`" without given names
-for the parents. Further assignments should be based on records that
-explicitly identify the father (and ideally the mother) by name.
-____
-
-That:
-
-* Explains the issue once, in full.
-* Gives a concrete example (Sophie Marie).
-* Teaches other users _why_ speculative linking is a problem here,
-without attacking anyone.
-
-== 5. How to handle your cousin personally
-
-If you decide to email him about it, you could say something like:
-
-____
-I really appreciate that you’ve been adding our Krückeberg line to
-FamilySearch. As I’ve worked more with the Petzen and Frille church
-books, I’ve realized that many baptisms only say "`Krückeberg in
-Berenbusch,`" without naming the parents. Because I can document at
-least two different Krückeberg men in Berenbusch in that period (Johann
-Henrich and Jobst Heinrich), those entries turn out to be ambiguous.
-
-For example, Sophie Marie Krückeberg, who was previously connected to
-Johann Henrich and Anna Maria, actually has a death record naming her
-father as Jobst Heinrich Krückeberg. So I’ve started detaching children
-whose baptisms don’t specify the parents’ given names and adding notes
-explaining why.
-
-I just wanted you to know I’m not undoing your work; I’m trying to line
-things up with what the records actually say, following the Genealogical
-Proof Standard we used in the BU course.
-____
-
-That keeps it collegial and emphasizes method, not blame.
-
-If you’d like, you can paste in one specific baptism + death scenario
-(name, dates, parish), and I can help you draft *one ultra-precise note*
-for that exact case that you can reuse with slight tweaks.
