@@ -46,10 +46,13 @@ Combined, they can identify all Krückeberg households active in the village.
 
 == 3. Main archival series
 
+[%header,cols="4a,3a,3a"]
 |===
 |Series | Scope | Why relevant
 
-|*K 1 – Rentkammer Bückeburg* (Älteres Kammerarchiv 1647–1777) + *K 90 Rechnungsregistratur 1615–1949*
+|* *K 1 – Rentkammer Bückeburg* +
+(Älteres Kammerarchiv 1647–1777) 
+* *K 90 Rechnungsregistratur 1615–1949*
 |Village accounts, leases, and tax rolls
 |Name every taxpayer or tenant in Berenbusch
 
