@@ -18,7 +18,7 @@ They often note predecessors (“jetzt …, zuvor …”).
 
 ** *K 1--Rentkammer Bückeburg*
 ** *A 12--Amt Bückeburg*
-** *F 2--"Kontributionen und Steuern"*
+** *F 2--Kontributionen und Steuern"*
 ** *L 1 / K 90--fiscal fonds*.
 
 . *Land / Farm Registers (Lager-, Hof- or Meierbücher)*  
