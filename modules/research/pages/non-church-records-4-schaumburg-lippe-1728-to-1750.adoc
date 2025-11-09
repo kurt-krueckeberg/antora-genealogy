@@ -8,18 +8,24 @@ nearly every household in *Berenbusch* or nearby villages of the Amt Bückeburg.
 
 [arabic]
 . *Tax / Contribution Registers (Kontributions- & Schatzungsregister)*  
-  Periodic lists of taxpayers by village and status (Colon, Anbauer, Einwohner).  
-  Often note predecessors (“jetzt …, zuvor …”).  
-  ➜ Identify which *Krückeberg heads* paid in Berenbusch and their social rank.  
++
+  These are periodic lists of taxpayers by village and status (Colon, Anbauer, Einwohner).
+  They often note predecessors (“jetzt …, zuvor …”).  
++
+  ➜ They identify which *Krückeberg heads* paid in Berenbusch and their social rank.  
   *Series:* *K 1 Rentkammer Bückeburg*, *A 12 Amt Bückeburg*, *F 2 „Kontributionen und Steuern“*, and *L 1 / K 90* fiscal fonds.
 
 . *Land / Farm Registers (Lager-, Hof- or Meierbücher)*  
-  Lease books listing each holding, acreage, dues, and tenant succession.  
-  ➜ Link a named *Krückeberg* to a specific farm; later entries back-reference earlier tenants.
++
+  These are lease books listing each holding, acreage, dues, and tenant succession.
++  
+  ➜ They link a named *Krückeberg* to a specific farm; later entries back-reference earlier tenants.
 
 . *Farm Charters & Estate Files (Hof-, Kauf-, Tausch-, Übergabe-, Meier- and Altenteilbriefe; Inventare & Vormundschaftsakten)*  
-  Contracts for transfers or retirements; probate and guardianship files.  
-  ➜ Identify *parents, heirs, and spouses*; inventories list *children with ages*.  
++
+  These are contracts for transfers or retirements; probate and guardianship files.
++
+  ➜ They identify *parents, heirs, and spouses*; inventories list *children with ages*.  
   *Series:* *K 1*, *A 12*, and *H 121d Freiwillige Gerichtsbarkeit*.
 
 . *Militia / Service Lists (Miliz-, Musterungs-, Dienstregister)*  
