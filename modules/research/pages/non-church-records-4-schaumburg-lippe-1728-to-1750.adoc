@@ -1,0 +1,131 @@
+= Non-Church Records for Schaumburg-Lippe (Berenbusch / Petzen, ca. 1725 – 1750)
+
+While no complete census survives for this period, many *non-Kirchenbuch* sources can still identify every household in *Berenbusch* or nearby villages.  
+They survive mainly in the *Niedersächsisches Landesarchiv Bückeburg (NLA BU)* under the *Amt Bückeburg* and *Rentkammer Bückeburg* series.
+
+== 1. Record types most likely to help
+
+[arabic]
+. *Tax / Contribution Registers (Kontributions- & Schatzungsregister)*  
+  Periodic lists of taxpayers by village and status (Colon, Anbauer, Einwohner).  
+  Often note predecessors (“jetzt …, zuvor …”).  
+  ➜ Show which *Krückeberg heads* paid in Berenbusch and their *status*—key for dividing children by household.  
+  *Series:* mainly *K 1 Rentkammer Bückeburg* and *A 12 Amt Bückeburg*; also *F 2 „Kontributionen und Steuern“* and older *L 1 / K 90* fiscal fonds.
+
+. *Land / Farm Registers (Lager-, Hof- or Meierbücher)*  
+  Estate books listing each holding, acreage, dues, and tenant succession.  
+  ➜ Tie a *named Krückeberg* to a specific farm; later entries back-reference earlier tenants.
+
+. *Farm Charters & Estate Files (Hof-, Kauf-, Tausch-, Übergabe-, Meier-, Altenteil-, Inventar- & Vormundschaftsakten)*  
+  Contracts when property changes hands or elders cede a farm.  
+  ➜ Identify *fathers, sons, spouses,* and *house succession*; guardianships and inventories list *children with ages*.  
+  *Series:* *K 1 Rentkammer Bückeburg*, *A 12 Amt Bückeburg*, *H 121d Freiwillige Gerichtsbarkeit* (post-death and guardianship matters).
+
+. *Militia / Service Lists (Miliz-, Musterungs-, Dienstregister)*  
+  Eligible males by village and year.  
+  ➜ Confirm *which Krückeberg men* were alive in particular years.  
+  *Series:* *F 2 Allgemeine Militärsachen*.
+
+. *Fire-Insurance Registers (Brandkasse)*  
+  House-by-house lists with owner/tenant, valuation, and often notes such as “jetzt …, vor diesem …”.  
+  ➜ Useful for linking later and earlier occupants; typically late 18th c. but help extend continuity backward.  
+  *Series:* Rentkammer or Amt Bückeburg.
+
+. *Local Administrative / Forst / Boundary Files*  
+  Routine *Untertanen-*, *Forst-*, or *Grenz-* cases.  
+  ➜ Can place two Krückeberg men together as neighbors or heirs.
+
+== 2. Coverage reality (1728 – 1750)
+
+* Full enumerations do **not** exist that early.  
+* What does exist are:
+  * tax / land registers keyed to *heads of household*, and  
+  * individual farm / inheritance / guardianship files when ownership changed.  
+Together these can identify *each active Krückeberg household* in the village.
+
+== 3. Where these records reside
+
+|===
+|Series / Fonds | Scope & contents | Why relevant
+
+|*K 1 – Rentkammer Bückeburg* (_Älteres Kammerarchiv 1647 – 1777_)  
+and *K 90 – Rechnungsregistratur (1615 – 1949)_
+|Accounts, leases, tax lists by village
+|Names of tenants and taxpayers for Berenbusch
+
+|*A 12 – Amt Bückeburg*
+|Local administration & lower court records
+|Village-level files on labor service, militia, inheritance
+
+|*F 2 – Allgemeine Militärsachen*
+|Recruiting & militia rolls
+|Lists of adult males by village and year
+
+|*H 121d – Freiwillige Gerichtsbarkeit*
+|Probate, inventories, guardianships
+|Enumerates children, ages, spouses
+
+|*L 2 – Alte Regierungsregistratur (1553 – 1823)*
+|Earlier government files; transfers to Rentkammer ca. 1728
+|Explains where fiscal files shifted in the period
+|===
+
+_All held at_ **Niedersächsisches Landesarchiv – Abteilung Bückeburg**, Schloßplatz 2, 31675 Bückeburg.  
+Online catalogue: https://www.arcinsys.niedersachsen.de/
+
+== 4. Efficient Arcinsys search method
+
+. Choose *Bestand* = `K 1` or `A 12`.  
+. Search for *Berenbusch* (or *Petzen*) plus one of these keywords:  
++
+----
+Kontribution
+Schatzung
+Lagerbuch
+Meier
+Hofbrief
+Altenteil
+Inventar
+Vormundschaft
+Brandkasse
+Miliz
+Musterung
+Dienst
+----
+. Note reference numbers whose *Laufzeit* overlaps 1700 – 1750 (± 10 years).  
+. Repeat for other series (*F 2*, *H 121d*, *K 90*) as needed.  
+. Request copies or viewing from the reading room by citing fonds code + item number and date range.
+
+== 5. Search-term glossary (German → English)
+
+|===
+|Keyword | Meaning | Yields
+
+|*Kontribution / Schatzung* | Tax rolls | Names of householders
+|*Lagerbuch / Meierregister* | Land books | Tenants & acreage
+|*Hof- / Meier- / Kaufbrief* | Farm charter or sale deed | Buyer, seller, kin & witnesses
+|*Altenteil* | Retirement contract | Parents & heirs of farm
+|*Inventar / Vormundschaft* | Probate / guardianship | Children and ages
+|*Miliz / Milice* | Militia rolls | Adult males by year
+|*Brandkasse* | Fire-insurance list | Householders & valuations
+|===
+
+== 6. How to use findings
+
+* Record for each hit:  
+  `Year • Record type • Village • Status • Name • House/holding note • Kin • Predecessor/Successor`
+* Map simultaneous *Krückeberg* heads and link them with *Vahlsing* or other witness families.  
+* Correlate church baptisms with household data via *status* and *timeline*—e.g., “Colon Krückeberg” vs “Anbauer Krückeberg.”  
+* Use later Brandkasse or lease records to project each holding backward into 1728 – 1750.
+
+== 7. Why this matters for the Krückeberg reconstruction
+
+These secular records can:
+
+* show how many Krückeberg households co-existed in Berenbusch,  
+* reveal who held which *Kolon* or farm,  
+* document inheritance and property transfer, and  
+* provide names where church books only say “Krückeberg in Berenbusch.”
+
+Together they form the missing link between the sparse Petzen Kirchenbücher (1728 – 1750) and the detailed late-18th-century case files.
+
