@@ -9,30 +9,41 @@ nearly every household in *Berenbusch* or nearby villages of the Amt Bückeburg.
 [arabic]
 . *Tax / Contribution Registers (Kontributions- & Schatzungsregister)*  
 +
-  These are periodic lists of taxpayers by village and status (Colon, Anbauer, Einwohner).
-  They often note predecessors (“jetzt …, zuvor …”).  
+These are periodic lists of taxpayers by village and status (Colon, Anbauer, Einwohner).
+They often note predecessors (“jetzt …, zuvor …”).  
 +
-  ➜ They identify which *Krückeberg heads* paid in Berenbusch and their social rank.  
-  *Series:* *K 1 Rentkammer Bückeburg*, *A 12 Amt Bückeburg*, *F 2 „Kontributionen und Steuern“*, and *L 1 / K 90* fiscal fonds.
+➜ They identify which *Krückeberg heads* paid in Berenbusch and their social rank.  
++
+*See Series: +
+** *K 1 Rentkammer Bückeburg*
+** *A 12 Amt Bückeburg*
+** *F 2 „Kontributionen und Steuern“*
+** *L 1 / K 90* fiscal fonds.
 
 . *Land / Farm Registers (Lager-, Hof- or Meierbücher)*  
 +
-  These are lease books listing each holding, acreage, dues, and tenant succession.
+These are lease books listing each holding, acreage, dues, and tenant succession.
 +  
-  ➜ They link a named *Krückeberg* to a specific farm; later entries back-reference earlier tenants.
+➜ They link a named *Krückeberg* to a specific farm; later entries back-reference earlier tenants.
 
 . *Farm Charters & Estate Files (Hof-, Kauf-, Tausch-, Übergabe-, Meier- and Altenteilbriefe; Inventare & Vormundschaftsakten)*  
 +
-  These are contracts for transfers or retirements; probate and guardianship files.
+These are contracts for transfers or retirements; probate and guardianship files.
 +
-  ➜ They identify *parents, heirs, and spouses*; inventories list *children with ages*.  
-  *Series:* *K 1*, *A 12*, and *H 121d Freiwillige Gerichtsbarkeit*.
-
+➜ They identify *parents, heirs, and spouses*; inventories list *children with ages*.  
++
+*Series:* +
+** *K 1*
+** *A 12*
+** *H 121d Freiwillige Gerichtsbarkeit*.
 . *Militia / Service Lists (Miliz-, Musterungs-, Dienstregister)*  
-  Enumerate eligible males by village and year.  
-  ➜ Fix *Jobst* vs *Johann Heinrich Krückeberg* to specific years.  
-  *Series:* *F 2 Allgemeine Militärsachen*.
-
++
+They enumerate eligible males by village and year.
++  
+➜ They fix *Jobst* vs *Johann Heinrich Krückeberg* to specific years.
++
+*Series:* +
+** *F 2 Allgemeine Militärsachen*.
 . *Fire-Insurance Registers (Brandkasse)*  
   House-by-house valuations, often noting “jetzt …, vor diesem …”.  
   ➜ Extend continuity between the 1790s and the 1720s.  
