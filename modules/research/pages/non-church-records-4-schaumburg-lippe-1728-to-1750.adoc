@@ -185,7 +185,7 @@ Would you like me to append a concise explanatory section like this
 (maybe a "`What '`fonds`' means`" sidebar) into your AsciiDoc file,
 formatted so it reads as part of your archival methodology notes?
 
-=== 1. What “series for Amt Bückeburg / Rentkammer … and Untergericht Bückeburg” means
+=== What “series for Amt Bückeburg / Rentkammer … and Untergericht Bückeburg” means
 
 The archive organizes its holdings (*Bestände*) by the government office that originally created them.
 For your period (1725–1750) the relevant offices for *Berenbusch* were:
@@ -196,7 +196,7 @@ For your period (1725–1750) the relevant offices for *Berenbusch* were:
 
 When you look in the NLA catalogue (*Arcinsys*), you search inside the *series (Bestände)* for those offices — that’s where documents about villagers actually appear.
 
-=== 2. What “Ortsregister / Findbücher keywords” means
+=== What “Ortsregister / Findbücher keywords” means
 
 Every archival series has an index (*Findbuch* or *Ortsregister*) — basically a searchable list of files.  
 When you consult staff or use *Arcinsys*, you tell them the place and subject you’re after.  
@@ -208,7 +208,7 @@ That means:
 
 > Please look in the Rentkammer and Amt Bückeburg series for files relating to Berenbusch/Petzen that concern taxation, land leases, farm charters, inheritance contracts, guardianships, militia lists, or fire-insurance records.
 
-=== 3. What those German keywords stand for
+=== What those German keywords stand for
 
 |===
 |Keyword | English meaning | What kind of info it yields
