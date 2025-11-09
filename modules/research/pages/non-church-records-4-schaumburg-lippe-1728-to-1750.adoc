@@ -75,25 +75,25 @@ Combined, they can identify all Krückeberg households active in the village.
 |===
 |Series | Scope | Why relevant
 
-|* *K 1 – Rentkammer Bückeburg* +
+|* *K 1--Rentkammer Bückeburg* +
 (Älteres Kammerarchiv 1647–1777) 
-* *K 90 Rechnungsregistratur 1615–1949*
+* *K 90--Rechnungsregistratur 1615–1949*
 |Village accounts, leases, and tax rolls
 |Name every taxpayer or tenant in Berenbusch
 
-|* *A 12 – Amt Bückeburg*
+|* *A 12-–Amt Bückeburg*
 |Local administrative + court records
 |Labor service, militia, inheritance, village files
 
-|* *F 2 – Allgemeine Militärsachen*
+|* *F 2--Allgemeine Militärsachen*
 |Recruiting / militia rolls
 |Adult males by village and year
 
-|* *H 121d – Freiwillige Gerichtsbarkeit*
+|* *H 121d--Freiwillige Gerichtsbarkeit*
 |Probate / guardianship files
 |Enumerates children and ages
 
-|* *L 2 – Alte Regierungsregistratur (1553–1823)*
+|* *L 2-–Alte Regierungsregistratur (1553–1823)*
 |Pre-1728 government series
 |Shows when fiscal files moved into Rentkammer
 |===
