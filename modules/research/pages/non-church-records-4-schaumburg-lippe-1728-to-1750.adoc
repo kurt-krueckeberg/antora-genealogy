@@ -14,7 +14,8 @@ They often note predecessors (“jetzt …, zuvor …”).
 +
 ➜ They identify which *Krückeberg heads* paid in Berenbusch and their social rank.  
 +
-*See Series: +
+*See Series:*
+
 ** *K 1 Rentkammer Bückeburg*
 ** *A 12 Amt Bückeburg*
 ** *F 2 „Kontributionen und Steuern“*
@@ -32,7 +33,8 @@ These are contracts for transfers or retirements; probate and guardianship files
 +
 ➜ They identify *parents, heirs, and spouses*; inventories list *children with ages*.  
 +
-*Series:* +
+*Series:*
+
 ** *K 1*
 ** *A 12*
 ** *H 121d Freiwillige Gerichtsbarkeit*.
@@ -42,16 +44,21 @@ They enumerate eligible males by village and year.
 +  
 ➜ They fix *Jobst* vs *Johann Heinrich Krückeberg* to specific years.
 +
-*Series:* +
+*Series:*
+
 ** *F 2 Allgemeine Militärsachen*.
 . *Fire-Insurance Registers (Brandkasse)*  
-  House-by-house valuations, often noting “jetzt …, vor diesem …”.  
-  ➜ Extend continuity between the 1790s and the 1720s.  
-  *Series:* Rentkammer or Amt Bückeburg.
-
-. *Local Administrative / Forst / Boundary Files*  
-  Village-level disputes, services, or wood-use records.  
-  ➜ Place two Krückeberg men in one context—brothers, heirs, or neighbors.
++
+These are house-by-house valuations, often noting “jetzt …, vor diesem …”.  
++
+➜ They extend continuity between the 1790s and the 1720s.
++  
+*Series:* Rentkammer or Amt Bückeburg.
+. *Local Administrative / Forst / Boundary Files*
++
+These are village-level disputes, services, or wood-use records.
++
+➜ They would place two Krückeberg men in one context—brothers, heirs, or neighbors.
 
 == 2. Coverage reality (1728–1750)
 
