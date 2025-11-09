@@ -16,10 +16,10 @@ They often note predecessors (“jetzt …, zuvor …”).
 +
 *See Series:*
 
-** *K 1 Rentkammer Bückeburg*
-** *A 12 Amt Bückeburg*
-** *F 2 „Kontributionen und Steuern“*
-** *L 1 / K 90* fiscal fonds.
+** *K 1--Rentkammer Bückeburg*
+** *A 12--Amt Bückeburg*
+** *F 2--"Kontributionen und Steuern"*
+** *L 1 / K 90--fiscal fonds*.
 
 . *Land / Farm Registers (Lager-, Hof- or Meierbücher)*  
 +
@@ -35,9 +35,9 @@ These are contracts for transfers or retirements; probate and guardianship files
 +
 *See Series:*
 
-** *K 1*
-** *A 12*
-** *H 121d Freiwillige Gerichtsbarkeit*.
+** *K 1*--Rentkammer Bückeburg*
+** *A 12*--Amt Bückeburg*
+** *H 121d--Freiwillige Gerichtsbarkeit*.
 . *Militia / Service Lists (Miliz-, Musterungs-, Dienstregister)*  
 +
 They enumerate eligible males by village and year.
@@ -46,7 +46,7 @@ They enumerate eligible males by village and year.
 +
 *See Series:*
 
-** *F 2 Allgemeine Militärsachen*.
+** *F 2--Allgemeine Militärsachen*.
 . *Fire-Insurance Registers (Brandkasse)*  
 +
 These are house-by-house valuations, often noting “jetzt …, vor diesem …”.  
