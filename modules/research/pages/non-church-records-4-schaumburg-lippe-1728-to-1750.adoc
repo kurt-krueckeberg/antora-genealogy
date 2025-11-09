@@ -126,8 +126,9 @@ Berenbusch Brandkasse
 . **Check Laufzeiten.**  
    Favor files dated 1700–1750 (± 10 years). Later ones often reference earlier tenants.  
 
-. **Record key data** for each hit:  
-   `Year • Record type • Village • Status • Name • Holding • Kin • Predecessor/Successor`.  
+. **Record key data** for each hit:
++  
+`Year • Record type • Village • Status • Name • Holding • Kin • Predecessor/Successor`.  
 
 . **Prioritize** early *Lagerbuch*, *Schatzregister/Kontribution*, and *Brandkasse* for household lists;  
    then *Hofbrief/Altenteil/Inventar/Vormundschaft* for kinship proof.  
