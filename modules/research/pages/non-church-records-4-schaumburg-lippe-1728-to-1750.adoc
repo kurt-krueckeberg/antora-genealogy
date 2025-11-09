@@ -103,9 +103,91 @@ Schloßplatz 2, 31675 Bückeburg — online catalogue: https://www.arcinsys.nied
 
 == 4. Step-by-step Arcinsys search strategy
 
+=== Definition of "fonds"
+
+*Fonds* (pronounced roughly _fonz_, from French) means:
+
+____
+_The entire body of records that originate from a single creator — a
+person, family, or institution — accumulated naturally as the result of
+its activities and preserved as an organic whole._
+____
+
+In other words, a _fonds_ is *not* an artificial collection arranged by
+subject, but the _original aggregate_ of records produced by one entity
+in the course of doing its work.
+
+=== 🏛 In plain terms
+
+Think of a _fonds_ as:
+
+____
+"`Everything that came out of one office, kept together because it all
+belonged to that office.`"
+____
+
+For example:
+
+[width="100%",cols="21%,33%,46%",options="header",]
+|===
+|Fonds |Creator |What it represents
+|`+K 1 Rentkammer Bückeburg+` |The _Rentkammer_ (treasury/land office)
+of Schaumburg-Lippe |All land, tax, and lease files that office
+generated or received
+
+|`+A 12 Amt Bückeburg+` |The _Amt Bückeburg_ (district administration)
+|All administrative, judicial, and police records created by that local
+government
+
+|`+H 121d Freiwillige Gerichtsbarkeit+` |The probate and guardianship
+courts |All wills, inventories, and guardianship files they maintained
+|===
+
+Each of these is a _fonds_ because it preserves the original context of
+record creation — who made the record and why.
+
+=== 🧩 Relationship to "`series`" and "`files`"
+
+In most archival hierarchies (including the NLA’s _Arcinsys_):
+
+....
+Archive
+ ├── Fonds (Bestand)
+ │     ├── Series (Serie)
+ │     │     └── Files (Akte, Band, Nr.)
+....
+
+* The *fonds* = the whole record group from one office.
+* A *series* = a subdivision within that fonds (for example, "`Tax rolls
+1710–1800`").
+* An *Akte* or *Nr.* = a specific file or bound volume within that
+series.
+
+When you search Arcinsys and see entries like
+`+K 1 Nr. 842 – Berenbusch, Kontributionsregister 1743–1752+`, you’re
+looking at:
+
+* Fonds: `+K 1+` (Rentkammer Bückeburg)
+* Series: "`Tax rolls`" (implied)
+* File: Nr. 842 (the specific item you can request)
+
+=== 🧭 Why it matters
+
+Understanding _fonds_ helps you:
+
+* Keep context — know who produced a record and why.
+* Avoid mixing files from different creators (which can distort
+meaning).
+* Search more efficiently, since Arcinsys is organized by fonds rather
+than by topic.
+
+Would you like me to append a concise explanatory section like this
+(maybe a "`What '`fonds`' means`" sidebar) into your AsciiDoc file,
+formatted so it reads as part of your archival methodology notes?
+
 === 1. What “series for Amt Bückeburg / Rentkammer … and Untergericht Bückeburg” means
 
-The archive organizes its holdings (*Bestände*) by the government office that originally created them.  
+The archive organizes its holdings (*Bestände*) by the government office that originally created them.
 For your period (1725–1750) the relevant offices for *Berenbusch* were:
 
 * *Amt Bückeburg* – the local administrative and judicial district that governed Petzen, Berenbusch, Nordholz, etc.
