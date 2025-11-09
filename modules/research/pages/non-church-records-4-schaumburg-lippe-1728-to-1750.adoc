@@ -35,8 +35,8 @@ These are contracts for transfers or retirements; probate and guardianship files
 +
 *See Series:*
 
-** *K 1*--Rentkammer Bückeburg*
-** *A 12*--Amt Bückeburg*
+** *K 1--Rentkammer Bückeburg*
+** *A 12--Amt Bückeburg*
 ** *H 121d--Freiwillige Gerichtsbarkeit*.
 . *Militia / Service Lists (Miliz-, Musterungs-, Dienstregister)*  
 +
