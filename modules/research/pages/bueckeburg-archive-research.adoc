@@ -7,7 +7,7 @@ Find Krückebergs in
 link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4869389[Namensverzeichnis sämtlicher Kolonen der
 Ämter Bückeburg und Arensburg, mit Nummerierung der sämtlichen Häuser. (Microfiches vorhanden!)] 
 
-[cols="1,9a,1"]
+[cols="1,7a,1"]
 |===
 |Identifier|Denotation|Life span
 
