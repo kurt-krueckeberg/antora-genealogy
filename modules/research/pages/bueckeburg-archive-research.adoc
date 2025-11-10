@@ -1,12 +1,9 @@
 = Bückeburg Archive Research
 :page-role: wide
 
-== List of Names of all Colonists in the Districts of Bückeburg and Arensburg
+== Bückeburg Archive Documents to Examine for Krückebergs
 
-Find Krückebergs in
-
-link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4869389[Namensverzeichnis sämtlicher Kolonen der
-Ämter Bückeburg und Arensburg, mit Nummerierung der sämtlichen Häuser. (Microfiches vorhanden!)] 
+I am especially interested in the timeframe of 1700 to 1760.
 
 [cols="2,6a,1"]
 |===
@@ -52,8 +49,7 @@ Special survey of the villages of Evesen, Berenbusch, and Nordholz
 |1734-1742
 |===
 
-Here’s the *correct final order of importance* for the six records
-you’ve now identified:
+Here’s the *correct final order of importance* for the six records above:
 
 [width="100%",cols="3%,49%,48%",options="header",]
 |===
