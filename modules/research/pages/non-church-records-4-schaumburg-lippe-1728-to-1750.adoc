@@ -1,6 +1,7 @@
 = Non-Church Records for Schaumburg-Lippe (Berenbusch / Petzen, ca. 1725–1750)
 
 “Search **all of NLA BU** (not just one series) for broad *functional* keywords:
+
 * `Kolonen`
 * `Kolonisten`
 * `Lagerbuch`
