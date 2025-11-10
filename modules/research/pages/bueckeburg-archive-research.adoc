@@ -14,18 +14,22 @@ link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v48693
 |NLA BU, L 101a, A No. 140
 |link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4869389[Namensverzeichnis sämtlicher Kolonen der
 Ämter Bückeburg und Arensburg, mit Nummerierung der sämtlichen Häuser. (Microfiches vorhanden!)]
+
+List of names of all colonists in the districts of Bückeburg and Arensburg, with numbering of all houses.
 |1740 - 1830
 
 |NLA BU L 2 L Nr. 27/13|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894533[Vermessung der Dörfer Evesen,
 Berenbusch und Nordholz]
 
-Surveying of the villages of Evesen, Berenbusch, and Nordholz|1745
+Surveying of the villages of Evesen, Berenbusch, and Nordholz
 |1745
 
 |NLA BU Dep. 61 Acc. 2018/7 Nr. 245|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v9665016[Lagerbuch
 über Ländereien, Wiesen, .. und Gärten]
 
-Inventory book of lands, meadows, ... and gardens|1816
+Inventory book of lands, meadows, ... and gardens
+|1816
+
 |===
 
 == Krückeberg Records
