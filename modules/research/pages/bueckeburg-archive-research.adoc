@@ -18,12 +18,6 @@ link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v48693
 List of names of all colonists in the districts of Bückeburg and Arensburg, with numbering of all houses.
 |1740 - 1830
 
-|NLA BU L 2 L Nr. 27/54|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894545[Spezialvermessung
-der Dörfer Evesen, Berenbusch und Nordholz]
-
-Special survey of the villages of Evesen, Berenbusch, and Nordholz
-|1734-1742
-
 |NLA BU L 2 L Nr. 27/28|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894569[Erfassung der Haus- und Hofbesitzer im Amt Bückeburg im Rahmen einer Generallandesvisitation
 (Landesvermessung)]
 
@@ -38,17 +32,23 @@ Evesen, Berenbusch, Nordholz, and Rusbend as part of the
 General State Survey (state land survey)
 |1743 - 1744
 
+|NLA BU Dep. 61 Acc. 2018/7 Nr. 245|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v9665016[Lagerbuch
+über Ländereien, Wiesen, .. und Gärten]
+
+Inventory book of lands, meadows, ... and gardens
+|1816
+
 |NLA BU L 2 L Nr. 27/13|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894533[Vermessung der Dörfer Evesen,
 Berenbusch und Nordholz]
 
 Surveying of the villages of Evesen, Berenbusch, and Nordholz
 |1745
 
-|NLA BU Dep. 61 Acc. 2018/7 Nr. 245|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v9665016[Lagerbuch
-über Ländereien, Wiesen, .. und Gärten]
+|NLA BU L 2 L Nr. 27/54|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894545[Spezialvermessung
+der Dörfer Evesen, Berenbusch und Nordholz]
 
-Inventory book of lands, meadows, ... and gardens
-|1816
+Special survey of the villages of Evesen, Berenbusch, and Nordholz
+|1734-1742
 |===
 
 Here’s the *correct final order of importance* for the six records
