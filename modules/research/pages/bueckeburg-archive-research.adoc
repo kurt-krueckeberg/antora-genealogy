@@ -23,6 +23,12 @@ List of names of all colonists in the districts of Bückeburg and Arensburg, wit
 Special survey of the villages of Evesen, Berenbusch, and Nordholz
 |1734-1742
 
+|NLA BU L 2 L Nr. 27/28|xref:[Erfassung der Haus- und Hofbesitzer im Amt Bückeburg im Rahmen einer Generallandesvisitation
+(Landesvermessung)]
+
+Survey of house and farm owners in the Bückeburg district as part of a general state survey (state survey)
+|1737
+
 |NLA BU L 2 L Nr. 27/41|xref:[Protokolle über die Befragung der einzelnen Hofbesitzer in Evesen, Berenbusch, Nordholz und Rusbend
 im Rahmen der Generallandesvisitation (Landesvermessung)]
 
