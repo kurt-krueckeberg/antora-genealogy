@@ -29,7 +29,7 @@ Special survey of the villages of Evesen, Berenbusch, and Nordholz
 Survey of house and farm owners in the Bückeburg district as part of a general state survey (state survey)
 |1737
 
-|NLA BU L 2 L Nr. 27/41|xref:[Protokolle über die Befragung der einzelnen Hofbesitzer in Evesen, Berenbusch, Nordholz und Rusbend
+|NLA BU L 2 L Nr. 27/41|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894537[Protokolle über die Befragung der einzelnen Hofbesitzer in Evesen, Berenbusch, Nordholz und Rusbend
 im Rahmen der Generallandesvisitation (Landesvermessung)]
 
 Records of interviews with individual farm owners in
