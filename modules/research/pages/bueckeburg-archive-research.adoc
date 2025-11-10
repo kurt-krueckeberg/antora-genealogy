@@ -49,9 +49,50 @@ Surveying of the villages of Evesen, Berenbusch, and Nordholz
 
 Inventory book of lands, meadows, ... and gardens
 |1816
-
 |===
 
+Here’s the *correct final order of importance* for the six records
+you’ve now identified:
+
+[width="100%",cols="3%,49%,48%",options="header",]
+|===
+|Priority |Document Title |Why It Matters
+
+|*1* |*Namensverzeichnis sämtlicher Kolonen der Ämter Bückeburg und
+Arensburg, mit Nummerierung der sämtlichen Häuser* |Gives every
+_householder by name_ across the two Ämter — effectively the earliest
+census of settlers. Almost certain to list any *Krückeberg* in
+Berenbusch.
+
+|*2* |*Erfassung der Haus- und Hofbesitzer im Amt Bückeburg im Rahmen
+einer Generallandesvisitation (Landesvermessung)* |Lists all farm/house
+owners — not just colonists — during the survey, by village. Complements
+the Kolonenverzeichnis.
+
+|*3* |*Protokolle über die Befragung der einzelnen Hofbesitzer in
+Evesen, Berenbusch, Nordholz und Rusbend im Rahmen der
+Generallandesvisitation (Landesvermessung)* |Q&A minutes naming each
+householder; can mention predecessors, obligations, or family details.
+
+|*4* |*Lagerbuch über Ländereien, Wiesen, … und Gärten* |Land book:
+names tenants, describes holdings, and sometimes states who held them
+before/after — good for continuity.
+
+|*5* |*Vermessung der Dörfer Evesen, Berenbusch und Nordholz* |General
+survey with land data; may include field numbers or property names but
+fewer personal names.
+
+|*6* |*Spezialvermessung der Dörfer Evesen, Berenbusch und Nordholz*
+|Detailed map-level survey; useful for matching house numbers from the
+other records but rarely rich in names.
+|===
+
+These six documents together essentially _are_ the non-church record
+base for reconstructing every named Berenbusch Krückeberg ca. 1700–1760.
+
+If you get access to even just the top three (#1–3), you’ll almost
+certainly be able to identify every Krückeberg household that existed in
+Berenbusch in that period.
 == Krückeberg Records
 
 We would like to have the event, dates and facts for any Petzen post-1828 church records for any Krückebergs
