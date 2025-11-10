@@ -314,7 +314,7 @@ location: NLA BU
 fonds: K 1
 search term: Berenbusch
 
-[cols="1,9,1"]
+[cols="1,7,1"]
 |===
 |Identifier|Title|Life Span
 
