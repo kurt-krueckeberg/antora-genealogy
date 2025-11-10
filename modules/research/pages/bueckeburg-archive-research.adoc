@@ -18,6 +18,19 @@ link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v48693
 List of names of all colonists in the districts of Bückeburg and Arensburg, with numbering of all houses.
 |1740 - 1830
 
+|NLA BU L 2 L Nr. 27/54|xref:[Spezialvermessung der Dörfer Evesen, Berenbusch und Nordholz]
+
+Special survey of the villages of Evesen, Berenbusch, and Nordholz
+|1734-1742
+
+|NLA BU L 2 L Nr. 27/41|xref:[Protokolle über die Befragung der einzelnen Hofbesitzer in Evesen, Berenbusch, Nordholz und Rusbend
+im Rahmen der Generallandesvisitation (Landesvermessung)]
+
+Records of interviews with individual farm owners in
+Evesen, Berenbusch, Nordholz, and Rusbend as part of the
+General State Survey (state land survey)
+|1743 - 1744
+
 |NLA BU L 2 L Nr. 27/13|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894533[Vermessung der Dörfer Evesen,
 Berenbusch und Nordholz]
 
