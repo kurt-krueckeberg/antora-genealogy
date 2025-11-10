@@ -326,6 +326,7 @@ We would also like the records below confirmed.
 === Marriage Records
 
 .Krückeberg Marriages Approximate Dates
+[width="75%"]
 |===
 |Bräutigam|Braut|Heiratsdatum|Kirchspiel
 
@@ -338,6 +339,7 @@ We would also like the records below confirmed.
 
 [caption="Johann Heinrich Krückeberg's Children: "]
 .Petzen Baptisms to Confirm and Transliterate
+[width="75%"]
 |===
 |Kind|Geburtsdatum|Taufe|Konfirmation
 
@@ -359,6 +361,7 @@ We would also like the records below confirmed.
 
 [caption="Carl Friedrich Krückeberg's Children: "]
 .Petzen Baptisms to Confirm and Transliterate
+[width="75%"]
 |===
 |Kind|Geburtsdatum|Taufe|Konfirmation
 
@@ -377,6 +380,7 @@ We would also like the records below confirmed.
 
 === Krückeberg Deaths to Confirm and Transliterate
 
+[width="75%"]
 |===
 |Name|ungefähr Sterbedatum
 
