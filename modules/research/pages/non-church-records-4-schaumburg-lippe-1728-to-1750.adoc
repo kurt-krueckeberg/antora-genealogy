@@ -306,3 +306,33 @@ If desired, you can draft an email to NLA Bückeburg requesting:
 * _Berenbusch (Petzen)_ items in *K 1 / K 90* (tax & lease books),  
 * any *Aushebungs- / Milizlisten* naming Krückebergs in *F 2*, and  
 * any *Inventar / Vormundschaft* files ca. 1725–1760 in *H 121d*.
+
+
+== Premliminary Results
+Hits for:
+location: NLA BU
+fonds: K 1
+search term: Berenbusch
+
+[cols="1,9,1"]
+|===
+|Identifier|Title|Life Span
+
+|NLA BU L 2 L Nr. 27/41|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894537[Protokolle über die Befragung der einzelnen Hofbesitzer in
+Evesen, Berenbusch, Nordholz und Rusbend im Rahmen der
+Generallandesvisitation (Landesvermessung)]
+
+Records of the interviews with individual farm owners in
+Evesen, Berenbusch, Nordholz and Rusbend as part of the
+general state survey (land survey)|1743-1744
+
+|NLA BU L 2 L Nr. 27/54
+|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894545[Spezialvermessung der
+Dörfer Evesen, Berenbusch und Nordholz]
+|1745
+
+|NLA BU, L 2, L Nr. 27/13
+|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894533[Vermessung der Dörfer
+Evesen, Berenbusch und Nordholz]
+|1745
+|===
