@@ -1,4 +1,5 @@
 = Bückeburg Archive Research
+:page-role: wide
 
 == List of Names of all Colonists in the Districts of Bückeburg and Arensburg
 
@@ -93,6 +94,7 @@ base for reconstructing every named Berenbusch Krückeberg ca. 1700–1760.
 If you get access to even just the top three (#1–3), you’ll almost
 certainly be able to identify every Krückeberg household that existed in
 Berenbusch in that period.
+
 == Krückeberg Records
 
 We would like to have the event, dates and facts for any Petzen post-1828 church records for any Krückebergs
