@@ -5,7 +5,7 @@
 
 I am especially interested in the timeframe of 1700 to 1760.
 
-[cols="2,6a,1"]
+[cols="2,6a,1",width="75%"]
 |===
 |Identifier|Denotation|Life span
 
@@ -52,7 +52,7 @@ Special survey of the villages of Evesen, Berenbusch, and Nordholz
 
 Here’s the *correct final order of importance* for the six records above:
 
-[width="100%",cols="3%,49%,48%",options="header",]
+[width="100%",cols="3%,49%,48%",width="75%",options="header",]
 |===
 |Priority |Document Title |Why It Matters
 
