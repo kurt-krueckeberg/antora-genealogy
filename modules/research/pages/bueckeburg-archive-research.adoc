@@ -61,7 +61,7 @@ record]:
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
-Sophie Marie Krückeberg, des Jobst Heinrich Krückeberg nachgelaßen, blindgebohrne Tochter (Sophie Marie
+Sophie Marie Krückeberg, des *Jobst Heinrich Krückeberg* nachgelaßen, blindgebohrne Tochter (Sophie Marie
 Krückeberg, surviving daughter of Jobst Heinrich Krückeberg, born blind)
 ....
 
