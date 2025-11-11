@@ -51,7 +51,7 @@ states: +
 [literal.bordered,subs="verbatim,quotes"]
 ....
 d 5t Novemb. Johann Wilhelm Krückeberg
-     Patris Johann Heinrich Krückeberg aus Berenbusch
+     Patris *Johann Heinrich Krückeberg aus Berenbusch*
      Söhnlein begraben, alt 8 3/4 Jahr
 ....
 Translation:
