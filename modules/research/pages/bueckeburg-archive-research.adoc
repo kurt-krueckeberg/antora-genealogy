@@ -3,7 +3,70 @@
 
 == Bückeburg Archive Documents to Examine for Krückebergs
 
-In the records below I am especially interested in Krückebergs in the timeframe of 1700 to 1760. I would like
+In the records below I am especially interested in Krückebergs in the timeframe of 1700 to 1760.
+We only have one recorded Krückeberg marriage in the early 18^th^ century. On xref:petzen:petzen-band1b-image36.adoc[28 September
+1727] Johann Heinrich Krückeberg from Berenbusch married Anna Marie Vahlsing from Evesen. We have eight
+Krückeberg children born between 1728 and 1750:
+
+The birth records for the children born between 1736 and 1750 do not list the
+parents given names:
+
+.Krückeberg Children born from 1728 to 1750
+[cols="2a,1,2a"]
+|===
+|Infant's Name|Baptism Date|Parents Names
+
+|xref:petzen:petzen-band1a-image140.adoc[]| July 7, 1728|His birth record states: +
+[literal,subs="verbatim,quotes"]
+....
+*Johann Heinrich Krückebergs* aus Berenbusch Söhnlein Johann Friedrich getauft
+....
+
+Translation: +
+[literal,subs="verbatim,quotes"]
+....
+Johann Friedrich, the son of Johann Heinrich Krückeberg from Berenbusch, was baptized.
+....
+
+|xref:petzen:petzen-band1a-image152.adoc[]|29 Jan. 1736|Krückeberg v. [B. B.] ein Töchterl[ein] tauft lassen (Krückeberg from Berenbusch had a daughter baptized.)
+                                              
+|xref:petzen:petzen-band1a-image157.adoc[]|11 Feb. 1739|His xref:petzen:petzen-band1b-image167.adoc[death record]
+states: +
+[literal,subs="verbatim,quotes"]
+....
+d 5t Novemb. Johann Wilhelm Krückeberg
+     Patris Johann Heinrich Krückeberg aus Berenbusch
+     Söhnlein begraben, alt 8 3/4 Jahr
+....
+Translation:
+[literal,subs="verbatim,quotes"]
+....
+On the 5th of November, Johann Wilhelm Krückeberg,
+son of Johann Heinrich Krückeberg from Berenbusch,
+was buried, aged 8¾ years
+....
+                                              
+|xref:petzen:petzen-band1a-image163.adoc[]|27 Dec. 1741|From her xref:petzen:petzen-band2-image239.adoc[death
+record]: Sophie Marie Krückeberg, des Jobst Heinrich Krückeberg nachgelaßen, blindgebohrne Tochter (Sophie Marie
+Krückeberg, surviving daughter of Jobst Heinrich Krückeberg, born blind)
+
+|xref:petzen:petzen-band1a-image167.adoc[]|19 Jan. 1744|
+
+|xref:petzen:petzen-band1a-image174.adoc[]|26 Oct. 1746|
+
+|xref:petzen:petzen-band1a-image180.adoc[]|4 Nov. 1750|
+
+|todo||
+|===
+
+== Extremely Atypical Birth Pattern
+
+The mother would have been ages 38, 43, 45 and 49, respectively, at the birth of her last four children. 
+She would have been 49 at the birth her last child, which is not even believeable.
+
+
+
+
 TIF images of pages in these documents were Krückebergs in Berenbusch are mentioned.
 
 [cols="2,6a,1",width="75%"]
