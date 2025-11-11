@@ -393,7 +393,7 @@ I would also like transcription for the records below, which are approximate dat
 //* xref:petzen:petzen-band1a-image152.adoc[]
 //* xref:petzen:petzen-band1a-image167.adoc[]
 //* xref:petzen:petzen-band1a-image174.adoc[]
-*// xref:petzen:petzen-band1a-image180.adoc[]
+//* xref:petzen:petzen-band1a-image180.adoc[]
 
 [.narrow]
 === Emigration Dates to Look for
