@@ -32,13 +32,6 @@ Evesen, Berenbusch, Nordholz, and Rusbend as part of the
 General State Survey (state land survey)
 |1743 - 1744
 
-|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v9665016[NLA BU Dep. 61 Acc. 2018/7 Nr.
-245]|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v9665016[Lagerbuch
-über Ländereien, Wiesen, .. und Gärten]
-
-Inventory book of lands, meadows, ... and gardens
-|1816
-
 |xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894533[NLA BU L 2 L Nr. 27/13]|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894533[Vermessung der Dörfer Evesen,
 Berenbusch und Nordholz]
 
@@ -50,6 +43,13 @@ der Dörfer Evesen, Berenbusch und Nordholz]
 
 Special survey of the villages of Evesen, Berenbusch, and Nordholz
 |1734-1742
+
+|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v9665016[NLA BU Dep. 61 Acc. 2018/7 Nr.
+245]|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v9665016[Lagerbuch
+über Ländereien, Wiesen, .. und Gärten]
+
+Inventory book of lands, meadows, ... and gardens
+|1816
 |===
 
 Here’s the *correct final order of importance* for the six records above:
@@ -74,17 +74,17 @@ Evesen, Berenbusch, Nordholz und Rusbend im Rahmen der
 Generallandesvisitation (Landesvermessung)* |Q&A minutes naming each
 householder; can mention predecessors, obligations, or family details.
 
-|*4* |*Lagerbuch über Ländereien, Wiesen, … und Gärten* |Land book:
-names tenants, describes holdings, and sometimes states who held them
-before/after — good for continuity.
-
-|*5* |*Vermessung der Dörfer Evesen, Berenbusch und Nordholz* |General
+|*4* |*Vermessung der Dörfer Evesen, Berenbusch und Nordholz* |General
 survey with land data; may include field numbers or property names but
 fewer personal names.
 
-|*6* |*Spezialvermessung der Dörfer Evesen, Berenbusch und Nordholz*
+|*5* |*Spezialvermessung der Dörfer Evesen, Berenbusch und Nordholz*
 |Detailed map-level survey; useful for matching house numbers from the
 other records but rarely rich in names.
+
+|*6* |*Lagerbuch über Ländereien, Wiesen, … und Gärten* |Land book:
+names tenants, describes holdings, and sometimes states who held them
+before/after — mainly for later continuity, not for the 1700–1760 window.
 |===
 
 These six documents together essentially _are_ the non-church record
