@@ -1,13 +1,4 @@
-Yes — what you’re seeing with all those *Johann Heinrich* and *Jobst
-Heinrich* Krückebergs is very much a _pattern_, not a coincidence. It
-fits standard north-German Lutheran naming customs in the late 18th /
-early 19th century, and it also fits the Schaumburg-Lippe / Minden area
-quite nicely.
-
-I’ll keep this focused on what matters for your Petzen–Frille–Berenbusch
-cluster.
-
-'''''
+= Naming Conventions in Schaumburg-Lippe
 
 == 1. Two given names, but only one "`real`" everyday name
 
@@ -36,7 +27,6 @@ For your ancestors this means:
 * In later entries you may see him as _Heinrich Krückeberg_, _Joh.
 Heinr. Krückeberg_, or just _Johann Heinrich_, depending on the clerk.
 
-'''''
 
 == 2. Why _Johann_ and _Heinrich_ keep repeating
 
@@ -65,7 +55,6 @@ full of:
 In your Petzen and Frille books, you’re seeing exactly that pattern
 playing out in a small, fairly endogamous community.
 
-'''''
 
 == 3. Where does _Jobst_ fit in?
 
@@ -92,7 +81,6 @@ In practice that man might appear in different records as:
 * Or occasionally just _Jobst Krückeberg_, if the pastor chose the other
 half of the compound as the "`important`" piece.
 
-'''''
 
 == 4. What this _means_ for your Berenbusch Krückebergs
 
@@ -132,7 +120,6 @@ where *the second name is the functional one* (Catharina, Elisabeth …).
 (https://www.legacytree.com/blog/tips-to-identify-women-in-historical-records?utm_source=chatgpt.com[Legacy
 Tree])
 
-'''''
 
 == 5. TL;DR specific to "`Johann Heinrich`" and "`Jobst Heinrich`"
 
@@ -151,7 +138,6 @@ really dealing with.
 That’s exactly the general _pattern_—but not a rigid, always-followed
 rule.
 
-'''''
 
 == *Common custom (not a law)*
 
@@ -176,7 +162,6 @@ the farm name with the paternal line.
 This pattern appears frequently in your Petzen and Frille registers—but
 there are many *exceptions*.
 
-'''''
 
 == *Why it wasn’t categorical*
 
@@ -196,7 +181,6 @@ alternation.
 forenames recurred endlessly, so the order of inheritance had little
 distinctiveness.
 
-'''''
 
 == *In summary*
 
@@ -210,7 +194,6 @@ ____
 🚫 But *not mandatory*—social, religious, or practical factors could
 easily shift it.
 
-'''''
 
 If you’d like, I can show a short table using a real Krückeberg
 household (say, Jobst Heinrich Krückeberg Nr. 10 and his wife) to
