@@ -408,12 +408,5 @@ NYC, and Carl Friedrich Krückeberg arrived November 19, 1850.
 This tyepwritten document came down to me through my father's cousin's father who died in 1972. We do not
 know if the original version exists. It may have not been an official document. We don't know?
 
-//[cols="1a,1a",options="noheader",grid=none,frame=none]
-//|===
-//|
-image::families:Familienschein-des-Auswanderers.jpg[align=left,width=800,title='Familienschein des Auswanderers
-(Click to Enlarge)',link=self]
-//|
-//|===
-
+image::families:Familienschein-des-Auswanderers.jpg[align=left,width=800,title='Familienschein des Auswanderers(Click to Enlarge)',link=self]
 
