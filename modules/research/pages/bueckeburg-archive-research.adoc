@@ -20,7 +20,7 @@ was the father of one of the children. The parents of the other children is unkn
 The table below summarizes what is know of the parentage of these eight children:
 
 .Krückeberg Children born/baptized betwee 1728 and 1750
-[cols="1,2a,4a",frame=none,grid=none]
+[cols="1,2a,4a",frame=none]
 |===
 |Baptism Date|Child's Name|Parentage Information in Record
 
