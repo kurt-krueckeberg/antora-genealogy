@@ -3,7 +3,7 @@
 
 == Finding Prospective Parents of Krückebergs Born between 1736 and 1750 in Secular Records
 
-The secular records listed [here] might hold the clue to the parentage of the Krückeberg
+The secular records listed xref:#prospective[here] might hold the clue to the parentage of the Krückeberg
 children discussed below who were born in 1736, 1741, 1744, 1746 and 1750.
 
 [.narrow]
@@ -101,6 +101,7 @@ If Anna Marie Vahlsing were thee mother, she would have been ages 40, 43, 45, 49
 of her last four children. A child at age 49 is unbelievealbe and three births at ages
 40, 43 and 44 seems unlikely.
 
+[[prospective]]
 === Prospective Secular Records for Parentage of Krückeberg Children Born in 1736, 1741, 1744, 1746 and 1750.
 
 These secular records should be examined for Krückebergs in the time period of 1700 to circa 1760.
