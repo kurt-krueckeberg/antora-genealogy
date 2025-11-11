@@ -1,18 +1,4 @@
 = TODO
 
-== Non Kirchenbücher Research
-
-Combine these two documents:
-xref:research:researching-1728-to-1750.adoc[] 
-xref:research:other-schaumburg-lippe-records.adoc[Non-Church Records for Schuamburg-Lippe]
-
-Link to possible non-church records in Bückeburg: https://chatgpt.com/c/68f51006-a9e8-8331-9e4c-8aa9c1a66581
-
-== Archion.de
-
-I have a one month pass. Are there any records that need to be confirmed or found.
-
-NOTE: I did not find any "Krückeberg" confirmations listed between 1735, the earliest year available,
-and 1748. There is no confirmation record for Johann Friedrich Krückeberg (1728-?).
-
-TODO: I will go through the burial records again starting with 1728 at: https://www.archion.de/p/ba6e2c6cb0/ 
+Finish m/research/p/bueckeburg-archive-research.adoc. Make sure I have the names correct
+of the four oldest children, who are unlikely to have been children of Anna Maria Vahlsing.
