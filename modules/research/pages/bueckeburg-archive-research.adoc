@@ -411,7 +411,8 @@ know if the original version exists. It may have not been an official document. 
 //[cols="1a,1a",options="noheader",grid=none,frame=none]
 //|===
 //|
-image::families:Familienschein-des-Auswanderers.jpg[align=left,width=800,title='Familienschein des Auswanderers',link=self]
+image::families:Familienschein-des-Auswanderers.jpg[align=left,width=800,title='Familienschein des Auswanderers
+(Click to Enlarge)',link=self]
 //|
 //|===
 
