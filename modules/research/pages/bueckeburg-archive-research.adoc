@@ -51,8 +51,7 @@ Inventory book of lands, meadows, ... and gardens
 |1816
 |===
 
-Here’s the *correct final order of importance* for the six records above:
-
+.Order of Importance for the six records above:
 [width="100%",cols="3%,49%,48%",width="75%",options="header",]
 |===
 |Priority |Document Title |Why It Matters
