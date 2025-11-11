@@ -2,13 +2,13 @@
 * xref:background-info.adoc[]
 * German Records-related Research Questions
 ** xref:bueckeburg-archive-research.adoc[]
-** xref:children-of-johann-henrich-krueckeberg-born-1704.adoc[]
+//** xref:children-of-johann-henrich-krueckeberg-born-1704.adoc[] <-- Only partially finished
 ** xref:schaumburg-lippe-censuses.adoc[]
 ** xref:stand-meaning.adoc[]
 ** xref:carl-f-bleeke-military-service.adoc[]
 //** xref:bueckeburg-bleeke-research.adoc[]
 ** xref:familienschein-original.adoc[]
-//** xref:OrtsFamilienBücher.adoc[]
+//** xref:OrtsFamilienBücher.adoc[]   <-- The Petzen Ortsfamilienbuch does not mention Krückebergs
 //** xref:friedrich-wilhelm-weiland-evesen-questions.adoc[]
 * U.S. and Indiana-related Resarch Questions
 ** xref:wpa-hrs.adoc[]
