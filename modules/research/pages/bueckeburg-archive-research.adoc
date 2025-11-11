@@ -9,7 +9,7 @@ documents were Krückebergs in Berenbusch are mentioned.
 
 [cols="2,6a,1",width="75%"]
 |===
-|Identifier|Denotation|Life span
+|Identifier|Deonotation|Life span
 
 |link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4869389[NLA BU, L 101a, A No. 140]
 |link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4869389[Namensverzeichnis sämtlicher Kolonen der
