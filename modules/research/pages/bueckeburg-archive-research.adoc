@@ -70,12 +70,25 @@ Krückeberg, surviving daughter of Jobst Heinrich Krückeberg, born blind)
 ....
 
 |xref:petzen:petzen-band1a-image167.adoc[19 Jan. 1744]|Johann Heinrich Krückeberg|
+[literal.bordered,subs="verbatim,quotes"]
+....
+d. 19 dito Krückeberg ein Söhnlein taufen laßen
+[benahmset = benamset = benennt] Johann Heinrich, Gevatter sind G[eorg?]
+[Frerking/Frerkung] Ahldags.  Weiland in Behrenbusch. Watermanns
+Soh[n?] von Nordholtz.
+....
 
 |xref:petzen:petzen-band1a-image174.adoc[26 Oct. 1746]|Anna Louise Eleonore Krückeberg|
 
 |xref:petzen:petzen-band1a-image180.adoc[4 Nov. 1750]|Carl Philip Krückeberg|
 
-|todo||
+|xref:petzen:petzen-band1a-image180.adoc[4 Nov. 1850]|Carl Philip Krückeberg|
+[literal.bordered,subs="verbatim,quotes"]
+....
+d. 4[ten] Novemb. Carl Philip Krückeberg
+des Leineweber Kruckebergs zu Bernbusch Sohn
+getauft: Gev[atter]. Fahlsings Sohn aus Eversen
+....
 |===
 
 == Extremely Atypical Birth Pattern
