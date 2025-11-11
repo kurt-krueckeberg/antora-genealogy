@@ -24,7 +24,8 @@ The table below summarizes what is know of the parentage of these eight children
 |===
 |Baptism Date|Child's Name|Parentage Information in Record
 
-|July 7, 1728|xref:petzen:petzen-band1a-image140.adoc[]| His baptism record states:
+|xref:petzen:petzen-band1a-image140.adoc[July 7, 1728]|Johann Friedrich Krückeberg
+| His baptism record states:
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
@@ -37,13 +38,13 @@ Translation: +
 Johann Friedrich, the son of Johann Heinrich Krückeberg from Berenbusch, was baptized.
 ....
 
-|29 Jan. 1736|xref:petzen:petzen-band1a-image152.adoc[]|
+|xref:petzen:petzen-band1a-image152.adoc[29 Jan. 1736]|Dorothea Elisabeth Krückeberg|
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Krückeberg v. [B. B.] ein Töchterl[ein] tauft lassen (Krückeberg from Berenbusch had a daughter baptized.)
 ....                                              
 
-|11 Feb. 1739|xref:petzen:petzen-band1a-image157.adoc[]|His xref:petzen:petzen-band1b-image167.adoc[death record]
+|xref:petzen:petzen-band1a-image157.adoc[11 Feb. 1739]|Johann Wilhelm Krückeberg|His xref:petzen:petzen-band1b-image167.adoc[death record]
 states: +
 [literal.bordered,subs="verbatim,quotes"]
 ....
@@ -59,7 +60,7 @@ son of Johann Heinrich Krückeberg from Berenbusch,
 was buried, aged 8¾ years
 ....
                                               
-|27 Dec. 1741|xref:petzen:petzen-band1a-image163.adoc[]|From her xref:petzen:petzen-band2-image239.adoc[death
+|xref:petzen:petzen-band1a-image163.adoc[27 Dec. 1741]|Sophie Marie Krückeberg|From her xref:petzen:petzen-band2-image239.adoc[death
 record]:
 
 [literal.bordered,subs="verbatim,quotes"]
@@ -68,11 +69,11 @@ Sophie Marie Krückeberg, des Jobst Heinrich Krückeberg nachgelaßen, blindgebo
 Krückeberg, surviving daughter of Jobst Heinrich Krückeberg, born blind)
 ....
 
-|19 Jan. 1744|xref:petzen:petzen-band1a-image167.adoc[]|
+|xref:petzen:petzen-band1a-image167.adoc[19 Jan. 1744]|Johann Heinrich Krückeberg|
 
-|26 Oct. 1746|xref:petzen:petzen-band1a-image174.adoc[]|
+|xref:petzen:petzen-band1a-image174.adoc[26 Oct. 1746]|Anna Louise Eleonore Krückeberg|
 
-|4 Nov. 1750|xref:petzen:petzen-band1a-image180.adoc[]|
+|xref:petzen:petzen-band1a-image180.adoc[4 Nov. 1750]|Carl Philip Krückeberg|
 
 |todo||
 |===
