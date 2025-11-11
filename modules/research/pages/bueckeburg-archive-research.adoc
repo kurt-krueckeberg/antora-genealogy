@@ -27,7 +27,7 @@ The table below summarizes what is know of the parentage of these seven children
 |Baptism Date|Child's Name|Parentage Information in Record
 
 |xref:petzen:petzen-band1a-image140.adoc[July 7, 1728]|Johann Friedrich Krückeberg
-| His baptism record states:
+|His baptism record states:
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
@@ -91,10 +91,14 @@ getauft: Gev[atter]. Fahlsings Sohn aus Eversen
 ....
 |===
 
-== Extremely Atypical Birth Pattern
+=== Extremely Atypical Birth Pattern
 
 If Anna Marie Vahlsing were thee mother, she would have been ages 38, 43, 45 and 49, respectively, at the birth
-of her last four children; and she would have been 49 at the birth her last child, which is not even believeable.
+of her last four children. 
+
+; and she would have been 49 at the birth her last child, which is not even believeable.
+
+
 
 TIF images of pages in these documents were Krückebergs in Berenbusch are mentioned.
 
