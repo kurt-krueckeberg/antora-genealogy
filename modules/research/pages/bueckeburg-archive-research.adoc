@@ -22,7 +22,7 @@ The table below summarizes what is know of the parentage of these eight children
 .Krückeberg Children born/baptized betwee 1728 and 1750
 [cols="1,2a,2a"]
 |===
-|Baptism Date|Infant's Name|Parentage Information in Record
+|Baptism Date|Child's Name|Parentage Information in Record
 
 |July 7, 1728|xref:petzen:petzen-band1a-image140.adoc[]| His baptism record states:
 
