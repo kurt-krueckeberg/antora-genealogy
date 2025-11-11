@@ -24,8 +24,9 @@ The table below summarizes what is know of the parentage of these eight children
 |===
 |Infant's Name|Baptism Date|Parentage Information in Record
 
-|xref:petzen:petzen-band1a-image140.adoc[]| July 7, 1728|His birth record states: +
-[literal,subs="verbatim,quotes"]
+|xref:petzen:petzen-band1a-image140.adoc[]| July 7, 1728|His baptism record states:
++
+[literal.bordered,subs="verbatim,quotes"]
 ....
 *Johann Heinrich Krückebergs* aus Berenbusch Söhnlein Johann Friedrich getauft
 ....
