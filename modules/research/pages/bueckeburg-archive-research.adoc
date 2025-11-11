@@ -13,11 +13,11 @@ marriage in the Petzen Gemeinde.
 Furthermore, we know Anna Maria Vahlsing was born in 1701 because her xref:petzen:petzen-band1b-image178-right.adoc[May
 8, 1757, death record] states she was age 56 when she died.
 
-Yet eight Krückeberg children born between 1728 and 1750. We have proof that Johann Heinrich was the
-father of two of the eight chidren born between 1728 and 1750, and we know that a Jobst Krückeberg
+Yet seven Krückeberg children born between 1728 and 1750. We have proof that Johann Heinrich was the
+father of two of the seven chidren born between 1728 and 1750, and we know that a Jobst Krückeberg
 was the father of one of the children. The parents of the other children is unknown. 
 
-The table below summarizes what is know of the parentage of these eight children:
+The table below summarizes what is know of the parentage of these seven children:
 
 .Krückeberg Children born/baptized betwee 1728 and 1750
 [cols="1,2a,4a",frame=none]
@@ -79,8 +79,12 @@ Soh[n?] von Nordholtz.
 ....
 
 |xref:petzen:petzen-band1a-image174.adoc[26 Oct. 1746]|Anna Louise Eleonore Krückeberg|
-
-|xref:petzen:petzen-band1a-image180.adoc[4 Nov. 1750]|Carl Philip Krückeberg|
+[literal.bordered,subs="verbatim,quotes"]
+....
+d. 26 Oct. Anna Louisa Eleonore Krückebergs getauft
+Pater _ _ _ Krückeberg aus Berenbusch Gevatter Rödenbecks
+Tochter aus Scheye
+....
 
 |xref:petzen:petzen-band1a-image180.adoc[4 Nov. 1850]|Carl Philip Krückeberg|
 [literal.bordered,subs="verbatim,quotes"]
