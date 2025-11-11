@@ -19,20 +19,20 @@ was the father of one of the children.
 
 The table below summarizes what is know of the parentage of these eight children:
 
-.Krückeberg Children born from 1728 to 1750
+.Krückeberg Children born/baptized betwee 1728 and 1750
 [cols="2a,1,2a"]
 |===
 |Infant's Name|Baptism Date|Parentage Information in Record
 
 |xref:petzen:petzen-band1a-image140.adoc[]| July 7, 1728|His baptism record states:
-+
+
 [literal.bordered,subs="verbatim,quotes"]
 ....
 *Johann Heinrich Krückebergs* aus Berenbusch Söhnlein Johann Friedrich getauft
 ....
 
 Translation: +
-[literal,subs="verbatim,quotes"]
+[literal.bordered,subs="verbatim,quotes"]
 ....
 Johann Friedrich, the son of Johann Heinrich Krückeberg from Berenbusch, was baptized.
 ....
