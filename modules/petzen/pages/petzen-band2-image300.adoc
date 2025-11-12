@@ -72,6 +72,33 @@ image::petzen-band2-img300-right.jpg[align=left,title="Philippine Dorothee Krüc
 626                Gestorbene im Kirchspiel Petzen                im Jahr 1818 u. 1819                  627
 ----
 
+.What the 2^nd^ Column Tells us About the Husband's Status.
+****
+[IMPORTANT]
+====
+The 2^nd^ column tells us that Philippine Dorothee's husband, Johann Heinrich, was formerly
+the *Hofmeister(estate manager)* at *Reinen-Neel* estate (Hof). *"Reinen-Neel* appears to be
+a compound of two family or place names.
+
+*"Einlieger"* in the phrase *"Einlieger beÿ n.13 in Bärenbusch"* most accurately translates to *lodger,
+subtenant, or resident without full property ownership*". This implies:
+
+* *Lodger/Subtenant*: This suggests that Philippine Dorothee Krückeberg and her husband were not the
+primary owners or renters of the entire property at #13 in Bärenbusch. Instead, they were likely
+renting a part of a dwelling or living within a household that belonged to someone else.
+* *Resident without full property ownership*: In rural German society of the early 19th century,
+land and property ownership were crucial. "Einlieger" often referred to individuals or families
+who lived in a house or on a farm owned by someone else. They might have paid rent in money or in
+labor, or they might have been "living in" as hired hands or with family.
+
+This distinction was important in historical records as it provided information about the social
+and economic standing of individuals. While her husband was a former "Hofmeister" (which could
+mean a steward or majordomo on an estate), by 1819, they were living as "Einlieger," indicating
+a different living arrangement, possibly a more humble one.
+====
+****
+
+
 [caption="Transliteration 1: "]
 .death record #1 for 1819
 [%header,cols="1,5,5,4,4,4,4,2",frame="none"]
@@ -99,32 +126,6 @@ ihrem Ehemann, eine +
 einzige Tochter, welche +
 verheÿrathet ißt|
 |===
-
-.What the 2^nd^ Column Tells us About the Husband's Status.
-****
-[IMPORTANT]
-====
-The 2^nd^ column tells us that Philippine Dorothee's husband, Johann Heinrich, was formerly
-the *Hofmeister(estate manager)* at *Reinen-Neel* estate (Hof). *"Reinen-Neel* appears to be
-a compound of two family or place names.
-
-*"Einlieger"* in the phrase *"Einlieger beÿ n.13 in Bärenbusch"* most accurately translates to *lodger,
-subtenant, or resident without full property ownership*". This implies:
-
-* *Lodger/Subtenant*: This suggests that Philippine Dorothee Krückeberg and her husband were not the
-primary owners or renters of the entire property at #13 in Bärenbusch. Instead, they were likely
-renting a part of a dwelling or living within a household that belonged to someone else.
-* *Resident without full property ownership*: In rural German society of the early 19th century,
-land and property ownership were crucial. "Einlieger" often referred to individuals or families
-who lived in a house or on a farm owned by someone else. They might have paid rent in money or in
-labor, or they might have been "living in" as hired hands or with family.
-
-This distinction was important in historical records as it provided information about the social
-and economic standing of individuals. While her husband was a former "Hofmeister" (which could
-mean a steward or majordomo on an estate), by 1819, they were living as "Einlieger," indicating
-a different living arrangement, possibly a more humble one.
-====
-****
 
 [caption="Transliteration 1: "]
 .death record #1 for 1819
