@@ -103,25 +103,15 @@ Leibzüchter(in):: life-annuitant (H); person living on a Leibzucht or life esta
 
 [caption="Transliteration: "]
 .entry 1, in year 1822, for Johann Heinrich Krückeberg
-[%header,%autowidth,frame="none"]
+[%header,cols="1,6,5,2,3,1,1,1",frame="none"]
 |===
-|Zahl |Name, Stand, Religion, Gewerbe, +
-Geburts u. bisheriger Wohnort des +
-Vestorbene |Zeit u. Ort des +
-Todes u. des +
-Begräbenises |Ursaches Todes |Alter |Ledig +
-oder verheÿrathet s|Hinterbliebende s|Bemerkerungen
+|Zahl |Name, Stand, Religion, Gewerbe, Geburts u. bisheriger Wohnort des Vestorbene |Zeit u. Ort des Todes u. des Begräbenises |Ursaches Todes |Alter |Ledig oder verheÿrathet |Hinterbliebende |Bemerkerungen
 
 |5
-|Johann Heinrich Krückeberg, Leib- +
-züchter auf no. 10 in Bärenbusch. Uth. Conf. 
-|starb d. 21ten März morgens +
-10 Uhr in Bärenbusch, u. +
-wurde begraben d. 24tne +
-März in Petzen
+|Johann Heinrich Krückeberg, Leibzüchter auf no. 10 in Bärenbusch. Uth. Conf. 
+|starb d. 21ten März morgens 10 Uhr in Bärenbusch, u. wurde begraben d. 24tne März in Petzen
 |Altersschwäche
-|in einem Alter von +
-78 Jahren 2 Monten 3 Wochen
+|in einem Alter von 78 Jahren 2 Monten 3 Wochen
 |Wittver
 |hinterläßt 2 Söhne
 |
@@ -129,22 +119,14 @@ März in Petzen
 
 [caption="Translation: "]
 .entry 1, in year 1822, for Johann Heinrich Krückeberg
-[%header,%autowidth,frame="none"]
+[%header,cols="1,6,5,2,3,1,1,1",frame="none"]
 |===
-|No. |Name, Status, Religion, Trade, +
-Birth- and previous Residence of the +
-Deceased |Time and Place of +
-Death and of the +
-Funeral[Burial] |Cauase of Death |Age |Single +
+|No. |Name, Status, Religion, Trade, Birth- and previous Residence of the Deceased |Time and Place of Death and of the Funeral[Burial] |Cauase of Death |Age |Single +
 or Married |Survivors |Remark[s]
 
 |5
-|Johann Heinrich Krückeberg, life-annuitant: +
-Retired farmer with life tenancy
-|died the 21^st^ March +
-10am in Bärenbusch, and +
-was buried 24^th^ +
-March in Petzen
+|Johann Heinrich Krückeberg, life-annuitant: Retired farmer with life tenancy
+|died the 21^st^ March 10am in Bärenbusch, and was buried 24^th^ March in Petzen
 |debility of old age
 |78 years, 2 months, 3 weeks
 |widower
