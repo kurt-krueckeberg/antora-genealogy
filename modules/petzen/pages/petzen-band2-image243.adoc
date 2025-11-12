@@ -78,7 +78,7 @@ farmer.
 
 [caption="Transliteration: "]
 .entry 8 for Joh: Hen: Krickeberg
-[%header,cols="1,3,3,2,2,1,3,3",frame="none"]
+[%header,cols="1,5,3,2,2,1,3,5",frame="none"]
 |===
 |Zahl |Name, Religion, Gewerbe, Eltern, Geburt u. bisher[iger] +
 Wohnort des Verstorbenen |Zeit u. Ort des +
@@ -111,7 +111,7 @@ ein recht nützliches Mitglied der Gemeinde
 
 [caption="Translation: "]
 .entry 8 for Joh: Hen: Krickeberg
-[%header,cols="1,3,3,2,2,1,3,3",frame="none"]
+[%header,cols="1,5,3,2,2,1,3,5",frame="none"]
 |===
 |No. |Deceased's Name, Religion, Occupation, Parents, Birthplace and Previous +
 Residence +
