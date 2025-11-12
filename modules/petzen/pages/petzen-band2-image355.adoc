@@ -115,69 +115,33 @@ image::petzen-band2-img355-737.jpg[align=left,title="Entry portion on page 737 (
 
 [caption="Transliteration and translation: "]
 .Marriage entry No. 8.
-[%header,%autowidth,frame="none"]
+[%header,cols="1,7,6,4,4,3,3,2",frame="none"]
 |===
-|Zahl |Name, Stand, Religion +
-u. Eltern des Bräutigams s|Name, Religion +
-Geburt u. Wohnort +
-der Braut s|Zeit u. Ort + 
-der Proclamation s|Zeit u. Ort +
-der Kopulation s|der kopu +
-lirende +
-Prädiger s|Kopulations +
-Zeugen s|Bemerkungen
+|Zahl |Name, Stand, Religion u. Eltern des Bräutigams |Name, Religion Geburt u. Wohnort der Braut |Zeit u. Ort der Proclamation |Zeit u. Ort der Kopulation |der kopulirende Prädiger |Kopulations Zeugen |Bemerkungen
 
 |8. 
-|Junggeselle Johann Heinrich +
-Jäger, ehelicher Sohn u. Anerbe +
-des Johann Heinrich Jäger +
-n. 5. in Nordholz. Luth. Conf. u. jetzt +
-26 Jahr alt 
-|Philippiine Christine +
-Krückebergs, eheliche Tochter +
-des Carl Friedrich Gottlieb +
-Krückeberg n. 18 in Bärenbusch +
-Luth. Conf. u. jetzt 23 Jahr alt 
-|sind in der Kirche +
-zu Petzen proclamiert den +
-23 u. 30 Juli u. 6 Aug. 
+|Junggeselle Johann Heinrich Jäger, ehelicher Sohn u. Anerbe des Johann Heinrich Jäger n. 5. in Nordholz. Luth. Conf. u. jetzt 26 Jahr alt 
+|Philippiine Christine Krückebergs, eheliche Tochter des Carl Friedrich Gottlieb Krückeberg n. 18 in Bärenbusch Luth. Conf. u. jetzt 23 Jahr alt 
+|sind in der Kirche zu Petzen proclamiert den 23 u. 30 Juli u. 6 Aug. 
 |u. kopulirt d. 15 Octbr
 |Gottlieb Daniel Stille 
-|in Gegenwart +
-der Gemeine
+|in Gegenwart der Gemeine
 |[empty]
 |===
 
 [caption="Translation: "]
 .Marriage entry No. 8.
-[%header,%autowidth,frame="none"]
+[%header,cols="1,7,6,4,4,3,3,2",frame="none"]
 |===
-s|No. s|Name, Occupation, Religion, +
-Parents des Bräutigums s|Name, Religion +
-Birth place and Residence +
-of the Bride s|Time and Place +
-of the Proclamation s|Time and Place +
-of the Marriage s|The offi- +
-ciating Minister s|Marriage Witnesses s|Remarks
+s|No. |Name, Occupation, Religion, Parents des Bräutigums |Name, Religion Birth place and Residence of the Bride |Time and Place of the Proclamation |Time and Place of the Marriage |The officiating Minister |Marriage Witnesses |Remarks
 
 |8.
-|Bachelor Johann Heinrich +
-Jäger, legitimate son and principal +
-heir of Johann Heinrich Jäger +
-n. 5. in Nordholz. Luth. Conf. and +
-now 26 years old
-|Philippiine Christine +
-Krückebergs, legitimate daughter +
-of Carl Friedrich Gottlieb +
-Krückeberg n. 18 in Bärenbusch +
-Luth. Conf. and now 23 years old
-|proclaimed in the church +
-at on the 23^rd^ and 30^th^ July +
-and 6^th^ of Aug.
+|Bachelor Johann Heinrich Jäger, legitimate son and principal heir of Johann Heinrich Jäger n. 5. in Nordholz. Luth. Conf. and now 26 years old
+|Philippiine Christine Krückebergs, legitimate daughter of Carl Friedrich Gottlieb Krückeberg n. 18 in Bärenbusch Luth. Conf. and now 23 years old
+|proclaimed in the church at on the 23^rd^ and 30^th^ July and 6^th^ of Aug.
 |married on 15^th^ of Oct.
 |Gottlieb Daniel Stille
-|in the presence +
-of the parish
+|in the presence of the parish
 |[empty]
 |===
 
