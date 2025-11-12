@@ -110,7 +110,7 @@ ein recht nütz- +
 ****
 [NOTE]
 ====
-* *Colon* = colonist (farmstead holder in the settlement)
+* *Colon* = hereditary tenant farmer
 ====
 ****
 
