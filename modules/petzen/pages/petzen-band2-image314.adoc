@@ -92,7 +92,7 @@ image::petzen-band2-img314-655.jpg[title="Johann Heinrich Krückeberg (Click to 
 
 [caption="Transliteration: "]
 .entry 14, in year 1822, for Johann Heinrich Krückeberg
-[%header,cols="1,3,3,2,2,2,3,3",frame="none"]
+[%header,cols="1,6,4,3,3,2,3,3",frame="none"]
 |===
 |Zahl |Name, Stand, Religion, Gewerbe, +
 Geburts u. bisheriger Wohnort des +
@@ -124,7 +124,7 @@ näm[lich]. 3 Töchter und +
 
 [caption="Translation: "]
 .entry 14, in year 1822, for Johann Heinrich Krückeberg
-[%header,cols="1,3,3,2,2,2,3,3",frame="none"]
+[%header,cols="1,6,4,3,3,2,3,3",frame="none"]
 |===
 |No. |Name, Status, Religion, Trade, +
 Birth- and previous Residence of the +
