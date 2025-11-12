@@ -46,25 +46,11 @@ ort des
 Kindes |Bemerkungen
 
 |13
-|Philippine Caroline Chris
-tine Krückeberg
+|Philippine Caroline Christine Krückeberg
 |Jobst Heinrich Krückeberg
-|Christine Philippine Eleo-
-nore geb Tegtmeiern
-|Bärenbusch|d. 9. Septr.
-1791 in
-Barenbusch
-|
-
-|13
-|Philippine Caroline Chris-
-tine Krückeberg
-|Jobst Heinrich Krückeberg|Christine Philippine Eleo-
-nore born Tegtmeiern
+|Christine Philippine Eleonore geb Tegtmeiern
 |Bärenbusch
-|the 9th Septr.
-1791 in
-Barenbusch
+|d. 9. Septr. 1791 in Barenbusch
 |
 |===
 
@@ -72,24 +58,14 @@ Barenbusch
 .Transliteration of Column Headers and Entry 13
 [%header,cols="1,4,4,4,3,2,2",frame="none"]
 |===
-|Num-
-ber |Child's Name |Father's Name |Mutter's Name |Living place of the
-Father or
-of the Mother |Birth-
-time and
-Birth-
-plae of the
-Child |Remarks
+|Number |Child's Name |Father's Name |Mutter's Name |Living place of the Father or of the Mother |Birth time and Birth place of the Child |Remarks
 
 |13
-|Philippine Caroline Chris-
-tine Krückeberg
-|Jobst Heinrich Krückeberg|Christine Philippine Eleo-
-nore born Tegtmeiern
+|Philippine Caroline Christine Krückeberg
+|Jobst Heinrich Krückeberg
+|Christine Philippine Eleonore born Tegtmeiern
 |Bärenbusch
-|the 9th Septr.
-1791 in
-Barenbusch
+|the 9th Septr.  1791 in Barenbusch
 |
 |===
 
