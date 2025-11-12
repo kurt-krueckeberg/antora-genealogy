@@ -108,13 +108,13 @@ image::petzen-band2-img314-655.jpg[title="Johann Heinrich Krückeberg (Click to 
 
 [caption="Translation: "]
 .entry 14, in year 1822, for Johann Heinrich Krückeberg
-[%header,cols="1,6,4,3,3,2,3,3",frame="none"]
+[%header,cols="1,6,4a,3,3,2,3,3",frame="none"]
 |===
 |No. |Name, Status, Religion, Trade, Birth- and previous Residence of the Deceased s|Time and Place of Death and of the Funeral[Burial] |Cauase of Death |Age |Single or Married |Survivors |Remarks
 
 |14
-|Jobst Heinrich Krückeberg Master of the Shoemakers' Guild from n. 10 in Bärenbusch. Luth. Conf.  |died Oct. 21st 2pm in Bärenbusch and was buried the 24th
-Oct. in Petzen
+|Jobst Heinrich Krückeberg Master of the Shoemakers' Guild from n. 10 in Bärenbusch. Luth. Conf.
+|died Oct. 21^st^ 2pm in Bärenbusch and was buried the 24^th^ Oct. in Petzen
 |convulsions and hemorrhaging
 |at the age of 58 years old
 |husband
