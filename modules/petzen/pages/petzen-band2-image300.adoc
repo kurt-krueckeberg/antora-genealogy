@@ -100,23 +100,15 @@ einzige Tochter, welche +
 verheÿrathet ißt|
 |===
 
-.Clarifying the information in the 2^nd^ Column.
+.What the 2^nd^ Column Tells us About the Husband's Status.
 ****
 [NOTE]
 ====
-*"Name, Stand, Gewerbe, Geburts u. bisheriger Wohnort des Verstorbenen"* translates as: *"Name, Status,
+The 2^nd^ column header *"Name, Stand, Gewerbe, Geburts u. bisheriger Wohnort des Verstorbenen"* translates as: *"Name, Status,
 Occupation, Birthplace and most recent Residence of the Deceased"*:
 
-* Since the wife did not have a *Gewerbe*, an occupation, *Hofmeister(estate manager)*, is her survinging husband's occupation.
-* *"Birthplace and most recent Residence of the Deceased"* contains two pieces of information, but only the
-deceased's final residence is mentioned. We know from the couple's xref:petzen:petzen-band2-image12-2.adoc[marriage
-record] that her village prior to marriage was Meisen, but she may have been born elsewhere.
-* *"Reinen-Neelhof"* is the name of a specific estate or farm — essentially a *proper noun*:
-** “Hof” → “Estate” or “Farm”
-** *"Reinen-Neel* appears to be a compound of two family or place names.
-
-+
-So its meaning conveys: *"“on the Reinen-Neel estate (a manor farm)”*
+Philippine Dorothee's husband, Johann Heinrich, was formerly the *Hofmeister(estate manager)* at *Reinen-Neel*
+estate (Hof). *"Reinen-Neel* appears to be a compound of two family or place names.
 ====
 
 [IMPORTANT]
