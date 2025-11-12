@@ -76,37 +76,17 @@ image::petzen-band2-img348-723.jpg[align=left,title="Click to enlarge",link=self
 
 [caption="Transliteration 1: "]
 .Marriage entry No. 6.
-[%header,cols="1,5,5,4,4,4,4,2",frame="none"]
+[%header,cols="1,7,6,4,4,3,3,2",frame="none"]
 |===
-|Zahl |Name, Stand, Religion +
-u. Eltern des Bräutigams |Name, Religion +
-Geburt u. Wohnort +
-der Braut |Zeit u. Ort + 
-der Proclamation |Zeit u. Ort +
-der Kopulation |der kopu +
-lirende +
-Prädiger |Kopulations +
-Zeugen |Bemerkungen
+|Zahl |Name, Stand, Religion u. Eltern des Bräutigams |Name, Religion Geburt u. Wohnort der Braut |Zeit u. Ort + der Proclamation |Zeit u. Ort der Kopulation |der kopulirende Prädiger |Kopulations Zeugen |Bemerkungen
 
 |6.
-|Wittwer Friedrich Wilhelm +
-Drifftmeier Taglöhner auf n. 19 +
-in Bärenbusch. Luth. Conf. u. jetzt +
-42 Jahr alt
-|Jungfrau Philippine Louise +
-Eleonore Kruckebergs, eheliche +
-Tochter des verstorbenen +
-Heinrich Krückeberg n. 19 in +
-Evesen Luth. Conf. U. jetzt 29 Jhr alt
-|sind in der Kirche +
-zu Petzen proclamirt +
-d 31 März u. 7 u. 14 +
-April
+|Wittwer Friedrich Wilhelm Drifftmeier Taglöhner auf n. 19 in Bärenbusch. Luth. Conf. u. jetzt 42 Jahr alt
+|Jungfrau Philippine Louise Eleonore Kruckebergs, eheliche Tochter des verstorbenen Heinrich Krückeberg n. 19 in Evesen Luth. Conf. U. jetzt 29 Jhr alt
+|sind in der Kirche zu Petzen proclamirt d 31 März u. 7 u. 14 April
 |u. Kopulirt d 12 Maÿ
-|vom dem zeitigen +
-Prediger Stille
-|in Gegenwart +
-der Beichtenden
+|vom dem zeitigen Prediger Stille
+|in Gegenwart der Beichtenden
 |[empty]
 |===
 
@@ -127,35 +107,17 @@ people and too little land to go around.
 
 [caption="Translation 1: "]
 .Marriage entry No. 6.
-[%header,cols="1,5,5,4,4,4,4,2",frame="none"]
+[%header,cols="1,7,6,4,4,3,3,2",frame="none"]
 |===
-|No. |Name, Occupation, Religion, +
-Parents des Bräutigums |Name, Religion +
-Birth place and Residence +
-of the Bride |Time and Place +
-of the Proclamation |Time and Place +
-of the Marriage |The offi- +
-ciating Minister |Marriage Witnesses |Remarks
+|No. |Name, Occupation, Religion, Parents des Bräutigums |Name, Religion Birth place and Residence of the Bride |Time and Place of the Proclamation |Time and Place of the Marriage |The officiating Minister |Marriage Witnesses |Remarks
 
 |6.
-|Widower Friedrich Wilhelm +
-Dri[ff]tmeier day-laborer from n. 19 +
-in Bärenbusch. Luth. Conf. and now +
-42 years old
-|Maiden Philippine Louise +
-Eleonore Kruckebergs, legitimate +
-daughter of the late +
-Heinrich Krückeberg n. 19 in +
-Evesen Luth. Conf. and now 29 years old
-|were proclaimed in the church +
-at  Petzen on +
-31st March and 7th and 14th +
-April
+|Widower Friedrich Wilhelm Dri[ff]tmeier day-laborer from n. 19 in Bärenbusch. Luth. Conf. and now 42 years old
+|Maiden Philippine Louise Eleonore Kruckebergs, legitimate daughter of the late Heinrich Krückeberg n. 19 in Evesen Luth. Conf. and now 29 years old
+|were proclaimed in the church at  Petzen on 31st March and 7th and 14th April
 |and married 12th May
-|by the current +
-pastor Stille
-|in presence +
-of the confessing
+|by the current pastor Stille
+|in presence of the confessing
 |[empty]
 |===
 
