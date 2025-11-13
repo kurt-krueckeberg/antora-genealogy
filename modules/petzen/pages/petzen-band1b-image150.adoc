@@ -1,7 +1,9 @@
 = 1734 Krückeberg Small Daughter Buried
 :page-role: wide
 
-image::petzen-band1b-img150.png[title=Krückeberg Töchterlein begraben (Click to Enlarge),link=self]
+The image below shows the burial entries for 14 February 1734.
+
+image::petzen-band1b-img150.png[title=14 Feb, 1734 Krückeberg Töchterlein buried (Click to Enlarge),link=self]
 
 [.narrow]
 == Töchterlein and Söhnlein
@@ -33,6 +35,8 @@ alone. Therefore, a possible baptim record should be sought.
 
 == Transliteration and Translation
 
+.14 February 1734
+[caption="Burial records for: "]
 [.widepair,cols="1a,1a",frame=none,grid=none,options="noheader"]
 |===
 |
