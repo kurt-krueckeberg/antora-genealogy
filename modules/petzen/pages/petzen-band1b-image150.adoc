@@ -1,7 +1,7 @@
 = 1734 Krückeberg Small Daughter Buried
 :page-role: wide
 
-The image below excerpts the three burial entries for 14 February 1734. The middle record is
+The image below excerpts three burial entries for 14 February 1734. The 2^nd^ record is
 for an unnamed Krückeberg.
 
 image::petzen-band1b-img150.png[title=14 Feb, 1734 Krückeberg Töchterlein buried (Click to Enlarge),link=self]
