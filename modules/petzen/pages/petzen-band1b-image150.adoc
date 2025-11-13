@@ -1,0 +1,46 @@
+= 1734 Krückeberg Small Daughter Burial
+:page-role: wide
+
+image::petzen-band1b-img150.png[title="Krückeberg Töchterlein begraben (Click to Enlarge),link=self]
+
+[NOTE]
+====
+In this burial entry, "ein Töchterlein" means a small/young daughter of H.
+Krückeberg from Berenbusch. The pastor does not give her personal name.
+In the Petzen church book, stillborn children are usually marked as "todtgeboren"
+in the baptism/birth section; since that word is not used here, this Töchterlein
+was born alive but died in early childhood. Whether she was baptized cannot be
+told for certain from the burial entry alone. Therefore, the possible burial
+record should be looked for.
+====
+
+== Transliteration and Translation
+
+[.widepair,cols="1a,1a",frame=none,grid=none]
+|===
+|Transliteration |Translation
+
+|
+[literal.bordered,subs="verbatim,quotes"]
+....
+d 14t: Wilhelm Rödemeister ein Töchterlein
+von Rocke begrab[en] lasß
+[H?] Krückeberg von Behrenbusch ein Töchter-
+lein begrab lasß
+[H?] Sickmanns von Namen Töchterlein
+.....
+
+|
+[literal.bordered,subs="verbatim,quotes"]
+....
+On the 14th:
+Wilhelm Rödemeister from Rocke had a little daughter buried.
+
+[Same day]:
+H. Krückeberg from Berenbusch had a little daughter buried.
+
+[Same day]:
+H. Sickmann from Nammen had a little daughter buried.
+....
+|===
+
