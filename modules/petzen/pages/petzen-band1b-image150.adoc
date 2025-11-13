@@ -1,14 +1,15 @@
 = 1734 Krückeberg Small Daughter Buried
 :page-role: wide
 
-The image below excerpts the three burial entries for 14 February 1734.
+The image below excerpts the three burial entries for 14 February 1734. The middle record is
+for an unnamed Krückeberg.
 
 image::petzen-band1b-img150.png[title=14 Feb, 1734 Krückeberg Töchterlein buried (Click to Enlarge),link=self]
 
 == Citation
 
-These 1734 burial records are on <<image150, image 150>> of the Petzen Kirchenbuch " Verzeichnis der Getauften und
-Konfirmierten 1641-1784". 
+The February 14^th^ 1734 burial records are on <<image150, image 150>> of the
+Petzen Kirchenbuch " Verzeichnis der Getauften und Konfirmierten 1641-1784". 
 
 [.narrow]
 == Töchterlein and Söhnlein
