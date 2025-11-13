@@ -1,4 +1,5 @@
 = TODO
 
-Finish m/research/p/bueckeburg-archive-research.adoc. Make sure I have the names correct
-of the four oldest children, who are unlikely to have been children of Anna Maria Vahlsing.
+Check and confirm the FamilySearch Genealogy. Then import it into GEDCOM?
+Turn the NLA case files into stories, into one story.
+Write it up in LaTeX.
