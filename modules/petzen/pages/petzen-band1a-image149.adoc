@@ -1,7 +1,7 @@
-= 1733 Johann Heinrich OR Jobst Heinrich Krückeberg Baptized
+= 1733 Jobst Heinrich Krückeberg Baptized
 :page-role: wide
 
-TODO: Look at adjacent records to detected wording pattern.
+TODO: finishe
 
 image::petzen-band1a-img149.png[title=(Click to Enlarge),link=self]
 
@@ -10,5 +10,5 @@ image::petzen-band1a-img149.png[title=(Click to Enlarge),link=self]
 ....
 d 6th Septembr ist Johann Hinrich Krückeberg
 im Berenbusch Söhnlein+ Jobst Hinrich getrauft.
-Gewatter der Schäster Vahlsing au[s/f] [Eversen?]
+Gewatter der [Schäster?] Vahlsing au[s/f] [Eversen?]
 ....
