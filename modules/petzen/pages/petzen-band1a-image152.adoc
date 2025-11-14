@@ -37,7 +37,7 @@ image::petzen-band1a-img152-krueckeberg.jpg[title="Dorothea Elisabeth Krückeber
 ****
 [IMPORTANT]
 ====
-* *Berenbusch* is not mentioned explicitly. I am assuming image:img152-abbrev.jpg[] is
+* *Berenbusch* is not mentioned explicitly. It is assumed image:img152-abbrev.jpg[] is
 an abbreviation for it. 
 ====
 ****
