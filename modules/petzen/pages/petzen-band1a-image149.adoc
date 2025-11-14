@@ -1,12 +1,24 @@
 = 1733 Jobst Heinrich Krückeberg Baptized
 :page-role: wide
 
+= Family Relationship and Other Facts
+
+.Baptism Facts and Relationships
+[%header,%autowidth,width=75%]
+|===
+|Baptism Date|Father|Residence|Sponsor
+
+|6 Sep. 1733|Johann Hinrich Krückeberg|Berenbusch|the shepherd Vahlsing from Eversen
+|===
+
+
+== Image 149
 image::petzen-band1a-img149.png[title=(Click to Enlarge),link=self]
 
 [.narrow]
 == Citation
 
-The September 6^th^ 1733 baptism of Jobst Heinrich Krückeberg, the son of Johann
+The September 6^th^ 1733 baptism of Jobst Hinrich Krückeberg, the son of Johann
 Hinrich Krückeberg Hinrich of Berenbusch, is on <<image149, image 149>> of the Petzen Kirchenbuch "Verzeichnis
 der Getauften und Konfirmierten 1641-1784" on link:https://www.archion.de[Archion.de].
 
