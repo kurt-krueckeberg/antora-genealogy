@@ -1,7 +1,7 @@
 = 1733 Jobst Heinrich Krückeberg Baptized
 :page-role: wide
 
-= Family Relationship and Other Facts
+== Family Relationship and Other Facts
 
 .Baptism Facts and Relationships
 [%header,%autowidth,width=75%]
