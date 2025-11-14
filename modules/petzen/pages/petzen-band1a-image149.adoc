@@ -1,4 +1,5 @@
 = 1733 Johann Heinrich OR Jobst Heinrich Krückeberg Baptized
+:page-role: wide
 
 TODO: Look at adjacent records to detected wording pattern.
 
