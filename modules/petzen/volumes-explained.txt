@@ -1,0 +1,12 @@
+= Petzen Volume Shortcuts/Nicknames
+
+.Nicknames for Petzen Volumes
+|===
+|Volume Nickname|Volume Name
+
+|band2  |Verzeichnis der Getaufen, Konfirmierten, Getrauten und Gestorbenen 1785-1827
+
+|band1a |Verzeichnis der Getauften und Konfirmierten 1641-1784
+
+|band1b |Verzeichnis der Getrauten und Gestorbenen 1641-1784
+|===
