@@ -1,23 +1,33 @@
 Johann Hinrich Krückeberg
 
+Records Summary:
 
-residence: Berenbusch
-ocupation: linen weaver
-wife:
-proven and prospect children and their sponsors:
+|===
+|Type|Date|Text
 
-Krueckeberc children not his and their facts:
+|Baptism| 7 July 1728|
+|===
 
-. Provide Citations for all facts/attributes.
-. sponsor pattern
-. naming pattern--if he is their grandfather, his first born grandsons likely will have his name.
-. secular sources
-. poor quality of records
+Look for:
+. residence
+. ocupation
+. other details
+. sponsors/participants
+. Naming practice for sons
 
-One of the features of the Krückeberg records for males it the frequecy of the name Johann Heinrich.
- 
+Krueckeberg children not his and their facts:
 
-"Krückeberg aus Berenbusch" suggest this might be the only Krückeberg family in Berenbusch.
-While most records records mention the father's given name, a few mention just the surname.
+Other, non-church sources
+. ?
 
-Are there confirmation records?
+Issues:
+[arabic,start=1]
+. Jobst Krückeberg is the father of Sophie Maria born in 1741. Yet her birth record
+reads: "Kruekeberg in Behrenbusch" suggesting there is only one.
+. Several records don't give the father's or mother's given name. Examples:
+..  "Krückeberg aus Berenbusch" suggest this might be the only Krückeberg family in Berenbusch.
+.. The 1744 baptism of Johann Heinrich says: "Krückeberg ein Söhnlein...". It doesn't mention
+the village. Most records on the page do mention the father's name. A few on this page and the 
+prior--double check this--don't give the father's name, possibly suggesting there was only
+one Krückeberg family.
+. Why are there no confirmation records?
