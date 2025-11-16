@@ -1,6 +1,8 @@
 = 1744 Johann Heinrich Krückeberg Baptized
 :page-role: wide
 
+[.narrow]
+== Family Relationships and Other Facts
 .Johann Heinrich Baptism
 [width="55%"]
 |===
@@ -23,9 +25,18 @@
 |Watermann's son
 |===
 
-The baptism of a Johann Heinrich Krückeberg son occurred 19 January 1744. His given names are not entirely known. The word preceding Johann is badly faded and not
-discernable. Nor is the original hard writing sharp. Many arcane abbreviations of ending syllables are used. All this makes it hard to be confident in the trans-
-literation.
+.Significance of Father's Given Name Missing
+****
+[NOTE]
+====
+The baptism of a Johann Heinrich Krückeberg does not give the father's given
+names are given. It says only "Krückeberg aus Berenbusch", which suggests
+there might only be one Krückeberg family in Berenbusch? While most records
+on the same page mention the father's given name, at least one other baptsim
+record on the same page likewise only mentions the surname. There are records
+on the prior page where only the surname is mentioned, too.
+====
+****
 
 == Image 167
 
