@@ -17,10 +17,13 @@ quality to begin with.
 Furthermore, we know Anna Maria Vahlsing was born in 1701 because her xref:petzen:petzen-band1b-image178-right.adoc[May
 8, 1757, death record] states she was age 56 when she died.
 
-Yet seven Krückeberg children were born between 1728 and 1750. We have proof
-that Johann Heinrich was the father of two of the seven chidren born between
-1728 and 1750, and we know that a Jobst Krückeberg was the father of one of
-the children. The parents of the other Krückeberg children are uncertain
+Ten Krückeberg children were born between 1728 and 1750, one of whom
+has no baptism record only a burial record (likely due to dying soon after
+birth and either not being baptized or not recorded as such). We have proof
+that Johann Heinrich was the father of two of the ten chidren born between
+1728 and 1750, and we know that a *Jobst* Krückeberg was the father of one of
+the children. The given name of the Krückeberg father of the 7?? of the children
+is not given.
 
 The table below summarizes what is known of the parentage of these seven children:
 
@@ -29,7 +32,8 @@ The table below summarizes what is known of the parentage of these seven childre
 |===
 |Baptism Date|Child's Name|Parentage Information in Record
 
-|xref:petzen:petzen-band1a-image140.adoc[July 7, 1728]|Johann Friedrich Krückeberg
+|xref:petzen:petzen-band1a-image140.adoc[July 7, 1728]
+|Johann Friedrich Krückeberg
 |His baptism record states:
 
 [literal.bordered,subs="verbatim,quotes"]
@@ -37,13 +41,36 @@ The table below summarizes what is known of the parentage of these seven childre
 *Johann Heinrich Krückebergs* aus Berenbusch Söhnlein Johann Friedrich getauft
 ....
 
-|xref:petzen:petzen-band1a-image152.adoc[29 Jan. 1736]|Dorothea Elisabeth Krückeberg|
+|xref:petzen-band1a-image149.adoc[6 Sept. 1733]
+|Jobst Heinrich Krückeberg
+|His baptism record states:
+
+[literal.bordered,subs="verbatim,quotes"]
+....
+d 6th Septembr ist Johann Hinrich Krückeberg
+im Berenbusch Söhnlein Jobst Hinrich getrauft.
+....
+
+|Unamed "small" daughter buried
+|14 Feb. 1734
+|
+[literal.bordered,subs="verbatim,quotes"]
+....
+[H?] Krückeberg von Behrenbusch ein
+Töchterlein begrab lasß.
+....
+
+|xref:petzen:petzen-band1a-image152.adoc[29 Jan. 1736]
+|Dorothea Elisabeth Krückeberg
+|
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Krückeberg v. [B. B.] ein Töchterl[ein] tauft lassen (Krückeberg from Berenbusch had a daughter baptized.)
 ....                                              
 
-|xref:petzen:petzen-band1a-image157.adoc[11 Feb. 1739]|Johann Wilhelm Krückeberg|His xref:petzen:petzen-band1b-image167.adoc[death record]
+|xref:petzen:petzen-band1a-image157.adoc[11 Feb. 1739]
+|Johann Wilhelm Krückeberg
+|His xref:petzen:petzen-band1b-image167.adoc[death record]
 states: +
 [literal.bordered,subs="verbatim,quotes"]
 ....
@@ -59,7 +86,9 @@ son of Johann Heinrich Krückeberg from Berenbusch,
 was buried, aged 8¾ years
 ....
                                               
-|xref:petzen:petzen-band1a-image163.adoc[27 Dec. 1741]|Sophie Marie Krückeberg|From her xref:petzen:petzen-band2-image239.adoc[death
+|xref:petzen:petzen-band1a-image163.adoc[27 Dec. 1741]
+|Sophie Marie Krückeberg
+|From her xref:petzen:petzen-band2-image239.adoc[death
 record]:
 
 [literal.bordered,subs="verbatim,quotes"]
@@ -68,7 +97,9 @@ Sophie Marie Krückeberg, des *Jobst Heinrich Krückeberg* nachgelaßen, blindge
 Krückeberg, surviving daughter of Jobst Heinrich Krückeberg, born blind)
 ....
 
-|xref:petzen:petzen-band1a-image167.adoc[19 Jan. 1744]|Johann Heinrich Krückeberg|
+|xref:petzen:petzen-band1a-image167.adoc[19 Jan. 1744]
+|Johann Heinrich Krückeberg
+|
 [literal.bordered,subs="verbatim,quotes"]
 ....
 d. 19 dito Krückeberg ein Söhnlein taufen laßen
@@ -77,7 +108,9 @@ d. 19 dito Krückeberg ein Söhnlein taufen laßen
 Soh[n?] von Nordholtz.
 ....
 
-|xref:petzen:petzen-band1a-image174.adoc[26 Oct. 1746]|Anna Louise Eleonore Krückeberg|
+|xref:petzen:petzen-band1a-image174.adoc[26 Oct. 1746]
+|Anna Louise Eleonore Krückeberg
+|
 [literal.bordered,subs="verbatim,quotes"]
 ....
 d. 26 Oct. Anna Louisa Eleonore Krückebergs getauft
@@ -85,7 +118,9 @@ Pater _ _ _ Krückeberg aus Berenbusch Gevatter Rödenbecks
 Tochter aus Scheye
 ....
 
-|xref:petzen:petzen-band1a-image180.adoc[4 Nov. 1750]|Carl Philip Krückeberg|
+|xref:petzen:petzen-band1a-image180.adoc[4 Nov. 1750]
+|Carl Philip Krückeberg
+|
 [literal.bordered,subs="verbatim,quotes"]
 ....
 d. 4[ten] Novemb. Carl Philip Krückeberg
