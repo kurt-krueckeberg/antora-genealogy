@@ -41,7 +41,7 @@ The table below summarizes what is known of the parentage of these seven childre
 *Johann Heinrich Krückebergs* aus Berenbusch Söhnlein Johann Friedrich getauft
 ....
 
-|xref:petzen-band1a-image149.adoc[6 Sept. 1733]
+|xref:petzen:petzen-band1a-image149.adoc[6 Sept. 1733]
 |Jobst Heinrich Krückeberg
 |His baptism record states:
 
@@ -51,8 +51,8 @@ d 6th Septembr ist Johann Hinrich Krückeberg
 im Berenbusch Söhnlein Jobst Hinrich getrauft.
 ....
 
-|Unamed "small" daughter buried
-|14 Feb. 1734
+|xref:petzen:petzen-band1b-image150.adoc[14 Feb. 1734]|
+Unamed "small" daughter buried
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
