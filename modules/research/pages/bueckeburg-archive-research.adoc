@@ -17,12 +17,12 @@ quality to begin with.
 Furthermore, we know Anna Maria Vahlsing was born in 1701 because her xref:petzen:petzen-band1b-image178-right.adoc[May
 8, 1757, death record] states she was age 56 when she died.
 
-Ten Krückeberg children were born between 1728 and 1750, one of whom
-has no baptism record only a burial record (likely due to dying soon after
-birth and either not being baptized or not recorded as such). We have proof
-that Johann Heinrich was the father of two of the ten chidren born between
+Ten Krückeberg children were born between 1728 and 1750, one 
+has no baptism record only a burial record, likely due to dying soon after
+birth and either not being baptized or not recorded as baptized. We have proof
+that Johann Heinrich was the father of three of the ten chidren born between
 1728 and 1750, and we know that a *Jobst* Krückeberg was the father of one of
-the children. The given name of the Krückeberg father of the 7?? of the children
+the children. The given name of the Krückeberg father of the seven other children
 is not given.
 
 The table below summarizes what is known of the parentage of these seven children:
@@ -128,6 +128,10 @@ des Leineweber Kruckebergs zu Bernbusch Sohn
 getauft: Gev[atter]. Fahlsings Sohn aus Eversen
 ....
 |===
+
+*TODO: Finish...*
+In those baptism records where the father's given name is not specified, we have
+"Krückeberg".... 
 
 [.narrow]
 === Extremely Atypical Birth Pattern
