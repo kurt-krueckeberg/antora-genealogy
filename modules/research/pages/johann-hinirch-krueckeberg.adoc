@@ -35,6 +35,14 @@ reads: "Kruekeberg in Behrenbusch" suggesting there is only one.
 the village. Most records on the page do mention the father's name. A few on this page and the 
 prior--double check this--don't give the father's name, possibly suggesting there was only
 one Krückeberg family.
++
+This is a example image from the Petzen "Verzeichnis der Getaufen und Konfirmierten 1641-1784",
+image 151 of 322, that shows three (and there are more on the page) baptism were the father's
+given name is not mentioned, one is from Behrenbusch:
+
+image::petzen:petzen-band1a-img151.jpg[title=Baptisms and Confirmtion 1641-11784, imge 151,link=self]
+
+
 . Why are there no confirmation records?
 
 See ChatGPT conversion on https://chatgpt.com/share/691a12fa-6888-8004-98ab-384a4cc5d495[Other, non-church
