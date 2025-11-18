@@ -63,23 +63,13 @@ image::petzen-band2-img201-427.jpg[title="Philippine Louise Leonore Krückeberg 
 .Column Heading and Entry 12
 [%header,cols="1,4,4,4,3,3,3",frame="none"]
 |===
-|Zahl |Namen des Kindes |Name des Vaters |Name der Mutter |Wohnort des +
-Vaters oder +
-der Mutter |Geburtszeit +
-u. +
-Geburtsort +
-des +
-Kindes |Bemerkungen
+|Zahl |Namen des Kindes |Name des Vaters |Name der Mutter |Wohnort des Vaters oder der Mutter |Geburtszeit u. Geburtsort des Kindes |Bemerkungen
 
 |12
-|Philippine Louise Leonore +
-Krückebergs
+|Philippine Louise Leonore Krückebergs
 |Johann Heinrich Krückeberg
-|Anne Cathrine Sophie +
-geb Krömers Nr. 19 in Evesen +
-|Evesen Nr. 19.
-|d. 21. Aprl.
-1793 in Evesen
+|Anne Cathrine Sophie geb Krömers Nr. 19 in Evesen |Evesen Nr. 19.
+|d. 21. Aprl.  1793 in Evesen
 |
 |===
 
@@ -87,23 +77,14 @@ geb Krömers Nr. 19 in Evesen +
 .Column Heading and Entry 12
 [%header,cols="1,4,4,4,3,3,3",frame="none"]
 |===
-|No. |Name of Child |Name of Father |Name of Mother |Residence of +
-Father or +
-Mother |Birth time +
-and +
-Birth place +
-of the +
-Child |Remarks
+|No. |Name of Child |Name of Father |Name of Mother |Residence of Father or Mother |Birth time and Birth place of the Child |Remarks
 
 |12
-|Philippine Louise Leonore +
-Krückeberg
+|Philippine Louise Leonore Krückeberg
 |Johann Heinrich Krückeberg
-|Anne Cathrine Sophie +
-born Krömer no. 19 in Evesen 
+|Anne Cathrine Sophie born Krömer no. 19 in Evesen 
 |Evesen no. 19.
-|date 21st April
-1793 in Evesen
+|date 21st April 1793 in Evesen
 |
 |===
 
