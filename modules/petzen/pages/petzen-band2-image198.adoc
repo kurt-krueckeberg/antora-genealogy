@@ -31,10 +31,12 @@ image::petzen-band2-img198-overview.jpg[[title="Philippine Caroline Christine Kr
 
 == Translation and Transliteration of Header for Pages 420 and 421
 
+[literal.bordered,subs="verbatim,quotes"]
 ....
 420            Register der am 21. Apr, 1805 in  der                        Kirche zu Petzen Konfirmirten Kinder                 421
 ....
 
+[literal.bordered,subs="verbatim,quotes"]
 ....
 420            Register of those Children on 21. Apr, 1805                  Confirmed in the Petzen Church                       421
 ....
@@ -45,13 +47,7 @@ image::petzen-band2-img198-overview.jpg[[title="Philippine Caroline Christine Kr
 .Transliteration of Column Headers and Entry 13
 [%header,cols="1,4,4,4,3,2,2",frame="none"]
 |===
-|Zahl |Namen des Kindes |Name des Vaters |Name der Mutter |Wohnort des
-Vaters oder
-der Mutter |Geburts,
-zeit und
-Geburts,
-ort des
-Kindes |Bemerkungen
+|Zahl |Namen des Kindes |Name des Vaters |Name der Mutter |Wohnort des Vaters oder der Mutter |Geburts, zeit und Geburts, ort des Kindes |Bemerkungen
 
 |13
 |Philippine Caroline Christine Krückeberg
