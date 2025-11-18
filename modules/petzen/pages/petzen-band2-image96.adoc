@@ -29,7 +29,7 @@ IMPORTANT: *Bleeken* is in error. It should be *Werkmeister*. See the explanatio
 |Name|Birth Place|"Stand"|Religion
 
 
-|Carl Friedrich Gottlieb Krückeberg|n. 14 Berenmbsuch|Tailor and Einlieger +
+|Carl Friedrich Gottlieb Krückeberg|n. 14 Berenbusch|Tailor and Einlieger +
 (see Note below)|Lutheran
 |===
 
