@@ -9,11 +9,11 @@
 |===
 |Father|Mother|Child|Residence
 
-|Carl Friedrich Gottlieb Krückeberg|Philippine Lenore née *Bleeken* +
+|Carl Friedrich Gottlieb Krückeberg|Philippine Lenore née *Bleeken†* +
 |Carl Friedrich Krückeberg|no. 14 Bärenbusch
 |===
 
-IMPORTANT: *Bleeken* is in error. It should be *Werkmeister*. See the
+IMPORTANT: †*Bleeken* is in error. It should be *Werkmeister*. See the
 xref:findings:proof-arg-philippine-eleonore.adoc[explanation].
 
 .Child Facts
@@ -35,12 +35,12 @@ xref:findings:proof-arg-philippine-eleonore.adoc[explanation].
 (see Note below)|Lutheran
 |===
 
-.Mother Philippine Lenore née Bleeken Facts
+.Mother Philippine Lenore née Werkmeister/Bleeken Facts
 [%header]
 |===
 |Name|Birth Place|Religion
 
-|Philippine Lenore née Bleeken|no. 11 Evesen|Lutheran
+|Philippine Lenore née Werkmeister/Bleeken|no. 11 Evesen|Lutheran
 |===
 
 .Baptismal Sponsor
