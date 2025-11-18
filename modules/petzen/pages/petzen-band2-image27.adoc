@@ -77,7 +77,7 @@ image::petzen-band2-img27-right-1.jpg[align=left,title="Click to enlarge",link=s
 
 [caption="Transliteration: "]
 .Marriage entry No. 1.
-[%header,cols="1,6,5,5,5,2,3,2",frame="none"]
+[%header,cols="1,6,5,5,5,3,3,2",frame="none"]
 |===
 |Zahl |Name, Stand, Religion u. Eltern des Bräutigams |Name, Religion Geburt u. Wohnort der Brat |Zeit u. Ort  der Proclamation |Zeit u. Ort der Kopulation |der kopulirende Prädiger |Kopulations Zeugen |Bemerkungen
 
@@ -98,7 +98,7 @@ gest. 26.10.70
 
 [caption="Translation: "]
 .Marriage entry No. 1.
-[%header,cols="1,6,5,5,5,2,3,2",frame="none"]
+[%header,cols="1,6,5,5,5,3,3,2",frame="none"]
 |===
 |No. |Name, Occupation, Religion, Parents des Bräutigums |Name, Religion Birth place and Residence of the Bride |Time and Place of the Proclamation |Time and Place of the Marriage |The officiating Minister |Marriage Witnesses |Remarks
 
