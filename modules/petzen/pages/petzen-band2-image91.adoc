@@ -45,6 +45,30 @@
 |C Friedrich Tegtmeier|Meinsen|not stated
 |===
 
+.What this record tells about where Carl Friedrich Gottlieb Krückeberg lived
+****
+[NOTE]
+====
+The *Stand* of the father confirms that Nr. 10 in Berenbusch is a full holding with a craftsman/official
+as its head, not a poor subtenant’s dwelling.
+
+The *Einlieger* status of the grandfather tells you he’s living in Berenbusch without a numbered farm,
+probably in someone else’s house, and that the economic “center” of the Krückeberg family has shifted to the son at Nr. 10.
+====
+
+[NOTE]
+====
+In early-19th-century Schaumburg-Lippe, *Stand* refers to a person’s social and occupational status—for example,
+whether he was a craftsman, farmer, laborer, official, or held a particular rank. It tells you what kind of man he
+was within the village hierarchy but does not describe his residence. By contrast, an *Einlieger* was someone who did
+not possess his own farm or numbered house and instead lived “einliegend”—lodging in another household or in a
+rented room or cottage. Einlieger typically had little or no land and worked as day laborers, small craftsmen, or
+helpers on others’ farms. Thus, Stand describes a man’s social/occupational position, while Einlieger tells you
+that a man lived in the village without his own holding or numbered property.
+****
+
+== Citation
+
 The baptism of Johann Heinrich Krückeberg is image <<image91, 91 of 357 of the Archion.de images>>
 of the Petzen "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 It is entry #22 on pages 176 and 177.
