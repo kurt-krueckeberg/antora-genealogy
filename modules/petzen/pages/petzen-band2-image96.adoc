@@ -1,10 +1,11 @@
 = 1807 Carl Friedrich Krückeberg Baptism
 :page-role: wide
 
+[.narrow]
 == Family Relationship and Other Facts
 
 .Family Relationship Facts
-[%header,cols="3,3,3,2",width="80%"]
+[%header,cols="3,3,3,2"]
 |===
 |Father|Mother|Child|Residence
 
@@ -15,7 +16,7 @@
 IMPORTANT: *Bleeken* is in error. It should be *Werkmeister*. See the explanation xref:findings:proof-arg-philippine-eleonore.adoc[here].
 
 .Child Facts
-[%header,cols="3,3,2,2,2,2",width="80%"]
+[%header,cols="3,3,2,2,2,2"]
 |===
 |Name|Place of Birth|Birth Date|Baptism Date|Birth Order|Sex Birth Order
 
@@ -24,7 +25,7 @@ IMPORTANT: *Bleeken* is in error. It should be *Werkmeister*. See the explanatio
 |===
 
 .Father Carl Friedrich Gottlieb Krückeberg Facts
-[%header,cols="4,2,2,1",width="70%"]
+[%header,cols="4,2,2,1"]
 |===
 |Name|Birth Place|"Stand"|Religion
 
@@ -34,7 +35,7 @@ IMPORTANT: *Bleeken* is in error. It should be *Werkmeister*. See the explanatio
 |===
 
 .Mother Philippine Lenore née Bleeken Facts
-[%header,width="70%"]
+[%header]
 |===
 |Name|Birth Place|Religion
 
@@ -42,7 +43,7 @@ IMPORTANT: *Bleeken* is in error. It should be *Werkmeister*. See the explanatio
 |===
 
 .Baptismal Sponsor
-[%header,width="40%"]
+[%header,width="65%"]
 |===
 |Name|Residence
 
@@ -67,12 +68,14 @@ etc.).
 ====
 ****
 
+[.narrow]
 == Citation
 
-The birth and baptism of Carl Friedrich Krückeberg is <<image96-186, on image 96, pages 186 and 187, entry 20,>> of the Petzen
-Kirchenbuch "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
+The birth and baptism of Carl Friedrich Krückeberg is <<image96-186, on image 96, pages 186 and 187, entry 20,>> of
+Kirchenbuch "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827" from the
+link:https://www.archion.de[Archion.de] database of Kirchbücher digital images.
 
-== Pages 186 and 187 Overview
+== Image of Pages 186 and 187
 
 image::petzen-band2-img96-overview.jpg[title="Overview of pages 186-187 (Click to enlarge)",link=self]
 
