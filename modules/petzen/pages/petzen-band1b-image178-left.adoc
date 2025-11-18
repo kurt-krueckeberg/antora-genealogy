@@ -3,6 +3,9 @@
 
 == Family Group and Other Facts
 
+This is almost certainly the xref:petzen:petzen-band1a-image174.adoc[Anna Louisa Eleonore Kruekeberg who was born
+26 October 1746].
+
 .Family Relationship Information
 [%header,width="55%",cols="2,3,1,2"]
 |===
@@ -15,15 +18,18 @@
 |*Residence* 3+|Berenbusch
 |===
 
+[.narrow]
 == Citation
 
 The January 16, 1757, burial of the born-blind Louisa Eleonore Krückeberg of the "Krückebergs at Berenbusch"
 appears on <<band1b-img178-left, image 178>>, on the left-hand page, of the Petzen "Verzeichnis der Getrauten und Gestorbenen,
 1641-1784".
 
-== Record
+== Image
 
 image::petzen-band1b-img178-left.jpg[title="Burial of Louisa Eleonore Krückeberg (Click to enlarge)",link=self]
+
+== Transliteration and Translation
 
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
