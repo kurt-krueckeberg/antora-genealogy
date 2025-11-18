@@ -20,13 +20,15 @@
 |F[meaning Frauen?] Kruckeberg and Weiland from Berenbusch
 |===
 
-The birth is recorded on image 82, entry 40, on <<image82-158-entry23, page 158>> and
-<<image82-159-entry23, page 159>> of the Petzen Kirchenbuch 
-"Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
-The birth entries spans across pages 158 and 159. The birth month **`Decbr`** is
-written on page 159 between entries 39 and 40.
+[.narrow]
+== Citation
 
-== Overview of Pages 158 and 159
+The birth is recorded on <<image82, image 82>>, entry #40, on pages 158 and page 159 of the Petzen Kirchenbuch
+"Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827" from the
+link:https://www.archion.de[Archion.de] database of Kirchenbücher digital images. The birth entries spans across
+pages 158 and 159. The birth month **`Decbr`** is written on page 159 between entries 39 and 40.
+
+== Image of Pages 158 and 159
 
 This is an overview showing the header for pages 158 and 159:
  
@@ -62,11 +64,11 @@ or religious?
     Births from the [uncertain] Schaumburg-Lippe Villages               Births from the  [uncertain] Schaumburg-Lippe Villages      
 |===
 
-== Birth Entry 40, Page 158
+==  Image of Birth Entry 40, Page 158
 
 image::petzen-band2-img82-entry40-158.jpg[title="Entry 40, page 158 portion (Click to enlarge)",link=self]
 
-== Birth Entry 40, Page 159
+== Image of Birth Entry 40, Page 159
 
 image::petzen-band2-img82-entry40-159.jpg[title="Entry 40, page 159 portion (Click to enlarge)",link=self]
 
@@ -105,10 +107,8 @@ image::petzen-band2-img82-entry40-159.jpg[title="Entry 40, page 159 portion (Cli
 |Evesen
 |
 |Philipp[ine] nee: Werkmeister
-|Decbr. +
-7
-|Decbr. +
-11
+|Dec. 7
+|Dec. 11
 |[F?] Kruckeberg a[nd] Weyland from Berenb[usch].
 |===
 
@@ -116,9 +116,6 @@ image::petzen-band2-img82-entry40-159.jpg[title="Entry 40, page 159 portion (Cli
 [bibliography]
 == Citations
 
-* [[[image82-158-entry23]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/22ea40c7b6/ : 10 October 2023), path:
+* [[[image82]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/22ea40c7b6/ : 10 October 2023), path:
 Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
-Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 82 of 357
-* [[[image82-159-entry23]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/454a4366cd/ : 10 October 2023), path:
-Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > 
 Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 82 of 357
