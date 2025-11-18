@@ -68,11 +68,11 @@ image::petzen-band2-img348-722.jpg[align=left,title="Click to enlarge",link=self
 
 image::petzen-band2-img348-723.jpg[align=left,title="Click to enlarge",link=self]
 
-[,text]
 .Pages 722 and 723 header
-----
+[literal.bordered,subs="verbatim,quotes"]
+....
 722                Copulierte im Kirchspiel Petzen (Marriages in the Parish Petzen)             im Jahr Iin the year) 1822                      723
-----
+....
 
 [caption="Transliteration 1: "]
 .Marriage entry No. 6.
