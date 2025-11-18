@@ -45,9 +45,9 @@
 |C Friedrich Tegtmeier|Meinsen|not stated
 |===
 
-The baptism of Johann Heinrich Krückeberg is entry 22 on pages <<image91-176, 176>>
-and <<image91-177, 177>>, entry #22, of the "Verzeichnis der Getauften, Konfirmierten,
-Getrauten und Gestorbenen 1785-1827".
+The baptism of Johann Heinrich Krückeberg is image <<image91, 91>> of 357 of the Archion.de images
+of the Petzen "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
+It is entry #22 on pages 176 and 177.
 
 == Pages 176 and 177 Overview
 
@@ -195,7 +195,5 @@ from Meinsen
 [bibliography]
 == Citations
 
-* [[[image91-176]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/a4feffd4c0 : 10 October 2023), path:
-Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 91 of 357
-* [[[image91-177]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/8850ee2767 : 10 October 2023), path:
+* [[[image91]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/a4feffd4c0 : 10 October 2023), path:
 Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 91 of 357
