@@ -1,10 +1,11 @@
 = 1806 Philippine Louise Leonore Krückeberg Confirmation
 :page-role: wide
 
+[.narrow]
 == Family Relationship and Other Facts
 
 .Confirmand's Family Relationships
-[cols="2,3,1,1,1",width="70%"]
+[cols="2,3,1,1,1"]
 |===
 |||Child's Birthplace|Birthdate|Date of Confirmation
 
@@ -18,12 +19,14 @@
 *or the Mother*|no. 19 Evesen 3+|
 |===
 
+[.narrow]
 == Citation
 
 The confirmation of Philippine Louise Leonore Krückeberg Confirmation on Sunday
-Quasimodogeniti 1806 is entry 12, on <<image201-entry12, pages 426 and 427>>, of
+Quasimodogeniti 1806 is entry 12, on <<image201-entry12, image 201>>, pages 426 and 427 of
 the Petzen Kirchenbuch "Verzeichnis der Getauften, Konfirmierten, Getrauten und
-Gestorbenen 1785-1827".
+Gestorbenen 1785-1827" in the link:https://www.archion.de[Archion.de] database of Kirchenbücher
+images.
 
 == Header for Pages 426 and 427
 
