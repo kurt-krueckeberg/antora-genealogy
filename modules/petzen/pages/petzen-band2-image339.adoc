@@ -77,15 +77,16 @@ Page 705 heading portion:
 
 image::petzen-band2-img339-705.jpg[align=left,title="Click to enlarge",link=self]
 
-[,text]
 .Transliteration of pages 704 and 705 header
-----
-704                Copulierte im Kirchspiel Petzen (Marriages in the Parish Petzen)            im Jahr (in year) 1816                      705
-----
+[literal.bordered]
+....
+704             Copulierte im Kirchspiel Petzen (Marriages in the Parish Petzen)            im Jahr (in year) 1816                      705
+....
 
 [NOTE]
 ====
 The address of the bride is not actually given, only the adrress of her later father. She is described as:
+[literal.bordered]
 ....
 Maiden Christine Louise Krückebergs, the surving daugher of the late Johann Heinrich Krückeberg n. 19 in Evesen
 ....
