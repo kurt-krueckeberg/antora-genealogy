@@ -13,7 +13,7 @@
 |===
 
 .Child Johann Heinrich Krückeberg Facts
-[%header,width="85%"]
+[%header]
 |===
 |Name|Birthdate| Baptism Date|Baptism Place
 
@@ -21,7 +21,7 @@
 |===
 
 .Father Jobst Heinrich Krückeberg Facts
-[%header,width="85%"]
+[%header]
 |===
 |Name|Birth Place|Occupation|Religion
 
@@ -29,7 +29,7 @@
 |===
 
 .Mother Christine Phlippine Lenore Tegtmeier Facts
-[%header,width="75%",cols="3,2,2"]
+[%header,cols="3,2,2"]
 |===
 |Name|Birth Place|Religion
 
@@ -37,7 +37,7 @@
 |===
 
 .Baptismal Sponsor
-[%header,width="75%"]
+[%header]
 |===
 |Name|Occupation|Residence
 
@@ -46,7 +46,7 @@
 |C Friedrich Tegtmeier|Meinsen|not stated
 |===
 
-.What this record tells about where Carl Friedrich Gottlieb Krückeberg lived
+.What this record tells about Status where Carl Friedrich Gottlieb Krückeberg lived
 ****
 [NOTE]
 ====
@@ -56,6 +56,8 @@ as its head, not a poor subtenant’s dwelling.
 The *Einlieger* status of the grandfather tells you he’s living in Berenbusch without a numbered farm,
 probably in someone else’s house, and that the economic “center” of the Krückeberg family has shifted to the son at Nr. 10.
 ====
+
+*Status*
 
 [NOTE]
 ====
