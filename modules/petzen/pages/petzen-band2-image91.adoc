@@ -116,32 +116,15 @@ des Kindes
 
 |22
 |Johan Heinrich Krückeberg
-|das 4ten Kind +
-u. erster Sohn +
-erster [Eh?]
-|ist geboren d. +
-12ten Augt. in +
-Bärenbusch. nachmittags +
-4 Uhr
-|wurde getauft +
-d. 17ten Augt in + 
-der Kirche zu Petzen 
-|Jobst Heinrich +
-Krückeberg, aus, Nr. +
-10 in Bärenbusch, +
-Luthr. Confession +
-Schuster Amtsmeister
-|Christine Philippine +
-Leonore geb. Tegt +
-meiern  aus Meinsen, + 
-Lutheraner Confession
-|No. 10. in +
-Bärenbusch +
-|Carl Friedrich +
-Gottlieb Krückeberg +
-Einlieger in Bärenbush +
-C Friedrich Tegtmeier +
-aus Meinsen
+|das 4ten Kind u. erster Sohn
+erster Ehe
+|ist geboren d. 12ten Augt. in
+Bärenbusch. nachmittags 4 Uhr
+|wurde getauft d. 17ten Augt in der Kirche zu Petzen 
+|Jobst Heinrich Krückeberg, aus, Nr. 10 in Bärenbusch, Luthr. Confession Schuster Amtsmeister
+|Christine Philippine Leonore geb. Tegtmeiern  aus Meinsen, Lutheraner Confession
+|No. 10. in Bärenbusch
+|Carl Friedrich Gottlieb Krückeberg Einlieger in Bärenbush C Friedrich Tegtmeier aus Meinsen
 |===
 
 [caption="Translation: "]
@@ -163,32 +146,13 @@ aus Meinsen
 
 |22
 |Johan Heinrich Krückeberg
-|the 4^th^ child +
-and first son +
-first [Eh?]
-|born date +
-12^th^ Aug. in +
-Bärenbusch. afternoon +
-4 o'clock
-|was baptized +
-d. 17^th^ Aug. in + 
-the Petzen church
-|Jobst Heinrich +
-Krückeberg, from, N. +
-10 in Bärenbusch, +
-Luthr. Confession +
-Schoemaker Guild Master
-|Christine Philippine +
-Leonore born Tegt +
-meiern from Meinsen, + 
-of the Lutheran Confession
-|Nov. 10. in +
-Bärenbusch +
-|Carl Friedrich +
-Gottlieb Krückeberg +
-farm laborer in Bärenbush + 
-C Friedrich Tegtmeier +
-from Meinsen
+|the 4^th^ child and first son of the first marriage
+|born the 12^th^ Aug. in Bärenbusch. Afternoon at 4 o'clock
+|was baptized the 17^th^ Aug. in the Petzen church
+|Jobst Heinrich Krückeberg, from N. 10 in Bärenbusch, Luthr. Confession, Schoemaker Guild Master
+|Christine Philippine Leonore born Tegtmeiern from Meinsen, of the Lutheran Confession
+|Nov. 10. in Bärenbusch 
+|Carl Friedrich Gottlieb Krückeberg farm laborer in Bärenbush C Friedrich Tegtmeier from Meinsen
 |===
 
 
