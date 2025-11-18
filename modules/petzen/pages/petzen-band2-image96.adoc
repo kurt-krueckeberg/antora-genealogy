@@ -60,12 +60,18 @@ xref:findings:proof-arg-philippine-eleonore.adoc[explanation].
 ****
 [NOTE]
 ====
-A **Einlieger** was a **landless tenant, lodger, or cottager** who lived in someone else’s house or on
-someone else’s property.
+*“Schneider und Einlieger in Nr. 14 in Bärenbusch”* tells us two separate
+things: his trade (tailor) and his social/tenurial position (Einlieger). An
+Einlieger in early-19th-century rural Germany was typically a lodger or
+subtenant without a full farm or house place of their own—part of the
+unterbäuerliche (sub-peasant) strata who lived “in” an existing holding rather
+than as the recognized holder of it. 
 
-An Einlieger did not own land or a house but might work for the landowner or rent a small room or
-cottage on the estate. They were of a lower socio-economic class than full farmers (Vollmeier, Halbmeier,
-etc.).
+So “Einlieger in Nr. 14” very strongly suggests that Carl Friedrich Gottlieb
+Krückeberg did not own or inherit farm no. 14, but instead rented rooms or a
+small secondary dwelling on that property, supporting himself as a tailor while
+living in the household (or on the land) of whoever was the actual
+Colon/householder of No. 14 in Berenbusch.
 ====
 ****
 
