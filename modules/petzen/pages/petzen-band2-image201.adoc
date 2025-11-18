@@ -5,18 +5,15 @@
 == Family Relationship and Other Facts
 
 .Confirmand's Family Relationships
-[cols="2,3,1,1,1"]
+[cols="2,4,2,3,2,2"]
 |===
-|||Child's Birthplace|Birthdate|Date of Confirmation
+|||Child's Birthplace|Residence of the Father or the Mother|Birthdate|Date of Confirmation
 
-|*Child/Confirmant*|Philippine Louise Leonore|Evesen|21 April 1793|20 March 30 1806
+|*Child/Confirmant*|Philippine Louise Leonore|Evesen|No. 19 Evesen|21 April 1793|20 March 30 1806
 
-|*Father* |Johann Heinrch Kruckeberg 3+|
+|*Father* |Johann Heinrch Kruckeberg|No. 19 Evesen 3+|
 
-|*Mother*|Anne Cathrine Sophie née Krömer 3+|
-
-|*Residence of the Father* +
-*or the Mother*|no. 19 Evesen 3+|
+|*Mother*|Anne Cathrine Sophie née Krömer|No. 19 Evesen| 2+|
 |===
 
 [.narrow]
