@@ -4,11 +4,24 @@
 [.narrow]
 == Family Relationships and Other Facts
 
-.
+.Relationships and Family Facts
 |===
 |Child|Father|Baptism Date|Residence
 
 |Rudolphian Margaretha Elisabeth| Johann Heinrich|13 Jan. 1731|Berenbusch
+|===
+
+.Sponsors
+|===
+|Name|From
+
+|Rudolpha Mönhkhoffs|Berenbusch
+
+|Margaretha Elisabeth Bormann|Berenbusch
+
+|Anna Elisabeth Weÿland|Berenbusch
+
+|Anna Margareth Steding|Berenbusch
 |===
 
 [.narrow]
@@ -32,13 +45,22 @@ image::petzen-band1a-img144.png[align=left,title='Rudolphina Margaretha Elisabet
 13 Januarÿ ist Johann Heinrich Krückeberg aus
 Berenbusch Töchterl[ein]: Rudolphian Margaretha
 Elisabeth getafut. Gevatterin sind gewesen Rudolpha
-Mönchkhoff, Margaretha Elisabeth Bormanns, Anna Elisaß
+Mönhkhoffs, Margaretha Elisabeth Bormanns, Anna Elisa-
 beth Weÿland, und Anna Margareth Stedings aus
 Berenbusch
 ....
 |
 [literal.bordered,subs="verbatim,quotes"]
 ....
+On 13 January Johann Heinrich Krückeberg from Berenbusch's little
+daughter Rudolphian Margaretha Elisabeth was baptized. Sponsors were
+Rudolphine Mönhkhoff, Margaretha Elisabeth Bormann, Anna Elisabeth
+Weÿland, and Anna Margareth Steding from Berenbusch
+
+Mönhkhoffs, Margaretha Elisabeth Bormanns, Anna Elisaß
+beth Weÿland, und Anna Margareth Stedings aus
+Berenbusch
+
 ....
 |===
 
