@@ -49,10 +49,12 @@ In 19th-century German church records:
 
 * This applied to both deceased and living fathers, and often included professions.
 
-* Even if the son or daughter still lived at that house, the address (when it immediately follows the father's name) is still formally
-associated with the father in these records.
+* Even if the son or daughter still lived at that house, the address (when it immediately follows the father's
+name) is still formally associated with the father in these records.
 ====
 
+
+[.narrow]
 == Citation
 
 The February 23, 1812, marriage record is on <<image27, image 27, on pages 48 and 49>> of Petzen Kirchenbuch: Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
@@ -67,91 +69,50 @@ Heading page 49:
 
 image::petzen-band2-img27-right-1.jpg[align=left,title="Click to enlarge",link=self]
 
+.Transliteration of page header
+[literal.bordered]
+....
+48                Copulierte im Kirchspiel Petzen                     im Jahr 1812                      49
+....
+
 [caption="Transliteration: "]
 .Marriage entry No. 1.
-[%autowidth, frame="none"]
+[%header,%autowidth, frame="none"]
 |===
-8+l|
-48                Copulierte im Kirchspiel Petzen                     im Jahr 1812                      49
-
-s|Zahl s|Name, Stand, Religion +
-u. Eltern des Bräutigams s|Name, Religion +
-Geburt u. Wohnort +
-der Brat s|Zeit u. Ort + 
-der Proclamation s|Zeit u. Ort +
-der Kopulation s|der kopu +
-lirende +
-Prädiger s|Kopulations +
-Zeugen s|Bemerkungen
+|Zahl |Name, Stand, Religion u. Eltern des Bräutigams |Name, Religion Geburt u. Wohnort der Brat |Zeit u. Ort  der Proclamation |Zeit u. Ort der Kopulation |der kopulirende Prädiger |Kopulations Zeugen |Bemerkungen
 
 |1 
-|Junggeselle Friedrich  +
-Wilhelm Watermann, Colonus +
-aus n. 11 in Nordhotz. Luth. +
-Conf. und jetzt 21. Jarhe alt +
-geb. 29.2.1792 +
-|Jungfrau Philippine +
-Caroline Krückeberg, Tochter +
-des Jobst Heinr. Kruckeberg +
-n. 10 in Bärenbusch. Luth. Conf. +
-und jetzt 21. Jahr alt +
-geb. 1.2.92; 2. Cop. 11.5.34 +
-gest. 26.10.70 +
-|Sind in der Kirche zu +
-Petzen procalmiert +
-d. 15ten 22ten u. 29ten Decbr. +
-1811
-|u. Kopuliert d. 23ten +
-Febr.
-|von dem +
-zeitigen Prediger +
-Nille
-|In['in' is written with a lowercase 'i' not 'I'?] Gegenwart +
-der versammelten +
-Gemeinde
+|Junggeselle Friedrich  Wilhelm Watermann, Colonus aus n. 11 in Nordhotz. Luth.  Conf. und jetzt 21. Jarhe alt +
+geb. 29.2.1792 
+|Jungfrau Philippine Caroline Krückeberg, Tochter des Jobst Heinr. Kruckeberg n. 10 in Bärenbusch. Luth. Conf.  und
+jetzt 21. Jahr alt +
+geb. 1.2.92; 2. Cop. 11.5.34 
+gest. 26.10.70 
+|Sind in der Kirche zu Petzen procalmiert d. 15ten 22ten u. 29ten Decbr. 1811
+|u. Kopuliert d. 23ten Febr.
+|von dem zeitigen Prediger Stille
+|In['in' is written with a lowercase 'i' not 'I'?] Gegenwart der versammelten Gemeinde
 |[empty]
 |===
 
 
 [caption="Translation: "]
 .Marriage entry No. 1.
-[%autowidth, frame="none"]
+[%header,%autowidth,frame="none"]
 |===
-8+l|
-48                Marriages in the Parish Petzen                     in the year 1812                      49
-
-s|No. s|Name, Occupation, Religion, +
-Parents des Bräutigums s|Name, Religion +
-Birth place and Residence +
-of the Bride s|Time and Place +
-of the Proclamation s|Time and Place +
-of the Marriage s|The offi- +
-ciating Minister s|Marriage Witnesses s|Remarks
+|No. |Name, Occupation, Religion, Parents des Bräutigums |Name, Religion Birth place and Residence of the Bride |Time and Place of the Proclamation |Time and Place of the Marriage |The officiating Minister |Marriage Witnesses |Remarks
 
 |1.
-|Bachelor Friedrich  +
-Wilhelm Watermann, colonist (farmstead +
-holder) from no. 11 in Nordlotz. Luth. +
-Conf. and now 21 years old +
+|Bachelor Friedrich  Wilhelm Watermann, colonist (farmstead holder) from no. 11 in Nordlotz. Luth.  Conf. and now
+21 years old +
 born 2/29/1792
-|Maiden Philippine +
-Caroline Krückeberg, daughter +
-of Jobst Heinr[ich]. Kruckeberg +
-n. 10 in Bärenbusch. Luth. Conf. +
+|Maiden Philippine Caroline Krückeberg, daughter of Jobst Heinr[ich]. Kruckeberg n. 10 in Bärenbusch. Luth. Conf.
 and now 21 years old +
-Born 2/1/92; 2nd [yet-future] marriage +
-5/11/34. Died 10/26/70
-|Proclaimed in the church at +
-Petzen +
-date 15th 22th and 29th December +
-1811
-|and married on 23 Febr [1812]. +
-|by the +
-current minister +
-Stille
-|in presence +
-of the assembled +
-parish
+Born 2/1/92; 2nd [yet-future] marriage 5/11/34. Died 10/26/70
+|Proclaimed in the church at Petzen date 15th 22th and 29th December 1811
+|and married on 23 Febr [1812]. 
+|by the current minister Stille
+|in presence of the assembled parish
 |[empty]
 |===
 
