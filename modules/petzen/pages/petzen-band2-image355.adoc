@@ -107,11 +107,11 @@ image::petzen-band2-img355-736.jpg[align=left,title="Entry portion on page 736 (
 
 image::petzen-band2-img355-737.jpg[align=left,title="Entry portion on page 737 (Click to enlarge)",link=self]
 
-[,text]
 .Transliteration Header for pages 736 and 737
-----
-736                Copulierte im Kirchspiel Petzen (Marriages in the Parish Petzen)                  im Jahr (in the year) 1826                      737
-----
+[literal.bordered,subs="verbatim,quotes"]
+....
+736            Copulierte im Kirchspiel Petzen (Marriages in the Parish Petzen)               im Jahr (in the year) 1826                      737
+....
 
 [caption="Transliteration and translation: "]
 .Marriage entry No. 8.
