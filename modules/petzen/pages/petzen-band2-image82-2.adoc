@@ -48,21 +48,19 @@ or religious?
 
 == Transliteration and Translation of Page Header for Pages 158 and 159
 
-[caption="Transliteration: "]
-.page header
-[cols="l",%autowidth,frame="none",options="noheader"]
-|===
-|158                                        1803                                  1803                               159
+.Transliteration of page header
+[literal.bordered,subs="verbatim,quotes"]
+....
+158                                        1803                                  1803                               159
     Geborene aus den [uncertain] Schumb Lipp  Dorfschaften             Geborene aus den im[rest uncertain] Schumb Lipp  Dorfschaften  
-|===
+....
 
-[caption="Translation: "]
-.page header
-[cols="l",%autowidth,frame="none",options="noheader"]
-|===
-|158                                        1803                                  1803                               159
+.Translation of page header
+[literal.bordered,subs="verbatim,quotes"]
+....
+158                                        1803                                  1803                               159
     Births from the [uncertain] Schaumburg-Lippe Villages               Births from the  [uncertain] Schaumburg-Lippe Villages      
-|===
+....
 
 ==  Image of Birth Entry 40, Page 158
 
