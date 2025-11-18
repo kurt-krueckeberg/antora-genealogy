@@ -85,22 +85,17 @@ image::petzen-band2-img91-overview.jpg[title="Overview of pages 176-177 (Click t
 
 == Transliteration and Translation of Header for Pages 176 and 177
 
-[caption="Transliteration: "]
 .Pages 176-177 Header
-[%autowidth,frame="none",options="noheader"]
-|===
-l|
+[literal.bordered,subs="verbatim,quotes"]
+....
 176         Getaufte im Kirchspiele Petzen                               im Jahr 1806                            177
+....
 
-|===
-
-[caption="Translation: "]
 .Pages 176-177 Header
-[%autowidth, frame="none", options="noheader"]
-|===
-l|
+[literal.bordered,subs="verbatim,quotes"]
+....
 176         Baptisms in the Parish of Petzen                              in the Year 1806                       177
-|===
+....
 
 == Entry 22, Page 176
 
