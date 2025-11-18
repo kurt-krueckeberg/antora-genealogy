@@ -1,10 +1,11 @@
 = 1806 Johann Heinrich Krückeberg Baptism
 :page-role: wide
 
+[.narrow]
 == Family Relationship and Other Facts
 
 .Family Relationship  Facts
-[%header,cols="3,3,3,2",width="75%"]
+[%header,cols="3,3,3,2"]
 |===
 |Father|Mother|Child|Residence
 
@@ -12,7 +13,7 @@
 |===
 
 .Child Johann Heinrich Krückeberg Facts
-[%header,width="65%"]
+[%header,width="85%"]
 |===
 |Name|Birthdate| Baptism Date|Baptism Place
 
@@ -20,7 +21,7 @@
 |===
 
 .Father Jobst Heinrich Krückeberg Facts
-[%header,width="70%"]
+[%header,width="85%"]
 |===
 |Name|Birth Place|Occupation|Religion
 
@@ -28,7 +29,7 @@
 |===
 
 .Mother Christine Phlippine Lenore Tegtmeier Facts
-[%header,width="60%",cols="3,2,2"]
+[%header,width="75%",cols="3,2,2"]
 |===
 |Name|Birth Place|Religion
 
@@ -36,7 +37,7 @@
 |===
 
 .Baptismal Sponsor
-[%header,width="55%"]
+[%header,width="75%"]
 |===
 |Name|Occupation|Residence
 
