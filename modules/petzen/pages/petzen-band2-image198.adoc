@@ -9,13 +9,21 @@
 |Father|Mother|Family +
 Residence|Confirmand|Date Confirmed|Date Born|Child's Birthplace   
                                                     
-|Jobst Heinrich Krückeberg|Christine Philippine Eleonore née +
-Tegtmeier|Bärenbusch|Philippine Caroline Christine|21 Apr 1805|9 Sept. 1791|Bärenbusch
+|Jobst Heinrich Krückeberg
+|Christine Philippine Eleonore née Tegtmeier
+|Bärenbusch
+|Philippine Caroline Christine
+|21 Apr 1805
+|9 Sept. 1791
+|Bärenbusch
 |===
 
+[.narrow]
 == Citation
 
-The confirmation of Philippine Caroline Christine Krückeberg Confirmation in 1805 is on <<image192-420-entry13, page 420, entry 13>> of Petzen Kirchenbuch: Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
+The confirmation of Philippine Caroline Christine Krückeberg Confirmation in 1805 is on <<image192, image 192>>,
+page 420, entry 13, of the Petzen "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
+1785-1827" in the link:https://www.archion.de[Archion.de] database of Kirchenbücher digital images.
 
 == Overview of Pages 420 and 421
 
