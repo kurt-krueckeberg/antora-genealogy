@@ -10,18 +10,29 @@
 |14 Feb. 1734|H. Krückeberg|Behrenbusch
 |===
 
+[.narrow]
+== A Potential Corresponding Baptism Record Exists
+
+This could be the burial record for xref:petzen:petzen-band1a-image144-krueckeberg.adoc[Ruldolphine
+Margaretha Elisabeth Krückeberg]. There is no baptism entry for a Krückeberg
+in the February baptism records of the Petzen "Verzeichnis der Getauften und
+Konfimierten 1641-1784". If this is not xref:petzen:petzen-band1a-image144-krueckeberg.adoc[Ruldolphine
+Margaretha Elisabeth Krückeberg], then, this child was born alive (not
+marked “todtgeboren” in a baptism entry) but probably died very soon after birth,
+and her baptism was either not performed or not recorded.
+
+[.narrow]
+== Citation
+
+The February 14^th^ 1734 burial records are on <<image150, image 150>> of the
+"Verzeichnis der Getrauten und Gestorbenen 1641-1784" on link:https://www.archion.de[Archion.de].
+
 == Image 150
 
 The image below excerpts three burial entries for 14 February 1734. The 2^nd^ record is
 for an unnamed Krückeberg.
 
 image::petzen-band1b-img150.png[title=14 Feb, 1734 Krückeberg Töchterlein buried (Click to Enlarge),link=self]
-
-== Citation
-
-The February 14^th^ 1734 burial records are on <<image150, image 150>> of the
-"Verzeichnis der Getrauten und Gestorbenen 1641-1784" on link:https://www.archion.de[Archion.de].
-
 [.narrow]
 == Töchterlein and Söhnlein
 
@@ -49,16 +60,6 @@ In the Petzen church book, stillborn children are usually marked as
 not used here, this Töchterlein was born alive but died in early childhood.
 Whether she was baptized cannot be told for certain from the burial entry
 alone.
-
-== A Potential Corresponding Baptism Record Exists
-
-This could be the burial record for xref:petzen:petzen-band1a-image144-krueckeberg.adoc[Ruldolphine
-Margaretha Elisabeth Krückeberg]. There is no baptism entry for a Krückeberg
-in the February baptism records of the Petzen "Verzeichnis der Getauften und
-Konfimierten 1641-1784". If this is not xref:petzen:petzen-band1a-image144-krueckeberg.adoc[Ruldolphine
-Margaretha Elisabeth Krückeberg], then, this child was born alive (not
-marked “todtgeboren” in a baptism entry) but probably died very soon after birth,
-and her baptism was either not performed or not recorded.
 
 == Transliteration and Translation
 
