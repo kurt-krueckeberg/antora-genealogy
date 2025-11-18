@@ -126,53 +126,30 @@ Page 705 heading portion:
 
 image::petzen-band2-img339-705.jpg[align=left,title="Click to enlarge",link=self]
 
-[,text]
 .Transliteration of pages 704 and 705 header
-----
-704                Copulierte im Kirchspiel Petzen (Marriages in the Parish Petzen)            im Jahr (in year) 1816                      705
-----
+[literal.bordered]
+....
+704             Copulierte im Kirchspiel Petzen (Marriages in the Parish Petzen)          im Jahr (in year) 1816                      705
+....
 
 [caption="Transliteration: "]
 .Marriage entry No. 1.
 [%header,cols="1,3,3,3,2,2,2,1",frame="none"]
 |===
-|Zahl |Name, Stand, Religion +
-u. Eltern des Bräutigams |Name, Religion +
-Geburts u. Wohnort +
-der Braut |Zeit u. Ort + 
-der Proclamation |Zeit u. Ort +
-der Kopulation |der kopu +
-lirende +
-Prädiger |Kopulations +
-Zeugen |Bemerkungen
+|Zahl |Name, Stand, Religion u. Eltern des Bräutigams |Name, Religion Geburts u. Wohnort der Braut |Zeit u. Ort  der Proclamation |Zeit u. Ort der Kopulation |der kopulirende Prädiger |Kopulations Zeugen |Bemerkungen
 
 |8
-|Jungeselle Johann Hein- +
-rich Klöpper, ehelicher Sohn +
-des Albrecht Klöpper +
-no. 22 in Röcke. Luth. Conf. +
-u. jetzt 29 Jahre alt +
-get. 10.10.1790 +
+|Jungeselle Johann Heinrich Klöpper, ehelicher Sohn des Albrecht Klöpper no. 22 in Röcke. Luth. Conf.  u. jetzt 29
+Jahre alt +
+get. 10.10.1790 
 gest. 25.12.1853
-|Jungfrau Christine Louise +
-Krückebergs, des verstor- +
-beneen Johann Heinrich +
-Krückeberg n. 19 in Evesen +
-hinterlassene eheliche Tochter. +
-Luth. Conf. u. jetzt 19. Jahr alt +
-geb. 26.4.1798 +
+|Jungfrau Christine Louise 
+Krückebergs, des verstorbeneen Johann Heinrich Krückeberg n. 19 in Evesen hinterlassene eheliche Tochter. Luth.
+Conf. u. jetzt 19. Jahr alt +
+geb. 26.4.1798 
 gest. 11.9.1878
-|sind in der Kirche +
-zu Petzen proclamiert +
-d. 6ten 12ten u. 20ten Octbr.
-|u. kopulirt d 1st +
-Decbr.
-|von der zeitigen +
-Prediger
-|in Gegenwart +
-der Confitenten +
-u. des zeiten +
-Küsters Crömer
+|sind in der Kirche zu Petzen proclamiert d. 6ten 12ten u. 20ten Octbr.
+|u. kopulirt d 1^st^ Decbr.  |von der zeitigen Prediger |in Gegenwart der Confitenten u. des zeiten Küsters Crömer
 |[empty]
 |===
 
@@ -180,40 +157,16 @@ Küsters Crömer
 .Marriage entry No. 1.
 [%header,cols="1,3,3,3,2,2,2,1",frame="none"]
 |===
-|No. |Name, Occupation, Religion, +
-Parents of the Groom |Name, Religion +
-Birth place and Residence +
-of the Bride |Time and Place +
-of the Proclamation |Time and Place +
-of the Marriage |The offi- +
-ciating Minister |Marriage Witnesses |Remarks
-
+|No. |Name, Occupation, Religion, Parents of the Groom |Name, Religion Birth place and Residence of the Bride |Time and Place of the Proclamation |Time and Place of the Marriage |The officiating Minister |Marriage Witnesses |Remarks
 |8
-|Bachelor Johann Hein- +
-rich Klöpper, legitimate son +
-of Albrecht Klöpper +
-no. 22 in Röcke. Luth. Conf. +
-and now 29 years old +
-born 10/10/1790 +
-died 12/25/1853
-|Maiden Christine Louise +
-Krückeberg, the surviving +
-daughter of the late Johann +
-Heinrich Krückeberg n. 19 in Evesen +
+|Bachelor Johann Heinrich Klöpper, legitimate son of Albrecht Klöpper no. 22 in Röcke. Luth. Conf.  and now 29 years old born 10/10/1790 died 12/25/1853
+|Maiden Christine Louise Krückeberg, the surviving daughter of the late Johann Heinrich Krückeberg n. 19 in Evesen
 Luth. Conf. and now 19 years old +
-born 4/26/1798 +
-died 9/11/1878
-|proclaimed in the church +
-at Petzen +
-on 6^th^ 12^th^ and 20^th^ Oct.
-|and married on 1^st^ +
-of Dec.
-|by the current +
-minister
-|in the presence +
-of the communicants +
-and of the current +
-parish clerk Crömer
+born 4/26/1798. died 9/11/1878
+|proclaimed in the church at Petzen on 6^th^ 12^th^ and 20^th^ Oct.
+|and married on 1^st^ of Dec.
+|by the current minister
+|in the presence of the communicants and of the current parish clerk Crömer
 |[empty]
 |===
 
