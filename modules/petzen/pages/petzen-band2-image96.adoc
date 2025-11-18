@@ -13,7 +13,8 @@
 |Carl Friedrich Krückeberg|no. 14 Bärenbusch
 |===
 
-IMPORTANT: *Bleeken* is in error. It should be *Werkmeister*. See the explanation xref:findings:proof-arg-philippine-eleonore.adoc[here].
+IMPORTANT: *Bleeken* is in error. It should be *Werkmeister*. See the
+xref:findings:proof-arg-philippine-eleonore.adoc[explanation].
 
 .Child Facts
 [%header,cols="3,3,2,2,2,2"]
