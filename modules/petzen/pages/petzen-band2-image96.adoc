@@ -3,7 +3,7 @@
 
 == Family Relationship and Other Facts
 
-.Family Relationship  Facts
+.Family Relationship Facts
 [%header,cols="3,3,3,2",width="80%"]
 |===
 |Father|Mother|Child|Residence
@@ -41,19 +41,6 @@ IMPORTANT: *Bleeken* is in error. It should be *Werkmeister*. See the explanatio
 |Philippine Lenore née Bleeken|no. 11 Evesen|Lutheran
 |===
 
-.Meaning of Einlieger
-****
-[NOTE]
-====
-A **Einlieger** was a **landless tenant, lodger, or cottager** who lived in someone else’s house or on
-someone else’s property.
-
-An Einlieger did not own land or a house but might work for the landowner or rent a small room or
-cottage on the estate. They were of a lower socio-economic class than full farmers (Vollmeier, Halbmeier,
-etc.).
-====
-****
-
 .Baptismal Sponsor
 [%header,width="40%"]
 |===
@@ -66,6 +53,19 @@ etc.).
 
 |Jobst Heinrich Krückeberg|Bärenbusch
 |===
+
+.Meaning of Einlieger
+****
+[NOTE]
+====
+A **Einlieger** was a **landless tenant, lodger, or cottager** who lived in someone else’s house or on
+someone else’s property.
+
+An Einlieger did not own land or a house but might work for the landowner or rent a small room or
+cottage on the estate. They were of a lower socio-economic class than full farmers (Vollmeier, Halbmeier,
+etc.).
+====
+****
 
 == Citation
 
@@ -185,42 +185,6 @@ harm n. 11 in Evesen +
 in said place, u. +
 3 Jobst Heinrich Kruckeberg +
 from Bärenbusch
-|===
-
-
-== Family Relationship Facts
-
-.Father
-|===
-|Name|Occupation|Dwelling Place|Birth place|Religion
-
-|Carl Friedrich Gottlieb|Schneider und Einlieger +
-(Tailor and landless tennant) |no. 14 Bärenbusch|no. 14 Bärenbusch|Lutheran
-|=== 
-
-.Mother
-|===
-|Name|Birth place|Religion
-
-|Philippinme Eleonore Bleeken|no. 11 Evesen|Lutheran
-|=== 
-
-.Child
-|===
-|Name|Birth Date|Birth Time|Baptism Date|Birth Order|Gender Birth Order
-
-|Carl Friedrich Krückeberg|21 May 1807|8 p.m.|24 May 1807|2^nd^  child|1^st^ son
-|===
-
-.Baptismal Witnesses
-|===
-|Name|Dwelling Place
-
-|Hans Heinrich Wilharm|No. 11 Evesen
-
-|Johann Heinrich Deerberg|No 0 the same place
-
-|Jobst Heinrich Krückeberg|Bärenbusch
 |===
 
 [bibliography]
