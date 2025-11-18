@@ -22,7 +22,11 @@ link:https://www.aarchion.de[Archion.de] database of Protestent Kirchenbücher d
 
 image::petzen-band1a-img144.png[align=left,title='Rudolphina Margaretha Elisabeth Krückeberg (Click to enlarge)',link=self]
 
-.Transliteration
+== Transliteration and Translation
+
+[cols="1a,1a"]
+|===
+|
 [literal.bordered,subs="verbatim,quotes"]
 ....
 13 Januarÿ ist Johann Heinrich Krückeberg aus
@@ -32,6 +36,11 @@ Möchkho__, Margaretha Elisabeth Bormanns, Anna Elisaß
 beth Weÿland, und Anna Margareth Stedings aus
 Berenbusch
 ....
+|
+[literal.bordered,subs="verbatim,quotes"]
+....
+....
+|===
 
 [bibliography]
 == Citations
