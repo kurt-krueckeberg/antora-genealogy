@@ -6,10 +6,21 @@ Update m/research/johann....adoc and add all the children that we have now found
 
 Who fathered the 1728-1750 Kruekeberg chilren? 
 
-=== Record Evidence
+=== Find All Remaining Records
 
-Find any other births, deaths or marriages in early petzen register.
+Using the lists of Archion.de images I have reviewed and have yet to review:
 
+* Find any remaining births between 1746 and 1750
+* Also deaths during the time period 1728 to 1750
+* Marriages between 1710 to 1750.
+
+=== Birth Records Parentage Patterns and Statistics
+
+|===
+|Birth Date|Child|Parentage Description|Instances of Surname-only Parentage on the same and adjacent pages
+
+|
+|===
 
 === The naming pattern is also important. Look for first born grandsons that have the paternal grandfather's name
 
