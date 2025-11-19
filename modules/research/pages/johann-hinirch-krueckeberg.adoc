@@ -20,7 +20,7 @@ Berenbusch Töchterl[ein]: Rudolphian Margaretha
 Elisabeth getafut.
 |N/A
 
-|xref:petzen:petzen-band1a-image149.aoc[6 Sep. 1733]
+|xref:petzen:petzen-band1a-image149.adoc[6 Sep. 1733]
 |Johann Hinrich Krückeberg
 |d 6th Septembr ist Johann Hinrich Krückeberg
 im Berenbusch Söhnlein Jobst Hinrich getrauft.
