@@ -1,3 +1,23 @@
 = TODO
 
 Update m/research/johann....adoc and add all the children that we have now found.
+
+== Research Plan
+
+Who fathered the 1728-1750 Kruekeberg chilren? 
+
+1. Find any other births, deaths or marriages in early petzen register.
+
+2. 
+If there were a Jobst second contemporary Krückeberg who also fathered children. If those children
+later married or were confirmed possibly confirmed might have the father's name or later died, then they're
+marriage should have the full father's name, and perhaps confirmation and death records, too.
+
+The naming pattern is also important. Look for first born grandsons that have the paternal grandfather's name
+of Johann Heinrich. This would involve looking at sons of the Johann Heinrich who was born in 1704 and then 
+looking for marriages of those sons and seeing if their sons, the grandsons of the prospective grandfather
+Johann Heinrich, had his given name.
+
+If we can find only one Krückeberg living in Berenbusch through secular records when these births occurred, then we
+will have eliminated the possibility of an jobst being a different person.
+
