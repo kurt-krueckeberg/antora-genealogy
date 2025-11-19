@@ -3,10 +3,26 @@ Johann Hinrich Krückeberg
 
 == Baptism Records Analysis
 
-|Date|Child|Parentage|
+.Parentage of Krückeberg Children Born from 1728 to 1750
+|===
+|Date|Child|Parentage|Percentage of Similiar Surname-Records on This Page and Adjacent Pages
 
-|7 July 1728|Johann Friedrich|28 Julÿ ist *Johann Heinrich Krückebergs aus Berenbusch*
+|xref:petzen:petzen-band1a-image140.adoc[7 July 1728]
+|Johann Friedrich
+|28 Julÿ ist *Johann Heinrich Krückebergs aus Berenbusch*
 Söhnlein Johann Friedrich getauft.
+
+|xref:petzen:petzen-band1a-image144.adoc[13 Jan. 1731]
+|Ruldolphina Margaretha Elisabeth Krückeberg 
+|13 Januarÿ ist *Johann Heinrich Krückeberg* aus
+Berenbusch Töchterl[ein]: Rudolphian Margaretha
+Elisabeth getafut.
+
+|xref:petzen:petzen-band1a-image149.aoc[6 Sep. 1733]
+|Johann Hinrich Krückeberg
+|d 6th Septembr ist Johann Hinrich Krückeberg
+im Berenbusch Söhnlein Jobst Hinrich getrauft.
+|===
 
 Records Summary:
 
