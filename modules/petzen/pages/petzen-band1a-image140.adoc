@@ -1,7 +1,7 @@
 = 1728 Johann Friedrich Krückeberg Baptized
 :page-role: wide
 
-The baptism of a Johann Friedrich Krückeberg, born in Berenbusch, occurred 18 July 1728. 
+The baptism of a Johann Friedrich Krückeberg, born in Berenbusch, occurred 7 July 1728. 
 
 [caption="Family Relationships and Facts: "]
 .July 7, 1728 Baptism of Johann Friedrich Krückeberg
@@ -46,7 +46,7 @@ after someone's name, usually the first name, signifies the genitive case (posse
 `Paul's Car` would be `Pauls Auto`. Translation literally word-for-word without changing the grammer
 yields:
 
-Jan 28 July is Johann Heinrich Krückeberg's
+7 July is Johann Heinrich Krückeberg's
 little son Johann Friedrich baptized. Godfathers
 have been Johann Tönnies Eggerding und H Herman Wiese
 ====
@@ -54,12 +54,15 @@ have been Johann Tönnies Eggerding und H Herman Wiese
 NOTE: Anno 1728 (Year 1728) appears at the top of on the prior page. Thus these baptism
 records continue on with those in 1728, and the Krückeberg son is the 18^th^ baptism of
 1728.
+
+NOTE: Unlike the other baptism entries where the date appears first, the date of *7 Julÿ* is
+written above the father's name, apparently the pastor forgot to start the entry with the date and had to insert it. 
 **** 
 
 .Transliteration 
 [literal.bordered,subs="verbatim,quotes"]
 ....
-18)  28 Julÿ ist Johann Heinrich Krückebergs aus Berenbusch
+18)  7 Julÿ ist Johann Heinrich Krückebergs aus Berenbusch
 Söhnlein Johann Friedrich getauft. Gevatter
 sind gewesen Johann Tönnies Eggerding und H Herman Wiese
 ....
@@ -67,7 +70,7 @@ sind gewesen Johann Tönnies Eggerding und H Herman Wiese
 .Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
-18) On 28 July The little son of Johann Heinrich Krückeberg from Berenbusch
+18) On 7 July The little son of Johann Heinrich Krückeberg from Berenbusch
 was baptized. Godfathers were Johann Tönnies Eggerding and H Herman Wiese
 ....
 
