@@ -1,5 +1,25 @@
-Johann Hinrich Krückeberg
+= Prospective Children of Johann Hinrich Krückeberg (1704-1759)
 
+.Johann Heinrich Krückeberg/Anna Maria Vahlsing Records
+[cols="1a,4a"
+|===
+|Datum/Ereignis|Andere Fakten
+
+|xref:petzen:petzen-band1b-image36.adoc[28 Sep. 1727 Marriage]
+|
+* Wohnort:Berenbsuch 
+* Ehefrau: Anna Maria Vahlsing from Evesen
+
+|xref:petzen:petzen-band1b-178-right.adoc[8 May 8 1757 Burial of Anna Marie Vahlsing]
+|
+* Wohnort: Berenbusch
+* Alter: 55 Jahre
+
+|xref:petzen:petzen-band1b-image183.adoc[26 Dec. 1759 Burial of Johann Heinrich Krückeberg]
+|
+* Wohnort: Berenbusch
+* Alter: 55 Jahre
+|===
 
 == Baptism Records Analysis
 

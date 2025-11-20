@@ -2,6 +2,7 @@
 * xref:background-info.adoc[]
 * German Records-related Research Questions
 ** xref:bueckeburg-archive-research.adoc[]
+** xref:johann-hinrich-krueckeberg.adoc[]
 ** xref:naming-conventions.adoc[]
 //** xref:children-of-johann-henrich-krueckeberg-born-1704.adoc[] <-- Only partially finished
 ** xref:schaumburg-lippe-censuses.adoc[]
