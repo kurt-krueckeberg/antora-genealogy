@@ -10,7 +10,7 @@
 * Wohnort:Berenbsuch 
 * Ehefrau: Anna Maria Vahlsing from Evesen
 
-|xref:petzen:petzen-band1b-178-right.adoc[8 May 8 1757 Burial of Anna Marie Vahlsing]
+|xref:petzen:petzen-band1b-image178-right.adoc[8 May 8 1757 Burial of Anna Marie Vahlsing]
 |
 * Wohnort: Berenbusch
 * Alter: 55 Jahre
