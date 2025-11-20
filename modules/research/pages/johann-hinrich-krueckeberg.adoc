@@ -2,7 +2,7 @@
 :page-role: wide
 
 .Johann Heinrich Krückeberg/Anna Maria Vahlsing Records
-[cols="3,1,1,3a,4a"]
+[cols="3,1,1,2a,4a"]
 |===
 |Person(en)|Ereignis|Datum ^|Sponsoren|Andere Fakten
 
