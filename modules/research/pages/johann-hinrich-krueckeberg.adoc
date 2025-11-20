@@ -1,7 +1,7 @@
 = Prospective Children of Johann Hinrich Krückeberg (1704-1759)
 
 .Johann Heinrich Krückeberg/Anna Maria Vahlsing Records
-[cols="1a,4a"
+[cols="1a,4a"]
 |===
 |Datum/Ereignis|Andere Fakten
 
