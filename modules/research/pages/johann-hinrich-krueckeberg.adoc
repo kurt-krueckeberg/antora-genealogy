@@ -24,6 +24,7 @@
 == Baptism Records Analysis
 
 .Parentage of Krückeberg Children Born from 1728 to 1750
+[cols="1a,2a,3a,2a"]
 |===
 |Date|Child|Parentage|Percentage of Similiar Surname-Records on This Page and Adjacent Pages
 
