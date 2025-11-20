@@ -42,18 +42,14 @@ an abbreviation for it.
 
 [NOTE]
 ====
-* "hÿ" stands for the German word "hier", meaning "here."
-
-* It’s a common scribal abbreviation in 17th–18th century German church records, where scribes
-often shortened very common words to save space.
+*hÿ:* abbreviation of Latin *hujus (mensis)*, “of this month” (i.e., “11th of this same month”).
 ====
-
 ****
 
 .Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
-On the 11th [of February] the [Berenbusch] Kruckeberg's little son was
+On the 11th of this month [February] the Berenbusch Kruckeberg's little son was
 baptized [named] Johann Wilhelm [uncertain]
 His godfather Valsing
 ....
