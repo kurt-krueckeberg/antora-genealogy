@@ -1,7 +1,5 @@
 = TODO
 
-Update m/research/johann....adoc and add all the children that we have now found.
-
 == Research Plan
 
 Who fathered the 1728-1750 Kruekeberg chilren? 
