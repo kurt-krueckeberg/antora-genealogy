@@ -4,7 +4,7 @@
 .Johann Heinrich Krückeberg/Anna Maria Vahlsing Records
 [cols="1a,1a,3a,4a"]
 |===
-||Person(en)|Ereignis|Datum ^|Andere Fakten
+|Person(en)|Ereignis|Datum ^|Andere Fakten
 
 |Johann Hinrich Krückeberg und Anna Maria Vahlsing
 |Marriage
