@@ -9,7 +9,10 @@
 |Johann Hinrich Krückeberg und Anna Maria Vahlsing
 |Marriage
 |xref:petzen:petzen-band1b-image36.adoc[28 Sep. 1727]
-|TODO
+|
+Johann Tönnies Eggerding
+
+H Herman Wiese
 |
 * Wohnort: *Berenbsuch* 
 * Ehefrau: Anna Maria Vahlsing from Evesen
@@ -44,7 +47,9 @@ TODO: Sponsors
 |Johann Friedrich
 |28 Julÿ ist *Johann Heinrich Krückebergs aus Berenbusch*
 Söhnlein Johann Friedrich getauft.
-|todo
+|Johann Tönnies Eggerding
+
+H Herman Wiese
 |N/A
 
 |xref:petzen:petzen-band1a-image144.adoc[13 Jan. 1731]
@@ -52,21 +57,27 @@ Söhnlein Johann Friedrich getauft.
 |13 Januarÿ ist *Johann Heinrich Krückeberg* aus
 Berenbusch Töchterl[ein]: Rudolphian Margaretha
 Elisabeth getafut.
-|todo
+|Rudolpha Mönhkhoffs from Berenbusch
+
+Margaretha Elisabeth Bormann from Berenbusch
+
+Anna Elisabeth Weÿland from Berenbusch
+
+Anna Margareth Steding from Berenbusch
 |N/A
 
 |xref:petzen:petzen-band1a-image149.adoc[6 Sep. 1733]
 |Jobst Hinrich Krückeberg
 |d 6th Septembr ist *Johann Hinrich Krückeberg*
 im Berenbusch Söhnlein Jobst Hinrich getrauft.
-|todo
+|the shepherd Vahlsing from Eversen
 |N/A
 
 |xref:petzen:petzen-band1a-image152.adoc[29 Jan. 1736]
 |Dorothea Elisabeth Krückeberg
 |d[en] 29 dito *Krückeberg v. [B. B.]* ein Töchterl[ein] tauft
 lassen Dorothea Elisabeth Soldat Weilands Frau Gevatterin
-|todo
+|wife of soldier Weiland
 |TODO
 |===
 
