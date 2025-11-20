@@ -8,7 +8,7 @@ The 17 December 1730 baptism of Sophia Margarthe Bleeck is found on <<image144, 
 
 == Baptism Record
 
-image::petzen-band1a-img144.jpg[align=left,title='Sophia Margarthe Bleeck baptism (Click to enlarge)',link=self]
+image::petzen-band1a-img144-bleeck.jpg[align=left,title='Sophia Margarthe Bleeck baptism (Click to enlarge)',link=self]
 
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
