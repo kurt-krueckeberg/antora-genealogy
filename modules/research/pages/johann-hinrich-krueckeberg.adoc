@@ -33,10 +33,10 @@ H Herman Wiese
 * Wohnort: *Berenbusch*
 * Alter: *55 Jahre*
 
-|
-|
-|
-|
+|Johann Wilhelm Kruckeberg
+|Baptism
+|xref:petzen:petzen-band1a-image157.adoc[11 Feb. 1739]
+|TODO
 |
 |===
 
@@ -84,6 +84,13 @@ im Berenbusch Söhnlein Jobst Hinrich getrauft.
 |d[en] 29 dito *Krückeberg v. [B. B.]* ein Töchterl[ein] tauft
 lassen Dorothea Elisabeth Soldat Weilands Frau Gevatterin
 |wife of soldier Weiland
+|TODO
+
+|xref:petzen:petzen-band1a-image157.adoc[11 Feb. 1739]
+|Johann Wilhelm Kruckeberg
+|11 hÿ Krückeberg [in] [B. B.] ein Söhnl[ein] tauft
+lassen Johann Wilhelm [benamst?] [uncertain]
+[seina?] Gevatter Valsing
 |TODO
 |===
 
