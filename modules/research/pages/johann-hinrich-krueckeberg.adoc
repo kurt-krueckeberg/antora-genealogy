@@ -2,9 +2,9 @@
 :page-role: wide
 
 .Johann Heinrich Krückeberg/Anna Maria Vahlsing Records
-[cols="1a,4a,3a"]
+[cols="1a,4a,4a"]
 |===
-|Datum|Person(en)/Ereignis|Andere Fakten
+|Datum|Person(en)/Ereignis ^|Andere Fakten
 
 |xref:petzen:petzen-band1b-image36.adoc[28 Sep. 1727]
 |Marriage of Johann Hinrich Krückeberg und Anna Maria Vahlsing
@@ -30,7 +30,7 @@
 .Parentage of Krückeberg Children Born from 1728 to 1750
 [cols="1a,2a,3a,2a"]
 |===
-|Date|Child|Parentage|Percentage of Similiar Surname-Records on This Page and Adjacent Pages
+|Date|Child|Parentage|Do Other Records with Only Surname Exist?
 
 |xref:petzen:petzen-band1a-image140.adoc[7 July 1728]
 |Johann Friedrich
