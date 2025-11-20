@@ -30,15 +30,18 @@
 
 == Baptism Records Analysis
 
+TODO: Sponsors
+
 .Parentage of Krückeberg Children Born from 1728 to 1750
-[cols="1a,2a,3a,2a"]
+[cols="1a,2a,3a,3a,2a"]
 |===
-|Date|Child|Parentage|Do Other Records with Only Surname Exist?
+|Date|Child|Parentage|Sponsors|Do Other Records with Only Surname Exist?
 
 |xref:petzen:petzen-band1a-image140.adoc[7 July 1728]
 |Johann Friedrich
 |28 Julÿ ist *Johann Heinrich Krückebergs aus Berenbusch*
 Söhnlein Johann Friedrich getauft.
+|todo
 |N/A
 
 |xref:petzen:petzen-band1a-image144.adoc[13 Jan. 1731]
@@ -46,34 +49,38 @@ Söhnlein Johann Friedrich getauft.
 |13 Januarÿ ist *Johann Heinrich Krückeberg* aus
 Berenbusch Töchterl[ein]: Rudolphian Margaretha
 Elisabeth getafut.
+|todo
 |N/A
 
 |xref:petzen:petzen-band1a-image149.adoc[6 Sep. 1733]
 |Jobst Hinrich Krückeberg
 |d 6th Septembr ist *Johann Hinrich Krückeberg*
 im Berenbusch Söhnlein Jobst Hinrich getrauft.
+|todo
 |N/A
 
 |xref:petzen:petzen-band1a-image152.adoc[29 Jan. 1736]
 |Dorothea Elisabeth Krückeberg
 |d[en] 29 dito *Krückeberg v. [B. B.]* ein Töchterl[ein] tauft
 lassen Dorothea Elisabeth Soldat Weilands Frau Gevatterin
+|todo
 |TODO
 |===
 
-Records Summary:
+== Timeline of All Records Involving These Children
+
+[cols="1,1,3,3"]
+|===
+|Datum|Event|Person|Missing Records
+
+||||
+|===
 
 Build a family tree or import the FamilySearch tree with all the citations
 including the Immanuel bio. Then analyze everything--residence, profession, sponsors names and
 relationships, siblings--and use it the validate all we know and use it to build the 
 prio generation. Repeat this back as far a we can go. Note: Sophia Maria born blind dies
 at No. 10 Berenbusch. So the history of Berenbusch is important.
-
-|===
-|Type|Date|Text
-
-|Baptism| 7 July 1728|
-|===
 
 . residence
 . ocupation
