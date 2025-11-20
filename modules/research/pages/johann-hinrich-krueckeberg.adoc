@@ -4,25 +4,25 @@
 .Johann Heinrich Krückeberg/Anna Maria Vahlsing Records
 [cols="1a,1a,3a,4a"]
 |===
-|Datum|Ereignis|Person(en) ^|Andere Fakten
+||Person(en)|Ereignis|Datum ^|Andere Fakten
 
-|xref:petzen:petzen-band1b-image36.adoc[28 Sep. 1727]
-|Marriage
 |Johann Hinrich Krückeberg und Anna Maria Vahlsing
+|Marriage
+|xref:petzen:petzen-band1b-image36.adoc[28 Sep. 1727]
 |
 * Wohnort: *Berenbsuch* 
 * Ehefrau: Anna Maria Vahlsing from Evesen
 
-|xref:petzen:petzen-band1b-image178-right.adoc[8 May 1757]
-|Burial
 |Anna Marie Vahlsing
+|Burial
+|xref:petzen:petzen-band1b-image178-right.adoc[8 May 1757]
 |
 * Wohnort: *Berenbusch*
 * Alter: *55 Jahre*
 
-|xref:petzen:petzen-band1b-image183.adoc[26 Dec. 1759]
+|Johann Heinrich Krückeberg
 |Burial
-| Johann Heinrich Krückeberg
+|xref:petzen:petzen-band1b-image183.adoc[26 Dec. 1759]
 |
 * Wohnort: *Berenbusch*
 * Alter: *55 Jahre*
