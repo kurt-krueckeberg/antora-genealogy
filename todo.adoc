@@ -4,7 +4,15 @@
 
 == Research Plan
 
-Who fathered the 1728-1750 Kruekeberg chilren? 
+As to analyzing who fathered the 1728-1750 Kruekeberg chilren, see
+https://chatgpt.com/share/691fa228-7674-8004-91a5-1bf305719fb1: 
+
+Start with the more recent records use the biography and the family record of my three times great-grandfather and
+then begin to use the church records. As the link above suggest create a table by house number. The suggestions. I
+can use this information to create some sort of a configuration file that will display a tree. And a timeline with
+record sources for each individual.
+
+See also: ./modules/ancestry/pages/design-strategy.adoc
 
 === Find All Remaining Records
 
