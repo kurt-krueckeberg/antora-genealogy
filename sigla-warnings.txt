@@ -1,0 +1,4 @@
+# UNCLASSIFIED (needs manual review):
+# modules/buchholz/pages/buchholz-band2-image198.adoc ::: 1804 Johann Heinrich Kleinschmidt
+# modules/petzen/pages/petzen-band1a-image191-bleeke.adoc ::: 1755 Henrich Wilhelm Bleeke
+# modules/petzen/pages/petzen-band2-image45-2.adoc ::: 1789 Christine Eleonore Weiland

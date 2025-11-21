@@ -1,0 +1,134 @@
+= 1820 Johann Heinrich Philip Bleeke Marriage to Christine Marie Schwier
+:page-role: wide
+
+This record is from the
+link:https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820&mandant=10003[Landesarchiv
+NRW Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks
+Minden, Nr. B 168 Jg. 1815-1830].
+
+image::johann-heinrich-philip-bleeke-marriage.png[title="Click to Enlarge",link=self]
+
+== Transliteration and Translation
+
+.Transliteration of 1820 Johann Heinrich Philip Bleeke Marriage to Christine Marie Schwier
+[cols="1l,4l,3l,2l,3l,3l,4l,4l,2l,3l,3l,3l,4l"]
+|===
+13+^s|Aufgebotene und Getraute (die bei einer Kirche bloß aufgebotenen und anderwärts kopulirten Paare müssen ohne
+Nummer eingetragen werden.) im Jahr 1820.
+
+s|Nro.
+s|Vor- und Zunamen 
+des
+Bräutigum.
+s|Stand
+und Wohnort des Vaters
+s|Alter des Bräuti-
+gams.
+s|Ob Eltern oder
+Vormund die Einwilligung gegeben,
+und wie solches geschehen.
+s|Ob er schon
+verehelicht gewesen
+und wie die Ehe getrennt
+worden.
+s|Vor- und Zuname
+der
+Braut.
+s|Namen,
+Stand und Wohnort
+des
+Vaters der Braut.
+s|Alter
+der
+Braut.
+s|Ob Eltern oder
+Vormund die Ein-
+willingung gegeben,
+und wie solches
+geschehen.
+s|Ob sie schon
+verehelicht gewesen
+und wie 
+die Ehe getrennt
+worden.
+s|Tag der Kopulation
+mit
+Buchstaben und Ziffern.
+s|Name des Predigers,
+der
+die Kopulation verrichtet.
+
+|9
+|Johann Hein.
+Bleeke
+|Christian
+Friederick
+Bleeke zu
+No 13 in Leteln
+|22 Jahr
+|Ausdrück-
+lich und per-
+sönlich
+|Jungge- 
+selle
+|Christine 
+Marie Schwier
+|Christian
+Friederich
+Schwier colonist (farmstead holder)
+No 27 in Wietersheim
+|22 Jahr
+|Stillschwei-
+gend
+|Unverheÿra-
+thet, aber [von?] 
+ihrem Bräutigam
+einen 2 jährigen
+Sohn
+|den neunten
+(9) Julius
+|Schütz
+|===
+
+.Translation of 1820 Johann Heinrich Philip Bleeke Marriage to Christine Marie Schwier
+[cols="1,4,3,2,3,3,4,4,2,3,3,3,4"]
+|===
+13+^s|Proclaimed (banns) and Married in the year 1820
+
+s|No.
+s|Groom's first and last name.
+s|Father's social status and place of residence
+s|Groom's age.
+s|Whether parents or guardians gave their consent, and how this happened.
+s|Whether he was already married and how the marriage was dissolved.
+s|Bride's first and last name.
+s|Name, social status, and place of residence of the bride's father.
+s|Bride's age.
+s|Whether parents or guardians gave their consent, and how this happened.
+s|Whether they were already married and how the marriage was dissolved.
+s|Date of marriage (in words and numbers).
+s|Name of the preacher performing the marriage.
+
+|9
+|Johann Hein.  Bleeke
+|Christian
+Friederick Bleeke at No 13 in Leteln
+|22 years
+|Consent given expressly and in person
+|bachelor
+|Christine Marie Schwier
+|Christian Friederich Schwier colonist (farmstead holder) No 27 in Wietersheim
+|22 Jahr
+|by tacit consent
+|unmarried, but has a two-year-old son with her bridegroom
+|ninth (9) July
+|Schütz
+|===
+
+== Citation
+
+Evangelische Gemeinde Frille (Kreis Minden), Kirchenbuchduplikate, section headed "Aufgebotene und Getraute im
+Jahr 1820", Nr. 9, Johann Heinrich Bleeke married 9 July 1820 to Christine Marie Schwier; Landesarchiv Nordrhein-Westfalen,
+Abteilung Ostwestfalen-Lippe (Detmold), Personenstandsarchiv Westfalen-Lippe; P 1 B-D, B 168 (Jg. 1815–1830);
+digital images, Archivsuche – Archive in NRW (DFG-Viewer), Image 70 of 180 (accessed 18 September 2025); duplicate
+register; provenance: Land- und Stadt- bzw. Kreisgericht Minden.
