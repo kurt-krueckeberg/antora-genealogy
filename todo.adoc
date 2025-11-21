@@ -1,8 +1,6 @@
 = TODO
 
-== Move These Files
-
-The files in modules/frille/pages/carl-f-bleeke and jhp-bleeke and christian
+== Update the Citation Anchors to Reflect the New File Names
 
 == Research Plan
 
