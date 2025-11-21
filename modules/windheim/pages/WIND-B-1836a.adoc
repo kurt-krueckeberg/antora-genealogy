@@ -1,0 +1,99 @@
+= 1836 Sophie Wilhelmine Louise Buuck Baptism and Birth
+:page-role: wide
+
+In 1836 Sophie Wilhelmine Louise Buuck, daughter of Ernst Diedrich Buuck and Christine Wilhelmine Döhrmann, was
+born at `Windheim 78`. 
+
+[IMPORTANT]
+.Be careful not to confuse the two Buuck families in Windheim
+====
+In addition to Ernst Diedrich Buuck, who married Christine Wilhelmine Dörmann, there was Carl Friedrich Buuck, who married
+Marie Christine Kleinschmidt. 
+====
+
+== Citation
+
+The baptism record is on <<image9, image 9, pages ??>>, of the Windheim Kirchenbuch Volume 5G: _Taufen 1816-1836,
+Beerdigungen 1816-1827, Beerdigungen 1827-1838, Trauungen 1816-1837, Konfirmationen 1816-1837, Trauungen 1837-1838
+Band 4_.
+
+== Record
+
+[,text]
+.This is the transliteration of the top-most header that spans pages 178 and 179
+----
+     1836 Geborene und Getaufte (1833 Births and Baptisms)            im Jahre 1836 achtzehnhundert sechs und dreißig 
+----
+
+image::windheim-band5-img9-left.jpg[align=left,title="Page and column headings (Click to enlarge)",link=self]
+
+The translitration of old German script into contemporary latin-based German is below.
+
+[caption="Transliteration: "]
+.Baptism Entry No. 128
+[cols="1,3,3,2,3,3,3,2,1,1,1,4",frame="none",grid="rows",%header]	
+|===
+
+|===
+
+NOTE: I believe--though I'm not certain, since the header does not denote this--that the "fourth" written above the
+date and time of birth may indicate the birth order of the child.
+
+The translation follows below:
+
+[caption="Translation: "]
+.Baptism Entry No. 128
+[cols="1,3,1,1,2,2,4,2,4,4,1,1,1,1,2",%header,frame="none"]
+|===
+|[??] +
+No.|Place of Residence +
+and +
+House Num.|male|female |Month Day Hour +
+of Birth|Month Day Hour +
+of Baptism|Given and Last Name of the Father and +
+the Mother, Occupation, Type of work `_` Age|How long +
+the Parents +
+married?|Baptism Sponsers[godparents] +
+[uncertain] of the +
+child born|Sex und Family +
+Name of the baptized Child|the +
+[number of?] +
+son[s]|the +
+[number of?] +
+Daughters|[Evidently: Total No. children]|[uncertain]|Remarks +
+Day of Death and +
+Year
+
+|[??] +
+129
+|Windheim +
+109
+|68
+|-
+|[fourth] +
+4th Nov. +
+7 a.m. 
+|10 Nov.
+|Ernst Diedrich Buuck [?] 29 +
+Christine Wilhelmine Dörmanns 22
+|28 Nov. +
+1830
+|18 Janary 1831 +
+Conrad Dörmann 78. +
+Friedrich Buuck 47
+|Ernst Friedrich Conrad +
+Buuck
+|1
+|1
+|2
+|-
+|[uncertain].
+|===
+
+
+[bibliography]
+== Citations
+
+* [[[image9]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https:>>www.archion.de>p>de5d95854d> : 8 August 2024), path:
+Nordrhein-Westfalen > Landeskirchliches Archiv der Evangelischen Kirche von Westfalen > Kirchenkreis Minden > Windheim > Taufen für 1836 - 1850, Band 5
+> Image 9 of 240

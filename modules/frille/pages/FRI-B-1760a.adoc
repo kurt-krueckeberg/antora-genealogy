@@ -1,0 +1,63 @@
+= 1760 Charlotte Lou[i]se Henriette Bleeke Baptism
+:page-role: wide
+
+== Citation
+
+The baptism Charlotte Loyse[Louise] Heiniette Bleecke occurred on 18 July 1760. It appears on <<image11, page 16, on image 11>>, of 
+Frille "Verzeichnis der Getauften, Getrauten, Gestorbenen (Register of Baptism, Marriages, Deaths) 1758-1804 ", on image 11 of 388.
+
+== Images
+
+The baptism and birth year of `1760` is written on page 13  (of the baptism pages), just below the middle of the page, on image 9:
+
+image::frille-band2-img9-13.jpg[align=left,title='Page giving baptism year for Charlotte Loyse Heinriette Bleeke (Click to englarge)',link=self]
+
+The birth and baptism of Charlotte Loyse(Louise) Heinriette Bleeckeis recorded on entry number 33 on <<image11, page 16>> (of the baptism pages).
+ 
+image::frille-band2-img11-16.jpg[align=left,title='Baptism of  (Click to englarge)',link=self]
+
+=== Transliteration and Translation
+
+.Remarks on Entry 33
+****
+[NOTE]
+====
+After the baby's name, followed by her place of birth, three names occur preceded, respecitvely, by the following single-letter abbreviations:
+
+* `P` -- indicates the father. Perhaps from the Latin `Pater` = father
+* `M` -- for  mother;`Mutter` = mother
+* `S` -- for apparently the godparent.
+
+The godmother's name is challenging because "Kröger", while a surname, also means "innkeeper". Her married surname
+appears to be Meier. The maiden name is more challenging.
+
+The `u` in Louse is resembles the laten character `y` -- but one assumes this is an diiosyncratically drawn `u`. The `s` following it
+is identical to the Kurrent `h`, a practice used in the Petzen church records also.
+====
+****
+
+[caption="Transliteration and Translation 1: "]
+.18 July 1760 Baptism of Charlotte Louise Henriette Bleeke
+[%autowidth,options="noheader",cols="l",frame="none"]
+|===
+|16
+
+|33 den 18ten Jul[ii]: Charlotte Loyse Heinriette Bleeken
+    aus Frille P[pater / Vater]  der prueß[ische] Schulmesiter Daniel
+    Heinrich Philip Bleke M[mater / Mutter] Amalia Wilhelmina
+    Dunckern, Sspona / Patin]. die Frau KriegsRaetin[Kriegsraetin] Charlotte Loyse
+    Henrieette [?Meier...? / Meier?]. gebohren Delius
+
+|33 On July 18th: Charlotte Loyse Heinriette Bleeken
+    from Frille. Father: the Prussian schoolmaster Daniel
+    Heinrich Philip Bleeke Mother: Amalia Wilhelmina
+    Dunckern. Sponsor: Godmother the wife Krögerraetin Charlotte Loyse
+    Henriette [?Meier...?] born Delius
+|===
+
+
+[bibliography]
+== Citations
+
+* [[[image11]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/11732ef7c6/ : 12 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Frille > Verzeichnis der Getauften, Getrauten, Gestorbenen 1758-1804, image 11 of 388
+

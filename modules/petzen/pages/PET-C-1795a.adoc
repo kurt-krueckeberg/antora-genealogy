@@ -1,0 +1,60 @@
+= 1795 Johanne Söphie Carlotte Krückeberg Confirmation 
+:page-role: wide
+
+== Family Relationship 
+
+.Confirmand
+[width="65%",cols="4,4,2"]
+|===
+|Name|Date of Confirmation|Residence
+
+|Johanne Söphie Carlotte Krückeberg|12 April 1795 = "Dominica Quasimodogeniti"|Bärenbusch
+|===
+
+== Citation
+
+The confirmation of Johanne Söphie Carlotte Krückeberg, in 1795, on the 2nd Sunday after Easter, is on <<image192-409, page 409>>, entry 2, Petzen Kirchenbuch:
+Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
+
+== Page 407, Knaben and Start of Mädchen 
+
+The top two thirds of the page contains the complete list of all the boys (Knaben) confirmed and start of the list of
+Mädchen (girls) confirmed.
+
+Johanne Söphie Carlotte Krückeberg is the 2^nd^ name on the list of Mädchen.
+
+image::petzen-band2-img192-409.jpg[title="Overview of Confirmation in 1795, page 407 (Click to enlarge)",link=self]
+
+[caption="Transliteration: "]
+.Transliteration page 409
+[%autowidth, cols="l",frame="none",grid="none"]
+|===
+>s|409
+^s|Confirmati (those confirmed)
+^s|Dominica
+^s|Quasimodogeniti (2nd Sunday after Easter)
+^s|        1795
+<s|I. Knaben (boys)
+|  1, Schaumburger
+|    1, Friedrich Christian Heisterberg ...
+|    2, ....
+|    ...
+|    6,
+|   2. [ [Preußen: another geographical area or local] 
+|[remainder of Knaben entries snipped]
+<s|II. Mägdchen (archaic form of Mädchen = girls)
+|    1, Schaumburger
+|      1, Sophie Caroline Wagner aus[from] Röcke 
+|      2, Johanne Söphie Carlotte Krückeberg aus[from] Bärenbusch
+|      ...
+|
+|      7, ....
+|     2, [unclear: Preußen/Prenßen/Preeße?]
+|===
+
+
+[bibliography]
+== Citations
+
+* [[[image192-409]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/f37a22ec43/ : 10 October 2023),
+path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 192 of 357

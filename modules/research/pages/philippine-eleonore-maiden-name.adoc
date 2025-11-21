@@ -13,7 +13,7 @@ Two of the children of Carl Friedrich Gottlieb Krückeberg (18 April 1779 - 13 M
 Carl Friedrich and Caroline Dorothee. The name of the children's mother recorded in their 
 baptism records was **"Philippine Lenore geb. Blecken aus N. 11 in Evesen"**; however,
 the name of the wife whom Carl Friedrichrich Krückeberg married on March 13, 1803 
-had a different surname. The xref:petzen:petzen-band2-image12-3.adoc[March 13, 1803, marriage record]
+had a different surname. The xref:petzen:PET-M-1803a.adoc[March 13, 1803, marriage record]
 for Carl Friedrich Gottlieb Krückeberg lists his Braut (bride) as: **"Jgfr
 Philippine Eleonore Werkmeister"**, whose Ort(place) and number are **Evesen 11**.
 
@@ -26,28 +26,28 @@ Did Carl Friedrich Gottlieb remarry to someone also named *"Philippine Eleonore 
 which was a common name?
 
 When Caroline Dorothee Krückeberg, the daughter of Carl Friedrich Gottlieb Krückeberg
-and Philippine Eleonore was xref:petzen:petzen-band2-image125-entry31.adoc[baptized on December 2, 1812],
+and Philippine Eleonore was xref:petzen:PET-B-1812a.adoc[baptized on December 2, 1812],
 her mother's name is recorded as:  **"Philippine Leonore geb. Blecken aus N. 11 in Evesen"**.
 There is also an addenda written in a smaller hand beneath the text that gives the "Name,
 Religion u. Geburtsort der Mutter (birthplace of the mother)". It says:
-xref:petzen:petzen-band1a-image287.adoc["get. 4.5.83"]. She was "getauft" (baptized) on May 4, 1783.
+xref:petzen:PET-B-1783a.adoc["get. 4.5.83"]. She was "getauft" (baptized) on May 4, 1783.
 
 Furthermore, the xref:families:krueckeberg.adoc[Familienschein (family certificate)]
 for the Carl Friedrich Kruecberg family states his mother was: **"Philippine
 Leonore, geb. Bleeken, von N. 11 in Evesen"**. However, this merely a derived document based
 on the original church records. 
 
-Looking at the xref:petzen:petzen-band1a-image287.adoc[baptism recorded on May 4, 1783], it is for an
+Looking at the xref:petzen:PET-B-1783a.adoc[baptism recorded on May 4, 1783], it is for an
 infant named **Philippina Eleonore Wekmeister**, whose father is **"Tönnies (diminutive for Anton)
 Werkmeister aus Evesen no. 11"**.
 
-Compare this surname with the surname found in the xref:petzen:petzen-band2-image12-3.adoc[March 13, 1803,
+Compare this surname with the surname found in the xref:petzen:PET-M-1803a.adoc[March 13, 1803,
 marriage record] for Carl Friedrich Gottlieb Krückeberg, where the name of his Braut (bride) is: **"Jgfr
 Philippine Eleonore Werkmeister"**, whose Ort and number are: **Evesen 11**. "Philippine Eleonore
 Werkmeister" was only 19 when she married, so she had not previously been married.
 
 Why would Caroline Dorothee Krückeberg's mother's maiden name be given as "Blecken" when she was
-born? And why would the xref:petzen:petzen-band2-image96.adoc[May 24, 1807, birth/baptism record of her brother,
+born? And why would the xref:petzen:PET-B-1807a.adoc[May 24, 1807, birth/baptism record of her brother,
 Carl Friedrich Krückeberg], also have this same discrepancy, listing his mother as: **"Philippine
 Lenore geb. Blecken aus n. 11 in Evesen"**?
 
@@ -56,8 +56,8 @@ Lenore geb. Blecken aus n. 11 in Evesen"**?
 *Philippine Eleonore(Lenore)* was a common given name. It alone is not sufficent for confirming an
 individual's identity. We need to find the records for:
 
-* the birth/baptiwsm records for all her children. The xref:petzen:petzen-band2-image96.adoc[birth record
-for Carl Friedrich] states he is the *2^nd^* child and *1^st^* son. The xref:petzen:petzen-band2-image125-entry31.adoc[birth
+* the birth/baptiwsm records for all her children. The xref:petzen:PET-B-1807a.adoc[birth record
+for Carl Friedrich] states he is the *2^nd^* child and *1^st^* son. The xref:petzen:PET-B-1812a.adoc[birth
 record for Caroline Dorothee] states she is the *3^rd^* child and *2^nd^* daughter.
 
 * Find the confirmation and death records for Philippine Eleonore nee Werkmeister
@@ -75,7 +75,7 @@ plus 14.
 
 === Ongoing Research Results so far
 
-* The couple's 1^st^ child was Christine Philippine xref:petzen:petzen-band2-image82-2.adoc[born Dec, 7, 1803]. Her
+* The couple's 1^st^ child was Christine Philippine xref:petzen:PET-B-1803c.adoc[born Dec, 7, 1803]. Her
 mother's name is recorded as *Philipp:geb:Werkmeister*. 
 +
 *Note:* Surprisingly, there are no Werkmeister sponsors! The sponsors are *Fr Kruckeberg u. Weiland aus Berenb:*.

@@ -1,4 +1,4 @@
 .xref:index.adoc[]
 * Buuck Chronological View 
-** xref:windheim-band4-image156.adoc[]
-** xref:windheim-band4-image183.adoc[]
+** xref:WIND-B-1831a.adoc[]
+** xref:WIND-B-1833a.adoc[]

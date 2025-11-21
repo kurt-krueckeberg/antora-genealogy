@@ -1,0 +1,32 @@
+= 1790 Johann Heinrich Weiland Marriage
+:page-role: wide
+
+== Citation
+
+The marriage entry for Johann Heinrich Weiland is on the <<image6-page6, image 6, page 6, entry 14>> of Petzen Kirchenbuch volume
+"Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
+
+The marriage of Johann Heinrich Weiland shown occurred on 17 October 1790: 
+
+image::petzen-band2-img6-page6.jpg[align=left,title="Johann Heinrch Weiland 1790, entry 14 on page 6",link=self] 
+
+[caption="Transliteration and Translation: "]
+.Marriage of Johann Heinrich Weiland 1790
+[%autowidth,cols="l",frame="none", options="noheader"]
+|===
+|6                  Getraute 1790             
+
+|14) d[en] 17ten October ist copuliert Johann Heinrich Weiland aus Evesen
+    No. 24 mit Jfr Anna Margarthea [H?]arren aus Meissen[only one 's' or if 'ß' was written] No 1
+
+|14) the 17th October Johann Heinrich Weiland from Evesen
+     No. 24 was married to maiden Anna Margarthea [H?]arren aus Meissen No. 1
+|===
+
+
+[bibliography]
+== Citations
+
+* [[[image6-page6]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/68ee336254/ : 22 September 2023), path: Niedersachsen >
+Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und
+Gestorbenen 1785-1827 > Image 6 of 357

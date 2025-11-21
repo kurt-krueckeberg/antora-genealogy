@@ -1,0 +1,48 @@
+= 1727 Johann Henrich Krückkeberg Marriage
+:page-role: wide
+
+== Family Relationship 
+
+.Marriage Information
+[%header,width="65%",cols="1,3,2,2"]
+|===
+||Name|Marriage +
+Date|Locality (at time
+of marriage)
+
+|*Groom*|Johann Henrich Kruckkeberg|Sep. 28 1727|Berenbusch
+
+|*Bride*|Anna Maria Vahlsing|Sep. 28 1727|Evesen
+|===
+
+== Citation
+
+The September 28, 1728, marriage of Johann Henrich Krückeberg to Anna Maria Vahlsing is on <<image36, image 36>>, the right-hand
+page, of the Petzen " Verzeichnis der Getrauten und Gestorbenen 1641-1784".
+
+== Marriage Record
+
+image::petzen-band1b-img36.jpg[title="Johann Heinrich Krückeberg Marriage(Click to enlarge)",link=self]
+
+.Transliteration
+[literal.bordered,subs="verbatim,quotes"]
+....
+den 28ten Septemb ist Johann Henrich Krückeberg aus
+     Berenbsuch mit Anna Maria Vahlsings aus Evesen copuliet
+....
+
+.Translation
+[literal.bordered,subs="verbatim,quotes"]
+.... 
+the 28th Sept. Johann Henrich Krückeberg from
+     Berenbsuch was married to Anna Maria Vahlsings from Evesen
+....
+
+
+[bibliography]
+== Citations
+
+* [[[image-vol1b-36]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/cc6dc9ac4e/: 15
+July 2025) , path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe
+> Petzen > Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 36 of 239
+

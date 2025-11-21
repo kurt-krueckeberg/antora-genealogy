@@ -1,0 +1,125 @@
+= 1826 Marie Christine Bleeke Birth
+:page-role: wide
+
+This record is from the
+link:https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820&mandant=10003[Landesarchiv
+NRW Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks
+Minden, Nr. B 168 Jg. 1815-1830].
+
+image::carl-f-bleeke/marie-christine-bleeke-1826-birth.png[title="Click to Enlarge",link=self]
+
+== Transliteration and Translation
+
+.Transliteration of Marie Christine Bleeke 1826 Birth
+[cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
+|===
+10+^s|Geborene und Getaufte im Jarhe 1826
+
+s|Nro.
+s|Tauf-Name
+des Kindes.
+s|Tag und Stunde
+der Geburt
+in
+Buchstaben und Ziffern.
+s|Ob es
+ehelich
+oder
+unehelich.
+s|Vor- and Zuname
+des Vaters,
+auch Stand desselben
+s|Vor- und Zuname
+der
+Mutter.
+s|Wohnort
+der
+Eltern
+s|Tag
+der
+Taufe.
+s|Namen des Predigers,
+der es getauft.
+s|Name der Taufzeugen
+
+|4
+|Marie Christine
+Bleeke
+|Funfzehnten Januar
+Abds neun (9) Uhr zu
+Leeteln
+|ehelich
+|Carl Friederich Blee-
+ke Col. v[on] N. 13 in Lee-
+teln
+|Marie Luise Nie-
+mann aus Todten-
+hausen
+|Leeteln
+|Zwei und zwan-
+zigten (22) Jan.
+|Schütz
+|Christine Wilhelmine
+Niemann aus Todten-
+hausen
+|=== 
+
+.Translation of Marie Christine Bleeke 1826 Birth
+[cols="1,4,4,2,4,4,3,2,3,5"]
+|===
+10+^s|Birth and Baptims in 1826
+
+s|Num.
+s|Baptism-Name
+of the child.
+s|Day and Hour
+of the Birth
+in letters and numbers.
+s|Whether it is
+legitimate
+or 
+illegitimate
+s|Given and Surname
+of the Father,
+and his Status.
+s|Given and Surname
+of the 
+Mother.
+s|Dwelling Place
+of the
+Parents
+s|Baptism Day
+s|Name of the Pastor who
+baptized child.
+s|Baptismal Sponsors
+
+|4
+|Marie Christine
+Bleeke
+|fifteenth January
+evening nine (9) o'clock in
+Leeteln
+|legitimate
+|Carl Friederich Blee-
+ke colonist (farmstead holder). of N. 13 in Lee-
+teln
+|Marie Luise Nie-
+mann from Todten-
+hausen
+|Leeteln
+|Twenty second
+(22) Jan.
+|Schütz
+|Christine Wilhelmine
+Niemann from Todten-
+hausen
+|=== 
+
+== Citation
+
+Evangelische Gemeinde Frille (Kreis Minden), Kirchenbuchduplikate, section headed “Gebohrne und Getaufte im Jahre
+1826”, Nr. 4, Marie Christine Bleeke, born 15 Jan. 1826, baptized 22 Jan. 1826, daughter of Carl Friederich Bleeke
+and Marie Luise Niemann; Landesarchiv Nordrhein-Westfalen, Abteilung Ostwestfalen-Lippe (Detmold),
+Personenstandsarchiv Westfalen-Lippe; P 1 B-D, B 168 (Jg. 1815–1830); digital images, 
+Archivsuche – Archive in NRW (DFG-Viewer), Image 128 of 180 (accessed 18 September 2025); duplicate register;
+provenance: Land- und Stadt- bzw. Kreisgericht Minden.

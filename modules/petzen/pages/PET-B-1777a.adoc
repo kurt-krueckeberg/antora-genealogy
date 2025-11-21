@@ -1,0 +1,61 @@
+= 1777 Friderich Wilhelm Weiland Baptism
+:page-role: wide
+
+== Family Relationship and Other Facts
+
+.Family Relationship 
+[%header]
+|===
+|Infant|Baptism Date|Father|Mother|Dwelling
+
+|Frideridch Wilhelm Weiland|Jan. 26 1777|Friedrich Wilhelm Weiland|Anna Maria Weiland|no. 20 Evesen
+|===
+
+.Baptismal Sponsors
+[%header,width=50%]
+|===
+|Name|Dwelling
+
+|Johann Heinrich Weiland|Nordholz
+
+|Hans Heinrich Möller|Evesen
+|===
+
+== Citation
+
+The baptism of Friderich Wilhelm Weiland is on <<image253, image 253>> of the Petzen Kirchenbuch: Verzeichnis der Getauften und Konfirmierten 1641-1784.
+
+== Image
+
+The baptismal record is shown below:
+
+image::petzen-band1a-img253.jpg[title="Overview of pages 244-245 (Click to enlarge)",link=self]
+
+== Text of Entry
+
+[caption="Transliteration and Translation: "]
+.Friderich Wilhelm Weiland Baptism
+[%autowidth,frame="none",options="noheader"]
+|===
+l|           ANNO 1777
+
+l|2) 26 Jan: ist getauft Friderich Wilhelm Weiland
+   des Friederich Wilhelm Weiland aus Evesen
+   No 20 mit seiner Ehefrau Anna Maria geb[oren]
+   Meilands [or: Weilands] erzeungten Sohn. die Gevattern
+   waren Johann Heinrich Weiland aus Nordholz
+   und Hans Heinrich Möller aus Evesen
+
+l|2) 26 Jan: Friderich Wilhelm Weiland baptized 
+   the begotten son of Friederich Wilhelm Weiland of Evesen
+   No 20, by his wife] Anna Maria born 
+   Weiland. Godfathers
+   were Johann Heinrich Weiland from Nordholz
+   and Hans Heinrich Möller from Evesen
+|===
+
+
+[bibliography]
+== Citations
+
+* [[[image253]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/9269143a62/ : 22 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784 > Image 253 of 322

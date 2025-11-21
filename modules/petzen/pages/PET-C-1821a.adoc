@@ -1,0 +1,70 @@
+= 1821 Carl Friedrich Krückeberg Confirmation
+:page-role: wide
+
+The confirmation of Carl Friedrich Krückeberg is on <<image212, image 212>>, on page 449. His name appears in the 
+top left column of confirmed **Knaben** or boys. He is listed third.
+
+== Family Relationship and Other Facts
+
+[NOTE]
+====
+Quasimodogeniti Sunday in 1821 was on April 8th, 1821.
+====
+
+.Family Facts
+[%header,width=70%,cols="2,2,2,1,1"]
+|===
+|Name|Address|Date of Confrimation|Approximate Age|Approximate Birth Year 
+
+|Carl Friedrich Krückeberg|no. 14 Berenbusch|8 April 1821 = Quasimodogeniti Sunday|14|1806 to 1808
+|===
+
+NOTE: Confirmation happened around age 14.
+
+== Page 449, Top-left List of Knaben
+
+image::petzen-band2-img212-2.jpg[title="First entry, top-right column of Knaben, page 448 (Click to enlarge)",link=self]
+
+== Transliteration and Translation
+
+**Quasimodogeniti** is the 1^st^ Sunday After Easter.
+
+.Transliteration of Header for page 449
+[literal.bordered,subs="verbatim,quotes"]
+....
+Verzeichnis der am Sonntage Quasidmodgeniti
+1821 Confirmierten Kinder - aus dem Schaumb.[Schaumburg inferred]
+....
+
+.Knaben (boys) listed in top left list of page 449
+....
+Knaben
+
+1. Victor Friedrich Stille aus Petzen
+2. Friedrich Christian Brandt Petzen
+3. Carl Friedrich Krückeberg. n. 14. Bärenbusch
+....
+
+.Translation of Header for page 448
+[literal.bordered,subs="verbatim,quotes"]
+....
+Register (or listing) of children confirmed  
+1821 - from Schaumb.[Schaumburg inferred]
+....
+
+.Translation of Knaben (boys) listed in top left list of page 449
+[literal.bordered,subs="verbatim,quotes"]
+....
+Boys 
+
+1. Victor Friedrich Stille from Petzen
+2. Friedrich Christian Brandt Petzen
+3. Carl Friedrich Krückeberg. n. 14. Bärenbusch
+....
+
+
+[bibliography]
+== Citations
+
+* [[[image212]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/de0cff4510/ : 26 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+ Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 212 of 357, top of page, right column.

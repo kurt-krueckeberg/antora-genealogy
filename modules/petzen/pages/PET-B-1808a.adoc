@@ -1,0 +1,106 @@
+= 1808 Caroline Sophie Weiland Baptism
+:page-role: wide
+
+== Citation
+
+The birth of Caroline Sophie Weiland is entry 4 on <<image99, image 99, pages 192-193>> of the Petzen Kirchenbuch volume "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827."
+
+=== Image, Transliteration and Translation
+
+image::petzen-band2-img99.jpg[title="Baptism of Carline Sophie Weiland in 1808 (Click to enlarge)",link=self]
+
+[NOTE]
+.Challenges in this entry
+====
+* Hasufrau definition
+Thode's define `Hausfrau` as:
+  "wife; (modern) housewife; landlady"
+
+* The occupation of Friedrich Wilhelm Weiland is hard to discren. However, five other fathers in this image have the same occupation.
+The most legiblely written of these is entry six, which must be `Ackersmann` (despite the 3^rd^ letter more closely resembling
+`l` or a `t`).
+====
+
+[caption="Transliteration and Translation: "]
+.Birth and Baptism of Caroline Sophie Weiland, pages 192-193 
+[%autowidth,frame="none",options="noheader",grid="rows"]
+|===
+9+l|260         Geboren im Kirchspiele Petzen (Births in the Petzen Parish)             im Jahr 1815                            261
+
+s|Zahl s|Name des Kindes s|Zahl s|Geburtzeit +
+u. Geburtsort s|Taufzeit u. +
+Taufort s|Name, Stand Religion +
+u. Geburtsrt des Vaters s|Name, Religion +
+u. Geburtsort der +
+Mutter s|Wohnort + 
+der +
+Eltern s|Taufzeugen
+
+s|Number s|Child's Name s|Number s|Birth time +
+and Place s|Baptism Time +
+and +
+Place s|Name, Job, Religion +
+and Birth place of Father s|Name, Religion +
+and Birth Place of +
+Mother s|Residence + 
+of +
+Parents s|Baptism Witnesses
+
+|4
+|Caroline Sophie +
+Weilands
+|des 2ten Kind u. +
+2ten Tocher
+|ist geboren +
+d. 23ten Jan. +
+Abends 8. Uhr in Evesen
+|wurde getauft d. 29thn Januar +
+in Petzen
+|Friedrich Wilhelm +
+Weiland n. 20 in +
+Evesen, ein A[cker?]- +
+mann, Luth. Conf.
+|Catharine Elisabeth +
+Weilands geb +
+[D]öpkings aus n. 1.
+in Wülpke, Luth. +
+Conf.
+|wohnen +
+auf n. 20 +
+in Evesen
+|Caroline Sieckmeiern +
+landlady[wife] from n. 4. in +
+Evesen
+
+|4
+|Caroline Sophie +
+Weiland
+|the 2^nd^ child and +
+2^nd^ daugher
+|born on +
+23^rd^ Jan. +
+at 8p.m. in Evesen
+|was baptized on 29^th^ January +
+in Petzen
+|Friedrich Wilhelm +
+Weiland n. 20 in +
+Evesen, a farmer +
+Luth. Conf.
+|Catharine Elisabeth +
+Weilands born +
+[D?]öpkings from n. 1.
+in Wülpke, Luth. +
+Conf.
+|living +
+at n. 20 +
+in Evesen
+|Caroline [S?]ieckmeiern +
+landlady[or wife] from n. 4. in +
+Evesen
+|===
+
+
+[bibliography]
+== Citations
+
+* [[[image99]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/3ff21b9dd1/ : 4 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 99 of 357

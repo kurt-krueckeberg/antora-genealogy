@@ -1,7 +1,7 @@
 = Johann Heinrich Krückeberg [1767-1805]
 :page-role: wide
 
-== xref:petzen:petzen-band1a-image220.adoc[1767 Johann Heinrich Wilhelm Kruckeberg Baptism]
+== xref:petzen:PET-B-1767a.adoc[1767 Johann Heinrich Wilhelm Kruckeberg Baptism]
 
 The baptism of Johann Heinrich Wilhelm Kruckeberg occurred on July 5, 1767. 
 
@@ -27,7 +27,7 @@ The baptism of Johann Heinrich Wilhelm Kruckeberg occurred on July 5, 1767.
 |Jobst Wilhelm Weiland|Berenbusch
 |===
 
-== xref:petzen:petzen-band1a-image320.adoc[1781 Johann Heinrich Krückeberg Confirmation]
+== xref:petzen:PET-C-1781a.adoc[1781 Johann Heinrich Krückeberg Confirmation]
 
 .Johann Heinrich Krückeberg Confirmation Facts
 [width="65%"]
@@ -38,7 +38,7 @@ The baptism of Johann Heinrich Wilhelm Kruckeberg occurred on July 5, 1767.
 |Johann Heinrich Krückeberg|April 15, 1781|Petzen church|Berenbusch
 |===
 
-== xref:petzen:petzen-band2-image5-1.adoc[1790 Johann Heinrich Kruckeberg Marriage]
+== xref:petzen:PET-M-1790a.adoc[1790 Johann Heinrich Kruckeberg Marriage]
 
 .Family Relationship Facts for August 2, 1790 Marriage
 [%header,cols="1,3,2",width="55%"]
@@ -50,7 +50,7 @@ The baptism of Johann Heinrich Wilhelm Kruckeberg occurred on July 5, 1767.
 |*Bride*|Anna Catharine Sophia Krömer|no. 19 Evesen
 |===
 
-== xref:petzen:petzen-band2-image52.adoc[1791 Friderich Wilhelm Krückeberg Baptism]
+== xref:petzen:PET-B-1791a.adoc[1791 Friderich Wilhelm Krückeberg Baptism]
 
 .Family Relationship of Infant Friderich Wilhelm Krückeberg
 [cols="1,3,2",width="55%"]
@@ -74,7 +74,7 @@ The baptism of Johann Heinrich Wilhelm Kruckeberg occurred on July 5, 1767.
 |Johann Heinrich Krückeberg|Berenbusch
 |===
 
-== xref:petzen:petzen-band2-image59-60.adoc[1793 Philippina Eleonora Kruckebergen Baptism]
+== xref:petzen:PET-B-1793a.adoc[1793 Philippina Eleonora Kruckebergen Baptism]
 
 .1793 Philippina Eleonora Kruckebergen Baptism
 [%header,cols="1,2,1,1",width="60%"]
@@ -102,7 +102,7 @@ The baptism of Johann Heinrich Wilhelm Kruckeberg occurred on July 5, 1767.
 |Catharina Margaretha Rinne|Evesen
 |===
 
-== xref:petzen:petzen-band2-image230.adoc[1794 Friderich Wilhelm Krückeberg-Croemer Burial]
+== xref:petzen:PET-D-1794a.adoc[1794 Friderich Wilhelm Krückeberg-Croemer Burial]
 
 .1794 Friderich Wilhelm Krückeberg Burial
 [width="65%"]
@@ -118,7 +118,7 @@ The baptism of Johann Heinrich Wilhelm Kruckeberg occurred on July 5, 1767.
 |*Residence* 3+| no. 19 Evesen
 |===
 
-== xref:petzen:petzen-band2-image71.adoc[1798 Christine Louise Krückeberg Baptism]
+== xref:petzen:PET-B-1798b.adoc[1798 Christine Louise Krückeberg Baptism]
 
 .Family Relationship 
 [%header,width="65%"]
@@ -139,7 +139,7 @@ The baptism of Johann Heinrich Wilhelm Kruckeberg occurred on July 5, 1767.
 |===
 |Marriage Date|Death Date
 
-|xref:petzen:petzen-band2-image339.adoc[Dec. 1, 1816]|Sep 11, 1878
+|xref:petzen:PET-M-1816a.adoc[Dec. 1, 1816]|Sep 11, 1878
 |===
 
 .Baptism Sponsors
@@ -150,7 +150,7 @@ The baptism of Johann Heinrich Wilhelm Kruckeberg occurred on July 5, 1767.
 |Sophie Charlotte Krückeberg|Bärenbusch
 |===
  
-== xref:petzen:petzen-band2-image82-1.adoc[1803 Sophie Caroline Krückeberg Birth]
+== xref:petzen:PET-B-1803b.adoc[1803 Sophie Caroline Krückeberg Birth]
 
 .Family Relationship 
 [%header,width="55%"cols="1,3,1,1"]
@@ -174,7 +174,7 @@ The baptism of Johann Heinrich Wilhelm Kruckeberg occurred on July 5, 1767.
 |Sophie Ernestine Wilharm|Evesen 
 |===
 
-== xref:petzen:petzen-band2-image243.adoc[1805 Johann Henrich Krickeberg Death]
+== xref:petzen:PET-D-1805a.adoc[1805 Johann Henrich Krickeberg Death]
 
 .Family Relationship  and Other Facts
 [%header,width="60%",cols="1,3,3"]
@@ -211,7 +211,7 @@ The baptism of Johann Heinrich Wilhelm Kruckeberg occurred on July 5, 1767.
 |*Survivors*|wife and 3 children
 |===
 
-== xref:petzen:petzen-band2-image201.adoc[1806 Philippine Louise Leonore Krückeberg Confirmation]
+== xref:petzen:PET-C-1806a.adoc[1806 Philippine Louise Leonore Krückeberg Confirmation]
 
 .Confirmand's Family Relationships
 [cols="2,3,1,1,1",width="70%"]
@@ -228,7 +228,7 @@ The baptism of Johann Heinrich Wilhelm Kruckeberg occurred on July 5, 1767.
 *or the Mother*|no. 19 Evesen 3+|
 |===
 
-== xref:petzen:petzen-band2-image207-2.adoc[1811 Christine Louise Krückeberg Confirmation]
+== xref:petzen:PET-C-1811b.adoc[1811 Christine Louise Krückeberg Confirmation]
 
 .Confirmand's Family Group
 [width="60%"]
@@ -244,7 +244,7 @@ The baptism of Johann Heinrich Wilhelm Kruckeberg occurred on July 5, 1767.
 |*Residence*|no. 19 Evesen 2+|
 |===
 
-== xref:petzen:petzen-band2-image339.adoc[1816 Christine Louise Krückeberg Marriage]
+== xref:petzen:PET-M-1816a.adoc[1816 Christine Louise Krückeberg Marriage]
 
 [caption="Bride and Groom Facts for: "]
 .Decmeber 1, 1816, Marriage of Christine Louise Krückeberg
@@ -277,7 +277,7 @@ Birth| Religion
 |===
 |Birth|Death
 
-a|xref:petzen:petzen-band2-image71.adoc[26 April 1798]|11 Sept. 1878
+a|xref:petzen:PET-B-1798b.adoc[26 April 1798]|11 Sept. 1878
 |===
 
 [NOTE]
@@ -304,7 +304,7 @@ Maiden Christine Louise Krückebergs, the surving daugher of the late Johann Hei
 |Johann Heinrich Krückeberg|no. 19 Evesen|Deceased
 |===
 
-== xref:petzen:petzen-band2-image211-3.adoc[1817 Sophie Caroline Krückeberg Confirmation]
+== xref:petzen:PET-C-1817b.adoc[1817 Sophie Caroline Krückeberg Confirmation]
 
 .Confirmand
 [%header,cols="3,2,2,1,2",width="60%"]

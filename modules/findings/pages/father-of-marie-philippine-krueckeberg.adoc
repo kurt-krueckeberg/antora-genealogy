@@ -8,7 +8,7 @@ another Johann Heinrich Krückeberg who was still alive?
 *Reference:* Refer to this xref:timelines:johann-heinrich-k-1744.adoc[timeline snapshots] for Johann Heinrich Krückeberg (1767-1805).  
 
 As is true of all marriage records of this time period, the mother of Marie Philippine Krückeberg born 1794 in Steinbergen is not mentioned
-in her xref:petzen:petzen-band2-image27-2.adoc[May 12, 1812, marriage record] only her father. The column for the bride labeled *"Name, Religion, "Geburtsort und Wohnort der Braut"* (*"name, religion,
+in her xref:petzen:PET-M-1812a.adoc[May 12, 1812, marriage record] only her father. The column for the bride labeled *"Name, Religion, "Geburtsort und Wohnort der Braut"* (*"name, religion,
 place of birth and residence of the bride"*) reads:
 
 [quote, "name, religion, place of birth and residence of the bride"]
@@ -56,28 +56,28 @@ groom's late father, who is "des verstorbenen Albert Raulfing n. 13 in Bärenbus
 Raulfing [of] n. 13 in Bärenbusch"). 
 
 Johann Heinrich Krückeberg (1767-1805) was xref:petzen:petzen-band1a-image220,adoc[born] in Berenbusch in 1767, but
-he xref:petzen:petzen-band2-image243.adoc[died in 1805] at age 38 at no. 19 Evesen, which was the residence of his wife,
-Anna Catharine Sophia née Krömer, prior to their xref:petzen:petzen-band2-image5-1.adoc[marriage] in 1790. 
+he xref:petzen:PET-D-1805a.adoc[died in 1805] at age 38 at no. 19 Evesen, which was the residence of his wife,
+Anna Catharine Sophia née Krömer, prior to their xref:petzen:PET-M-1790a.adoc[marriage] in 1790. 
 
 No. 19 Evesen is where Johann Heinrich and Anna Catharine Sophia née Krömer lived when their children were born:
 
-* xref:petzen:petzen-band2-image52.adoc[], who xref:petzen:petzen-band2-image230.adoc[died in 1794]
-* xref:petzen:petzen-band2-image59-60.adoc[]
-* xref:petzen:petzen-band2-image71.adoc[]
-* xref:petzen:petzen-band2-image82-1.adoc[]
+* xref:petzen:PET-B-1791a.adoc[], who xref:petzen:PET-D-1794a.adoc[died in 1794]
+* xref:petzen:PET-B-1793a.adoc[]
+* xref:petzen:PET-B-1798b.adoc[]
+* xref:petzen:PET-B-1803b.adoc[]
 
 According to his three daughter's confirmation records, after his death in 1805 his surviving wife and three daughters continued
 to live at "no. 19 Evesen". The first two records below list both parents, but all three records confirm their residence
 as "no. 19 Evesen":
 
-* xref:petzen:petzen-band2-image201.adoc[]
-* xref:petzen:petzen-band2-image207-2.adoc[]
-* xref:petzen:petzen-band2-image211-3.adoc[]
+* xref:petzen:PET-C-1806a.adoc[]
+* xref:petzen:PET-C-1811b.adoc[]
+* xref:petzen:PET-C-1817b.adoc[]
 
 The two oldest daughter's married before 1827, the last year of the "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827"
 that records their parent's marriage and their births, baptisms, confirmations and marriages. The 2^nd^ oldest daughter, Christine Louise,
-xref:petzen:petzen-band2-image339.adoc[married on December 1, 1816]. Philippine Louise Eleonore, the oldest daughter, married at age 29, on
-xref:petzen:petzen-band2-image348.adoc[May 12, 1822]. 
+xref:petzen:PET-M-1816a.adoc[married on December 1, 1816]. Philippine Louise Eleonore, the oldest daughter, married at age 29, on
+xref:petzen:PET-M-1822a.adoc[May 12, 1822]. 
 
 Both of their marriage records note that their father is deceased and that his address while he was alive is still their address, "no. 19 Evesen":
 
@@ -137,7 +137,7 @@ Maiden Philippine Louise Eleonore Kruckebergs, legitimate daughter of the late H
 Luth. Conf. and now 29 years old
 ____
 
-Contrast this with the xref:petzen:petzen-band2-image27-2.adoc[marriage record] for Marie Philippine Krückeberg. In the column
+Contrast this with the xref:petzen:PET-M-1812a.adoc[marriage record] for Marie Philippine Krückeberg. In the column
 for the groom labeled "Name, Stand, Religion und Eltern des Bräutigams" ("Name, status, religion, and parents of the groom"), it
 reads:
 
@@ -211,7 +211,7 @@ Petzen "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785
 . Sophie Caroline.
 --
 +
-That he had only three living children at the time of his death is confirmed by his 1805 xref:petzen:petzen-band2-image243.adoc[death and
+That he had only three living children at the time of his death is confirmed by his 1805 xref:petzen:PET-D-1805a.adoc[death and
 burial record] which gives his *Hinterbliebenden* (survivors) as "eine Wittwe and 3 Kinder" (a widow and 3 children).
 +
 Maria Phlippine could not be his daughter, too, because he only had three.

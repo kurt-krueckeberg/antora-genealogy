@@ -1,2 +1,2 @@
 .xref:index.adoc[]
-* xref:wallensen-kirchenbuch-1807-1848-image114.adoc[]
+* xref:WAL-B-1822a.adoc[]

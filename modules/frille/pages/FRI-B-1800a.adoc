@@ -1,0 +1,42 @@
+= 1800 Christian Friderich Bleeke Baptism
+:page-role: wide
+
+== Citation
+
+Christian Friderich Bleeke's baptism and birth is recorded on page 283 of of Frille "Verzeichnis der Getauften, Getrauten, Gestorbenen (Register of Baptism, Marriages, Deaths) 1758-1804 ", image 152 of 388
+It is on <<image152, image 152>>. The birth and baptism year appears on page 283. His birth and baptism is the 70^th^ of the year.
+
+== Image
+
+The baptism year of 1800 is written on the top of page 275 (of the baptism pages), which on image 148:
+
+image::frille-band2-img148-275.jpg[align=left,title='Getaufte 1800, page 275, image 148 (Click to englarge)',link=self]
+
+The baptism entry fo Christian Friderich Bleeke is on page 283 (of the baptism pages), which is on image 152:
+
+image::frille-band2-img152-283.jpg[align=left,title='Baptism of Christian Friderich Bleeke, 70^th^ of 1800 (Click to englarge)',link=self]
+
+=== Transliteration and Translation
+
+[caption="Transliteration and Translation 1: "]
+.Baptism of Christian Friderich Bleeke
+[%autowidth,options="noheader",cols="l",frame="none"]
+|===
+|                                                283
+
+|70) d. 25tn/28ten Dec. Christian Friderich Bleeke aus
+     Leteln. P[for Vater]. Christian Friderich Bleeke. M[for Mutter] Anne 
+     Margarthe Volckenings. Sp[for godparent]. Carl Friderich Hartman
+
+|70) On 25th/28th Dec. Christian Friderich Bleeke from
+     Leteln. [P. for father] Christian Friderich Bleeke. M[for Mutter] Anne 
+     Margarthe Volckening. Sp[godfather] Carl Friderich Hartman
+|===
+
+
+[bibliography]
+== Citations
+
+* [[[image152]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/949fb9ec7c/ :  12 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Frille >
+Verzeichnis der Getauften, Getrauten, Gestorbenen 1758-1804, image 152 of 388
+

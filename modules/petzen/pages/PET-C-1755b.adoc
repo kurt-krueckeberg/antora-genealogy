@@ -1,0 +1,73 @@
+= 1755 Sophie Maria Krückeberg Confirmation 
+:page-role: wide
+
+== Citation
+
+The confirmation is found on <<image313, image 313, on pages 652 and 652,>> ofthe Petzen Kirchenbuch volume "Verzeichnis der Getauften und Konfirmierten 1641-1784".
+
+== Image 310
+
+image::petzen-band1a-img310-left.jpg[align=left,title='Sophie Maria Krückeberg Confirmed 1755 (Click to enlarge)',link=self]
+
+[NOTE]
+No page number is written on this page.
+
+[caption="Transliteration and Translation: "]
+.1755 Confirmation Sophie Maria Krückeberg from Berenbusch 
+[cols="<m",frame="none"]
+|===
+^|                   Confirmati (Confirmed) 1755
+
+|Anna Ilse Margarethe Harmenings Röcke
+
+|Anna Elisabeth Röseners Röcke
+
+s|Sophie Maria Krückeberg aus Berenbusch
+
+|Charlotte Dieckmans (Einliegers) Röcke
+|===
+
+=== Citation
+
+* Sophie Maria Krückeberg from Berenbush +
++
+Her confirmation entry is on the <<image310-left, 310^th^ image, page 17,>> of "database with images".
+It is the fifth entry for the year 1757 on page 18 (whose page number is in the lower left hand of the page).
+
+The FamilySearch Tree-IDS [??TODO????].
+
+== Johann Heinrich Krückeberg Confirmation 1757
+
+=== Citation
+
+The confirmation entry for Johann Heinrich Krückeberg from Berenbusch is on the <<image310-right, 310^th^ image, page 18, of Confirmati>> > ofthe Petzen Kirchenbuch volume "Verzeichnis der Getauften und Konfirmierten 1641-1784".
+
+image::petzen-band1a-img310-right.jpg[align=left,title='Johann Heinrich Krückeberg Confirmed 1756 (Click to enlarge)',link=self]
+
+[NOTE]
+No page number is written on this page.
+
+[caption="Transliteration and Translation: "]
+.1756 Confirmation entry 5 of Johann Heinrich Krückeberg from Berenbsuch
+[cols="<m",frame="none"]
+|===
+^|                   Confirmati (Confirmed) 1756
+
+|Johann Heinrich Monchhof (Pühlsmeier) aus Evesen
+
+|Anton Wilhelm Stahlhut aus Röcke
+
+|Friederich Christian Widdel aus Röcke
+
+|Herman Heinrich Hermening aus Röcke
+
+s|Johan Heinrich Krückeberg aus(from) Berenbush
+|===
+
+[bibliography]
+== Citations
+
+* [[[image310-17]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/881666c669/: 30 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 313 of 322
+
+* [[[image310-18]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/c362c408ee/: 30 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 313 of 322
+

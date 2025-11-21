@@ -10,6 +10,7 @@
 ** xref:carl-f-bleeke-military-service.adoc[]
 //** xref:bueckeburg-bleeke-research.adoc[]
 ** xref:familienschein-original.adoc[]
+** xref:anne-margarethe-volkening.adoc[]
 //** xref:OrtsFamilienBücher.adoc[]   <-- The Petzen Ortsfamilienbuch does not mention Krückebergs
 //** xref:friedrich-wilhelm-weiland-evesen-questions.adoc[]
 * U.S. and Indiana-related Resarch Questions

@@ -1,0 +1,89 @@
+= 1785 Image 34 Baptism
+:page-role: wide
+
+Page 62 has the baptims of Philippiine Louise Weiland and page 63 has the baptims of Joahnn Heinrich Weiland.
+
+== Citations
+
+Philippine Louis Weiland's baptism is found on <<image34-62, image 34, page 62>> and Johann Heinrich Weiland's baptism is on
+<<image34-63, image 34 page 63 on Archion>> of Petzen Kirchenbuch volume 2.
+
+== Philippine Louise Weiland 1785
+
+On 10 July 1785 Philippina Louise Weiland was baptized, the daughter of Friederich Wilehlm Weilands from Evesen and his wife
+Philippine. The sponsor was Philippine Maria Beuken of Meinsen.
+
+=== Image 34, 1785, page 62, entry 29
+
+This entry of the birth of Philippine Louise Weiland, in 1785, occurs on the left hand page, page 62.
+
+image::petzen-band2-img34.jpg[align=left,title='Click to enlarge',link=self]
+
+[caption="Transliteration: "]
+.Baptism entry no. 29 for Philippine Louise Weiland
+[cols="m", frame="none",options="noheader"]
+|===
+<l|62                 Getaufte Aoo 1785
+
+|29) d 10ten Jul: ist Philippina Louise Weilands 
+des Friederich Wilehlm Weilands aus Evesen 
+Einlieger mit seiner Frau Philippine Witwe 
+[Scheifer] ge[boren] Watermans erzeugte Tochteer 
+getauft. Gevatterin war Philippine 
+Maria Beuken Meinsen gebürtig[native; by birth]
+|===
+
+[caption="Translation: "]
+.Baptism entry no. 29 for Philippine Louise Weiland
+[cols="m",frame="none",options="noheader"]
+|===
+<l|62                 Baptisms Anno 1785
+
+|29) On 10th Jul: Philippina Louise Weilands was baptized +
+the conceived daughter of Friederich Wilehlm Weilands from Evesen +
+a free farm laborer and his wife Philippine widow[widowed] +
+[Scheifer] née Waterman. +
+Godmother was Philippine +
+Maria Beuke Meinsen native-born
+|===
+
+== Stillborn Son of Johann Heinrich Weiland 1785
+
+This entry of the stillborth of the son of Johann Heinrich Weiland, in 1785, occurs on the right page, page 63.
+
+=== Image 34, page 63, entry 38
+
+image::petzen-band2-img34-right.jpg[align=left,title='Click to enlarge',link=self]
+
+[caption="Transliteration: "]
+.Baptism entry no. 38 for the stillborn son of Johann Heinrich Weiland
+[%autowidth,cols="m",header,frame="none"]
+|===
+^|Getaufte Aoo 1785                         63
+
+|38) d[ate] 23ten Septbr: ist des Johann Heinrich Weilands aus Evesen +
+No 21 mit seiner Ehefrau Catherine Elisabeth +
+geb. Barnemanns erzeugter Sohn Todt[archaic form of Tod] +
+auf die Welt gekommen
+|===
+
+Comment
+
+[caption="Translation: "]
+.Baptism entry no. 29 for the stillborn sone of Johann Heinrich Weildand
+[%autowidth,cols="m",options="noheader",frame="none"]
+|===
+^|Getaufte Aoo 1785                         63
+
+|38) On 23^th^ Sept: the begotten son of Johann Heinrich Weilands from Evesen +
+No 21 and his wife Katheine Elisabeth +
+born Bornemann came into the world dead. 
+|===
+
+
+[bibliography]
+== Citations
+
+* [[[image34-62]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/5d50809b33/ : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 34 of 357
+* [[[image34-63]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/268214a4fd/ : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 34 of 357
+

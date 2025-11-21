@@ -12,8 +12,8 @@ for these individuals:
 
 The residence is no. 19 Evesen is given for two daughter's marriages:
 
-* xref:petzen:petzen-band2-image339.adoc[1816 Christine Louise Krückeberg Marriage]
-* xref:petzen:petzen-band2-image348.adoc[1822 Philippine Louise Eleonore Krückeberg Marriage]
+* xref:petzen:PET-M-1816a.adoc[1816 Christine Louise Krückeberg Marriage]
+* xref:petzen:PET-M-1822a.adoc[1822 Philippine Louise Eleonore Krückeberg Marriage]
 
 In the 1816 marriage of daughter Christine Louise Eleonore, there is an addenda that gives her
 birthday and death date. Her birth record likewise contains an addendaq that gives the data for marriage. These two
@@ -38,10 +38,10 @@ Mention the steinbergen birth and the fact that it has no birth record in the St
 Then move this to the introduction to the church records.
 
 ** These are the most recent Nachträge:
-*** xref:petzen:petzen-band2-image125-entry31.adoc[1812 Carloline Dorothee Krückeberg Baptism]
-*** xref:petzen:petzen-band2-image27.adoc[1812 Philippine Caroline Christine Krückeberg Marriage]
-*** xref:petzen:petzen-band2-image27-2.adoc[1812 Marie Philippine Krückeberg Marriage]
-*** xref:petzen:petzen-band2-image339.adoc[1816 Christine Louise Krückeberg Marriage]
+*** xref:petzen:PET-B-1812a.adoc[1812 Carloline Dorothee Krückeberg Baptism]
+*** xref:petzen:PET-M-1812b.adoc[1812 Philippine Caroline Christine Krückeberg Marriage]
+*** xref:petzen:PET-M-1812a.adoc[1812 Marie Philippine Krückeberg Marriage]
+*** xref:petzen:PET-M-1816a.adoc[1816 Christine Louise Krückeberg Marriage]
 
 == Krückeberg Pedigree Analysis
 
@@ -63,7 +63,7 @@ have to infer the individual's identity. The Nachtrage confirms it for you.
 == Christine Louise Krückeberg Marriage
 
 The most recent church record for a Krückeberg in the "Verzeichnis der Getauften, Konfirmierten,
-Getrauten und Gestorbenen 1785-1827" that contains Nachtragis is the December 1, 1816, xref:petzen:petzen-band2-image339.adoc[marriage
+Getrauten und Gestorbenen 1785-1827" that contains Nachtragis is the December 1, 1816, xref:petzen:PET-M-1816a.adoc[marriage
 of Christine Louise Krückeberg].  At some point, Christine Louise Krückeberg's December 1, 1816, marriage
 record was supplemented with her birth-baptism date and after her death with her death date. 
 
@@ -129,7 +129,7 @@ This table summarizes the family information found in her marriage record:
 |===
 
 The birth Nachtrage (addendum) gives Christine Louise's birth/baptism date as
-on April 26, 1798]. Only one xref:petzen:petzen-band2-image71.adoc[Christine Louise
+on April 26, 1798]. Only one xref:petzen:PET-B-1798b.adoc[Christine Louise
 Kückeberg was baptized] in the Petzen church on that date. Her birth record, likewise,
 was later supplemented with her marriage date, December 1, 1816. This independently
 confirms the marriage and birth records refer to the same person.
@@ -174,7 +174,7 @@ geb. -- quote ?Thode's dictionary. Translated *née*. Née is a French word mean
 When placed after a woman's name it indicates her family name of birth.
 ====
 
-A xref:petzen:petzen-band2-image207-2.adoc[confirmation record] for Christine Louise Krückeberg
+A xref:petzen:PET-C-1811b.adoc[confirmation record] for Christine Louise Krückeberg
 is found around the expected date of her 13^th^ or 14^th^ birthday, on April 7, 1811, when she was three
 and a half weeks shy of 13 years old. Her identity is confirmed by matching the information
 given for her parent's names, her birthdate and the families current residence with the same
@@ -195,7 +195,7 @@ information in her marriage and baptism records. Ane by the fact that their are 
 |===
 
 Her mother's given name's differ slightly between these two records: "Anne Sophie Kromer" vs "Kathar[ine] Sophie Krömer".
-The xref:petzen:petzen-band2-image5-1.adoc[marriage record] of her parent's resolves this discrepancy. TODO explain that
+The xref:petzen:PET-M-1790a.adoc[marriage record] of her parent's resolves this discrepancy. TODO explain that
 marriage record has all her given names. But put the explanation after adding children below.
 
 .Negative Evidence
@@ -241,26 +241,26 @@ These birth/baptism records list the father abd mother as follows:
 |===
 |Father|Mother|Child|Birth Year|Residence
 
-|Johann Heinrch Kruckeberg|Anne Cathrine Sophie née Krömer|xref:petzen:petzen-band2-image59-60.adoc[Philippine Louise Leonore Krückeberg Baptism]|1793|no. 19 Evesen
+|Johann Heinrch Kruckeberg|Anne Cathrine Sophie née Krömer|xref:petzen:PET-B-1793a.adoc[Philippine Louise Leonore Krückeberg Baptism]|1793|no. 19 Evesen
 
 |Johann Heinrich Krückeberg|not given|Marie Philippine Krückeberg|1794|Steinbergen +
-Note: The birth year and place are from her xref:petzen:petzen-band2-image27-2.adoc[1812 marriage record Nachtrag].
+Note: The birth year and place are from her xref:petzen:PET-M-1812a.adoc[1812 marriage record Nachtrag].
 
-|Johann Heinrich Krückeberg|Anne Sophie née Crömer|xref:petzen:petzen-band2-image71.adoc[Christine Louise Krückeberg Baptism]|1798|no. 19 Evesen
+|Johann Heinrich Krückeberg|Anne Sophie née Crömer|xref:petzen:PET-B-1798b.adoc[Christine Louise Krückeberg Baptism]|1798|no. 19 Evesen
 
-|Johann Heinrich Krückeberg|Catharine Sophie Krömer|xref:petzen:petzen-band2-image82-1.adoc[Sophie Caroline Krückeberg Baptism]|1803|No. 19 Evesen
+|Johann Heinrich Krückeberg|Catharine Sophie Krömer|xref:petzen:PET-B-1803b.adoc[Sophie Caroline Krückeberg Baptism]|1803|No. 19 Evesen
 |===
 
 These confirmation records also provide the identity of both parents of a child.
 
-* xref:petzen:petzen-band2-image201.adoc[1806 Philippine Louise Leonore Krückeberg Confirmation]
-* xref:petzen:petzen-band2-image207-2.adoc[1811 Christine Louise Krückeberg Confirmation]
-* xref:petzen:petzen-band2-image211-3.adoc[1817 Sophie Caroline Krückeberg Confirmation]
+* xref:petzen:PET-C-1806a.adoc[1806 Philippine Louise Leonore Krückeberg Confirmation]
+* xref:petzen:PET-C-1811b.adoc[1811 Christine Louise Krückeberg Confirmation]
+* xref:petzen:PET-C-1817b.adoc[1817 Sophie Caroline Krückeberg Confirmation]
 
 These marriage records identify just one parent, the bride's father, Johann Heinrich Krückeberg of no. 19 Evesen:
 
-* xref:petzen:petzen-band2-image339.adoc[1816 Christine Louise Krückeberg Marriage]
-* xref:petzen:petzen-band2-image348.adoc[1822 Philippine Louise Eleonore Krückeberg Marriage]
+* xref:petzen:PET-M-1816a.adoc[1816 Christine Louise Krückeberg Marriage]
+* xref:petzen:PET-M-1822a.adoc[1822 Philippine Louise Eleonore Krückeberg Marriage]
 
 Theses recods should have the bride's 1.) father's name and his address, which is also her address since bride's
 lived at home until marriage. We can use the bride's age founnd in the marriage record to determine her approximate
@@ -280,9 +280,9 @@ In the marriage records for his daughters:
 * TODO: add  others
  
 their address prior to marriasge is given in terms of their father's address. This is true after his death, too, as the
-marriage records for his daughter Christine Louise Krückeberg shows: xref:petzen:/petzen-band2-image339.adoc[1816 Christine Louise Krückeberg Marriage]
+marriage records for his daughter Christine Louise Krückeberg shows: xref:petzen:PET-M-1816a.adoc[1816 Christine Louise Krückeberg Marriage]
 
-Q: If he died in 1805, why doesn't the xref:petzen:petzen-band2-image27-2.adoc[1812 marriage] of Marie Philippine Krückeberg also state this?
+Q: If he died in 1805, why doesn't the xref:petzen:PET-M-1812a.adoc[1812 marriage] of Marie Philippine Krückeberg also state this?
  
 
 .Family Group and Other Facts
@@ -335,4 +335,4 @@ no. 19 Evesen, whose father was dead by
 
 TODO:
 Prospective child, though mother's given  name is "off".
-* xref:petzen:petzen-band2-image52.adoc[1791 Friderich Wilhelm Krückeberg Baptism]
+* xref:petzen:PET-B-1791a.adoc[1791 Friderich Wilhelm Krückeberg Baptism]

@@ -1,0 +1,53 @@
+= 1798 Christine Marie Schwier Baptism
+:page-role: wide
+
+== Citation
+
+The baptism of Christine Marie Schwier occured on 13 May 1798. It is <<image138, image 138, page 259>> of the
+Frille "Verzeichnis der Getauften, Getrauten, Gestorbenen 1758-1804".
+
+== Images
+
+image::frille-band2-img138.png[title=Baptism Record for Christine Marie Schwier(Click to Enlarge),link=self]
+
+== Transliteration and Translation
+
+[NOTE]
+====
+*"Eodem"* means *"on the same days"* as the entry above, whose date is *13 Mai*.
+
+Thus, the baptism date is *13 May 1798*.
+====
+
+[.widepair,cols="1a,1a",frame=none,grid=none]
+|===
+|Transliteration|Translation
+
+|
+[literal.bordered,subs="verbatim,quotes"]
+....
+27)  Eodem Christine Marie Schwier aus
+Pr.  Wietersheim. P[ater]. Christian Schwier N. 27 M[ater].
+     Catherine Marg. Röseners.  Sp[onsor]. Anne Christi-
+     ne Marie Eleonore Möllers, Anne
+     Sophie Christine Klöppers.
+....
+
+|
+[literal.bordered,subs="verbatim,quotes"]
+....
+27) [By the Pastor.] [Baptized] On the same day, Christine Marie Schwier
+from Wietersheim. Father Christian Schwier N. 27. Mother Catherine
+Marg. Röseners.  Sponsors Anne Christine Marie Eleonore Möllers, Anne
+Sophie Christine Klöppers.
+....
+|===
+
+
+[bibliography]
+== Citations
+
+* [[[image138]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/a595935a48/:  
+7 November 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Frille >
+Verzeichnis der Getauften, Getrauten, Gestorbenen 1758-1804, image 138 of 388
+

@@ -1,0 +1,48 @@
+= 1757 Anna Maria Krückeberg Burial
+:page-role: wide
+
+== Family Group and Other Facts
+
+.Family Relationship Information
+[%header,width="55%",cols="2,3,1,2"]
+|===
+||Name|Age|Burial
+
+|*Individual*|Anna Maria Krückeberg|56|May 8, 1757
+
+|*Residence* 3+|Berenbusch
+|===
+
+== Citation
+
+The May 8, 1757, burial of Anna Maria Krückeberg from Berenbusch appears on <<band1b-img178-right, image 178>>, on the right-hand page, of the Petzen
+"Verzeichnis der Getrauten und Gestorbenen, 1641-1784".
+
+== Record
+
+image::petzen-band1b-img178-right.jpg[title="Burial of Anna Maria Krückeberg (Click to enlarge)",link=self]
+
+.Transliteration
+[literal.bordered,subs="verbatim,quotes"]
+....
+1757             Begraben                                                                 
+d 8t Maii Anna Maria Krückebergs
+      aus Berenbusch begraben alt 56 Jarhe
+....
+
+.Translation
+[literal.bordered,subs="verbatim,quotes"]
+....
+1757             Begraben                                                                 
+the 8th May Anna Maria Krückeberg
+      from Berenbusch [was] buried age 56 years
+....
+
+
+[bibliography]
+== Citations
+
+* [[[band1b-img178-right]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/48477a9b72/ :
+18 July 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche
+Schaumburg-Lippe > Petzen > Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 178 of 239
+

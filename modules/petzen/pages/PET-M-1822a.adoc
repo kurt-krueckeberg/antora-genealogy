@@ -1,0 +1,129 @@
+= 1822 Philippine Louise Eleonore Krückeberg Marriage
+:page-role: wide
+
+On 12 March 1822 Philippine Louise Eleonore Krückeberg, daughter of Johann Heinrich Krückeberg, married widower Johann Heinrich Klöpper.
+
+== Family Relationship and Other Facts
+
+[caption="Bride and Groom Facts for: "]
+.12 May 1822 Marraige
+[cols="1,3,2,1,3,2", options="header"]
+|===
+|        | Name             | Address (at time of marriage)  | Occupation     | Age | Religion
+
+| *Groom*
+|Widower Friedrich Wilhelm Drifftmeier|n. 19 Bärenbusch|Taglöhner|42|Lutheran
+
+| *Bride*
+|Maiden Philippine Louise Eleonore Kruckeberg|n. 19 Evesen +
+(assumed address. See Note)|n/a|29|Lutheran
+
+|*Bride's Father*|Heinrich Krückeberg +
+(deceased)|n. 19 Evesen|||Lutheran
+|===
+
+[NOTE]
+====
+In 19th-century German church records:
+
+* Individuals were often identified by village and house number associated with the head of household — usually the father.
+
+* This applied to both deceased and living fathers, and often included professions (like "Leibzüchter") or inheritance status
+(like "Anerbe").
+
+* Even if the son or daughter still lived at that house, the address is still formally associated with the father in these
+records.
+====
+
+.Bride Philippine Louise Eleonore Krückeberg's Father Facts
+[%header,width="50%",cols="4,2,2,2"]
+|===
+|Name|Status|Dwelling|Religion
+
+|Heinrich Krückeberg|deceased|n. 19 Evesen|Lutheran
+|===
+
+.Groom Friedrich Wilhelm Drifftmeier Facts
+[%header,width="40%",cols="1,1"]
+|===
+|Person|Fact
+
+|Friedrich Wilhelm Drifftmeier|Widower at time of marriage
+|===
+
+== Citation
+
+The marriage record is on <<image348, image 348, on pages 722 and 723>>, of the Petzen Kirchenbuch "Verzeichnis der Getauften,
+Konfirmierten, Getrauten und Gestorbenen 1785-1827".
+
+== Pages 722 and 723
+
+The header and column headings for pages 722 and 723:
+
+image::petzen-band2-img348-heading.jpg[align=left,title="Page and column headings (Click to enlarge)",link=self]
+
+=== The Marriage Record
+
+image::petzen-band2-img348-722.jpg[align=left,title="Click to enlarge",link=self]
+
+image::petzen-band2-img348-723.jpg[align=left,title="Click to enlarge",link=self]
+
+.Pages 722 and 723 header
+[literal.bordered,subs="verbatim,quotes"]
+....
+722                Copulierte im Kirchspiel Petzen (Marriages in the Parish Petzen)             im Jahr Iin the year) 1822                      723
+....
+
+[caption="Transliteration 1: "]
+.Marriage entry No. 6.
+[%header,cols="1,7,6,4,4,3,3,2",frame="none"]
+|===
+|Zahl |Name, Stand, Religion u. Eltern des Bräutigams |Name, Religion Geburt u. Wohnort der Braut |Zeit u. Ort + der Proclamation |Zeit u. Ort der Kopulation |der kopulirende Prädiger |Kopulations Zeugen |Bemerkungen
+
+|6.
+|Wittwer Friedrich Wilhelm Drifftmeier Taglöhner auf n. 19 in Bärenbusch. Luth. Conf. u. jetzt 42 Jahr alt
+|Jungfrau Philippine Louise Eleonore Kruckebergs, eheliche Tochter des verstorbenen Heinrich Krückeberg n. 19 in Evesen Luth. Conf. U. jetzt 29 Jhr alt
+|sind in der Kirche zu Petzen proclamirt d 31 März u. 7 u. 14 April
+|u. Kopulirt d 12 Maÿ
+|vom dem zeitigen Prediger Stille
+|in Gegenwart der Beichtenden
+|[empty]
+|===
+
+.What was a Taglöhner?
+****
+[NOTE]
+====
+A **Taglöhner** was an agricultural laborer who was paid on a daily basis, who likely worked
+under a contract.
+====
+
+This was a very common status in rural German territories like Schaumburg-Lippe,
+especially during population growth in the early 1800s, when there were too many
+people and too little land to go around.
+****
+
+
+
+[caption="Translation 1: "]
+.Marriage entry No. 6.
+[%header,cols="1,7,6,4,4,3,3,2",frame="none"]
+|===
+|No. |Name, Occupation, Religion, Parents des Bräutigums |Name, Religion Birth place and Residence of the Bride |Time and Place of the Proclamation |Time and Place of the Marriage |The officiating Minister |Marriage Witnesses |Remarks
+
+|6.
+|Widower Friedrich Wilhelm Dri[ff]tmeier day-laborer from n. 19 in Bärenbusch. Luth. Conf. and now 42 years old
+|Maiden Philippine Louise Eleonore Kruckebergs, legitimate daughter of the late Heinrich Krückeberg n. 19 in Evesen Luth. Conf. and now 29 years old
+|were proclaimed in the church at  Petzen on 31st March and 7th and 14th April
+|and married 12th May
+|by the current pastor Stille
+|in presence of the confessing
+|[empty]
+|===
+
+[bibliography]
+== Citations
+
+* [[[image348]]] "Archion Protestant Kirchenbücher Portal", database with images,
+http://www.archion.de/p/de1fdbc46c/ : 26 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+ Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 3487 of 357

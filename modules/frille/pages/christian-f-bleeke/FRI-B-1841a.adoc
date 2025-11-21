@@ -1,0 +1,100 @@
+= Christine Sophie Leonore Bleeke 1841 Birth
+:page-role: wide
+
+This record is from 
+link:https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_0248b6a4-ed8c-41ef-8e2b-f61ac1448763[Landesarchiv NRW
+Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des
+Regierungsbezirks Minden, Nr. B 168 Jg. 1831-1845]
+
+image::christian-f-bleeke/christine-sophie-leonore-bleeke-1841-birth.png[title=Click to Enlarge,link=self]
+
+.Transliteration of Christine Sophie Leonore Bleeke 1841 Birth
+[cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
+|===
+10+^s|Geborne und Getaufte im Jarhe 1841
+
+s|Nro.
+s|Tauf-Name
+des Kindes.
+s|Tag und Stunde
+der Geburt
+in
+Buchstaben und Ziffern.
+s|Ob es
+ehelich
+oder
+unehelich.
+s|Vor- and Zuname
+des Vaters,
+auch Stand desselben
+s|Vor- und Zuname
+der
+Mutter.
+s|Wohnort
+der
+Eltern
+s|Tag
+der
+Taufe.
+s|Namen des Predigers,
+der es getauft.
+s|Name der Taufzeugen
+
+|16
+|Christine Sophie
+Leonore Bleeke
+|Sieben (7) April Abds
+Fünf (5) Uhr in
+Leeteln
+|Ehelich
+|Christian Friederich
+Bleeke Ein. bei N. 3
+in Leeteln
+|Christine Luise
+geb. Krückeberg
+aus Berenbusch
+|Leeteln
+|Zwölften
+(12)
+April
+|Schütz
+|1) Marie Lenore Schildmeier
+2) Christine Sophie H[?]menah
+|===
+
+.Translation of Christine Sophie Leonore Bleeke 1841 Birth
+[cols="1,4,4,2,4,4,3,2,3,5a"]
+|===
+10+^s|Born and Baptized in the year 1841
+
+s|No.
+s|Baptismal name of the child.
+s|Day and hour of birth (in words and numbers)
+s|Whether legitimate or illegitimate
+s|Given and surname of the father, also his Status
+s|Given and surname of the mother
+s|Residence of the Parents
+s|Day of baptism
+s|Name of the minister
+s|Baptismal witnesses
+
+|16
+|Christine Sophie Leonore Bleeke
+|seventh (7) April Five (5) p.m. in Leeteln
+|legitimate
+|Christian Friederich Bleeke Ein[lieger]. bei N. 3 in Leeteln
+|Christine Luise geb. Krückeberg from Berenbusch
+|Leeteln
+|twelveth (12) April
+|Schütz
+|1) Marie Lenore Schildmeier +
+2) Christine Sophie H[?]menah
+|===
+
+== Citation
+
+Evangelische Gemeinde Frille (Kreis Minden), Kirchenbuchduplikate, section headed "Geborne und Getaufte im Jahr
+1841 in Kirchspiel Frille" [sic.], Nr. 16, Christine Sophie Leonore Bleeke, born 7 April 1841, baptized 12 April
+1841; Landesarchiv Nordrhein-Westfalen, Abteilung Ostwestfalen-Lippe (Detmold), Personenstandsarchiv
+Westfalen-Lippe; P 1 B-D, B 168 (Jg. 1831-1845); digital images, Archivsuche – Archive in NRW (DFG-Viewer), Image
+146/180 (accessed 20 September 2025); duplicate register; provenance: Land- und Stadt- bzw.  Kreisgericht Minden.

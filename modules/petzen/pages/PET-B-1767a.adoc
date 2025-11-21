@@ -1,0 +1,81 @@
+= 1767 Johann Heinrich Wilhelm Kruckeberg Baptism
+:page-role: wide
+
+== Family Relationship 
+
+The baptism of Johann Heinrich Wilhelm Kruckeberg occurred on July 5, 1767. 
+
+.Family Relationship 
+[%header,width="55%"]
+|===
+|||Baptism Date
+
+|*Father* 2+|Johann Heinrich Kruckeberg
+
+|*Mother* 2+|Anne Christine Elisabeth née Seeger
+
+|*Child* |Johann Heinrich Wilhelm|5 Jul. 1767
+
+|*Residence* 2+|Berenbusch
+|===
+
+.Baptism Sponsors
+[%header,width="30%"]
+|===
+|Name|Locality
+
+|Jobst Wilhelm Weiland|Berenbusch
+|===
+
+== Citation
+
+The baptism of Johann Heinrich Wilhelm Krückeberg is on <<image220, image 220>>, leftt page, last entry, of the Petzen
+"Verzeichnis der Getauften und Konfirmierten 1641-1784".
+
+== Baptism Record
+
+image::petzen-band1a-img220-overview.jpg[align=left,title='Johann Heinrich Krückeberg, left page of image 220, last entry (Click to enlarge)',link=self]
+
+image::petzen-band1a-img220-left.jpg[align=left,title='Johann Heinrich Krückeberg, left page of image 220, last entry (Click to enlarge)',link=self]
+
+.Comments on the significant wording change in these baptismal entries
+****
+[NOTE]
+.Meaning of "Eodem" Explained
+====
+`Eodem` means "on the same day" and refers to the date on the prior
+entry: 5 July 1767.
+====
+****
+
+.Transliteration of Page Header and 1767 Baptism of Johann Heinrich Wilhelm Krückeberg
+[literal.bordered,subs="verbatim,quotes"]
+....
+1776                  Getaufte 
+
+
+Eodem) ist alhier getauft Johann Heinrich Kruckebergs aus
+    Berenbusch mit seiner Ehefrau Anne Christine Elisabeth
+    Seegers erzeugter Sohn und genant worden Johann 
+    Heinrich Wilhelm von seinem Gevatter Jobst
+    Heinrich Weiland aus Berenbusch.
+....
+
+
+.Translation of Page Header and 1767 Baptism of Johann Heinrich Wilhelm Krückeberg
+[literal.bordered,subs="verbatim,quotes"]
+....
+On the same day the son of Johann Heinrich Kruckeberg
+ Berenbusch, by his wife Anne Christine Elisabeth
+ Seegers, was baptized here and named Johann 
+ Heinrich Wilhelm by his godfather Jobst
+ Heinrich Weiland from Berenbusch.
+....
+
+
+[bibliography]
+== Citations
+
+* [[[image220]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/c47579fcb0/ : 3 November 2023),
+path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getauften und Konfirmierten 1641-1784, image 220 of 322

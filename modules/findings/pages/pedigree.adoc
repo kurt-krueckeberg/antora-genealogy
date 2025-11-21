@@ -3,10 +3,10 @@
 == For the Pedigree of Carl Friedrich Krückeberg (born 1807) and Johann Heinrich Krückeberg
 * Write up a explanation and the significance of the Nachträge.
 * confirm the in most recent Nachträge:
-** xref:petzen:petzen-band2-image125-entry31.adoc[1812 Carloline Dorothee Krückeberg Baptism]
-** xref:petzen:petzen-band2-image27.adoc[1812 Philippine Caroline Christine Krückeberg Marriage]
-** xref:petzen:petzen-band2-image27-2.adoc[1812 Marie Philippine Krückeberg Marriage]
-** xref:petzen:petzen-band2-image339.adoc[1816 Christine Louise Krückeberg Marriage]
+** xref:petzen:PET-B-1812a.adoc[1812 Carloline Dorothee Krückeberg Baptism]
+** xref:petzen:PET-M-1812b.adoc[1812 Philippine Caroline Christine Krückeberg Marriage]
+** xref:petzen:PET-M-1812a.adoc[1812 Marie Philippine Krückeberg Marriage]
+** xref:petzen:PET-M-1816a.adoc[1816 Christine Louise Krückeberg Marriage]
 
 == For Their Descendents and Them
 

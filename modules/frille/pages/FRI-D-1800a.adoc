@@ -1,0 +1,42 @@
+= 1800 Carl Fridrich Bleecke Death
+:page-role: wide
+
+
+== Citation
+
+The death of Carl Fridirch Bleecke occurred on 1 January 1800. It is <<image331, image 331, page 219 of the listing of deaths>>.
+
+== Images
+
+image::frille-band2-img331.jpg[align=left,title='Death entry for Carl Fridrich Bleecke (Click to englarge)',link=self]
+
+=== Transliteration and Translation
+
+[NOTE]
+.`Pr` abbrviation
+====
+Many entries have written immediatly below that date what seems to be the abbrviation **Pr.**. Some entries have a longer abbreviation.
+What does it stand for? There is no key or legend to consult.
+====
+
+[caption="Transliteration and Translation 1: "]
+.Death of Carl Fridrich Bleecke 1 January 1800
+[%autowidth,options="noheader",cols="l",frame="none"]
+|===
+|                                                219
+
+|1) d 1ten Jan. Carl Friderich Bleecke 
+Pr. Schulmeister in Leteln, starb von der
+    Schwindsucht, alt 60 Jar. maritus. 
+
+|1) On January 1st 1800 Carl Fridrich Bleecke 
+Pr. schoolmaster in Letelen, died from consumption, at age 60 married
+|===
+
+
+[bibliography]
+== Citations
+
+* [[[image331]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/2b8cceb2e2/ :  12 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Frille >
+Verzeichnis der Getauften, Getrauten, Gestorbenen 1758-1804, image 331 of 388
+

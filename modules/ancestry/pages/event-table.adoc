@@ -1,3 +1,5 @@
+= Event Table
+
 [cols="1,2,2,2,2,3", options="header"]
 |===
 | House No. | Record Date | Person Named | Occupation / Status | Event Type | Notes (Sponsors, Relationships, Links)

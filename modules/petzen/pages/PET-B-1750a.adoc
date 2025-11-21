@@ -1,0 +1,54 @@
+= 1750 Carl Philip Krückeberg Baptism
+:page-role: wide
+
+== Family Relationship 
+
+.Family Information
+[width="50%"]
+|===
+|Child Baptized|Baptism Date|Family Residence|Trade
+
+|Carl Philip Krückeberg|4 Nov. 1750|Bernbusch|linen weavers
+|===
+
+.Godfather
+[width="30%"]
+|===
+|Name
+
+|Fahlsing's son from Evesen
+|===
+
+== Citation
+
+The baptism of Carl Philip Krückeberg is on <<image180, image 180>>, right page, 3^rd^ entry from the bottom, of the
+"Register of Baptism and Confirmed of the Petzen Parish, 1641-1784".
+
+== Baptism Record
+
+image::petzen-band1a-img180.jpg[align=left,title='Carl Philip Krückberg baptism, (Click to enlarge)',link=self]
+
+.Transliteration
+[literal.bordered,subs="verbatim,quotes"]
+....
+d. 4[ten] Novemb. Carl Philip Krückeberg
+des Leineweber Kruckebergs zu Bernbusch Sohn
+getauft: Gev[atter]. Fahlsings Sohn aus Eversen
+....
+
+.Translation
+[literal.bordered,subs="verbatim,quotes"]
+....
+On the 4th of November, Carl Philip Krückeberg,
+son of the linen weaver Krückeberg of Bernbusch,
+was baptized; godfather: Fahlsing’s son from Evesen.
+....
+
+
+[bibliography]
+== Citations
+
+* [[[image180]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archen.de/p/7a99d09111/ : 10 May 2025), path:
+Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der
+Getauften und Konfirmierten 1641-1784, image 180 322, right-hand page, 3^rd^ entry from the bottom
+

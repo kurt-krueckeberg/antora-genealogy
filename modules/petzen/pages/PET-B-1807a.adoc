@@ -1,0 +1,165 @@
+= 1807 Carl Friedrich Krückeberg Baptism
+:page-role: wide
+
+[.narrow]
+== Family Relationship and Other Facts
+
+.Family Relationship Facts
+[%header,cols="3,3,3,2"]
+|===
+|Father|Mother|Child|Residence
+
+|Carl Friedrich Gottlieb Krückeberg|Philippine Lenore née *Bleeken†* +
+|Carl Friedrich Krückeberg|no. 14 Bärenbusch
+|===
+
+IMPORTANT: †*Bleeken* is in error. It should be *Werkmeister*. See the
+xref:findings:proof-arg-philippine-eleonore.adoc[explanation].
+
+.Child Facts
+[%header,cols="3,3,2,2,2,2"]
+|===
+|Name|Place of Birth|Birth Date|Baptism Date|Birth Order|Sex Birth Order
+
+|Carl Friedrich Krückeberg|Bärenbusch +
+(number not given)|21 May 1807|24 May 1807|2^nd^|1^st^ son
+|===
+
+.Father Carl Friedrich Gottlieb Krückeberg Facts
+[%header,cols="4,2,2,1"]
+|===
+|Name|Birth Place|"Stand"|Religion
+
+
+|Carl Friedrich Gottlieb Krückeberg|n. 14 Berenbusch|Tailor and Einlieger +
+(see Note below)|Lutheran
+|===
+
+.Mother Philippine Lenore née Werkmeister/Bleeken Facts
+[%header]
+|===
+|Name|Birth Place|Religion
+
+|Philippine Lenore née Werkmeister/Bleeken|no. 11 Evesen|Lutheran
+|===
+
+.Baptismal Sponsor
+[%header,width="65%"]
+|===
+|Name|Residence
+
+|Hans Heinrich Wilharm|n. 11 Evesen
+
+|Johann Heinrich Deerberg|n. 11 Evesen +
+(give as: "the same")
+
+|Jobst Heinrich Krückeberg|Bärenbusch
+|===
+
+.Meaning of Einlieger
+****
+[NOTE]
+====
+*“Schneider und Einlieger in Nr. 14 in Bärenbusch”* tells us two separate
+things: his trade (tailor) and his social/tenurial position (Einlieger). An
+Einlieger in early-19th-century rural Germany was typically a lodger or
+subtenant without a full farm or house place of their own—part of the
+unterbäuerliche (sub-peasant) strata who lived “in” an existing holding rather
+than as the recognized holder of it. 
+
+So “Einlieger in Nr. 14” very strongly suggests that Carl Friedrich Gottlieb
+Krückeberg did not own or inherit farm no. 14, but instead rented rooms or a
+small secondary dwelling on that property, supporting himself as a tailor while
+living in the household (or on the land) of whoever was the actual
+Colon/householder of No. 14 in Berenbusch.
+====
+****
+
+[.narrow]
+== Citation
+
+The birth and baptism of Carl Friedrich Krückeberg is <<image96-186, on image 96, pages 186 and 187, entry 20,>> of
+Kirchenbuch "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827" from the
+link:https://www.archion.de[Archion.de] database of Kirchbücher digital images.
+
+== Image of Pages 186 and 187
+
+image::petzen-band2-img96-overview.jpg[title="Overview of pages 186-187 (Click to enlarge)",link=self]
+
+== Transliteration and Translation of Header for Pages 186 and 187
+
+.Transliteration of Header for Pages 186 and 187
+[literal.bordered,subs="verbatim,quotes"]
+....
+186         Getaufte im Kirchspiele Petzen                      im Jahr 1807                            187
+....
+
+.Translation of Header for Pages 186 and 187
+[literal.bordered,subs="verbatim,quotes"]
+....
+186         Baptisms in the Parish of Petzen                   in the Year 1807                          187
+....
+
+== Entry 20, Page 186
+
+image::petzen-band2-img96-186.jpg[title="Entry 20, page 186 portion(Click to enlarge)",link=self]
+
+== Entry 20, Page 187
+
+image::petzen-band2-img96-187.jpg[title="Entry 20, page 187 portion(Click to enlarge)",link=self]
+
+== Transliteration and Translation of Entry 20
+
+[caption="Transliteration: "]
+.Carl Friedrich Krückeberg Baptism
+[%header,cols="1,2,2,2,2,3,3,3,3",frame="none"]
+|===
+|N.|Name des Kindes |Zahl |Geburtzeit +
+u. Geburtsort |Taufzeit und +
+Taufort des Kindes |Name, Stand Religion +
+u. Geburts ort des Vaters  |Name, Religion +
+u. Geburtsort der +
+Mutter |Wohnort +
+der +
+Eltern |Taufzeugen
+
+|20
+|Carl Friedrich Krückeberg
+|das 2ten Kind u. 1ten Sohn
+|ist geboren d. 21ten Mai. abends 8 Uhr in Bärenbusch
+|wurde getauft 24. Mai in der Kirche
+|Carl Friedrich Gottlieb Krückeberg. Schneider u. Einlieger in n. 14 in Bärenbusch. Luth. Conf.
+|Philippine Leonore geb. Blecken aus n. 11 in Evesen, Luth Conf.
+|wohnen auf n. 14 in Bärenbusch
+|1 Hans Heinrich Wilharm n. 11 in Evesen 2. Joh. Heinr. Deerberg n. [6?] daselbst, u. 3. Jobst Heinrich Kruckeberg aus Bärenbusch
+|===
+
+NOTE: As mentioned above, the maiden name *Bleeken* is in error in the church register. It should be *Werkmeister*. See the explanation
+xref:findings:proof-arg-philippine-eleonore.adoc[here].
+
+[caption="Translation: "]
+.Carl Friedrich Krückeberg Baptism
+[%header,cols="1,2,2,2,2,3,3,3,3",frame="none"]
+|===
+|N. |Child's Name|Number|Time of Birth +
+and Birth Place|Child's Time of Baptism and +
+Place |Father's Name, Occupation Religion +
+and Birth Place |Mother's Name, Religion +
+and Birthplace |Parent's Residence|Baptismal Sponsors
+
+|20
+|Carl Friedrich Krückeberg
+|the 2^nd^ child and 1^st^ son
+|Born 21^th^ May 8 o'clock in the evening in Bärenbusch
+|baptized the 24^th^ May in the church
+|Carl Friedrich Gottlieb Krückeberg. Tailor and free farm laborer in n. 14 in Bärenbusch. Luth. Conf.
+|Philippine Leonore born Blecken from no. 11 in Evesen, Luth Conf.
+|live in n. 14 in Bärenbusch
+|1 Hans Heinrich Wilharm n. 11 in Evesen 2 Joh. Heinr. Deerberg n. [0/O?] in said place, u. 3 Jobst Heinrich Kruckeberg from Bärenbusch
+|===
+
+[bibliography]
+== Citations
+
+* [[[image96-186]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/4af33a94aa/ : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 96 of 357
+

@@ -1,0 +1,92 @@
+= 1793 Philippina Eleonora Kruckebergen Baptism
+:page-role: wide
+
+== Family Relationship and Other Facts
+
+.1793 Philippina Eleonora Kruckebergen Baptism
+[%header,cols="1,2,1,1",width="60%"]
+|===
+|||Baptism Date|Sex Birth Order
+
+|*Father* 3+|Johann Heinrich Krückeberg
+
+|*Mother* 3+|Katherina Sophienée Krömer
+
+|*Child*|Philippina Eleonora Krückeberg|21 April 1793|1^st^ daughter +
+
+|*Residence* 3+|no. 19 Evesen
+|===
+
+.Baptism Sponsors
+[width="40%"cols="3,1"]
+|===
+|Name|Locality
+
+|Christina Margaretha Krückeberg|Ber[enbusch]
+
+|Sophie Margaretha Nerge|Meinsen
+
+|Catharina Margaretha Rinne|Evesen
+|===
+
+== Citation
+
+The baptism of Philippina Eloenora Kruckebergen 1793 is the last entry, entry 16, on page 113, and it is continued at the top of page 114.
+This entry appears on <<image59-113,image 59, page 113>>, and the top of <<image60-114, page 114, on image 60>> of Petzen Kirchenbuch volume 2.
+
+== Pages 112-113
+
+Header:
+
+image::petzen-band2-img59-header.jpg[align="left",title="Click to enlarge",link=self]
+
+Page 113:
+
+image::petzen-band2-img59-113.jpg[align="left",title="Click to enlarge",link=self]
+
+Page 114:
+
+image::petzen-band2-img60-114.jpg[align="left",title="Click to enlarge",link=self]
+
+.Transliteration of page 113, entry 16
+[literal.bordered,subs="verbatim,quotes"]
+....
+16) d 21 April: ist Philippina Eloenora Kruckenbergen
+des Johann Heinrich Krückeberg aus Evesen
+No 19 mit seiner Ehefrau Katherina Sophie
+geb. Krömern erzeugten und d [1?]ten geb. Tochter.
+
+ [the record continues at the top of page 114]
+
+getauft. Gevatttern sind [gemeinsam?]
+1) Christina Margaretha Krückebergs aus Ber:
+2) Sophie Margaretha Nergen aus Meinsen
+3) Catharina Margaretha Rinne aus Evesen
+3) Catharina Margaretha Rinne aus Evesen
+....
+
+.Translation of page 113 header and entry 16
+[literal.bordered,subs="verbatim,quotes"]
+....
+16) 21 April: Philippina Eleonora Kruckenbergen was baptized
+the begotten daughter of Johann Heinrich Krückeberg from Evesen
+No 19, by his wife Katherina Sophie
+née Krömer and the [1?]st born daughter.
+
+ [entry continues at the top of page 114]
+
+Female sponsors are [together?]
+1) Christina Margaretha Krückeberg from Ber[enbusch]:
+2) Sophie Margaretha Nerge aus Meinsen
+3) Catharina Margaretha Rinne aus Evesen
+....
+
+
+[bibliography]
+== Citations
+
+* [[[image59-113]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/f40c1c2ef5/ : 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+  Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 59 of 357
+
+* [[[image60-114]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/bc6e28650d/ : 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+  Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 60 of 357

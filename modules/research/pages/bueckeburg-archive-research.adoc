@@ -9,12 +9,12 @@ children discussed below who were born in 1736, 1741, 1744, 1746 and 1750.
 [.narrow]
 === Background to Unknown Parentage
 
-On xref:petzen:petzen-band1b-image36.adoc[28 September 1727] Johann Henrich Krückeberg from
+On xref:petzen:PET-M-1727a.adoc[28 September 1727] Johann Henrich Krückeberg from
 Berenbusch married Anna Marie Vahlsing from Evesen. We know of no other early 18^th^ century
 marriage in the Petzen Gemeinde, and the Kirchenbuch images for this time period are of very poor
 quality to begin with.
 
-Furthermore, we know Anna Maria Vahlsing was born in 1701 because her xref:petzen:petzen-band1b-image178-right.adoc[May
+Furthermore, we know Anna Maria Vahlsing was born in 1701 because her xref:petzen:PET-D-1757b.adoc[May
 8, 1757, death record] states she was age 56 when she died.
 
 Ten Krückeberg children were born between 1728 and 1750, one 
@@ -32,7 +32,7 @@ The table below summarizes what is known of the parentage of these seven childre
 |===
 |Baptism Date|Child's Name|Parentage Information in Record
 
-|xref:petzen:petzen-band1a-image140.adoc[July 7, 1728]
+|xref:petzen:PET-B-1728a.adoc[July 7, 1728]
 |Johann Friedrich Krückeberg
 |His baptism record states:
 
@@ -41,7 +41,7 @@ The table below summarizes what is known of the parentage of these seven childre
 *Johann Heinrich Krückebergs* aus Berenbusch Söhnlein Johann Friedrich getauft
 ....
 
-|xref:petzen:petzen-band1a-image149.adoc[6 Sept. 1733]
+|xref:petzen:PET-B-1733a.adoc[6 Sept. 1733]
 |Jobst Heinrich Krückeberg
 |His baptism record states:
 
@@ -51,7 +51,7 @@ d 6th Septembr ist Johann Hinrich Krückeberg
 im Berenbusch Söhnlein Jobst Hinrich getrauft.
 ....
 
-|xref:petzen:petzen-band1b-image150.adoc[14 Feb. 1734]|
+|xref:petzen:PET-D-1734a.adoc[14 Feb. 1734]|
 Unamed "small" daughter buried
 |
 [literal.bordered,subs="verbatim,quotes"]
@@ -60,7 +60,7 @@ Unamed "small" daughter buried
 Töchterlein begrab lasß.
 ....
 
-|xref:petzen:petzen-band1a-image152.adoc[29 Jan. 1736]
+|xref:petzen:PET-B-1736a.adoc[29 Jan. 1736]
 |Dorothea Elisabeth Krückeberg
 |
 [literal.bordered,subs="verbatim,quotes"]
@@ -68,9 +68,9 @@ Töchterlein begrab lasß.
 Krückeberg v. [B. B.] ein Töchterl[ein] tauft lassen (Krückeberg from Berenbusch had a daughter baptized.)
 ....                                              
 
-|xref:petzen:petzen-band1a-image157.adoc[11 Feb. 1739]
+|xref:petzen:PET-B-1739a.adoc[11 Feb. 1739]
 |Johann Wilhelm Krückeberg
-|His xref:petzen:petzen-band1b-image167.adoc[death record]
+|His xref:petzen:PET-D-1747a.adoc[death record]
 states: +
 [literal.bordered,subs="verbatim,quotes"]
 ....
@@ -86,9 +86,9 @@ son of Johann Heinrich Krückeberg from Berenbusch,
 was buried, aged 8¾ years
 ....
                                               
-|xref:petzen:petzen-band1a-image163.adoc[27 Dec. 1741]
+|xref:petzen:PET-B-1741a.adoc[27 Dec. 1741]
 |Sophie Marie Krückeberg
-|From her xref:petzen:petzen-band2-image239.adoc[death
+|From her xref:petzen:PET-D-1801a.adoc[death
 record]:
 
 [literal.bordered,subs="verbatim,quotes"]
@@ -97,7 +97,7 @@ Sophie Marie Krückeberg, des *Jobst Heinrich Krückeberg* nachgelaßen, blindge
 Krückeberg, surviving daughter of Jobst Heinrich Krückeberg, born blind)
 ....
 
-|xref:petzen:petzen-band1a-image167.adoc[19 Jan. 1744]
+|xref:petzen:PET-B-1744a.adoc[19 Jan. 1744]
 |Johann Heinrich Krückeberg
 |
 [literal.bordered,subs="verbatim,quotes"]
@@ -108,7 +108,7 @@ d. 19 dito Krückeberg ein Söhnlein taufen laßen
 Soh[n?] von Nordholtz.
 ....
 
-|xref:petzen:petzen-band1a-image174.adoc[26 Oct. 1746]
+|xref:petzen:PET-B-1746a.adoc[26 Oct. 1746]
 |Anna Louise Eleonore Krückeberg
 |
 [literal.bordered,subs="verbatim,quotes"]
@@ -118,7 +118,7 @@ Pater _ _ _ Krückeberg aus Berenbusch Gevatter Rödenbecks
 Tochter aus Scheye
 ....
 
-|xref:petzen:petzen-band1a-image180.adoc[4 Nov. 1750]
+|xref:petzen:PET-B-1750a.adoc[4 Nov. 1750]
 |Carl Philip Krückeberg
 |
 [literal.bordered,subs="verbatim,quotes"]
@@ -376,7 +376,7 @@ I would also like transcription for the records below, which are approximate dat
 //|xref:#marriages-1805-1852[Frille Marriages 1805-1853]
 //|===
 //
-//We have the xref:frille:carl-f-bleeke/christine-louise-bleeke-1820-birth.adoc[birth and baptism dates] in the table
+//We have the xref:frille:carl-f-bleeke/FRI-B-1820a.adoc[birth and baptism dates] in the table
 //below from the Frille Kirchenbuchduplikate, but would like them confirmed. We would like to have a transliteration
 //(along with the column headers) of the confirmation record for *Christine Louise Bleeke, who was born 28 March
 //1820*.
@@ -403,7 +403,7 @@ I would also like transcription for the records below, which are approximate dat
 //|Friederich Joseph Bleeke|12 Mar. 1837 in Cincinnati|19 Mar. 1837 in Cincinnati|Iowa|
 //|===
 //
-//We have the xref:frille:jhp-bleeke/carl-heinrich-bleeke-1818-birth.adoc[birth and baptism dates] in the table below
+//We have the xref:frille:jhp-bleeke/FRI-B-1818a.adoc[birth and baptism dates] in the table below
 //from the Frille Kirchenbuchduplikate, but would like them confirmed. We would like to have a transliteration (along
 //with the column headers) of the confirmation record for *Carl Heinrich Bleeke born April 27, 1818*, and *Chrisitan
 //Friedrich Bleeke born April 27, 1821*.
@@ -436,7 +436,7 @@ I would also like transcription for the records below, which are approximate dat
 //|xref:#baptisms-1805-1935[Frille Baptisms 1805-1935]
 //|===
 //
-//We have the xref:frille:christian-f-bleeke/christine-luise-bleeke-1827-birth.adoc[birth and baptism dates] in the
+//We have the xref:frille:christian-f-bleeke/FRI-B-1827a.adoc[birth and baptism dates] in the
 //table below from the Frille Kirchenbuchduplikate, but would like them confirmed. We would like transliterations
 //(along with the column headers) of the confirmation record for *Christine Luise Bleeke, born December 19, 1827*,
 //and *Sophie Christine Leonore Bleeke, born July 27, 1830*.
@@ -530,11 +530,11 @@ I would also like transcription for the records below, which are approximate dat
 
 //*TODO:* Add those individuals currently listed as children of Johann Henrich
 
-//* xref:petzen:petzen-band1a-image140.adoc[]
-//* xref:petzen:petzen-band1a-image152.adoc[]
-//* xref:petzen:petzen-band1a-image167.adoc[]
-//* xref:petzen:petzen-band1a-image174.adoc[]
-//* xref:petzen:petzen-band1a-image180.adoc[]
+//* xref:petzen:PET-B-1728a.adoc[]
+//* xref:petzen:PET-B-1736a.adoc[]
+//* xref:petzen:PET-B-1744a.adoc[]
+//* xref:petzen:PET-B-1746a.adoc[]
+//* xref:petzen:PET-B-1750a.adoc[]
 
 [.narrow]
 === Emigration Dates to Look for

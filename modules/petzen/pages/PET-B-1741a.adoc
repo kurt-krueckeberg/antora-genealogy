@@ -1,0 +1,56 @@
+= 1741 Sophia Maria Kruekeberg Baptized
+:page-role: wide
+
+== Family Relationship and Other Facts
+
+[caption="Baptism of: "]
+.Sophia Maria Kruekeberg
+[width="55%"]
+|===
+|Name|Baptism Date|Residence/Locality
+
+|Sophia Maria Kruekeberg|Dec. 27 1741|Behrenbusch
+|===
+
+The baptism of Sophia Maria Krückeberg occurred on December 27^th^ 1741. 
+
+== Citation
+
+The baptism entry is found on <<image163, image 163>>. It is the third to last entry near the bottom
+of the left-hand page (the pages are unnumbered). It is the last entry in December of 1741, The year
+**1741** appears two pages previous.
+
+== Baptism Record
+
+NOTE: The text is difficult to be certain of. *von der Fr. Verwalterin Gaden zur Hökersau getaufft* 
+(Baptized by Mrs. Gaden, the steward’s wife at Hökersau) represents the best educated guess.
+
+image::petzen-band1a-img163.jpg[title="Sophia Maria Krückeberg (Click to enlarge)",link=self]
+
+.Transliteration 
+[literal.bordered,subs="verbatim,quotes"]
+....
+27t Kruekeberg in Behrenbusch ein Tochterlein Sophia
+Maria [genennet] von der Fr. Verwalterin Gaden
+zur Hökersau getaufft.
+....
+
+NOTE: The month of December is written two entries above written as the abbreviation
+**Decemb**.
+
+.Translation
+[literal.bordered,subs="verbatim,quotes"]
+....
+On 27th [December]: Kruekeberg in Behrenbusch,
+a little daughter named Sophia Maria.
+Baptized by Mrs. Gaden, the steward’s wife at Hökersau 
+[alternately: by Mrs. Administrator (Verwalterin) Gaden of Hökersau]
+....
+
+[bibliography]
+== Citations
+
+* [[[image163]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/63792c38f4/ : 10 May 2025),
+path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten, 1641-1784
+> Image 163 of 322, left hand page, 3^rd^ to last entry on the left-hand page.
+

@@ -1,0 +1,53 @@
+= 1764 Carl Krückeberg Confirmation
+:page-role: wide
+
+== Family Relationship 
+
+.Confirmand
+[%header,width="40%"]
+|===
+|Name|Date of Confirmation|Residence
+
+|Carl Krückeberg|1764|Berenbusch
+|===
+
+== Citation
+
+The confirmation entry is on <<image313, image 313>>, the 6^th^ entry for 1764, of the Petzen
+"Verzeichnis der Getauften und Konfirmierten 1641-1784".
+
+== Image 313
+
+image::petzen-band1a-img313.jpg[align=left,title='Carl Krückeberg Confirmed 1764 (Click to enlarge)',link=self]
+
+[NOTE]
+No page numbers are written on these confirmation entries.
+
+[caption="Transliteration and Translation: "]
+.1764 Confirmation entry (no. 6) for Carl Krückeberg 
+[cols="<l",frame="none"]
+|===
+>|                                                                   9
+
+^|                   Confirmati 1764
+                     Confirmed 1764
+
+|Ernst Wilhelm Hartmann aus(from) Röcke
+
+|Ernst Pape aus(from) Petzen
+
+|Carl Klodthacke aus(from) Petzen
+
+|              Scheifer    
+Jobst Heinrich Hofmeier aus(from) Evesen
+
+|Carl Pape aus(from) Röcke
+
+|Carl Krückeberg aus(from) Berenbusch
+|===
+
+[bibliography]
+== Citations
+
+* [[[image313]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/62093969d6/: 30 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 313 of 322
+

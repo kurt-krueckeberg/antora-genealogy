@@ -1,0 +1,101 @@
+= 1823 Carl Friederich Bleeke Birth
+:page-role: wide
+
+This record is from the
+link:https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820&mandant=10003[Landesarchiv
+NRW Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks
+Minden, Nr. B 168 Jg. 1815-1830].
+
+image::carl-f-bleeke/carl-friederich-bleeke-1823-birth.png[title="Click to Enlarge",link=self]
+
+== Transliteration and Translation
+
+.Transliteration of Carl Friederich Bleeke 1823 Birth
+[cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
+|===
+10+^s|Geborene und Getaufte im Jarhe 1823
+
+s|Nro.
+s|Tauf-Name
+des Kindes.
+s|Tag und Stunde
+der Geburt
+in
+Buchstaben und Ziffern.
+s|Ob es
+ehelich
+oder
+unehelich.
+s|Vor- and Zuname
+des Vaters,
+auch Stand desselben
+s|Vor- und Zuname
+der
+Mutter.
+s|Wohnort
+der
+Eltern
+s|Tag
+der
+Taufe.
+s|Namen des Predigers,
+der es getauft.
+s|Name der Taufzeugen
+
+|39
+|Carl Fried: Bleeke
+|zwölften (12) October
+Nachts elf (11) Uhr zu
+Leeteln.
+|ehelich
+|Carl Fried: Bleeke
+No. 13 Leeteln
+|Marie Luise Nie-
+mann
+|Leeteln
+No. 13
+|Neunzehnten
+(19) October
+|Schütz
+|Carl Fried: Hartmann
+aus Frille
+|=== 
+
+.Translation of Carl Friederich Bleeke 1823 Birth
+[cols="1,4,4,2,4,4,3,2,3,5"]
+|===
+10+^s|Births and Baptims in 1823
+
+s|Num.
+s|Baptism-Name of the child.
+s|Day and Hour of the Birth (in words and numbers).
+s|Whether it is legitimate or illegitimate
+s|Given and Surname of the Father, and his Status.
+s|Given and Surname of the Mother.
+s|Dwelling Place of the Parents
+s|Baptism Day
+s|Name of the Pastor who baptized child.
+s|Baptismal Sponsors
+
+|39
+|Carl Fried: Bleeke
+|twelfeth (12) October
+eleven (11) p.m. at Leeteln
+|legitimage
+|Carl Fried: Bleeke No. 13 Leeteln
+|Marie Luise Niemann
+|Leeteln No. 13
+|nineteenth (19) October
+|Schütz
+|Carl Fried: Hartmann from Frille
+
+|=== 
+
+== Citation
+
+Evangelische Gemeinde Frille (Kreis Minden), Kirchenbuchduplikate, section headed “Gebohrne u. Getaufte im Jahr
+1823" [sic.], Nr. 39, Carl Fried: Bleeke, born 12 Oct. 1823, baptized 19 Oct. 1823, son of Carl Fried: Bleeke
+and Marie Luise Niemann; Landesarchiv Nordrhein-Westfalen, Abteilung Ostwestfalen-Lippe (Detmold),
+Personenstandsarchiv Westfalen-Lippe; P 1 B-D, B 168 (Jg. 1815–1830); digital images, 
+Archivsuche – Archive in NRW (DFG-Viewer), Image 100 of 180 (accessed 18 September 2025); duplicate register;
+provenance: Land- und Stadt- bzw. Kreisgericht Minden.

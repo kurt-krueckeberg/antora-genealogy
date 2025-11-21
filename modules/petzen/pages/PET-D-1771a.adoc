@@ -1,0 +1,53 @@
+= 1771 Stillborn son of Johann Heinrich Kruckeberg Interred
+:page-role: wide
+
+== Family Group and Other Facts
+
+.Family Relationship Information
+[%header,width="65%",cols="1,3,1"]
+|===
+||Name|Burial
+
+|*Father*|Johann Heinrich Kruckeberg|
+
+|*stillborn son*|unnamed|June 23, 1771
+
+|*Residence*|Berenbusch|
+|===
+
+== Citation
+
+The June 23, 1771, interment of the stillborn son of Johann Heinrich Kruckeberg of Berenbusch
+appears on <<band1b-img204, image 204>>, on the left-hand page of the Petzen "Verzeichnis der
+Getrauten und Gestorbenen, 1641-1784".
+
+== Record
+
+image::petzen-band1b-img204.jpg[title="Stillbon son of Johann Heinrich Kruckebergn (Click to enlarge)",link=self]
+
+.Transliteration
+[literal.bordered,subs="verbatim,quotes"]
+....
+          Begrabene                                                                 1773
+
+d 23  Jun. ist beigestz[t] des Johann Heinrich Kruckeberg
+      aus Berenbusch Todtgebohrens Knäblein
+....
+
+.Translation
+[literal.bordered,subs="verbatim,quotes"]
+....
+          Burials                                                                  1773
+
+d 23  Jun. The stillborn little boy of Johann Heinrich Kruckeberg
+      from Berenbusch was interred
+....
+
+
+[bibliography]
+== Citations
+
+* [[[band1b-img204]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/e48cc6a752/ :
+23 July 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche
+Schaumburg-Lippe > Petzen > Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 204 of 239
+

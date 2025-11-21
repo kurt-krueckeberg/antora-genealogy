@@ -8,7 +8,7 @@
 
 |Johann Hinrich Krückeberg und Anna Maria Vahlsing
 |Marriage
-|xref:petzen:petzen-band1b-image36.adoc[28 Sep. 1727]
+|xref:petzen:PET-M-1727a.adoc[28 Sep. 1727]
 |
 Johann Tönnies Eggerding
 
@@ -19,7 +19,7 @@ H Herman Wiese
 
 |Anna Marie Vahlsing
 |Burial
-|xref:petzen:petzen-band1b-image178-right.adoc[8 May 1757]
+|xref:petzen:PET-D-1757b.adoc[8 May 1757]
 |TODO
 |
 * Wohnort: *Berenbusch*
@@ -27,7 +27,7 @@ H Herman Wiese
 
 |Johann Heinrich Krückeberg
 |Burial
-|xref:petzen:petzen-band1b-image183.adoc[26 Dec. 1759]
+|xref:petzen:PET-D-1759a.adoc[26 Dec. 1759]
 |TODO
 |
 * Wohnort: *Berenbusch*
@@ -35,7 +35,7 @@ H Herman Wiese
 
 |Johann Wilhelm Kruckeberg
 |Baptism
-|xref:petzen:petzen-band1a-image157.adoc[11 Feb. 1739]
+|xref:petzen:PET-B-1739a.adoc[11 Feb. 1739]
 |TODO
 |
 |===
@@ -49,7 +49,7 @@ TODO: Sponsors
 |===
 |Date|Child|Parentage|Sponsors|Do Other Records with Only Surname Exist?
 
-|xref:petzen:petzen-band1a-image140.adoc[7 July 1728]
+|xref:petzen:PET-B-1728a.adoc[7 July 1728]
 |Johann Friedrich
 |28 Julÿ ist *Johann Heinrich Krückebergs aus Berenbusch*
 Söhnlein Johann Friedrich getauft.
@@ -58,7 +58,7 @@ Söhnlein Johann Friedrich getauft.
 H Herman Wiese
 |N/A
 
-|xref:petzen:petzen-band1a-image144.adoc[13 Jan. 1731]
+|xref:petzen:PET-B-1730b.adoc[13 Jan. 1731]
 |Ruldolphina Margaretha Elisabeth Krückeberg 
 |13 Januarÿ ist *Johann Heinrich Krückeberg aus
 Berenbusch* Töchterl[ein]: Rudolphian Margaretha
@@ -72,21 +72,21 @@ Anna Elisabeth Weÿland from Berenbusch
 Anna Margareth Steding from Berenbusch
 |N/A
 
-|xref:petzen:petzen-band1a-image149.adoc[6 Sep. 1733]
+|xref:petzen:PET-B-1733a.adoc[6 Sep. 1733]
 |Jobst Hinrich Krückeberg
 |d 6th Septembr ist *Johann Hinrich Krückeberg
 im Berenbusch* Söhnlein Jobst Hinrich getrauft.
 |the shepherd Vahlsing from Eversen
 |N/A
 
-|xref:petzen:petzen-band1a-image152.adoc[29 Jan. 1736]
+|xref:petzen:PET-B-1736a.adoc[29 Jan. 1736]
 |Dorothea Elisabeth Krückeberg
 |d[en] 29 dito *Krückeberg v. [B. B.]* ein Töchterl[ein] tauft
 lassen Dorothea Elisabeth Soldat Weilands Frau Gevatterin
 |wife of soldier Weiland
 |TODO
 
-|xref:petzen:petzen-band1a-image157.adoc[11 Feb. 1739]
+|xref:petzen:PET-B-1739a.adoc[11 Feb. 1739]
 |Johann Wilhelm Kruckeberg
 |11 hÿ *Krückeberg [in] B. B.* ein Söhnl[ein] tauft
 lassen Johann Wilhelm [benamst?] [uncertain]

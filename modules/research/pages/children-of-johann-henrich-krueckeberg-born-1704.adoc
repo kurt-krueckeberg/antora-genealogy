@@ -2,7 +2,7 @@
 
 There were seven Krückeberg children born between 1728 and 1750, but we have
 only one recorded Krückeberg marriage that we know of prior to 1728, that of
-xref:petzen:petzen-band1b-image36.adoc[Johann Henrich Krückeberg to Anna Marie
+xref:petzen:PET-M-1727a.adoc[Johann Henrich Krückeberg to Anna Marie
 Vahlsing on September 28, 1727].
 
 == Birth Records
@@ -15,7 +15,7 @@ parents given names:
 |===
 |Infant's Name|Baptism Date|Parents Names
 
-|xref:petzen:petzen-band1a-image140.adoc[]| July 7, 1728|His birth record states: +
+|xref:petzen:PET-B-1728a.adoc[]| July 7, 1728|His birth record states: +
 [literal,subs="verbatim,quotes"]
 ....
 *Johann Heinrich Krückebergs* aus Berenbusch Söhnlein Johann Friedrich getauft
@@ -27,9 +27,9 @@ Translation: +
 Johann Friedrich, the son of Johann Heinrich Krückeberg from Berenbusch, was baptized.
 ....
 
-|xref:petzen:petzen-band1a-image152.adoc[]|29 Jan. 1736|Krückeberg v. [B. B.] ein Töchterl[ein] tauft lassen (Krückeberg from Berenbusch had a daughter baptized.)
+|xref:petzen:PET-B-1736a.adoc[]|29 Jan. 1736|Krückeberg v. [B. B.] ein Töchterl[ein] tauft lassen (Krückeberg from Berenbusch had a daughter baptized.)
                                               
-|xref:petzen:petzen-band1a-image157.adoc[]|11 Feb. 1739|His xref:petzen:petzen-band1b-image167.adoc[death record]
+|xref:petzen:PET-B-1739a.adoc[]|11 Feb. 1739|His xref:petzen:PET-D-1747a.adoc[death record]
 states: +
 [literal,subs="verbatim,quotes"]
 ....
@@ -45,15 +45,15 @@ son of Johann Heinrich Krückeberg from Berenbusch,
 was buried, aged 8¾ years
 ....
                                               
-|xref:petzen:petzen-band1a-image163.adoc[]|27 Dec. 1741|From her xref:petzen:petzen-band2-image239.adoc[death
+|xref:petzen:PET-B-1741a.adoc[]|27 Dec. 1741|From her xref:petzen:PET-D-1801a.adoc[death
 record]: Sophie Marie Krückeberg, des Jobst Heinrich Krückeberg nachgelaßen, blindgebohrne Tochter (Sophie Marie
 Krückeberg, surviving daughter of Jobst Heinrich Krückeberg, born blind)
 
-|xref:petzen:petzen-band1a-image167.adoc[]|19 Jan. 1744|
+|xref:petzen:PET-B-1744a.adoc[]|19 Jan. 1744|
 
-|xref:petzen:petzen-band1a-image174.adoc[]|26 Oct. 1746|
+|xref:petzen:PET-B-1746a.adoc[]|26 Oct. 1746|
 
-|xref:petzen:petzen-band1a-image180.adoc[]|4 Nov. 1750|
+|xref:petzen:PET-B-1750a.adoc[]|4 Nov. 1750|
 
 |todo||
 |===
@@ -93,4 +93,4 @@ der Getauften und Konfirmierten 1641-1784] of 1728 in approximately the years 17
 == Jobst Krückeberg
 
 A Jobst Krückeberg was the father of Sophia Maria Kruekeberg, who was baptiyed in 1741; we know this from
-her xref:petzen:petzen-band2-image239.adoc[death record] where her father is listed.
+her xref:petzen:PET-D-1801a.adoc[death record] where her father is listed.

@@ -1,0 +1,84 @@
+= 1775 Anna Philippine Maria Blecken Baptism
+:page-role: wide
+
+The baptism record for Anna Philippine Maria Blecken appears on <<image243, image 243>>, on the
+right-hand page, the first complete entry, of the Petzen "Verzeichnis der Getauften und Konfirmierten 1641-1784".
+
+== Baptism Record
+
+.Marriage Required Approval
+****
+[IMPORTANT]
+====
+Marriage required approval. Marriage was not so much about personal choice or falling love. It was done for maintaining or improving
+the family's social and economic status however modest it might be. If a couple could not obtain approval because of their
+modest income, they sometimes started a family anyway. This might have been the case here, where the parents marry a month before
+their child is born.
+====
+****
+
+image::petzen-band1a-img243-blecken-right-page.jpg[align=left,title='Annne Phlippine Maria Blecken (Click to enlarge)',link=self]
+
+.Transliteration
+[literal.bordered,subs="verbatim,quotes"]
+....
+         Getaufte                         1775
+[first entry, which continues from prior page, omitted]
+
+7) 12 Febr. Anna Philippine Maria Blecken des
+Heinrich Wilhelm Blecken aus Evesen von seiner
+seit den 15ten Jan: āī huj: ihm angetraueten Frau
+Anna Philippina geb. Rösenern gebohrens Töchter
+getaufft. Die Gevätterin war Anna Maria
+Elisabeth Blecken des Johan Heinrich Blecken aus Evesen Ehefrau.
+....
+
+.Meaining of Latin "āī huj"
+****
+[NOTE]
+====
+**"āī huj"** is an Latin abbreviation, very common in 18th-century German church records.
+ 
+Meaning:
+
+* **"āī"** = anni--the genitive singular of of "annus" (Latin for "year"), with the bar over the "ai"
+indicating abbreviation.
+* **"huj:"** = huius — Latin for "this" (as in "of this year").
+
+So the full phrase "āī huj" means:
+
+**"of this year"** (literally, "of the year of this").
+
+So
+
+**"...von seiner seit den 15ten Jan: a͞i huj: ihm angetraueten Frau Anna Philippina geb. Rösenern gebohrens
+Töchter getaufft."** 
+
+translates as:
+
+**"...by his wife Anna Philippina née Rösener, to whom he had been married since the 15th of January of this year,
+was born his daughter, who was baptized."** 
+
+====
+****
+
+.Translation
+[literal.bordered,subs="verbatim,quotes"]
+....
+         Baptisms                         1775
+[first entry, which continues from prior page, omitted]
+
+7) 12 February. Anna Philippine Maria Blecken, daughter of
+Heinrich Wilhelm Blecken from Evesen, by his
+wife Anna Philippina, née Rösener, whom he married on the 15th
+of January of this year, was baptized. The godmother was Anna
+Maria Elisabeth Blecken, wife of Johan Heinrich Blecken from Evesen.
+....
+
+
+[bibliography]
+== Citations
+
+* [[[image243]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/615ac16dc3/ : 13 October 2025), path:
+Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen  Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getauften und Konfirmierten 1641-1784 > Image 243 of 322, right page, first complete entry

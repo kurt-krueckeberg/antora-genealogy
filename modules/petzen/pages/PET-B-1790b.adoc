@@ -1,0 +1,34 @@
+= 1790 Eleonore Louisa Weiland Baptism
+:page-role: wide
+
+image::petzen-band2-img49.jpg[align=left,title="Twins Hans Heinrich and Carolina Weiland 1790 (Click to enlarge)",link=self]
+
+== TODO: Citation
+
+== Transliteration and Translation
+
+.Transliteration and Translation of page 85 Header
+----
+92                                 Getauft(Baptized) 1790
+----
+
+[NOTE]
+Petzen is evidently spelled here as _Penzen_
+
+[caption="Transliteration and Translation: "]
+.Entries 5 and 6
+[cols="m",options="noheader",frame="none"]
+|===
+|16) 5ten Mai: ist getauft Eleonore Louise Weilands +
+     des Jobst Heinrich Weilands Einlieger im Penzen[sic] No. 1 +
+     mit seiner Ehefrau Dorothea Philippine geb. Möller +
+     erzeugte Tochter. Gevatterin ware die Mademoiselle +
+     Eleonore Louisa Johanna Gaden aus Penzen No. 1
+
+|16) 5th May: Eleonore Louise Weiland was baptized +
+     the begotten daughter of Jobst Heinrich Weiland, free agricultural +
+     laborer in Petzen No. 1 and his wife Dorothea +
+     Philippine born Möller. Godmother was Mademoiselle +
+     Eleonore Louise Johann Gaden aus Petzen No. 1
+|===
+

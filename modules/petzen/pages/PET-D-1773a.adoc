@@ -1,0 +1,53 @@
+= 1773 Stillborn son of Johann Heinrich Krückeberg Burial
+:page-role: wide
+
+== Family Group and Other Facts
+
+.Family Relationship Information
+[%header,width="45%",cols="1,3,1"]
+|===
+||Name|Burial
+
+|*Father*|Johann Heinrich Krückkeberg|
+
+|*son*|stillborn|Aug 27, 1773
+
+|*Residence*|no. 10 Berenbusch|
+|===
+
+== Citation
+
+The August 27, 1773, burial of the stillborn sone of Johann Heinrich Krückeberg from No. 10 Berenbusch, 
+appears on <<band1b-img210, image 210>>, on the right-hand page of the Petzen "Verzeichnis der Getrauten und Gestorbenen,
+1641-1784".
+
+== Record
+
+image::petzen-band1b-img210.jpg[title="stillborn son of Johann Heinrich Krückeberg (Click to enlarge)",link=self]
+
+.Transliteration
+[literal.bordered,subs="verbatim,quotes"]
+....
+          Begraben                                                                 1773
+
+d 27ten Aug ist des Johann Heinrich Krückebergs aus Beren-
+        busch no. 10 todtgebohrens Söhnlein beerdigt wurde
+....
+
+.Translation
+[literal.bordered,subs="verbatim,quotes"]
+....
+        Burial                                                                     1773
+
+On  Aug[ust] 27 the stillborn son of Johann Heinrich Krückeberg from Berenbush
+        was buried
+....
+
+
+[bibliography]
+== Citations
+
+* [[[band1b-img210]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/67abb81b75/:
+23 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche
+Schaumburg-Lippe > Petzen > Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 210 of 239
+

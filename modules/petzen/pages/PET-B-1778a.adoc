@@ -1,0 +1,34 @@
+= 1778 Stillborn son of Johann Christian Weiland
+:page-role: wide
+
+== Citation
+
+The stillbirth of the little son of Johann Christian Weiland in 1778 is on <<image259, image 259, right page>>, of the  
+Petzen "Verzeichnis der Getaufte und Confirmirte, 1641-1784"
+
+== Image 259
+
+image::petzen-band1a-img259-overview.jpg[align=center,title='Overview (Click to enlarge)',link=self]
+
+image::petzen-band1a-img259.jpg[align=left,title='Stillborn son of Johann Christina Weiland in 1778 (Click to enlarge)',link=self]
+
+[NOTE]
+`Isabein` is a short form of Elisabeth
+ 
+.Transliteration adn Translation
+[literal.bordered,subs="verbatim,quotes"]
+....
+18) d 27ten Jul: ist des Johan Christian Weilands Einlieger in
+    Penzen mit seiner Ehefrau Christine Ilsabei
+    geb Stediegen erzeugtes Söhnlein todtgeborhren
+ 
+18) On 27th July the begotten little son of Johan Christian Weiland
+     free agricultural laborer in Penzen and his wife Christine
+    Ilsabei[n] born Stediege was stillborn
+....
+
+
+[biliography]
+== Citations
+
+* [[[image259]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/53cd6fd928/ : 6 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 259 of 322

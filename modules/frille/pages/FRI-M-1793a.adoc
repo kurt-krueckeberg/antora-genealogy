@@ -1,0 +1,56 @@
+= 1793 Christian Fridrich Bleeke Marriage
+:page-role: wide
+
+== Citation
+
+Christian Fridrich Bleeke's marriage in 1793 to Anne Margarthe Volckening is on <<image202, image 202, page 53>> (of the listing of Copulierte 
+(marriages) of the Frille "Verzeichnis der Getauften, Getrauten, Gestorbenen (Register of Baptism, Marriages, Deaths) 1758-1804 ".
+
+== Image
+
+Overview of pages 52 and 53 showing the marriages of two Bleekes:
+
+image::frille-band2-img202-52-53.jpg[align=left,title='Overview of marriages of Christian Fridrich Bleeke, p. 53, and Christian Fridrich Bleeke, p. 53 (Click to englarge)',link=self]
+
+View of marriage of Christian Fridrich Bleeke, page 53 (of the pages of marriage records):
+
+image::frille-band2-img202-53.jpg[align=left,title='Marriage of Christian Fridrich Bleeke (Click to englarge)',link=self]
+
+=== Transliteration and Translation
+
+[IMPORTANT]
+.Latin phrases used in marriage entries to denote widower, young man/woman, viriginity and pregnancy.
+====
+All brides names are followed by a Latin phrase in which abbreviations are sometimes used. Example Latin phrases are:
+
+* viduus cum stuprata -- widower (viduus) with (cum) pregnant out of wedlock (stuprata)
+* viduus cum virg -- widower (viduus) with virgo (young woman; virgin; maiden)
+* juv. cum stuprata -- young man (juvenculus; `juvenca` is young woman) with (cum) pregnant out of wedlock (stuprata)
+* juv. cum virg -- young man with maiden, virgin
+
+If the first latin word is abbreviated `juv.`, then the possible meaning imply a youth, or youthful or unmarried youth. These
+are the Latin words starting with `juv` that Thode's German-English Genealogical Dictionary has:
+====
+
+[caption="Transliteration and Translation: "]
+.Marriage of Christian Fridrich Bleeke to Anne Margarethe Volckening 
+[options="noheader",cols="m",frame="none"]
+|===
+|53
+
+|2) d. 22 Febr. Christian Frid. Bleeke mit 
+       Anne Margarethe Volckenings beide
+       aus Leteln, juv. cum virg.
+
+|2) On 22 February Christian Fridrich Bleeke married
+       Anne Margarethe Volckening both
+       from Leteln. young man with maiden (virgin) 
+|===
+
+
+[bibliography]
+== Citations
+
+* [[[image202-53]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/f23f58a974/ : 15 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Frille >
+Verzeichnis der Getauften, Getrauten, Gestorbenen 1758-1804, image 202 of 388
+

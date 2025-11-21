@@ -1,0 +1,123 @@
+= 1792 Philippine Caroline Christine Kruckeberg Baptism
+:page-role: wide
+
+== Family Relationship and Other Facts
+
+The baptism of Philippine Caroline Christine Kruckebergen 1792, page 105.
+
+[caption="Family group for: "]
+.1792 Philippine Caroline Christine Kruckeberg Baptism
+[%header,width="60%",cols="2,4,2,2"]
+|===
+||Name|Birthdate|Baptism Date
+
+|*Father* 3+|Jobst Heinrich Krückeberg
+
+|*Mother* 3+|Christine Philippine Eleonore née Tegtmeyer
+
+|*Child/Infant*|Philippine Caroline Christine|1 Feb. 1792|3 Feb. 1792
+
+|*Residence* 3+|Berenbusch
+|===
+
+.Jobst Heinrich Krückeberg Facts
+[width="35%"]
+|===
+|Fact
+
+|Occupation is cobbler
+|===
+
+.Nachträge for Philippine Caroline Christine Kruckeberg 
+[width="35%"]
+|===
+|Fact|Date
+
+|Married|xref:PET-M-1812b.adoc[23 Feb. 1812]
+
+|Married 2^nd^ time|11 May 1834
+
+|Death|26 Oct. 1870
+|===
+
+.Baptism Sponsors
+[width="35%"]
+|===
+|Name|Locality
+
+|the old Krückeberg as grandmother|
+
+|Fahlsing wife of the shepherds +
+in Evesen|Evesen
+|===
+
+== Citations
+
+This entry appears on <<image55-105,image 55, page 105>> of Petzen Kirchenbuch volume 2.
+
+== Philippine Caroline Christine Krueckebergen 1792
+
+=== Header Page 105
+
+image::petzen-band2-img55-105.jpg[align="left",title="Click to enlarge",link=self]
+
+.Transliteration of page 105 header
+[literal.bordered,subs="verbatim,quotes"]
+....
+                        Getaufte 1792                                           105
+....
+
+.Translation of page 105 header
+[literal.bordered,subs="verbatim,quotes"]
+....
+                        Baptisms 1792                                           105
+....
+
+=== Page 105, entry 9
+
+image::petzen-band2-img55-105.jpg[align="left",title="Click to enlarge",link=self]
+
+[NOTE]
+====
+* Dates noted in the left margin have been displayed separately.
+* The word *ejusd* is an abbreviation of the Latin word "ejusdem", which means "of the same" — in
+this case, "of the same [month]".
+====
+
+.Transliteration of page 105, entry 9
+[literal.bordered,subs="verbatim,quotes"]
+....
+9) 3ten Febr ist Philippine Caroline Christine Krueckebergen
+   des Jobst Heinrich Krückeberg [Sc]husters in Berenbusch No [no number]
+   mit seiner Ehefrau Christine Philippine Eleonore
+   geb. Tegtmeyern erzeugte und d. 1ten [time signifier?] abends 6 Uhr
+   geb. Tochter. Gevatterin waren
+     1. die alte Krückebergen als Gros[sm]utter
+     2. die Fa[h]lsi[e/n]gen des Schäfers aus Evensen [????]
+
+9) 3rd Febr Philippine Caroline Christine Krueckeberg was baptized
+   the begotten daughter of Jobst Heinrich Krückeberg cobbler in Berenbusch No [no number]
+   and his wife Christine Philippine Eleonore
+   born Tegtmeyer and born 1st. of the same month[at] 6 o'clock in the evening
+   born Tochter. Godmothers were
+     1. the old Krückeberg as grandmother.
+     2. the Fahlsi[e/n]s of the Schäfers[likely surname. Not shepherd(s)] from Evensen [unclear]
+....
+
+.Transliteration and translation of margin notations
+[literal.bordered,subs="verbatim,quotes"]
+....
+1. cop. 23.2.1812
+2. cop. 11.5.34
+gest. 26.10.70
+
+1. married 2/23/1812
+2. married 5/11/1834
+died 10/26/1870
+....
+
+[bibliography]
+== Citations
+
+* [[[image55-105]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/75e10a88e0/ : 17 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+  Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 55 of 357

@@ -1,7 +1,7 @@
 = Jobst Heinrich Krückeberg [1765-1822]
 :page-role: wide
 
-== xref:petzen:petzen-band1a-image211.adoc[1765 Jobst Heinrich Krückeberg Baptism]
+== xref:petzen:PET-B-1765a.adoc[1765 Jobst Heinrich Krückeberg Baptism]
 
 .Family Relationship 
 [%header,cols="2,4,2",width="45%"]
@@ -25,7 +25,7 @@
 (in the small marshy area of Evesen)
 |===
 
-== xref:petzen:petzen-band1a-image319.adoc[1778 Jobst Heinrich Kruckeberg Confirmation]
+== xref:petzen:PET-C-1778a.adoc[1778 Jobst Heinrich Kruckeberg Confirmation]
 
 .Confirmant
 [%header,width="40%",cols="3,2,2"]
@@ -36,7 +36,7 @@
 Dominica Quasimodogeniti
 |===
 
-== xref:petzen:petzen-band2-image5-3.adoc[1790 Jobst Heinrich Kruckeberg Marriage]
+== xref:petzen:PET-M-1790c.adoc[1790 Jobst Heinrich Kruckeberg Marriage]
 
 .Family Relationship  Facts for October 12, 1790 Marriage
 [%header,cols="1,4,2,3",width="65%"]
@@ -53,7 +53,7 @@ Dominica Quasimodogeniti
 |===
 |Death Date
 
-|xref:petzen:petzen-band2-image314.adoc[21 Oct. 1822]
+|xref:petzen:PET-D-1822b.adoc[21 Oct. 1822]
 |===
 
 .Nachträge for Philippine Christine Eleonore Tegtmeyer
@@ -64,7 +64,7 @@ Dominica Quasimodogeniti
 |1849
 |===
 
-== xref:petzen:petzen-band2-image55.adoc[1792 Philippine Caroline Christine Kruckeberg Baptism]
+== xref:petzen:PET-B-1792a.adoc[1792 Philippine Caroline Christine Kruckeberg Baptism]
 
 The baptism of Philippine Caroline Christine Kruckebergen 1792, page 105.
 
@@ -96,7 +96,7 @@ The baptism of Philippine Caroline Christine Kruckebergen 1792, page 105.
 |===
 |Fact|Date
 
-|Married|xref:petzen:petzen-band2-image27.adoc[23 Feb. 1812]
+|Married|xref:petzen:PET-M-1812b.adoc[23 Feb. 1812]
 
 |Married 2^nd^ time|11 May 1834
 
@@ -114,7 +114,7 @@ The baptism of Philippine Caroline Christine Kruckebergen 1792, page 105.
 in Evesen|Evesen
 |===
 
-== xref:petzen:petzen-band2-image70.adoc[1798 Anne Christine Eleonore Krückeberg Birth]
+== xref:petzen:PET-B-1798a.adoc[1798 Anne Christine Eleonore Krückeberg Birth]
 
 .Family Relationship 
 [cols="3,3,3,2,2,2",width="85%"]
@@ -135,7 +135,7 @@ House #er|Birthdate|Baptism Date
 |Katharine Margharethe Kuhlmann|No. 3 Evesen
 |===
 
-== xref:petzen:petzen-band2-image239.adoc[1801 Sophie Marie Krückeberg Death]
+== xref:petzen:PET-D-1801a.adoc[1801 Sophie Marie Krückeberg Death]
 
 [caption="Family Relationship of Decedent: "]
 .Sophie Marie Krückeberg
@@ -164,7 +164,7 @@ House #er|Birthdate|Baptism Date
 |*Residence*| no. 10 Berenbusch
 |===
 
-== xref:petzen:petzen-band2-image81.adoc[1803 Sophie Wilhelmine Krückeberg Birth]
+== xref:petzen:PET-B-1803a.adoc[1803 Sophie Wilhelmine Krückeberg Birth]
 
 .Family Relationship 
 [cols="3,2,3,2,2,2,2"]
@@ -183,7 +183,7 @@ from Meinsen|Sophie Wilhelmine|No. 10 Berenbusch|24 Jan 1803|30 Jan 1803
 |Sophie Ernestine Wilharm|Evesen 
 |===
 
-== xref:petzen:petzen-band2-image198.adoc[1805 Philippine Caroline Christine Krückeberg Confirmation]
+== xref:petzen:PET-C-1805a.adoc[1805 Philippine Caroline Christine Krückeberg Confirmation]
 
 .Family Relationship 
 [%header,cols="3,4,2,3,2,2,2"]
@@ -195,7 +195,7 @@ Residence|Confirmand|Date Confirmed|Date Born|Child's Birthplace
 Tegtmeier|Bärenbusch|Philippine Caroline Christine|21 Apr 1805|9 Sept. 1791|Bärenbusch
 |===
 
-== xref:petzen:petzen-band2-image91.adoc[1806 Johann Heinrich Krückeberg Baptism]
+== xref:petzen:PET-B-1806a.adoc[1806 Johann Heinrich Krückeberg Baptism]
 
 .Family Relationship  Facts
 [%header,cols="3,3,3,2",width="75%"]
@@ -243,7 +243,7 @@ The baptism of Johann Heinrich Krückeberg is entry 22 on pages <<image91-176, 1
 and <<image91-177, 177>>, entry #22, of the "Verzeichnis der Getauften, Konfirmierten,
 Getrauten und Gestorbenen 1785-1827".
 
-== xref:petzen:petzen-band2-image96.adoc[1807 Carl Friedrich Krückeberg Baptism]
+== xref:petzen:PET-B-1807a.adoc[1807 Carl Friedrich Krückeberg Baptism]
 
 .Family Relationship  Facts
 [%header,cols="3,3,3,2",width="80%"]
@@ -306,7 +306,7 @@ etc.).
 |Jobst Heinrich Krückeberg|Bärenbusch
 |===
 
-== xref:petzen:petzen-band2-image207-1.adoc[1811 Anne Christine Louise Krückeberg Confirmation]
+== xref:petzen:PET-C-1811a.adoc[1811 Anne Christine Louise Krückeberg Confirmation]
 
 .Confirmand's Family Group
 [cols="3,3,3,2,2,2"]
@@ -316,7 +316,7 @@ etc.).
 |Jobst Heinrch Kruckeberg|Anne Christine Philippine née Tegtmeier|Anne Christine Lenore Krückebergs|no. 10 Bärenbusch|14 Feb. 1798|7 April 1811
 |===
 
-== xref:petzen:petzen-band2-image27.adoc[1812 Philippine Caroline Christine Krückeberg Marriage]
+== xref:petzen:PET-M-1812b.adoc[1812 Philippine Caroline Christine Krückeberg Marriage]
 
 [caption="Bride and Groom Facts: "]
 .23 February 1812 Marriage
@@ -345,7 +345,7 @@ etc.).
 |===
 |Birth|2^nd^ Marriage|Death
 
-|xref:petzen:petzen-band2-image55.adoc[1 Feb. 1792]|11 May 1834|26 Oct. 1870
+|xref:petzen:PET-B-1792a.adoc[1 Feb. 1792]|11 May 1834|26 Oct. 1870
 |===
 
 .Bride Philippine Caroline Krückeberg's Father Facts
@@ -368,7 +368,7 @@ In 19th-century German church records:
 associated with the father in these records.
 ====
 
-== xref:petzen:petzen-band2-image314.adoc[1822 Jobst Heinrich Krückeberg Death]
+== xref:petzen:PET-D-1822b.adoc[1822 Jobst Heinrich Krückeberg Death]
 
 [caption="Decedent: "]
 .Jobst Heinrich Krückeberg Facts

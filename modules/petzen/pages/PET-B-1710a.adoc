@@ -1,0 +1,29 @@
+= 1710 Henrich Bleecke Baptism
+:page-role: wide
+
+== Citation
+
+The baptism of Henrich Bleecke is on <<image117, image 117>>, left-hand page, 3^nd^ entry from the top, of the Petzen
+"Verzeichnis der Getauften und Konfirmierten 1641-1784".
+
+== Image 117
+
+The enhanced image is below:
+
+image::petzen-band1a-img117-bleecke.jpg[align=left,title='Henrich Bleecke, image 176, right page (Click to enlarge)',link=self]
+
+.Transliteration
+[literal.bordered,subs="verbatim,quotes"]
+....
+den 24 Junÿ Henrich Bleecke aus/auf der
+banstans/banstau ein Sohn tauft lassen
+Nahmens Johann Henrich der Br.
+vatter war johan Notmeyer
+....
+
+[bibliography]
+== Citations
+
+* [[[image117]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/9cf65653e8/ : 4 May 2025),
+path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getauften und Konfirmierten 1641-1784, image 117 of 322, left hand page, 3^rd^ entry.

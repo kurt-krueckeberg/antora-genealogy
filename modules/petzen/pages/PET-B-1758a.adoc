@@ -1,0 +1,28 @@
+= 1758 Jobst Heinrich Weiland Baptism
+:page-role: wide
+
+This is the baptism record of Jobst Heinrich Weiland "Register of Baptism and Confirmed of the Petzen Parish, 1641-1784", image 199.
+
+== Citation
+
+The baptism of Jobst Heinrich Weiland is on <<image199, image 199, left page, first entry>> from the  
+"Register of Baptism and Confirmed of the Petzen Parish, 1641-1784"
+
+image::petzen-band1a-img199.jpg[align=left,title='Jobst Heinrich Weiland, image 199, left page (Click to enlarge)',link=self]
+
+[caption="Transliteration and Translation: "]
+.1758 Baptism of Jobst Heinrich Weiland
+[cols="m",frame="none",options="noheader"]
+|===
+<|1758                  Getaufte (Baptisms)
+
+|d 10 Dec. Jobst Heinrich Weiland +
+   des Einlieger Ludowig Weiland zu Evesen Sohn +
+   getrauft. Gev Jobst Hei/Fre Weiland Sa???? yu Berenbusch[abbreviation]
+|===
+
+
+[bibliography]
+== Citations
+
+* [[[image200]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/aeb69c46c5/ : 2 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 200 of 322

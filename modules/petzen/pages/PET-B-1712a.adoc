@@ -1,0 +1,38 @@
+= 1712 Maria Elisabeth Bleek Baptism
+:page-role: wide
+
+== Citation
+
+The June 26, 1712, baptism of Maria Elisabeth Bleeke is on <<image120, image 120>>, the right-hand page,
+the 2^nd^ entry from the top, of the Petzen "Verzeichnis der Getauften und Konfirmierten 1641-1784".
+
+The original picture is below:
+
+image::petzen-band1a-img120-original-right-page-bleek.png[align=left,title='Maria Elisabeth Bleek, image 120, right page (Click to enlarge)',link=self]
+
+This is it enhanced:
+
+image::petzen-band1a-img120-right-page-bleek.png[align=left,title='Maria Elisabeth Bleek, image 120, right page (Click to enlarge)',link=self]
+
+.Transliteration
+[literal.bordered,subs="verbatim,quotes"]
+....
+18 den 26 Junÿ ist Henrich Bleeck aus Evesen Töchterlein Maria
+Elisabeth getauftt. ge[v?]. des Vaters Mutter.
+....
+
+.Translation
+[literal.bordered,subs="verbatim,quotes"]
+....
+18 The 26th of June was Bleek from Evensen's little daughter Maria 
+Elisabeth baptized. [???] the father's mother.
+....
+
+
+
+[bibliography]
+== Citations
+
+* [[[image120]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/6b7431937b/ : 4 May 2025),
+path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784,
+image 120 of 322, right hand page, 2^nd^ entry from top

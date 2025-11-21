@@ -1,0 +1,80 @@
+= 1805 Philippine Caroline Christine Krückeberg Confirmation
+:page-role: wide
+
+== Family Relationship Facts
+
+.Family Relationship 
+[%header,cols="3,4,2,3,2,2,2"]
+|===
+|Father|Mother|Family +
+Residence|Confirmand|Date Confirmed|Date Born|Child's Birthplace   
+                                                    
+|Jobst Heinrich Krückeberg
+|Christine Philippine Eleonore née Tegtmeier
+|Bärenbusch
+|Philippine Caroline Christine
+|21 Apr 1805
+|9 Sept. 1791
+|Bärenbusch
+|===
+
+[.narrow]
+== Citation
+
+The confirmation of Philippine Caroline Christine Krückeberg Confirmation in 1805 is on <<image192, image 192>>,
+page 420, entry 13, of the Petzen "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
+1785-1827" in the link:https://www.archion.de[Archion.de] database of Kirchenbücher digital images.
+
+== Overview of Pages 420 and 421
+
+image::petzen-band2-img198-overview.jpg[[title="Philippine Caroline Christine Krückeberg Confirmation 1805 (Click to enlarge),link=self]
+
+== Translation and Transliteration of Header for Pages 420 and 421
+
+[literal.bordered,subs="verbatim,quotes"]
+....
+420            Register der am 21. Apr, 1805 in  der                        Kirche zu Petzen Konfirmirten Kinder                 421
+....
+
+[literal.bordered,subs="verbatim,quotes"]
+....
+420            Register of those Children on 21. Apr, 1805                  Confirmed in the Petzen Church                       421
+....
+
+== Transliteration and Translation of Entry 13
+
+[caption="Transliteration: "]
+.Transliteration of Column Headers and Entry 13
+[%header,cols="1,4,4,4,3,2,2",frame="none"]
+|===
+|Zahl |Namen des Kindes |Name des Vaters |Name der Mutter |Wohnort des Vaters oder der Mutter |Geburts, zeit und Geburts, ort des Kindes |Bemerkungen
+
+|13
+|Philippine Caroline Christine Krückeberg
+|Jobst Heinrich Krückeberg
+|Christine Philippine Eleonore geb Tegtmeiern
+|Bärenbusch
+|d. 9. Septr. 1791 in Barenbusch
+|
+|===
+
+[caption="Translation: "]
+.Transliteration of Column Headers and Entry 13
+[%header,cols="1,4,4,4,3,2,2",frame="none"]
+|===
+|Number |Child's Name |Father's Name |Mutter's Name |Living place of the Father or of the Mother |Birth time and Birth place of the Child |Remarks
+
+|13
+|Philippine Caroline Christine Krückeberg
+|Jobst Heinrich Krückeberg
+|Christine Philippine Eleonore born Tegtmeiern
+|Bärenbusch
+|the 9th Septr.  1791 in Barenbusch
+|
+|===
+
+
+[bibliography]
+== Citations
+
+* [[[image192]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/c70f7cb090/ : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 198 of 357

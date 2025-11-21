@@ -1,0 +1,37 @@
+= 1716 Anna Engel Bleeke Baptism
+:page-role: wide
+
+== Citation
+
+The baptism of Anna Engel Bleecke is on <<image124, image 124>>, left-hand page, 3^nd^ entry from the top, of
+the Petzen "Verzeichnis der Getauften und Konfirmierten 1641-1784".
+
+Two enhanced images of the original are below:
+
+image::petzen-band1a-img124-alternate-left-page-bleeke.jpg[align=left,title='Anna Engel Bleecke, image 124, left page (Click to enlarge)',link=self]
+
+image::petzen-band1a-img124-left-page-bleeke.jpg[align=left,title='Anna Engel Bleecke, image 124, left page (Click to enlarge)',link=self]
+
+.Transliteration
+[literal.bordered,subs="verbatim,quotes"]
+....
+10 den 16 Junÿ ist Henrich Bleecke aus Evesen Töcherl[ein] Anna Engel
+getauft. Geb[Gev]. des Schäffers von der Höchersau Ehefrau
+....
+
+NOTE: See xref:petzen:PET-B-1775c.adoc[] for an explanation of *Höckersau*.
+
+.Translation
+[literal.bordered,subs="verbatim,quotes"]
+....
+10 16th June the infant daughter of Henrich Bleecke from Evesen Anna Engel
+was baptized. Godmother the wife of the shepherd of the Höchersau.
+....
+
+
+[bibliography]
+== Citations
+
+* [[[image124]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/430f6ba187/ : 5 May 2025),
+path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getauften und Konfirmierten 1641-1784, image 124 of 322, left hand page, 3^rd^ entry from top.

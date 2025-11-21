@@ -1,7 +1,7 @@
 = Sophia Maria Krückeberg [1741-1801]
 :page-role: wide
 
-== xref:petzen:petzen-band1a-image163.adoc[1741 Sophia Maria Kruekeberg Baptized]
+== xref:petzen:PET-B-1741a.adoc[1741 Sophia Maria Kruekeberg Baptized]
 
 [caption="Baptism of: "]
 .Sophia Maria Kruekeberg
@@ -14,8 +14,8 @@
 
 The baptism of Sophia Maria Krückeberg occurred on December 27^th^ 1741. 
 
-== xref:petzen:petzen-band1a-image310-left.adoc[1755 Sophie Maria Krückeberg Confirmation]
-== xref:petzen:petzen-band2-image239.adoc[1801 Sophie Marie Krückeberg Death]
+== xref:petzen:PET-C-1755a.adoc[1755 Sophie Maria Krückeberg Confirmation]
+== xref:petzen:PET-D-1801a.adoc[1801 Sophie Marie Krückeberg Death]
 
 [caption="Family Relationship of Decedent: "]
 .Sophie Marie Krückeberg

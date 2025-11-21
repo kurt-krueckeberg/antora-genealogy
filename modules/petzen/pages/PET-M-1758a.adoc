@@ -1,0 +1,49 @@
+= 1758 Johan Henrich Krückeberg Marriage
+:page-role: wide
+
+== Family Relationship 
+
+.Marriage Information
+[%header,width="65%",cols="1,3,2,2"]
+|===
+||Name|Marriage +
+Date|Locality (at time
+of marriage)
+
+|*Groom*|Johan Henrich Krückeberg|Sep. 29 1758|Berenbusch
+
+|*Bride*|Ilse Margarethe Rösener|Sep. 29 1758|Evesen
+|===
+
+== Citation
+
+The January 29, 1758, marriage of Johan Henirch Krückeberg to Ilse Margarethe Rösener is on <<image50, image 50>>,
+the right-hand page, of the Petzen " Verzeichnis der Getrauten und Gestorbenen 1641-1784".
+
+== Marriage Record
+
+image::petzen-band1b-img50.jpg[title="Johan Henrich Krückeberg Marriage(Click to enlarge)",link=self]
+
+.Transliteration
+[literal.bordered,subs="verbatim,quotes"]
+....
+d. 29t Januarii Johan Henr[ich]. Krückeberg
+     aus Berenbusch mit Ilse Margarethe 
+     Röseners aus Evesen copuliert
+....
+
+.Translation
+.... 
+The 29th January was Johan Henr[ich] Krückeberg
+     from Berenbusch married to Ilse Margarethe 
+     Rösener from Evesen
+....
+
+
+[bibliography]
+== Citations
+
+* [[[image50]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/64edb48ecf/ : 16
+July 2025) , path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe
+> Petzen > Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 50 of 239
+

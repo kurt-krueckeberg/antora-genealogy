@@ -1,0 +1,45 @@
+= 1748 Anna Maria Weiland Baptism
+:page-role: wide
+
+== Citation
+
+The baptism of Anna Maria Weiland is on <<image176, image 176, right page, fourth entry>> from the "Register of Baptism and Confirmed of the Petzen Parish, 1641-1784"
+
+image::petzen-band1a-img176.jpg[align=left,title='Anna Maria Weiland, image 176, right page (Click to enlarge)',link=self]
+
+[NOTE]
+.Abbreviations used in this entry
+====
+`Pat` is the abbreviation for either:
+
+* `Pate` -- sponsor (for either baptism or confirmation) or its plural form `Paten`.
+* `pater` -- father
+
+In this entry, `Pat` clearly means `Father` since `Gevattern` (sponsors) immediately follows it.
+
+`Fr` in this entry is an abbreviation for `Frau` Since the child born is a daughter, her sponsors
+would be women.
+====
+
+[caption="Transliteration and Translation: "]
+.1748 Baptism of Anna Maria Weiland
+[cols="m",frame="none",options="noheader"]
+|===
+^|`Im Jahr 1748 getauft (baptized)`
+
+|d 18ten Febr: Anna Maria Weilands getauft +
+Pat. Wilhelm Weÿland zu Nordholtz, Gavattern +
+Brüggemans Fr zu Nordholtz, Nergen Fr zu P[?]etzen +
+und Bormans Frau aus Berenbusch
+
+|On 18^th^ Feb. Anna Maria Weilands was baptized +
+Father Wilhelm Weÿland at Nordholtz, Sponsors[godmothers] +
+Brüggeman Mrs at Nordholtz, Nergen Mrs at P[?]etzen +
+and Bormans Mrs from Berenbusch
+|===
+
+
+[bibliography]
+== Citations
+
+* [[[image176]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/5d388eb41a/ : 8 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 176 of 322

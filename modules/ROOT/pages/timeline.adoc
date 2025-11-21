@@ -48,7 +48,7 @@ link:https://blogs.loc.gov/law/2017/10/the-peace-of-westphalia/[Peace of Westpha
       <p>Carl Friedrich Bleeke (1794&ndash;1853) born at Leteln Nr. 13, Principality of Minden, Kingdom of Prussia, Holy Roman Empire of the German Nation.</p>
       <div class="bottom">
 ++++
-xref:frille:frille-band2-image123.adoc[]
+xref:frille:FRI-B-1794a.adoc[]
 ++++
         <i></i>
       </div>
@@ -64,7 +64,7 @@ xref:frille:frille-band2-image123.adoc[]
       <p>Johann Heinrich Philip Bleeke (1797&ndash;1883) born at Leteln Nr. 13, Principality of Minden, Kingdom of Prussia, Holy Roman Empire of the German Nation.</p>
       <div class="bottom">
 ++++
-xref:frille:frille-band2-image136.adoc[]
+xref:frille:FRI-B-1797a.adoc[]
 ++++
         <i></i>
       </div>
@@ -117,7 +117,7 @@ Christian Friedrich Bleeke was the youngest of two older brothers who immigrated
 </p>
       <div class="bottom">
 ++++
-xref:petzen:petzen-band2-image71.adoc[Baptism Record]
+xref:petzen:PET-B-1798b.adoc[Baptism Record]
 ++++
         <i></i>
       </div>
@@ -133,7 +133,7 @@ xref:petzen:petzen-band2-image71.adoc[Baptism Record]
       <p>Christian Friedrich Bleeke (1800&ndash;1889) born at Leteln Nr. 13,Leteln, Principality of Minden, Kingdom of Prussia, Holy Roman Empire of the German Nation.</p>
       <div class="bottom">
 ++++
-xref:frille:frille-band2-image152.adoc[]
+xref:frille:FRI-B-1800a.adoc[]
 ++++
         <i></i>
       </div>
@@ -149,7 +149,7 @@ xref:frille:frille-band2-image152.adoc[]
       <p>Johann Heinrich Krückeberg (1806&ndash;1879) born in Berenbush, Graftschaft Schaumburg-Lippe.</p>
       <div class="bottom">
 ++++
-xref:petzen:petzen-band2-image91.adoc[Baptism Record]
+xref:petzen:PET-B-1806a.adoc[Baptism Record]
 ++++
         <i></i>
       </div>
@@ -181,7 +181,7 @@ link:https://www.britannica.com/topic/Confederation-of-the-Rhine[Confederation o
       <p>Carl Friedrich Krückeberg (1807&ndash;Unknown) born in Berenbush, Graftschaft Schaumburg-Lippe.</p>
       <div class="bottom">
 ++++
-xref:petzen:petzen-band2-image96.adoc[Baptism Record]
+xref:petzen:PET-B-1807a.adoc[Baptism Record]
 ++++
         <i></i>
       </div>

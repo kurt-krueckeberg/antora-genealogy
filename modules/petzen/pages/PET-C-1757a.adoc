@@ -1,0 +1,63 @@
+= 1757 Johann Heinrich Krückeberg Confirmation 
+:page-role: wide
+
+== Family Information
+
+.Confirmand Information
+[width="50%",cols="4,3,2"]
+|===
+|Name|Date of Confirmation|Residence
+
+|Johann Heinrich Krückeberg|1757|Bernbusch
+|===
+
+== Citation
+
+The confirmation entry for Johann Heinrich Krückeberg from Berenbusch is on the
+<<image310-right, 310^th^ image>>, the right-hand page, the 5^th^ entry, of **Confirmati 1757** of
+the Petzen Kirchenbuch "Verzeichnis der Getauften und Konfirmierten 1641-1784".
+
+== Confirmation Entry
+
+image::petzen-band1a-img310-right.jpg[align=left,title='Johann Heinrich Krückeberg Confirmed 1756 (Click to enlarge)',link=self]
+
+NOTE: No page number is written on this page.
+
+.Transliteration
+[literal.bordered,subs="verbatim,quotes"]
+....
+                     Confirmati 1757
+
+Johann Heinrich Monchhof (Pühlsmeier[Pichtsmeier]) aus Evesen
+
+Anton Wilhelm Stahlhut aus Röcke
+
+Friederich Christian Widdel aus Röcke
+
+Herman Heinrich Hermening aus Röcke
+
+Johan Heinrich Krückeberg aus Bernbusch
+....
+
+.Translation
+[literal.bordered,subs="verbatim,quotes"]
+....
+                     Confirmed 1757
+
+Johan Henrich Monchhof, living on or associated with the Pichtsmeier farm, from Evesen
+
+Anton Wilhelm Stahlhut from Röcke
+
+Friederich Christian Widdel from Röcke
+
+Herman Heinrich Hermening from Röcke
+
+Johan Heinrich Krückeberg from Bernbusch
+....
+
+[bibliography]
+== Citations
+
+* [[[image310-right]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/c362c408ee/: 30 October 2023),
+path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis
+der Getauften und Konfirmierten 1641-1784, image 313 of 322

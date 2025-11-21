@@ -1,0 +1,109 @@
+= 1815 Heinrich Wilhelm Weiland Baptism
+:page-role: wide
+
+== Citation
+
+The birth and baptism of Heinrich Wilhelm Weiland is entry 37 on <<image137,
+image 137, pages 266-267>> of Petzen Kichenbuch volume "Verzeichnis der
+Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
+
+== Pages 266 and 267
+
+Immediately after entry 31 for Caroline Dorothee Krückeberg is the entry for a Weiland baptism.
+
+[caption="Transliteration: "]
+.Pages 266-267 Header
+[cols="l",frame="none",options="noheader"]
+|===
+|266         Geboren im Kirchspiele Petzen                               im Jahr 1815                            267
+
+|266         Births in the Parish of Petzen                              in the Year 1815                        267
+|===
+
+image::petzen-band2-img137.jpg[title="Heinrich Wilhelm Weiland entry 37 (Click to enlarge)",link=self]
+
+NOTE: See discussion of **Einlieger/Einlinger** at xref:petzen:PET-B-1803b.adoc[Image 82].
+
+[caption="Transliteration: "]
+.Heinrich Wilhelm Weiland Baptism and Birth
+[%autowidth,frame="none"]
+|===
+9+l|266         Geboren im Kirchspiele Petzen (births in Petzen church parish)               im Jahr (in the year) 1815                            267
+
+s|Zahl s|Name des Kindes s|Zahl s|Geburtzeit +
+u. Geburtsort s|Taufzeit u. +
+Taufort s|Name, Stand Religion +
+u. Geburtsrt des Vaters s|Name, Religion +
+u. Geburtsort der +
+Mutter s|Wohnort +
+der +
+Eltern s|Taufzeugen
+
+|37
+|Heinrich Wilehlm +
+Weiland
+|des 6ten Kind u. +
+2ten Sohn
+|ist geboren d. +
+11ten Decbr Abends +
+7. Uhr in Evesen
+|u. wurde getauft +
+d. 17ten. Decbr in der Kirche
+|Friedrich Wilhelm +
+Weiland n. 20 in Evesen +
+Luth. Conf.
+|Anne Catharine geb. +
+Drinckuths aus n. 1 in +
+Wülpke
+|wohnen +
+auf n. 20
+in Evesen
+|Johann Henrich Sieckmann +
+Einlieger in Bärenbusch
+|===
+
+[caption="Translation: "]
+.Heinrich Wilhelm Weiland Baptism and Birth
+[%autowidth,frame="none"]
+|===
+9+l|266         Geboren im Kirchspiele Petzen (births in Petzen church parish)               im Jahr (in the year) 1815                            267
+
+|Number|Child's Name|Number|Birth time +
+and Place|Baptism Time +
+and +
+Place |Name, Job, Religion +
+and Birth place of Father |Name, Religion +
+and Birth Place of +
+Mother|Residence + 
+of +
+Parents|Baptism Witnesses
+
+|37
+|Heinrich Wilehlm +
+Weiland
+|the 6^th^ child and +
+2^nd^ son
+|born the +
+11^th^ Dec. at +
+7 p.m. in Evesen
+|was baptized +
+on 17^th^ Dec. in the church
+|Friedrich Wilhelm +
+Weiland n. 20 in Evesen +
+Luth. Conf.
+|Anne Catharine born +
+Drinckuths from n. 1 in +
+Wülpke
+|live at +
+n. 20 +
+in Evesen
+|Johann Henrich Sieckmann +
+farm laborer in Bärenbusch
+|===
+
+
+
+[bibliography]
+== Citations
+
+* [[[image137]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/c4074e8f0f/ : 4 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 137 of 357

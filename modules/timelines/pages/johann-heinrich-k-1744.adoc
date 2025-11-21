@@ -1,8 +1,8 @@
 = Johann Heinrich Krückeberg [1744-1822]
 :page-role: wide
 
-== xref:petzen:petzen-band1a-image167.adoc[1744 Johann Heinrich Krückeberg Baptized]
-== xref:petzen:petzen-band2-image27-2-birth.adoc[1794 Marie Philippine Krückeberg Birth]
+== xref:petzen:PET-B-1744a.adoc[1744 Johann Heinrich Krückeberg Baptized]
+== xref:petzen:PET-B-1794a.adoc[1794 Marie Philippine Krückeberg Birth]
 
 .1794 Birth
 [%header,cols="1,3,4,2",width="60%"]
@@ -25,7 +25,7 @@
 *NOTE:* There is no separate birth record for the birth of Marie Philippine Krückeberg, rather her birth is mentioned in
 the Nachtrag (addenda) that accompanies her marriage record.
 
-== xref:petzen:petzen-band1b-image50.adoc[1758 Johann Heinrich Krückeberg Marriage]
+== xref:petzen:PET-M-1758a.adoc[1758 Johann Heinrich Krückeberg Marriage]
 
 .Marriage Information
 [%header,width="65%",cols="1,3,2,2"]
