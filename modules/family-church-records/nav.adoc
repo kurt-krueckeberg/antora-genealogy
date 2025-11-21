@@ -16,7 +16,7 @@
 ** xref:frille:FRI-B-1800a.adoc[]
 ** xref:frille:FRI-B-1804a.adoc[]
 ** xref:frille:carl-f-bleeke/FRI-M-1820a.adoc[]
-** xref:frille:jhp-bleeke/FRI-M-1820b.adoc[]
+** xref:frille:FRI-M-1820b.adoc[]
 ** xref:frille:christian-f-bleeke/FRI-M-1826a.adoc[]
 ** Carl Friedrich Bleeke's (1794) Children
 *** xref:frille:carl-f-bleeke/FRI-B-1820a.adoc[]                          
