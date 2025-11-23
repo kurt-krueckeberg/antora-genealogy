@@ -3,7 +3,8 @@
 
 == Citation
 
-The confirmation is found on <<image313, image 313, on pages 652 and 652,>> ofthe Petzen Kirchenbuch volume "Verzeichnis der Getauften und Konfirmierten 1641-1784".
+The confirmation is found on <<image310, image 310>> of the Petzen Kirchenbuch volume "Verzeichnis der
+Getauften und Konfirmierten 1641-1784".
 
 == Image 310
 
@@ -33,8 +34,6 @@ s|Sophie Maria Krückeberg aus Berenbusch
 +
 Her confirmation entry is on the <<image310-left, 310^th^ image, page 17,>> of "database with images".
 It is the fifth entry for the year 1757 on page 18 (whose page number is in the lower left hand of the page).
-
-The FamilySearch Tree-IDS [??TODO????].
 
 == Johann Heinrich Krückeberg Confirmation 1757
 
@@ -67,7 +66,4 @@ s|Johan Heinrich Krückeberg aus(from) Berenbush
 [bibliography]
 == Citations
 
-* [[[image310-17]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/881666c669/: 30 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 313 of 322
-
-* [[[image310-18]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/c362c408ee/: 30 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 313 of 322
-
+* [[[image310]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/881666c669/: 30 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 313 of 322
