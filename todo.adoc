@@ -1,7 +1,9 @@
 = TODO
 
-== Update the Citation Anchors to Reflect the New File Names
+== Sigla for US Churches
 
+* Immanuel
+* german-evangelical-lutheran-and-reformed-church 
 
 == Research Plan
 
