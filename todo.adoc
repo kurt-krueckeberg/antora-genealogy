@@ -1,9 +1,8 @@
 = TODO
 
-== Sigla for US Churches
+== Add Citations to Immanuel Lutheran Bios
 
-* Immanuel
-* german-evangelical-lutheran-and-reformed-church 
+See `~/imm/citations.adoc` for guidance. I need to figure out on which image number each bio appears.
 
 == Research Plan to Investigate German Evangelical Lutheran and Reformed Church,
 
