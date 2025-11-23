@@ -1,6 +1,15 @@
 = TODO
 
-== Create sigla for Familienschein des Auswanderers
+== Create sigla for the Familienschein des Auswanderers
+
+== Find All Remaining Baptism Records and Possible Confirmation, Marriage and Death Records
+
+Using the hand written lists of Archion.de images I have reviewed and have yet to review:
+
+* --> Find any remaining births between 1746/image 174 and 1750/image 180 that were missed. <--
+* Also deaths during the time period 1728 to 1750
+* Marriages between 1710 to 1750.
+
 
 == Add Citations to Immanuel Lutheran Bios
 
@@ -20,18 +29,6 @@ house number.
 
 Perhaps also later use this information to create some sort of a configuration file that will display a tree. And a
 timeline with record sources for each individual.
-
-=== Find All Remaining Records
-
-Using the lists of Archion.de images I have reviewed and have yet to review:
-
-[IMPORTANT]
-====
-* --> Find any remaining births between 1746 and 1750 that were missed. <--
-* Also deaths during the time period 1728 to 1750
-* Marriages between 1710 to 1750.
-====
-
 === Birth Records Parentage Patterns and Statistics
 
 |===
