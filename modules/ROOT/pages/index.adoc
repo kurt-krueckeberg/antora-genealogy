@@ -1,6 +1,6 @@
 = Overview
 
-According to his Immanual Lutheran biography, xref:immanuel-lutheran:bios/jhp-bleeke.adoc[Johann Heinrich Philipp Bleeke] was born 
+According to his Immanual Lutheran biography, xref:immanuel-lutheran:DEC-BIO-Bleeke-01.adoc[Johann Heinrich Philipp Bleeke] was born 
 
 [quote,Immanuel Lutheran biogrpahy for J.H.P. Bleeke]
 ____

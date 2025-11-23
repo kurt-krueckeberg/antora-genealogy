@@ -6,7 +6,7 @@ Download xref:attachment$christian-fridrich-bleeke.jpg[original image of biograp
 
 No. 10
 
-zweiter Sohn von xref:./jhp-bleeke.adoc[Johann Heinrich Philipp Bleeke] und Christine Marie neé
+zweiter Sohn von xref:DEC-BIO-Bleeke-01.adoc[Johann Heinrich Philipp Bleeke] und Christine Marie neé
 Schwier, geb. den 7. Mai und get. den 13. Mai 1821 (siehe Seite 31, Kind
 No.2). Er verheiratete sich den 9. August 1849 mit Jungfrau Louise
 Valsing, eine Tochter von Friderich Valsing und seiner Ehefrau Louise
@@ -53,7 +53,7 @@ No. 10
 
 Christian Fridrich Bleeke
 
-2^nd^ son of xref:./jhp-bleeke.adoc[Johann Heinrich Philipp Bleeke] and Christine
+2^nd^ son of xref:DEC-BIO-Bleeke-01.adoc[Johann Heinrich Philipp Bleeke] and Christine
 Marie neé Schwier, born on 7 May and baptized on 13 May 1821 (see page 31, child
 No.2). He married 9 August 1849 the maiden Louise Valsing, a daughter of
 Friderich Valsing and his wife Louise neé (in pencil: Kleinschmidt Friedheim),

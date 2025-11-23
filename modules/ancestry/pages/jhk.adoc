@@ -3,7 +3,7 @@
 == Sources
 
 [arabic,start=1]
-. From xref:immanuel-lutheran:bios/johann-heinrich-krueckeberg.adoc[Immnuel Lutheran Bio]:
+. From xref:immanuel-lutheran:DEC-BIO-Krueckeberg-01.adoc[Immnuel Lutheran Bio]:
 * born/baptism 12t August 1806 in Berenbusch. Baptized by Pasotr Stille
 +
 parents:

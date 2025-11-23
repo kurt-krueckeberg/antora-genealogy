@@ -33,12 +33,12 @@ Seine Kinder sind:
      Taufpathe: Fridrich Schwier, confirmiert am Sonnt. n. Ostern 1832; gest.
      den 25 März 1839.
 
-   . xref:./christian-fridrich-bleeke.adoc[Christian Fridrich], geb. den 7 Mai und get. den 13 Mai 1821.
+   . xref:DEC-BIO-Bleeke-02.adoc[Christian Fridrich], geb. den 7 Mai und get. den 13 Mai 1821.
      Taufpathe: Carl Fridrich Bleeke, confirmiert am Sonnt. Judica 1835.
 
 . Carl Fridrich, geb. den 17 Juli u. get. den 20 Juli 1823.
 Taufpathe: Christian Fridrich Bleeke; gestorben den 11 Mai 1825.
-. xref:./carl-fridrich-wilhelm-bleeke.adoc[Carl Fridrich Wilhelm], geb. den 30 November u. getauft den 4
+. xref:DEC-BIO-Bleeke-03.adoc[Carl Fridrich Wilhelm], geb. den 30 November u. getauft den 4
 December 1825. Taufpathen: Fridrich Meier und Christ. Bleeke;
 confirmiert um Ostern 1840 on Past. Möllmann in Cincinati.
 . Christine Maria, geb. den 11 u. get. den 17 August 1828.
@@ -88,14 +88,14 @@ His children are:
 Godfather: Fridrich Schwier; confirmed on Sunday after Easter,
 1832; died on 25 March 1839.
 
-. xref:./christian-fridrich-bleeke.adoc[Christian Fridrich], born on the 7^th^ of May, and baptized on
+. xref:DEC-BIO-Bleeke-02.adoc[Christian Fridrich], born on the 7^th^ of May, and baptized on
 13 May 1821. Godfather: Carl Fridrich Bleeke, confirmed on Judica
 Sunday, 1835.
 
 . Carl Fridrich, born on 17 July, and baptized on 20 July 1823.
 Godfather: Christian Fridrich Bleeke; died on 11 May 1825.
 
-. xref:./carl-fridrich-wilhelm-bleeke.adoc[Carl Fridrich Wilhelm],
+. xref:DEC-BIO-Bleeke-03.adoc[Carl Fridrich Wilhelm],
 born on 30 November, and baptized on 4 December 1825. Godparents: Fridrich Meier
 and Christ. Bleeke; confirmed on Easter 1840 by Pastor Möllmann in Cincinnati.
 
