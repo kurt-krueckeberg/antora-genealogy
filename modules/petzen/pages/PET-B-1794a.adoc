@@ -27,7 +27,7 @@ the Nachtrag (addenda) that accompanies her marriage record.
 == Citation
 
 There is no separate birth record for the birth of Marie Philippine Krückeberg, rather her birth is mentioned in the Nachtrag (addenda) that
-accompanies her marriage record, which is on <<image27, image 27, on pages 48 and 49>> of the Petzen "Verzeichnis der Getauften, Konfirmierten,
+accompanies her marriage record, which is on <<PET-B-1794a, image 27, on pages 48 and 49>> of the Petzen "Verzeichnis der Getauften, Konfirmierten,
 Getrauten und Gestorbenen 1785-1827".
 
 == Pages 48 and 49
@@ -174,5 +174,5 @@ Crömer
 [bibliography]
 == Citations
 
-* [[[image27]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/e8f8a097b9/ : 4 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+* [[[PET-B-1794a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/e8f8a097b9/ : 4 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
  Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 27 of 357

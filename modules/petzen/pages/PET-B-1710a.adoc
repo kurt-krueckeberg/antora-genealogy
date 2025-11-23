@@ -3,7 +3,7 @@
 
 == Citation
 
-The baptism of Henrich Bleecke is on <<image117, image 117>>, left-hand page, 3^nd^ entry from the top, of the Petzen
+The baptism of Henrich Bleecke is on <<PET-B-1710a, image 117>>, left-hand page, 3^nd^ entry from the top, of the Petzen
 "Verzeichnis der Getauften und Konfirmierten 1641-1784".
 
 == Image 117
@@ -24,6 +24,6 @@ vatter war johan Notmeyer
 [bibliography]
 == Citations
 
-* [[[image117]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/9cf65653e8/ : 4 May 2025),
+* [[[PET-B-1710a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/9cf65653e8/ : 4 May 2025),
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften und Konfirmierten 1641-1784, image 117 of 322, left hand page, 3^rd^ entry.

@@ -5,7 +5,7 @@
 
 === Citatioin
 
-Entry is on <<image45, image 45, on entry 7>>.
+Entry is on <<PET-B-1789c, image 45, on entry 7>>.
 
 === Image 45, page 85, entry 7
 
@@ -39,5 +39,5 @@ to five.
 [bibliography]
 == Citations
 
-* [[[image45]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/ee8298f89e/ : 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+* [[[PET-B-1789c]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/ee8298f89e/ : 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
 Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 45 of 357

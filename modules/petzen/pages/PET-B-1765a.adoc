@@ -27,7 +27,7 @@
 
 == Citation
 
-The March 24, 1765 baptism of Jobst Heinrich Krückeberg is on <<image211, image 211>>, left page, fourth entry from the top, of
+The March 24, 1765 baptism of Jobst Heinrich Krückeberg is on <<PET-B-1765a, image 211>>, left page, fourth entry from the top, of
 the "Verzeichnis der Getauften und Konfirmierten 1641-1784" (Register of Baptism and Confirmed of the Petzen Parish, 1641-1784).
 
 == Baptism Record
@@ -71,4 +71,4 @@ l|24 March Jobst Heinrich Krückeberg legitimate son of Johann Heinrich
 [bibliography]
 == Citations
 
-* [[[image211]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/bac0cc3f24/ : 2 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 211 of 322
+* [[[PET-B-1765a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/bac0cc3f24/ : 2 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 211 of 322

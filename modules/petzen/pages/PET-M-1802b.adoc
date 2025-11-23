@@ -15,7 +15,7 @@
 
 == Citation
 
-The marriage occurred on April 11, 1802. It is <<image12, entry 10, page 19, on image 12>> of Petzen
+The marriage occurred on April 11, 1802. It is <<PET-M-1802b, entry 10, page 19, on image 12>> of Petzen
 Kirchenbuch Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
 
 == Page 19
@@ -67,6 +67,6 @@ s| Zahl s| Nahmen des Bräutigams  s| Ortschaft s| Sh s| Nahmen der Braut s| Ort
 [bibliography]
 == Citations
 
-* [[[image12]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/670cfbbaf6/ : 22 September 2023),
+* [[[PET-M-1802b]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/670cfbbaf6/ : 22 September 2023),
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 12 of 357

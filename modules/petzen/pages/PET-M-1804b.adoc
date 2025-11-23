@@ -5,7 +5,7 @@ In 1804 Fridrich Wilhem Weyland married Caroline Luise Lauen and Fridrich Weylan
 
 == Citation
 
-The marriage is found on <<image13, image 13, page 20, entry 7,>> of the Petzen Kirchenbuch volume "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
+The marriage is found on <<PET-M-1804b, image 13, page 20, entry 7,>> of the Petzen Kirchenbuch volume "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
 image::petzen-band2-img13-heading.jpg[align=left,title="Page Header for Fridrich Wilhelm Weyland Marriage",link=self]
 
@@ -30,6 +30,6 @@ image::petzen-band2-img13.jpg[align=left,title="Entry for Fridrich Wilhelm Weyla
 [bibliography]
 == Citations
 
-* [[[image13]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/de7d21d33d/ : 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv >
+* [[[PET-M-1804b]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/de7d21d33d/ : 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv >
 Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 13 of 357
 

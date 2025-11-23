@@ -20,7 +20,7 @@
 == Citation
 
 The confirmation of Philippine Louise Leonore Krückeberg Confirmation on Sunday
-Quasimodogeniti 1806 is entry 12, on <<image201-entry12, image 201>>, pages 426 and 427 of
+Quasimodogeniti 1806 is entry 12, on <<PET-C-1806a, image 201>>, pages 426 and 427 of
 the Petzen Kirchenbuch "Verzeichnis der Getauften, Konfirmierten, Getrauten und
 Gestorbenen 1785-1827" in the link:https://www.archion.de[Archion.de] database of Kirchenbücher
 images.
@@ -92,5 +92,5 @@ image::petzen-band2-img201-427.jpg[title="Philippine Louise Leonore Krückeberg 
 [bibliography]
 == Citations
 
-* [[[image201-entry12]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/5fe9bf6cc9/ : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 201 of 357
+* [[[PET-C-1806a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/5fe9bf6cc9/ : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 201 of 357
 

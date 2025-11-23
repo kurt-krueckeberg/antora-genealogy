@@ -18,7 +18,7 @@
 == Citation
 
 The June 23, 1771, interment of the stillborn son of Johann Heinrich Kruckeberg of Berenbusch
-appears on <<band1b-img204, image 204>>, on the left-hand page of the Petzen "Verzeichnis der
+appears on <<PET-D-1771a, image 204>>, on the left-hand page of the Petzen "Verzeichnis der
 Getrauten und Gestorbenen, 1641-1784".
 
 == Record
@@ -47,7 +47,7 @@ d 23  Jun. The stillborn little boy of Johann Heinrich Kruckeberg
 [bibliography]
 == Citations
 
-* [[[band1b-img204]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/e48cc6a752/ :
+* [[[PET-D-1771a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/e48cc6a752/ :
 23 July 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche
 Schaumburg-Lippe > Petzen > Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 204 of 239
 

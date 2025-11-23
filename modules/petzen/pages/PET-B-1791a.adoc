@@ -27,7 +27,7 @@
 
 == Citation 
 
-This baptism is recorded on <<image52, image 52 on Archion>> of Petzen Kirchenbuch volume 2.
+This baptism is recorded on <<PET-B-1791a, image 52 on Archion>> of Petzen Kirchenbuch volume 2.
 
 == Header page 98
 
@@ -60,6 +60,6 @@ Heinrich Krückeberg from Berenbusch
 [bibliography]
 == Citations
 
-* [[[image52]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/c4f170ce7b/ : 4 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+* [[[PET-B-1791a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/c4f170ce7b/ : 4 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
  Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 52 of 357
 

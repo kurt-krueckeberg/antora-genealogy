@@ -22,7 +22,7 @@ This is almost certainly the xref:petzen:PET-B-1746a.adoc[Anna Louisa Eleonore K
 == Citation
 
 The January 16, 1757, burial of the born-blind Louisa Eleonore Krückeberg of the "Krückebergs at Berenbusch"
-appears on <<band1b-img178-left, image 178>>, on the left-hand page, of the Petzen "Verzeichnis der Getrauten und Gestorbenen,
+appears on <<PET-D-1757a, image 178>>, on the left-hand page, of the Petzen "Verzeichnis der Getrauten und Gestorbenen,
 1641-1784".
 
 == Image
@@ -51,7 +51,7 @@ d 28th Jan. Louisa Eleonore Krückeberg
 [bibliography]
 == Citations
 
-* [[[band1b-img178-left]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/b7729c7fe1/ :
+* [[[PET-D-1757a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/b7729c7fe1/ :
 18 July 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche
 Schaumburg-Lippe > Petzen > Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 178 of 239
 

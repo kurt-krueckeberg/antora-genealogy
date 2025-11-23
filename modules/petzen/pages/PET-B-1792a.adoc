@@ -53,7 +53,7 @@ in Evesen|Evesen
 
 == Citations
 
-This entry appears on <<image55-105,image 55, page 105>> of Petzen Kirchenbuch volume 2.
+This entry appears on <<PET-B-1792a,image 55, page 105>> of Petzen Kirchenbuch volume 2.
 
 == Philippine Caroline Christine Krueckebergen 1792
 
@@ -119,5 +119,5 @@ died 10/26/1870
 [bibliography]
 == Citations
 
-* [[[image55-105]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/75e10a88e0/ : 17 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+* [[[PET-B-1792a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/75e10a88e0/ : 17 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
   Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 55 of 357

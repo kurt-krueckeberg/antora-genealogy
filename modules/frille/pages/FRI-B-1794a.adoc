@@ -3,7 +3,7 @@
 
 == Citation
 
-Carl Fridrich Bleeke's birth and baptism is recorded on <<image123, page 229>> of Frille "Verzeichnis der Getauften, Getrauten, Gestorbenen (Register of Baptism, Marriages, Deaths) 1758-1804 ",
+Carl Fridrich Bleeke's birth and baptism is recorded on <<FRI-B-1794a, page 229>> of Frille "Verzeichnis der Getauften, Getrauten, Gestorbenen (Register of Baptism, Marriages, Deaths) 1758-1804 ",
 on image 123 of 388.
 
 == Images
@@ -12,7 +12,7 @@ The birth year `1794` is written in the upper right corner of image 121:
 
 image::frille-band2-img121-225.jpg[align=left,title='Page giving baptism year for Carl Fridrich Bleeke (Click to englarge)',link=self]
 
-The birth and baptism of Carl Fridrich Bleeke is recorded on entry number 38 on <<image123, page 229>> (of the baptism pages).
+The birth and baptism of Carl Fridrich Bleeke is recorded on entry number 38 on <<FRI-B-1794a, page 229>> (of the baptism pages).
  
 image::frille-band2-img123-229.jpg[align=left,title='Baptism of Carl Fridrich Bleeke, 46^th^ of 1797 (Click to englarge)',link=self]
 
@@ -38,6 +38,6 @@ Pr. Father: Christian Fridrich. Bleeke. Mother: Anne
 [bibliography]
 == Citations
 
-* [[[image123]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/2c53c25219/ : 12 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Frille >
+* [[[FRI-B-1794a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/2c53c25219/ : 12 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Frille >
 Verzeichnis der Getauften, Getrauten, Gestorbenen 1758-1804, image 123 of 388
 

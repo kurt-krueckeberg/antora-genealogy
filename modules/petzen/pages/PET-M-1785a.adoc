@@ -6,7 +6,7 @@ who served the congregation over the years. This page records the marriage of Fr
 
 == Citation
 
-This marriage entry is on the <<image3, 3rd image on Archion>> of Petzen Kirchenbuch volume Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
+This marriage entry is on the <<PET-M-1785a, 3rd image on Archion>> of Petzen Kirchenbuch volume Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
 
 The FamilySearch Tree-ID for Friderich Weiland is [??TODO????].
 
@@ -41,5 +41,5 @@ This was done because the scribe encountered the right edge of the page and ran 
 [bibliography]
 == Citations
 
-* [[[image3]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/ecaedcb229/: 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 3 of 357
+* [[[PET-M-1785a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/ecaedcb229/: 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 3 of 357
 

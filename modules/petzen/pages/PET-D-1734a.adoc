@@ -24,7 +24,7 @@ and her baptism was either not performed or not recorded.
 [.narrow]
 == Citation
 
-The February 14^th^ 1734 burial records are on <<image150, image 150>> of the
+The February 14^th^ 1734 burial records are on <<PET-D-1734a, image 150>> of the
 "Verzeichnis der Getrauten und Gestorbenen 1641-1784" on link:https://www.archion.de[Archion.de].
 
 == Image 150
@@ -95,7 +95,7 @@ H. Sickmann from Nammen had a little daughter buried.
 [bibliography]
 == Citations
 
-* [[[image150]]] "Archion Protestant Kirchenbücher Portal", database with images, (https://www.archion.de/p/3d7f396aa6/ : 13 Nov. 2025),
+* [[[PET-D-1734a]]] "Archion Protestant Kirchenbücher Portal", database with images, (https://www.archion.de/p/3d7f396aa6/ : 13 Nov. 2025),
 path: Niedersachsen > Niedersächsisches Landesarchiv >
 Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > 
 Verzeichnis der Getrauten und Gestorbenen 1641-1784 > Image 150 of 239

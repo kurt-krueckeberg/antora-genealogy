@@ -19,7 +19,7 @@
 
 == Citation
 
-The burial of Friderich Wilhelm Krückeberg-Croemer, on May 29 1794, is on <<image230, page 485>> entry 16, of Petzen "Verzeichnis der Getauften,
+The burial of Friderich Wilhelm Krückeberg-Croemer, on May 29 1794, is on <<PET-D-1794a, page 485>> entry 16, of Petzen "Verzeichnis der Getauften,
 Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
 [IMPORTANT]
@@ -61,4 +61,4 @@ war 3 und 1/4 Jahr.
 [bibliography]
 == Citations
 
-* [[[image230]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/715d70f09b/ : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 230 of 357
+* [[[PET-D-1794a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/715d70f09b/ : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 230 of 357

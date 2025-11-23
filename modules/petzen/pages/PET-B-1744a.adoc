@@ -40,7 +40,7 @@ on the prior page where only the surname is mentioned, too.
 
 == Image 167
 
-The baptism entry is found on <<image-vo1a-167, image 167, year 1744, fourth entry for January>>.
+The baptism entry is found on <<PET-B-1744a, image 167, year 1744, fourth entry for January>>.
 
 image::petzen-band1a-img167.jpg[title="Unknown Krückeberg (Click to enlarge)",link=self]
 
@@ -83,5 +83,5 @@ son from Nordholtz.
 [bibliography]
 == Citations
 
-* [[[image-vo1a-167]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/6ebd3448c0/: 23 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten, 1641-1784 > Image 167 of 322
+* [[[PET-B-1744a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/6ebd3448c0/: 23 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten, 1641-1784 > Image 167 of 322
 

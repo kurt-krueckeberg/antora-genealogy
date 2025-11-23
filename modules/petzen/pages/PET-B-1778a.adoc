@@ -3,7 +3,7 @@
 
 == Citation
 
-The stillbirth of the little son of Johann Christian Weiland in 1778 is on <<image259, image 259, right page>>, of the  
+The stillbirth of the little son of Johann Christian Weiland in 1778 is on <<PET-B-1778a, image 259, right page>>, of the  
 Petzen "Verzeichnis der Getaufte und Confirmirte, 1641-1784"
 
 == Image 259
@@ -31,4 +31,4 @@ image::petzen-band1a-img259.jpg[align=left,title='Stillborn son of Johann Christ
 [biliography]
 == Citations
 
-* [[[image259]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/53cd6fd928/ : 6 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 259 of 322
+* [[[PET-B-1778a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/53cd6fd928/ : 6 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 259 of 322

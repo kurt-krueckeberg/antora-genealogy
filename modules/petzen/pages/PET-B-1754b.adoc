@@ -36,4 +36,4 @@ image::petzen-band1a-img191-left-1754.jpg[align=left,title='Anna Ilse Margaret W
 [bibliography]
 == Citations
 
-* [[[image191-left]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (?????? : 5 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 191 of 322
+* [[[PET-B-1754b]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (?????? : 5 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 191 of 322

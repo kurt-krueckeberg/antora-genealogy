@@ -3,7 +3,7 @@
 
 == Citation
 
-The birth and baptism of Heinrich Wilhelm Weiland is entry 37 on <<image137,
+The birth and baptism of Heinrich Wilhelm Weiland is entry 37 on <<PET-B-1815b,
 image 137, pages 266-267>> of Petzen Kichenbuch volume "Verzeichnis der
 Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
@@ -106,4 +106,4 @@ farm laborer in Bärenbusch
 [bibliography]
 == Citations
 
-* [[[image137]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/c4074e8f0f/ : 4 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 137 of 357
+* [[[PET-B-1815b]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/c4074e8f0f/ : 4 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 137 of 357

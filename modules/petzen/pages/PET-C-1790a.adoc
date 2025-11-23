@@ -3,7 +3,7 @@
 
 == Citation
 
-The confirmation of Friderich Wilhelm Weiland, in 1790, on Quasimodogeniti (the 1^st^ Sunday After Easter), is found on <<image190-fwweiland, ANNO 1790 entry 8>> of Petzen Kirchenbuch volume Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenden 1785-1827.
+The confirmation of Friderich Wilhelm Weiland, in 1790, on Quasimodogeniti (the 1^st^ Sunday After Easter), is found on <<PET-C-1790a, ANNO 1790 entry 8>> of Petzen Kirchenbuch volume Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenden 1785-1827.
 
 == Page 405
 
@@ -25,4 +25,4 @@ image::petzen-band2-img190-fwweiland.jpg[title="ANNO 1790, on page 405 (Click to
 [bibliography]
 == Citations
 
-* [[[image190-fwweiland]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/8b43f9e528/ : 22 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 190 of 357
+* [[[PET-C-1790a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/8b43f9e528/ : 22 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 190 of 357

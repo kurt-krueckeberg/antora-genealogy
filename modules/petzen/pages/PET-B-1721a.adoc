@@ -3,7 +3,7 @@
 
 == Citation
 
-The baptism of Catherine Elisabeth Bleeck is on <<image129, image 129>>, right-hand page, 4^th^ entry from the top, of the Petzen
+The baptism of Catherine Elisabeth Bleeck is on <<PET-B-1721a, image 129>>, right-hand page, 4^th^ entry from the top, of the Petzen
 "Verzeichnis der Getauften und Konfirmierten 1641-1784".
 
 == Baptism Record
@@ -28,6 +28,6 @@ image::petzen-band1a-img129.jpg[align=left,title='Catharine Elisabeth Bleeck, im
 [bibliography]
 == Citations
 
-* [[[image129]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/0034963201/ : 18 May 2025),
+* [[[PET-B-1721a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/0034963201/ : 18 May 2025),
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften und Konfirmierten 1641-1784, image 129 of 322, right hand page, 4^th^ entry.

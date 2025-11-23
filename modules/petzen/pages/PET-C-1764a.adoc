@@ -13,7 +13,7 @@
 
 == Citation
 
-The confirmation entry is on <<image313, image 313>>, the 6^th^ entry for 1764, of the Petzen
+The confirmation entry is on <<PET-C-1764a, image 313>>, the 6^th^ entry for 1764, of the Petzen
 "Verzeichnis der Getauften und Konfirmierten 1641-1784".
 
 == Image 313
@@ -49,5 +49,5 @@ Jobst Heinrich Hofmeier aus(from) Evesen
 [bibliography]
 == Citations
 
-* [[[image313]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/62093969d6/: 30 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 313 of 322
+* [[[PET-C-1764a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/62093969d6/: 30 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 313 of 322
 

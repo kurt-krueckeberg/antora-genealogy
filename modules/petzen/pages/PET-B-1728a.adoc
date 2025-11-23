@@ -29,7 +29,7 @@ Fact|Details
 
 == Citation
 
-The baptism entry is found on <<image140, image 140>>. It is labled **18**, and it is the
+The baptism entry is found on <<PET-B-1728a, image 140>>. It is labled **18**, and it is the
 18^th^ birth and baptims in 1728. **Anno 1728** appears at the top of the prior
 page where the list of the baptisms for 1728 begin.
 
@@ -78,6 +78,6 @@ was baptized. Godfathers were Johann Tönnies Eggerding and H Herman Wiese
 [bibliography]
 == Citations
 
-* [[[image140]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/d55015885d/ : 23 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten, 1641-1784
+* [[[PET-B-1728a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/d55015885d/ : 23 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten, 1641-1784
 > Image 140 of 322
 

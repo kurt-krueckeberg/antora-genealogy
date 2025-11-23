@@ -3,7 +3,7 @@
 
 == Citation
 
-The birth of a stillborn daughter of Heinrich Wilhelm Weiland is entry 17 on <<image133, image 133, pages 260-261>>.
+The birth of a stillborn daughter of Heinrich Wilhelm Weiland is entry 17 on <<PET-B-1815a, image 133, pages 260-261>>.
 
 == Image, Transliteration and Translation
 
@@ -78,4 +78,4 @@ in Evesen
 [bibliography]
 == Citations
 
-* [[[image133]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/858268aa41/ : 4 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 133 of 357
+* [[[PET-B-1815a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/858268aa41/ : 4 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 133 of 357

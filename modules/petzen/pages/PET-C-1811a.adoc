@@ -20,7 +20,7 @@
 == Citation
 
 The confirmation of Chrisinte Louise Krückeberg in 1811 on the 2^nd^ Sunday
-after Easter(Qadsimodogeniti) is entry 20, on <<image207-438-439, pages 438 and 439>>, on entry #20,
+after Easter(Qadsimodogeniti) is entry 20, on <<PET-C-1811a, pages 438 and 439>>, on entry #20,
 of Petzen Kirchenbuch "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
 === Header Pages 438 Header
@@ -71,4 +71,4 @@ image::petzen-band2-img207-439-entry20.jpg[[title="Anne Christine Leonore Krück
 [bibliography]
 == Citations
 
-* [[[image207-438-439]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/e703e9ca32/ : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 207 of 357
+* [[[PET-C-1811a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/e703e9ca32/ : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 207 of 357

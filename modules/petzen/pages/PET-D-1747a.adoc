@@ -18,7 +18,7 @@
 == Citation
 
 The November 5, 1747, interment of the Johann Wilhelm Krückeberg son of Johann Heinrich Krückeberg of Berenbusch
-appears on <<band1b-img167, image 167>>, on the right-hand page of the Petzen "Verzeichnis der
+appears on <<PET-D-1747a, image 167>>, on the right-hand page of the Petzen "Verzeichnis der
 Getrauten und Gestorbenen, 1641-1784".
 
 == Record
@@ -58,7 +58,7 @@ was buried, aged 8¾ years
 [bibliography]
 == Citations
 
-* [[[band1b-img167]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/ecf88e97a3/ :
+* [[[PET-D-1747a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/ecf88e97a3/ :
 29 July 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche
 Schaumburg-Lippe > Petzen > Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 167 of 239
 

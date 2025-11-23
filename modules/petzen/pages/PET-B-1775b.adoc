@@ -21,7 +21,7 @@
 
 == Citation
 
-Anna Christina Maria Krückeberg's baptism is on <<image246, image 246, right
+Anna Christina Maria Krückeberg's baptism is on <<PET-B-1775b, image 246, right
 page, entry no. 10>> from the Petzen Kirchenbuch volume "Verzeichnis der
 Getauften und Konfirmierten, 1641-1784". 
 
@@ -52,6 +52,6 @@ image::petzen-band1a-img246.jpg[align=left,title='Anna Christina Maria Kruckeber
 [bibliography]
 == Citations
 
-* [[[image246]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/3f3c8fb681/ : 31 October 2023),
+* [[[PET-B-1775b]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/3f3c8fb681/ : 31 October 2023),
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften und Konfirmierten 1641-1784, image 246 of 322

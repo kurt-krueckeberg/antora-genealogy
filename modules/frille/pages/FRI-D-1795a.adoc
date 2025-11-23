@@ -4,7 +4,7 @@
 
 == Citation
 
-The death of Johann Fridirch Bleecke occurred on 22 April 1795. It is <<image313, image 313, page 185 of the listing of deaths>>.
+The death of Johann Fridirch Bleecke occurred on 22 April 1795. It is <<FRI-D-1795a, image 313, page 185 of the listing of deaths>>.
 
 == Images
 
@@ -40,6 +40,6 @@ Pr. P. Head of a guild;head of chamber of commerces[or judge] in Frille, died fr
 [bibliography]
 == Citations
 
-* [[[image313]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/af0741ee03/ :  12 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Frille >
+* [[[FRI-D-1795a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/af0741ee03/ :  12 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Frille >
 Verzeichnis der Getauften, Getrauten, Gestorbenen 1758-1804, image 313 of 388
 

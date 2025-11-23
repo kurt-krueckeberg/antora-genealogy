@@ -3,7 +3,7 @@
 
 == Citation
 
-The baptism Maria Eleonore Bleecke occurred on 24 ovembery 1767. It appears on <<image33, image 33, page 61 of the baptims entries1>>, of 
+The baptism Maria Eleonore Bleecke occurred on 24 ovembery 1767. It appears on <<FRI-B-1767a, image 33, page 61 of the baptims entries1>>, of 
 Frille "Verzeichnis der Getauften, Getrauten, Gestorbenen (Register of Baptism, Marriages, Deaths) 1758-1804 ".
 
 == Images
@@ -42,4 +42,4 @@ After the baby's name, followed by her place of birth, three names occur precede
 [bibliography]
 == Citations
 
-* [[[image33]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/71cfb50d56/: 15 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Frille > Verzeichnis der Getauften, Getrauten, Gestorbenen 1758-1804, image 33 of 388
+* [[[FRI-B-1767a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/71cfb50d56/: 15 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Frille > Verzeichnis der Getauften, Getrauten, Gestorbenen 1758-1804, image 33 of 388

@@ -27,7 +27,7 @@
 [.narrow]
 == Citation
 
-The baptism of Rudolphina Margaretha Elisabeth Krückeberg is on <<image144, image 144>>, left-hand page, 
+The baptism of Rudolphina Margaretha Elisabeth Krückeberg is on <<PET-B-1731a, image 144>>, left-hand page, 
 last entry on the page, of the Petzen "Verzeichnis der Getauften und Konfirmierten 1641-1784" from the
 link:https://www.aarchion.de[Archion.de] database of Protestent Kirchenbücher digital images.
 
@@ -67,6 +67,6 @@ Berenbusch
 [bibliography]
 == Citations
 
-* [[[image144]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/faa22597b6/ : 18 Nov. 2025),
+* [[[PET-B-1731a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/faa22597b6/ : 18 Nov. 2025),
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften und Konfirmierten 1641-1784, image 144 of 322, bottom of left hand page.

@@ -12,7 +12,7 @@
 
 == Citation
 
-The confirmation is the penultimate entry on <<image310-left-page, image 313>>, on the left page
+The confirmation is the penultimate entry on <<PET-C-1755a, image 313>>, on the left page
 (the pages are unnumbered) of the Petzen Kirchenbuch "Verzeichnis der Getauften und Konfirmierten
 1641-1784".
 
@@ -59,7 +59,7 @@ Charlotte Dieckmans, daughter of an Einlieger, Röcke
 [bibliography]
 == Citations
 
-* [[[image310-left-page]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/881666c669/:
+* [[[PET-C-1755a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/881666c669/:
 30 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche
 Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 313 of 322
 

@@ -14,7 +14,7 @@
 
 == Citation
 
-This confirmation entry is on the <<image320, 320th image on Archion>> of Petzen Kirchenbuch "database with images".
+This confirmation entry is on the <<PET-C-1781a, 320th image on Archion>> of Petzen Kirchenbuch "database with images".
 
 == Image
 
@@ -44,5 +44,5 @@ image::petzen-band1a-img320.jpg[align=left,title='Marriage Entry 3',link=self]
 [bibliography]
 == Citations
 
-* [[[image320]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/24d49d81bd/: 29 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 320 of 322
+* [[[PET-C-1781a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/24d49d81bd/: 29 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 320 of 322
 

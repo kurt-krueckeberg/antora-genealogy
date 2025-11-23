@@ -18,7 +18,7 @@
 == Citation
 
 The August 29, 1773, burial of Anna Christina Kruckeberg, age 36, wife of Johann Heinrich Krückeberg from Bernbusch, 
-appears on <<band1b-img210, image 210>>, on the right-hand page of the Petzen "Verzeichnis der Getrauten und Gestorbenen,
+appears on <<PET-D-1773b, image 210>>, on the right-hand page of the Petzen "Verzeichnis der Getrauten und Gestorbenen,
 1641-1784".
 
 == Record
@@ -51,7 +51,7 @@ On  Aug 29th is here buried Anna Christina
 [bibliography]
 == Citations
 
-* [[[band1b-img210]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/67abb81b75/:
+* [[[PET-D-1773b]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/67abb81b75/:
 23 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche
 Schaumburg-Lippe > Petzen > Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 210 of 239
 

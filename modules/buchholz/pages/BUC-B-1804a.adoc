@@ -5,7 +5,7 @@ In 1804 Johann Heinrich Kleinschmidt, son...
 
 == Citation
 
-The birth record is on <<image198, image 198>> (the pages are unnumbered) of the Buchholz Kirchenbuch _Taufen 1760-1820, Abendmahl 1839-1878 Band 2_.
+The birth record is on <<BUC-B-1804a, image 198>> (the pages are unnumbered) of the Buchholz Kirchenbuch _Taufen 1760-1820, Abendmahl 1839-1878 Band 2_.
 
 Left page:
 
@@ -120,6 +120,6 @@ Christian Kleinschmit +
 [bibliography]
 == Citations
 
-* [[[image198]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/a0fc0001cc/ : 11 August 2024), path: Nordrhein-Westfalen
+* [[[BUC-B-1804a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/a0fc0001cc/ : 11 August 2024), path: Nordrhein-Westfalen
 > Landeskirchliches Archiv der Evangelischen Kirche von Westfalen > Kirchenkreis Minden > Buchholz > Taufen 1760-1820, Abendmahl 1839-1878 Band 2
 > image 198 of 316

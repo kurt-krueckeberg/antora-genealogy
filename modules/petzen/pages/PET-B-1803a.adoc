@@ -22,7 +22,7 @@ from Meinsen|Sophie Wilhelmine|No. 10 Berenbusch|24 Jan 1803|30 Jan 1803
 
 == Citation
 
-The birth is recorded on image 81, on pages <<image81-156, 156 and 157>>, of the
+The birth is recorded on image 81, on pages <<PET-B-1803a, 156 and 157>>, of the
 Petzen Kirchenbuch "Verzeichnis der Getauften, Konfirmierten, Getrauten und
 Gestorbenen 1785-1827". The birth entries spans across both pages 156 and 157. 
 
@@ -107,6 +107,6 @@ applies to her or the person in the entry following.
 [bibliography]
 == Citations
 
-* [[[image81-156]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/84eb256149/
+* [[[PET-B-1803a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/84eb256149/
 : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche
 Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 71 of 357

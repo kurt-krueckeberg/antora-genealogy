@@ -3,7 +3,7 @@
 
 == Citations
 
-Philippine Louis Weiland's baptism is found on <<image34-62, image 34, page 62>> of Petzen Kirchenbuch volume 2.
+Philippine Louis Weiland's baptism is found on <<PET-B-1785a, image 34, page 62>> of Petzen Kirchenbuch volume 2.
 
 == Philippine Louise Weiland 1785
 
@@ -47,5 +47,5 @@ Maria Beuke Meinsen native-born
 [bibliography]
 == Citations
 
-* [[[image34-62]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/5d50809b33/ : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 34 of 357
+* [[[PET-B-1785a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/5d50809b33/ : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 34 of 357
 
