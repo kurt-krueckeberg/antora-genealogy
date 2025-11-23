@@ -2,6 +2,10 @@
 
 == Create sigla for the Familienschein des Auswanderers
 
+== Krückeberg and a Map Showing Krückeberg Property is Mentioned in Case File ????
+
+Find this <----------
+I know there was a map/drawing of Berenbusch showing a "Krückeberg" Stätte in Berenbusch.
 == Find All Remaining Baptism Records and Possible Confirmation, Marriage and Death Records
 
 Using the hand written lists of Archion.de images I have reviewed and have yet to review:
@@ -14,6 +18,21 @@ Using the hand written lists of Archion.de images I have reviewed and have yet t
 == Add Citations to Immanuel Lutheran Bios
 
 See `~/imm/citations.adoc` for guidance. I need to figure out on which image number each bio appears.
+
+== Questions Concerning No. 10 Berenbusch
+
+Was it created during the course of the Rentkammer reviewing case file #143? Here is its
+archive information:
+
+[cols="2,3,1"]
+|===
+|Identifier/Call #er|Description|Time Frame
+
+|NLA BU, K 2, B Nr. 143	
+|Die Stätte Nr. 14 zu Berenbusch
+|1783 - 1792
+|===
+
 
 == Research Plan for Petzen Krückeberg Records
 
