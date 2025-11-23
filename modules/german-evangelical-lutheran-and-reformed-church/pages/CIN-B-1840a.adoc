@@ -1,0 +1,46 @@
+= 1840 Carl Freidrich Wilhelm Bleeke Confirmation 
+:page-role: wide
+
+The confirmation is recorded on <<CIN-B-1840b, page 172, of the PDF of volume 1>>, of the Kirchenbuch of the 
+Deutsche Evangelisch-Lutherische und Reformierte Kirche (North German Lutheran Church) of Cincinnati.
+
+image::vol1-page172.jpg[align=left,title="Page and column headings (Click to enlarge)",link=self]
+
+The page heading:
+____
+  Confirmanden
+Am Sontag Quasimodogeniti, 1840
+____
+
+Its translation:
+____
+  Confirmed
+On the Sunday following Easter (Quasimodogeniti), 1840
+____
+
+
+[caption="Transliteration of: "]
+.Page 172 of PDF
+[cols="1,1",frame="none"]
+|===
+|I Knaben|II Mädchen
+
+l|3. Carl, Friedr. Wilh. Bleeke.|
+|===
+
+[caption="Translation of: "]
+.Page 172 of PDF
+[cols="1,1",frame="none"]
+|===
+|I boys|II girls
+
+l|3. Carl, Friedr. Wilh. Bleeke.|
+|===
+
+
+[bibliography]
+== References
+
+* [[[CIN-B-1840b]]] German Evangelical Lutheran and Reformed Church(Nord deutschlische lutheranische Kirche), 1814-1848. Kirchenbuch 1814-1848, Volume 1.
+(http://hdl.handle.net/2374.UC/753629 : 25 February 2025), path: The Archives and Rare Books Library, University of Cincinnati > Third German Protestant Church Records >
+German Evangelical Lutheran and Reformed Church, 1814-1848 >  page 172 of PDF

@@ -1,0 +1,50 @@
+= 1837 Emilie Bleke Baptism 
+:page-role: wide
+
+The baptism record is on <<CIN-B-1837a, page 42, of volume 1>>, of the PDF of the Kirchenbuch of the
+Deutsche Evangelisch-Lutherische und Reformierte Kirche (North German Lutheran Church) of Cincinnati.
+
+image::vol1-page42.jpg[align=left,title="Page and column headings (Click to enlarge)",link=self]
+
+[NOTE]
+.Some comments
+====
+Key Points:
+
+* Abbreviations have been used for the first names of the parents to save space
+since they had so many. 
+====
+
+The page heading is: `32.) Taufen. (Baptisms)          1837`
+
+[caption="page 32 of volume of: "]
+.Nord deutschlische lutheranische Kirche
+[cols="1,2,5,1,1"]
+|===
+|No.|Name.|Eltern.|geboren|getauft
+
+m|24. l|Emilie l|Joh. Heinr. Phil. Bleke [symbols] geb.
+        Schrie[we]
+Gev.[abbreviation of: Gevatterin] [C]hristine Luise  Bleke l|11 l|19 
+März
+|===
+
+[caption="page 32 of volume of: "]
+.North German Lutheran Church
+[cols="1,2,5,1,1"]
+|===
+|No.|Name|Parents|born|baptized
+
+m|24. l|Emilie l|Joh. Heinr. Phil. Bleke [symbols] geb.
+        Schrie[we]
+baptismal sponsor [C]hristine Luise  Bleke l|11 l|19 
+March
+|===
+
+
+[bibliography]
+== References
+
+* [[[CIN-B-1837a]]] German Evangelical Lutheran and Reformed Church(Nord deutschlische lutheranische Kirche), 1814-1848. Kirchenbuch 1814-1848, Volume 1.
+(http://hdl.handle.net/2374.UC/753629 : 25 February 2025), path: The Archives and Rare Books Library, University of Cincinnati > Third Germabn Protestant Church Records >
+German Evangelical Lutheran and Reformed Church, 1814-1848 >  page 42 of PDF
