@@ -20,7 +20,3 @@
 ** xref:DEC-BIO-Stendler.adoc[]
 ** xref:DEC-BIO-Reinking-02.adoc[Georg Conrad W. Reinking]
 ** xref:DEC-BIO-Bibelheimer.adoc[]
-//* Taufregister
-//** xref:image46.adoc[]
-//* xref:bios/pastors-at-immanuel.adoc[Pastors]
-//* link:https://www.genealogycenter.info/search_adamsimmanuel.php[Search Cemetery Database]
