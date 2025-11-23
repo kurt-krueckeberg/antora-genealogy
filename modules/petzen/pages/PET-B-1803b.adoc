@@ -27,11 +27,9 @@
 
 == Citation
 
-The birth is recorded on image 82, entry 23, on <<image82-158-entry23, page 158>> and
-<<image82-159-entry23, page 159>> of the Petzen Kirchenbuch 
-"Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827". It spans
-across both pages 158 and 159. The birth month of **Jul** is written on page 159 slightly
-above the text of entry 22.
+The birth is recorded on image 82, entry 23, on <<image82-158-entry23, image 82>> pages 158 159 of the Petzen Kirchenbuch 
+"Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827". It spans across both pages 158 and 159.
+The birth month of **Jul** is written on page 159 slightly above the text of entry 22.
 
 == Overview of Pages 158 and 159
 
@@ -137,5 +135,5 @@ image::petzen-band2-img82-entry23-159.jpg[title="Entry 23, page 159 portion (Cli
 [bibliography]
 == Citations
 
-* [[[image82-158-entry23]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/037f8d4ae2/ : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 82 of 357
-* [[[image82-159-entry23]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/10fd9445da/ : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 82 of 357
+* [[[image82-158-entry23]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/037f8d4ae2/, http://www.archion.de/p/10fd9445da/ : 10 October 2023),
+path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 82 of 357
