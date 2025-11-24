@@ -1,5 +1,9 @@
 = TODO
 
+== Create Citations for Immanuel Biographies
+
+Put a citation at the end of each Immanuel biography--both on antora-genealogy and immanuel-adoc.
+
 == Create sigla for the Familienschein des Auswanderers
 
 == Krückeberg and a Map Showing Krückeberg Property is Mentioned in Case File ????

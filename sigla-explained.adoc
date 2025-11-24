@@ -1,0 +1,64 @@
+= Sigla Explained
+
+The format for most of the sigla is LLL-E-YYYYx where:
+
+* LLL--is one of the 3-letter location prefixes for a specific parish shown in the table below:
++
+[cols="1,2,6"]
+|===
+|3-letter Prefix|Location|Meaning
+
+|BUC
+|Buchholz
+|Parish in Buchholz, "Germany"
+
+|CIN
+|Cincinnati
+|Deutsche Evangelisch-Lutherische und Reformierte Kirche von Cincinnati (German Evangelical Lutheran and Reformed Church of 
+Cincinnati)
+
+|FRI
+|Frille
+|Parish in Frille, "Germany"
+
+|PET
+|Petzen
+|Parish in Petzen, Schaumburg-Lippe
+
+|DEC
+|Decatur
+|Immanuel Lutheran Church, Decatur, Indiana
+
+|NDC
+|Cincinnati
+|Norddeutsche Evangelisch-Lutherische Kirche, Cincinnati (North German Lutheran Church of Cincinnati)
+
+|WAL
+|Wallensen
+|Wallsensen Parish, "Germany"
+
+|WIN
+|Windheim
+|Windheim Parish, "Germany"
+|===
+* E--is a one-letter church ceremony code shown in the table below:
++
+|===
+|Code|Ceremony
+
+|B
+|Birth/Baptism
+
+|C
+|Confirmation
+
+|M
+|Marriage
+
+|D
+|Burial/Death
+|===
+* YYYY--is the year of the ceremony
+* x--is a,b,c, d, etc, representing separate indvidual ceremonies from one another.
+
+
