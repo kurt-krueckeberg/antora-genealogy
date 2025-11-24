@@ -1,8 +1,40 @@
 = TODO
 
-== Create Citations for Immanuel Biographies
+== Finishing Creating Citations for Immanuel Biographies
 
 Put a citation at the end of each Immanuel biography--both on antora-genealogy and immanuel-adoc.
+
+== Create One Antora Playbook for Both antora-genealogy and antora-nla
+
+One the house use a bash script to do the `git pull`:
+[sourc,bash]
+----
+#!/bin/bash
+
+echo "Updating repositories..."
+cd ~/antora-genealogy && git pull
+cd ~/nla-documents && git pull
+
+echo "Building Antora site..."
+cd ~/antora-site
+antora antora-playbook.yml
+
+echo "Done!"
+----
+
+Or use a CRON job:
+
+----
+0 3 * * * cd /home/kurt/antora-genealogy && git pull
+0 3 * * * cd /home/kurt/nla-documents && git pull
+5 3 * * * cd /home/kurt/antora-site && antora antora-playbook.yml
+----
+
+This will:
+* 3:00 AM → update genealogy repo
+* 3:00 AM → update nla repo
+* 3:05 AM → rebuild website
+
 
 == Create sigla for the Familienschein des Auswanderers
 
