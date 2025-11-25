@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+rm -rf public
+npx antora local-playbook.yml 
+cp  fonts/* public/_/font/
+/usr/bin/rm -rf /var/www/krueckeberg.org/docs/*
+/usr/bin/cp -r public /var/www/krueckeberg.org/docs
+/usr/bin/chown -R root:www-data /var/www/krueckeberg.org/docs
+/usr/bin/chmod -R g+w /var/www/krueckeberg.org/docs
