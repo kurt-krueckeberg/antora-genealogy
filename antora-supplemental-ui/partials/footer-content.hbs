@@ -1,0 +1,12 @@
+<footer class="footer">
+  <p>© 2021–2025 Kurt Krueckeberg</p>
+  <p>
+    This website is licensed under the Creative Commons
+    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA license.</a>
+    {{#with (resolvePage 'genealogy::license.adoc')}}
+    See <a href="{{@root.siteRootPath}}{{url}}">License &amp; Reuse</a>
+    {{else}}
+      <span style="opacity:.7">License &amp; Reuse (not found)</span>
+    {{/with}}
+  </p>
+</footer>
