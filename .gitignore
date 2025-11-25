@@ -10,3 +10,4 @@ latest/
 /code/nbproject
 nbproject/
 bibliography-builder/
+package-lock.json
