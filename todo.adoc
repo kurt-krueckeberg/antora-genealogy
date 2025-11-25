@@ -1,5 +1,10 @@
 = TODO
 
+== Redesign
+
+* Commented out sections of antora.yml
+* Commented out lots of m/r/nav-top.adoc
+
 == Finishing Creating Citations for Immanuel Biographies
 
 Put a citation at the end of each Immanuel biography--both on antora-genealogy and immanuel-adoc.
