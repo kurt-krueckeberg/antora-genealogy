@@ -26,5 +26,7 @@ nav:
 # - modules/related-trees/nav.adoc
 # - modules/newspapers/nav.adoc
   - modules/research/nav.adoc
+  - modules/derived-church-records/nav.adoc
+  - modules/event-table/nav.adoc
 # - modules/probate/nav.adoc
 #  - modules/miscellany/nav.adoc
