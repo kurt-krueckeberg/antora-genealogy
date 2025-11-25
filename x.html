@@ -1,0 +1,362 @@
+<h1>✅ <strong>Your new logical categories map PERFECTLY to Antora
+components</strong></h1>
+<p>See this <a
+href="https://chatgpt.com/share/6924fb76-42fc-8004-ba1c-b2f15da18638">ChatGPT
+Chat</a> You’ve now reached <strong>the natural “second-generation
+architecture”</strong> of your project — and this is <em>exactly</em>
+the point where most large Antora documentation sites evolve into
+<strong>three clean “domains”</strong>, each implemented as its own
+Antora component (and often its own repository).</p>
+<p>Your new logical division is not only valid — it is the <strong>best
+and most scalable</strong> way to structure your entire genealogy
+project going forward.</p>
+<p>Let me show you the cleanest possible structure.</p>
+<p>You now clearly have <strong>three different content
+domains</strong>:</p>
+<hr />
+<h2><strong>1) German Kirchenbücher</strong></h2>
+<p>(large, image-heavy, long-term growth)</p>
+<p><strong>Includes:</strong></p>
+<ul>
+<li>Petzen parish</li>
+<li>Frille parish</li>
+<li>Berenbusch</li>
+<li>Wallensen</li>
+<li>Buchholz</li>
+<li>Windheim</li>
+<li>Any other German parishes</li>
+<li>All transliterations, translations, and citations</li>
+<li>All glossaries relating to these parishes</li>
+<li>Historical notes about the German church records</li>
+</ul>
+<p>This content is:</p>
+<ul>
+<li>homogeneous</li>
+<li>large</li>
+<li>image-heavy</li>
+<li>will grow massively</li>
+<li>has consistent workflows</li>
+<li>is one archival domain</li>
+</ul>
+<p>⭐ This should be <strong>one dedicated component</strong> → likely
+its own repo.</p>
+<p>Recommended component name:</p>
+<pre><code>german-kirchenbuecher</code></pre>
+<p>Shorter:</p>
+<pre><code>kirchenbuch-germany</code></pre>
+<p>Or simply:</p>
+<pre><code>german-churchbooks</code></pre>
+<hr />
+<h2><strong>2) Immanuel Lutheran Church (Decatur, Indiana)</strong></h2>
+<p>(1850–1905 digital images + transliteration + translation)</p>
+<p>This is logically separate:</p>
+<ul>
+<li>different country</li>
+<li>different handwriting style</li>
+<li>different archival sources</li>
+<li>different audience</li>
+<li>different workflows</li>
+<li>different metadata</li>
+<li>can grow independently</li>
+</ul>
+<p>⭐ This should be <strong>its own Antora component</strong>, probably
+its own repo.</p>
+<p>Recommended name:</p>
+<pre><code>immanuel-kirchenbuch</code></pre>
+<p>or</p>
+<pre><code>immanuel-decatur</code></pre>
+<hr />
+<h2><strong>3) Research Materials, Background, Analysis,
+Findings</strong></h2>
+<p>This includes:</p>
+<ul>
+<li>Non-Kirchenbuch sources</li>
+<li>Background essays</li>
+<li>Research questions</li>
+<li>Genealogical findings</li>
+<li>How-to guides</li>
+<li>Historical context</li>
+<li>Methodology</li>
+<li>Summaries</li>
+<li>Tables</li>
+<li>Charts</li>
+<li>Metadata standards</li>
+<li>Naming schemes</li>
+<li>Glossaries not tied to German parishes</li>
+<li>Etc.</li>
+</ul>
+<p>This is your intellectual "project spine" — your scholarship around
+the archival material.</p>
+<p>⭐ This should be a <strong>third Antora component</strong>.</p>
+<p>Names could be:</p>
+<pre><code>research</code></pre>
+<p>or</p>
+<pre><code>genealogy-analysis</code></pre>
+<p>or</p>
+<pre><code>background</code></pre>
+<hr />
+<h1>⭐ <strong>RESULT: A Beautiful, Scalable 3-Component Antora
+Architecture</strong></h1>
+<pre><code>[Component] german-kirchenbuecher
+   modules/
+      ROOT/
+      petzen/
+      frille/
+      wallensen/
+      buchenholz/
+      windheim/
+      (others)
+
+[Component] immanuel-decatur
+   modules/
+      ROOT/
+      baptisms/
+      marriages/
+      burials/
+      metadata/
+
+[Component] research
+   modules/
+      ROOT/
+      methods/
+      background/
+      findings/
+      resources/</code></pre>
+<p>These can live in:</p>
+<h3>Option A — three different repos</h3>
+<p>(best for performance + clarity + size management)</p>
+<h3>Option B — two repos</h3>
+<p>(german + research in one; immanuel separate)</p>
+<h3>Option C — one repo with three components</h3>
+<p>(the most compact but not optimal for very large image sets)</p>
+<p><strong>Given your workflow and scale, A or B is clearly
+better.</strong></p>
+<hr />
+<h1>🌳 <strong>Unified Navigation (one top-level
+structure)</strong></h1>
+<p>If you want <strong>one home page</strong> and one main nav, you
+make:</p>
+<ul>
+<li><strong>research</strong> the “master navigation” component</li>
+<li>and include the other two components under it</li>
+</ul>
+<p>Example <code>research/modules/ROOT/nav.adoc</code>:</p>
+<pre class="adoc"><code>* Start
+** xref:research:ROOT:index.adoc[]
+
+* German Kirchenbücher
+** xref:german-kirchenbuecher:ROOT:index.adoc[]
+** xref:german-kirchenbuecher:petzen:index.adoc[]
+** xref:german-kirchenbuecher:frille:index.adoc[]
+
+* Immanuel Lutheran Church (Decatur, IN)
+** xref:immanuel-decatur:ROOT:index.adoc[]
+** xref:immanuel-decatur:baptisms:index.adoc[]
+
+* Research &amp; Findings
+** xref:research:methods:index.adoc[]
+** xref:research:background:index.adoc[]
+** xref:research:findings:index.adoc[]</code></pre>
+<p>This gives you:</p>
+<ul>
+<li>ONE unified website</li>
+<li>ONE navigation tree</li>
+<li>THREE separate repositories or component domains</li>
+<li>Clean separation of archival domains</li>
+<li>Unlimited future growth</li>
+</ul>
+<hr />
+<h1>🟦 <strong>Your earlier thought (“make the genealogy repo the
+organizer”) now becomes…</strong></h1>
+<p>Make the <strong>research</strong> component the “organizer” and
+place the archival components under it.</p>
+<p>This is the most natural scholarly structure.</p>
+<hr />
+<h1>🟩 <strong>Playbook example with 3 repos</strong></h1>
+<div class="sourceCode" id="cb11"><pre
+class="sourceCode yaml"><code class="sourceCode yaml"><span id="cb11-1"><a href="#cb11-1" aria-hidden="true" tabindex="-1"></a><span class="fu">content</span><span class="kw">:</span></span>
+<span id="cb11-2"><a href="#cb11-2" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">sources</span><span class="kw">:</span></span>
+<span id="cb11-3"><a href="#cb11-3" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="kw">-</span><span class="at"> </span><span class="fu">url</span><span class="kw">:</span><span class="at"> ../antora-research</span></span>
+<span id="cb11-4"><a href="#cb11-4" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="fu">branches</span><span class="kw">:</span><span class="at"> HEAD</span></span>
+<span id="cb11-5"><a href="#cb11-5" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="kw">-</span><span class="at"> </span><span class="fu">url</span><span class="kw">:</span><span class="at"> ../antora-german-kirchenbuecher</span></span>
+<span id="cb11-6"><a href="#cb11-6" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="fu">branches</span><span class="kw">:</span><span class="at"> HEAD</span></span>
+<span id="cb11-7"><a href="#cb11-7" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="kw">-</span><span class="at"> </span><span class="fu">url</span><span class="kw">:</span><span class="at"> ../antora-immanuel</span></span>
+<span id="cb11-8"><a href="#cb11-8" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="fu">branches</span><span class="kw">:</span><span class="at"> HEAD</span></span></code></pre></div>
+<hr />
+<h1>⭐ <strong>FINAL RECOMMENDATION</strong></h1>
+<p>Based on everything you've built, and what you describe:</p>
+<h3>✔ Your site should have <strong>three Antora
+components</strong></h3>
+<ol type="1">
+<li><strong>german-kirchenbuecher</strong></li>
+<li><strong>immanuel-decatur</strong></li>
+<li><strong>research</strong> (master navigation)</li>
+</ol>
+<h3>✔ Each major archival collection stays separate</h3>
+<ul>
+<li>improves clarity</li>
+<li>reduces Git repo size</li>
+<li>prevents merge conflicts</li>
+<li>allows independent growth</li>
+<li>improves VPS performance</li>
+</ul>
+<h3>✔ The research component provides unified organization</h3>
+<p>This gives you the best possible structure for long-term scholarly
+work.</p>
+<hr />
+<p>If you'd like, I can:</p>
+<ul>
+<li>propose exact folder structures</li>
+<li>write all three <code>antora.yml</code> files</li>
+<li>generate sample <code>nav.adoc</code> files</li>
+<li>help plan the repo layout</li>
+<li>help reorganize modules for Petzen/Frille/etc.</li>
+<li>draft final names for all components</li>
+</ul>
+<p>Just tell me.</p>
+<p>That is <strong>a VERY good idea</strong>, and many genealogists
+ultimately arrive at exactly the same conclusion:</p>
+<h3>📌 <em>People search by surname, not by archive.</em></h3>
+<p>Your insight is correct:</p>
+<ul>
+<li>The <em>Kirchenbuch</em> where a record appears is secondary
+information.</li>
+<li>The <em>family surname</em> is the primary organizing
+principle.</li>
+</ul>
+<p>Antora is flexible enough to support a <strong>surname-centric
+navigation system</strong>, but you must implement it
+<strong>correctly</strong> so your three archival domains (German
+parishes, Immanuel Decatur, other sources) remain cleanly separated in
+storage while still being <em>merged</em> in navigation.</p>
+<p>Below I show the <strong>best architectural pattern</strong> for
+organizing your Antora site around SURNAMES while keeping your archival
+materials in their proper repositories/components.</p>
+<hr />
+<h1>⭐ <strong>The Key Insight</strong></h1>
+<p>You need:</p>
+<h3>✔ <strong>Storage organized by archive</strong></h3>
+<p>(because transliterations, images, metadata belong to specific
+books)</p>
+<h3>✔ <strong>Navigation organized by surname</strong></h3>
+<p>(because that’s how humans search and read)</p>
+<p>This is a classic <em>classification vs. physical storage</em>
+problem.</p>
+<p>Antora solves this through: <strong>a single nav.adoc that links
+across components</strong>.</p>
+<hr />
+<h1>🟩 <strong>Recommended Antora Architecture (Storage)</strong></h1>
+<h3>1. German Kirchenbücher repo → component <code>german-kb</code></h3>
+<pre><code>german-kb/
+  antora.yml (name: german-kb)
+  modules/
+    petzen/
+      pages/
+    frille/
+    windheim/
+    etc.</code></pre>
+<h3>2. Immanuel Lutheran Decatur repo → component
+<code>immanuel-kb</code></h3>
+<pre><code>immanuel-kb/
+  antora.yml (name: immanuel-kb)
+  modules/
+    baptisms/
+    marriages/
+    burials/</code></pre>
+<h3>3. Research / Surname index repo → component
+<code>research</code></h3>
+<pre><code>research/
+  antora.yml (name: research)
+  modules/
+    surnames/
+      pages/
+    background/
+    findings/</code></pre>
+<p>This third component becomes your <strong>organizing
+component</strong>.</p>
+<hr />
+<h1>🟦 <strong>How Surname-Centric Navigation Works</strong></h1>
+<p>Your navigation (in <code>research/modules/ROOT/nav.adoc</code>)
+becomes:</p>
+<pre class="adoc"><code>* Surnames
+** Krückeberg
+*** xref:research:surnames/krueckeberg-overview.adoc[Overview]
+*** xref:german-kb:petzen/FRI-B-1739a.adoc[1739 Baptism – Petzen KB]
+*** xref:german-kb:frille/FRI-C-1767a.adoc[1767 Confirmation – Frille KB]
+*** xref:immanuel-kb:baptisms/IMG_045.adoc[1855 Baptism – Immanuel Lutheran Decatur]
+*** xref:research:findings/krueckeberg-analysis.adoc[Analytical Summary]
+
+** Bleeke
+*** xref:research:surnames/bleeke-overview.adoc[]
+*** xref:german-kb:petzen/....[]
+*** xref:immanuel-kb:burials/...[]
+*** xref:research:findings/bleeke-analysis.adoc[]
+
+** Weiland
+*** xref:german-kb:petzen/...[]
+*** xref:german-kb:frille/...[]
+*** xref:research:findings/weiland.adoc[]</code></pre>
+<p>This gives you exactly what you want:</p>
+<h3>✔ Unified display around <strong>surname</strong>, not location</h3>
+<h3>✔ Records from <strong>Petzen</strong>, <strong>Frille</strong>,
+<strong>Decatur</strong>, etc. all appear under the same surname</h3>
+<h3>✔ Antora handles the cross-component linking seamlessly</h3>
+<h3>✔ Each archival collection stays in its own logical, lightweight
+repo</h3>
+<h3>✔ Image-heavy collections remain separated for Git performance</h3>
+<hr />
+<h1>✔️ What this structure gives you</h1>
+<h3><strong>1. Perfect organization for human use</strong></h3>
+<p>People browse:</p>
+<pre><code>Krückeberg
+  1739 Petzen baptism
+  1767 Frille confirmation
+  1855 Immanuel Lutheran baptism</code></pre>
+<h3><strong>2. Perfect organization for archival
+processing</strong></h3>
+<p>You still store images/transliterations/translations grouped by
+<em>which church’s record book</em> they belong to.</p>
+<h3><strong>3. Perfect architecture for long-term scale</strong></h3>
+<p>Your genealogical data will <em>continue growing for years</em> —
+organizing by surname keeps everything accessible.</p>
+<h3><strong>4. You can still add submenus like:</strong></h3>
+<ul>
+<li>“Timelines”</li>
+<li>“Family summaries”</li>
+<li>“All Krückeberg Records Chronologically”</li>
+</ul>
+<p>Using pages in the <code>research</code> component.</p>
+<hr />
+<h1>🟨 You can even auto-generate surname pages</h1>
+<p>Later, I can help you write a script that:</p>
+<ul>
+<li>scans all components</li>
+<li>extracts surnames from filenames</li>
+<li>auto-builds surname index pages</li>
+</ul>
+<p>But that’s optional.</p>
+<hr />
+<h1>⭐ FINAL ANSWER</h1>
+<h3>✔ YES — you can 100% organize your navigation by
+<strong>surname</strong></h3>
+<h3>✔ even when the underlying content lives in different components and
+repositories.</h3>
+<h3>✔ The correct way is to create a <strong>single navigation
+component</strong> (“research”) whose nav.adoc links to pages from the
+archival components.</h3>
+<p>This gives you the <strong>best of both worlds</strong>:</p>
+<ul>
+<li><strong>Storage by archive</strong> (correct from a
+scholarly/archival standpoint)</li>
+<li><strong>Navigation by surname</strong> (correct for genealogical
+usability)</li>
+</ul>
+<hr />
+<p>If you want, I can:</p>
+<ul>
+<li>Design the exact nav.adoc structure for your surnames</li>
+<li>Write starter pages for Krückeberg, Bleeke, Weiland</li>
+<li>Show ideal folder structures for each component</li>
+<li>Build a model Antora playbook for this design</li>
+</ul>
+<p>Just tell me.</p>

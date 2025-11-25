@@ -1,12 +1,12 @@
+# ✅ **Your new logical categories map PERFECTLY to Antora components**
+
+See this [ChatGPT Chat](https://chatgpt.com/share/6924fb76-42fc-8004-ba1c-b2f15da18638)
 You’ve now reached **the natural “second-generation architecture”** of your project — and this is *exactly* the point where most large Antora documentation sites evolve into **three clean “domains”**, each implemented as its own Antora component (and often its own repository).
 
 Your new logical division is not only valid — it is the **best and most scalable** way to structure your entire genealogy project going forward.
 
 Let me show you the cleanest possible structure.
 
----
-
-# ✅ **Your new logical categories map PERFECTLY to Antora components**
 
 You now clearly have **three different content domains**:
 

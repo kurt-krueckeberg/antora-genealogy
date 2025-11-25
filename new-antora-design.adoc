@@ -1,3 +1,7 @@
+= ✅ *Your new logical categories map PERFECTLY to Antora components*
+
+See: link:https://chatgpt.com/share/6924fb76-42fc-8004-ba1c-b2f15da18638[ChatGPT chat]
+
 You’ve now reached *the natural “second-generation architecture”* of
 your project — and this is _exactly_ the point where most large Antora
 documentation sites evolve into *three clean “domains”*, each
@@ -8,15 +12,12 @@ scalable* way to structure your entire genealogy project going forward.
 
 Let me show you the cleanest possible structure.
 
-'''''
-
-== ✅ *Your new logical categories map PERFECTLY to Antora components*
 
 You now clearly have *three different content domains*:
 
 '''''
 
-=== *1) German Kirchenbücher*
+== *1) German Kirchenbücher*
 
 (large, image-heavy, long-term growth)
 
@@ -64,7 +65,7 @@ german-churchbooks
 
 '''''
 
-=== *2) Immanuel Lutheran Church (Decatur, Indiana)*
+== *2) Immanuel Lutheran Church (Decatur, Indiana)*
 
 (1850–1905 digital images + transliteration + translation)
 
@@ -94,7 +95,7 @@ immanuel-decatur
 
 '''''
 
-=== *3) Research Materials, Background, Analysis, Findings*
+== *3) Research Materials, Background, Analysis, Findings*
 
 This includes:
 
@@ -138,7 +139,7 @@ background
 
 '''''
 
-== ⭐ *RESULT: A Beautiful, Scalable 3-Component Antora Architecture*
+= ⭐ *RESULT: A Beautiful, Scalable 3-Component Antora Architecture*
 
 ....
 [Component] german-kirchenbuecher
@@ -170,15 +171,15 @@ background
 
 These can live in:
 
-=== Option A — three different repos
+== Option A — three different repos
 
 (best for performance + clarity + size management)
 
-=== Option B — two repos
+== Option B — two repos
 
 (german + research in one; immanuel separate)
 
-=== Option C — one repo with three components
+== Option C — one repo with three components
 
 (the most compact but not optimal for very large image sets)
 
@@ -186,7 +187,7 @@ These can live in:
 
 '''''
 
-== 🌳 *Unified Navigation (one top-level structure)*
+= 🌳 *Unified Navigation (one top-level structure)*
 
 If you want *one home page* and one main nav, you make:
 
@@ -225,7 +226,7 @@ This gives you:
 
 '''''
 
-== 🟦 *Your earlier thought (“make the genealogy repo the organizer”) now becomes…*
+= 🟦 *Your earlier thought (“make the genealogy repo the organizer”) now becomes…*
 
 Make the *research* component the “organizer” and place the archival
 components under it.
@@ -234,7 +235,7 @@ This is the most natural scholarly structure.
 
 '''''
 
-== 🟩 *Playbook example with 3 repos*
+= 🟩 *Playbook example with 3 repos*
 
 [source,yaml]
 ----
@@ -250,18 +251,18 @@ content:
 
 '''''
 
-== ⭐ *FINAL RECOMMENDATION*
+= ⭐ *FINAL RECOMMENDATION*
 
 Based on everything you've built, and what you describe:
 
-=== ✔ Your site should have *three Antora components*
+== ✔ Your site should have *three Antora components*
 
 [arabic]
 . *german-kirchenbuecher*
 . *immanuel-decatur*
 . *research* (master navigation)
 
-=== ✔ Each major archival collection stays separate
+== ✔ Each major archival collection stays separate
 
 * improves clarity
 * reduces Git repo size
@@ -269,7 +270,7 @@ Based on everything you've built, and what you describe:
 * allows independent growth
 * improves VPS performance
 
-=== ✔ The research component provides unified organization
+== ✔ The research component provides unified organization
 
 This gives you the best possible structure for long-term scholarly work.
 
@@ -289,7 +290,7 @@ Just tell me.
 That is *a VERY good idea*, and many genealogists ultimately arrive at
 exactly the same conclusion:
 
-=== 📌 _People search by surname, not by archive._
+== 📌 _People search by surname, not by archive._
 
 Your insight is correct:
 
@@ -307,15 +308,15 @@ proper repositories/components.
 
 '''''
 
-== ⭐ *The Key Insight*
+= ⭐ *The Key Insight*
 
 You need:
 
-=== ✔ *Storage organized by archive*
+== ✔ *Storage organized by archive*
 
 (because transliterations, images, metadata belong to specific books)
 
-=== ✔ *Navigation organized by surname*
+== ✔ *Navigation organized by surname*
 
 (because that’s how humans search and read)
 
@@ -326,9 +327,9 @@ components*.
 
 '''''
 
-== 🟩 *Recommended Antora Architecture (Storage)*
+= 🟩 *Recommended Antora Architecture (Storage)*
 
-=== 1. German Kirchenbücher repo → component `+german-kb+`
+== 1. German Kirchenbücher repo → component `+german-kb+`
 
 ....
 german-kb/
@@ -341,7 +342,7 @@ german-kb/
     etc.
 ....
 
-=== 2. Immanuel Lutheran Decatur repo → component `+immanuel-kb+`
+== 2. Immanuel Lutheran Decatur repo → component `+immanuel-kb+`
 
 ....
 immanuel-kb/
@@ -352,7 +353,7 @@ immanuel-kb/
     burials/
 ....
 
-=== 3. Research / Surname index repo → component `+research+`
+== 3. Research / Surname index repo → component `+research+`
 
 ....
 research/
@@ -368,7 +369,7 @@ This third component becomes your *organizing component*.
 
 '''''
 
-== 🟦 *How Surname-Centric Navigation Works*
+= 🟦 *How Surname-Centric Navigation Works*
 
 Your navigation (in `+research/modules/ROOT/nav.adoc+`) becomes:
 
@@ -396,21 +397,21 @@ Your navigation (in `+research/modules/ROOT/nav.adoc+`) becomes:
 
 This gives you exactly what you want:
 
-=== ✔ Unified display around *surname*, not location
+== ✔ Unified display around *surname*, not location
 
-=== ✔ Records from *Petzen*, *Frille*, *Decatur*, etc. all appear under the same surname
+== ✔ Records from *Petzen*, *Frille*, *Decatur*, etc. all appear under the same surname
 
-=== ✔ Antora handles the cross-component linking seamlessly
+== ✔ Antora handles the cross-component linking seamlessly
 
-=== ✔ Each archival collection stays in its own logical, lightweight repo
+== ✔ Each archival collection stays in its own logical, lightweight repo
 
-=== ✔ Image-heavy collections remain separated for Git performance
+== ✔ Image-heavy collections remain separated for Git performance
 
 '''''
 
-== ✔️ What this structure gives you
+= ✔️ What this structure gives you
 
-=== *1. Perfect organization for human use*
+== *1. Perfect organization for human use*
 
 People browse:
 
@@ -421,17 +422,17 @@ Krückeberg
   1855 Immanuel Lutheran baptism
 ....
 
-=== *2. Perfect organization for archival processing*
+== *2. Perfect organization for archival processing*
 
 You still store images/transliterations/translations grouped by _which
 church’s record book_ they belong to.
 
-=== *3. Perfect architecture for long-term scale*
+== *3. Perfect architecture for long-term scale*
 
 Your genealogical data will _continue growing for years_ — organizing by
 surname keeps everything accessible.
 
-=== *4. You can still add submenus like:*
+== *4. You can still add submenus like:*
 
 * “Timelines”
 * “Family summaries”
@@ -441,7 +442,7 @@ Using pages in the `+research+` component.
 
 '''''
 
-== 🟨 You can even auto-generate surname pages
+= 🟨 You can even auto-generate surname pages
 
 Later, I can help you write a script that:
 
@@ -453,13 +454,13 @@ But that’s optional.
 
 '''''
 
-== ⭐ FINAL ANSWER
+= ⭐ FINAL ANSWER
 
-=== ✔ YES — you can 100% organize your navigation by *surname*
+== ✔ YES — you can 100% organize your navigation by *surname*
 
-=== ✔ even when the underlying content lives in different components and repositories.
+== ✔ even when the underlying content lives in different components and repositories.
 
-=== ✔ The correct way is to create a *single navigation component* (“research”) whose nav.adoc links to pages from the archival components.
+== ✔ The correct way is to create a *single navigation component* (“research”) whose nav.adoc links to pages from the archival components.
 
 This gives you the *best of both worlds*:
 
