@@ -1,0 +1,463 @@
+You’ve now reached **the natural “second-generation architecture”** of your project — and this is *exactly* the point where most large Antora documentation sites evolve into **three clean “domains”**, each implemented as its own Antora component (and often its own repository).
+
+Your new logical division is not only valid — it is the **best and most scalable** way to structure your entire genealogy project going forward.
+
+Let me show you the cleanest possible structure.
+
+---
+
+# ✅ **Your new logical categories map PERFECTLY to Antora components**
+
+You now clearly have **three different content domains**:
+
+---
+
+## **1) German Kirchenbücher**
+
+(large, image-heavy, long-term growth)
+
+**Includes:**
+
+* Petzen parish
+* Frille parish
+* Berenbusch
+* Wallensen
+* Buchholz
+* Windheim
+* Any other German parishes
+* All transliterations, translations, and citations
+* All glossaries relating to these parishes
+* Historical notes about the German church records
+
+This content is:
+
+* homogeneous
+* large
+* image-heavy
+* will grow massively
+* has consistent workflows
+* is one archival domain
+
+⭐ This should be **one dedicated component**
+→ likely its own repo.
+
+Recommended component name:
+
+```
+german-kirchenbuecher
+```
+
+Shorter:
+
+```
+kirchenbuch-germany
+```
+
+Or simply:
+
+```
+german-churchbooks
+```
+
+---
+
+## **2) Immanuel Lutheran Church (Decatur, Indiana)**
+
+(1850–1905 digital images + transliteration + translation)
+
+This is logically separate:
+
+* different country
+* different handwriting style
+* different archival sources
+* different audience
+* different workflows
+* different metadata
+* can grow independently
+
+⭐ This should be **its own Antora component**, probably its own repo.
+
+Recommended name:
+
+```
+immanuel-kirchenbuch
+```
+
+or
+
+```
+immanuel-decatur
+```
+
+---
+
+## **3) Research Materials, Background, Analysis, Findings**
+
+This includes:
+
+* Non-Kirchenbuch sources
+* Background essays
+* Research questions
+* Genealogical findings
+* How-to guides
+* Historical context
+* Methodology
+* Summaries
+* Tables
+* Charts
+* Metadata standards
+* Naming schemes
+* Glossaries not tied to German parishes
+* Etc.
+
+This is your intellectual "project spine" — your scholarship around the archival material.
+
+⭐ This should be a **third Antora component**.
+
+Names could be:
+
+```
+research
+```
+
+or
+
+```
+genealogy-analysis
+```
+
+or
+
+```
+background
+```
+
+---
+
+# ⭐ **RESULT: A Beautiful, Scalable 3-Component Antora Architecture**
+
+```
+[Component] german-kirchenbuecher
+   modules/
+      ROOT/
+      petzen/
+      frille/
+      wallensen/
+      buchenholz/
+      windheim/
+      (others)
+
+[Component] immanuel-decatur
+   modules/
+      ROOT/
+      baptisms/
+      marriages/
+      burials/
+      metadata/
+
+[Component] research
+   modules/
+      ROOT/
+      methods/
+      background/
+      findings/
+      resources/
+```
+
+These can live in:
+
+### Option A — three different repos
+
+(best for performance + clarity + size management)
+
+### Option B — two repos
+
+(german + research in one; immanuel separate)
+
+### Option C — one repo with three components
+
+(the most compact but not optimal for very large image sets)
+
+**Given your workflow and scale, A or B is clearly better.**
+
+---
+
+# 🌳 **Unified Navigation (one top-level structure)**
+
+If you want **one home page** and one main nav, you make:
+
+* **research** the “master navigation” component
+* and include the other two components under it
+
+Example `research/modules/ROOT/nav.adoc`:
+
+```adoc
+* Start
+** xref:research:ROOT:index.adoc[]
+
+* German Kirchenbücher
+** xref:german-kirchenbuecher:ROOT:index.adoc[]
+** xref:german-kirchenbuecher:petzen:index.adoc[]
+** xref:german-kirchenbuecher:frille:index.adoc[]
+
+* Immanuel Lutheran Church (Decatur, IN)
+** xref:immanuel-decatur:ROOT:index.adoc[]
+** xref:immanuel-decatur:baptisms:index.adoc[]
+
+* Research & Findings
+** xref:research:methods:index.adoc[]
+** xref:research:background:index.adoc[]
+** xref:research:findings:index.adoc[]
+```
+
+This gives you:
+
+* ONE unified website
+* ONE navigation tree
+* THREE separate repositories or component domains
+* Clean separation of archival domains
+* Unlimited future growth
+
+---
+
+# 🟦 **Your earlier thought (“make the genealogy repo the organizer”) now becomes…**
+
+Make the **research** component the “organizer” and place the archival components under it.
+
+This is the most natural scholarly structure.
+
+---
+
+# 🟩 **Playbook example with 3 repos**
+
+```yaml
+content:
+  sources:
+    - url: ../antora-research
+      branches: HEAD
+    - url: ../antora-german-kirchenbuecher
+      branches: HEAD
+    - url: ../antora-immanuel
+      branches: HEAD
+```
+
+---
+
+# ⭐ **FINAL RECOMMENDATION**
+
+Based on everything you've built, and what you describe:
+
+### ✔ Your site should have **three Antora components**
+
+1. **german-kirchenbuecher**
+2. **immanuel-decatur**
+3. **research** (master navigation)
+
+### ✔ Each major archival collection stays separate
+
+* improves clarity
+* reduces Git repo size
+* prevents merge conflicts
+* allows independent growth
+* improves VPS performance
+
+### ✔ The research component provides unified organization
+
+This gives you the best possible structure for long-term scholarly work.
+
+---
+
+If you'd like, I can:
+
+* propose exact folder structures
+* write all three `antora.yml` files
+* generate sample `nav.adoc` files
+* help plan the repo layout
+* help reorganize modules for Petzen/Frille/etc.
+* draft final names for all components
+
+Just tell me.
+
+That is **a VERY good idea**, and many genealogists ultimately arrive at exactly the same conclusion:
+
+### 📌 *People search by surname, not by archive.*
+
+Your insight is correct:
+
+* The *Kirchenbuch* where a record appears is secondary information.
+* The *family surname* is the primary organizing principle.
+
+Antora is flexible enough to support a **surname-centric navigation system**, but you must implement it **correctly** so your three archival domains (German parishes, Immanuel Decatur, other sources) remain cleanly separated in storage while still being *merged* in navigation.
+
+Below I show the **best architectural pattern** for organizing your Antora site around SURNAMES while keeping your archival materials in their proper repositories/components.
+
+---
+
+# ⭐ **The Key Insight**
+
+You need:
+
+### ✔ **Storage organized by archive**
+
+(because transliterations, images, metadata belong to specific books)
+
+### ✔ **Navigation organized by surname**
+
+(because that’s how humans search and read)
+
+This is a classic *classification vs. physical storage* problem.
+
+Antora solves this through:
+**a single nav.adoc that links across components**.
+
+---
+
+# 🟩 **Recommended Antora Architecture (Storage)**
+
+### 1. German Kirchenbücher repo → component `german-kb`
+
+```
+german-kb/
+  antora.yml (name: german-kb)
+  modules/
+    petzen/
+      pages/
+    frille/
+    windheim/
+    etc.
+```
+
+### 2. Immanuel Lutheran Decatur repo → component `immanuel-kb`
+
+```
+immanuel-kb/
+  antora.yml (name: immanuel-kb)
+  modules/
+    baptisms/
+    marriages/
+    burials/
+```
+
+### 3. Research / Surname index repo → component `research`
+
+```
+research/
+  antora.yml (name: research)
+  modules/
+    surnames/
+      pages/
+    background/
+    findings/
+```
+
+This third component becomes your **organizing component**.
+
+---
+
+# 🟦 **How Surname-Centric Navigation Works**
+
+Your navigation (in `research/modules/ROOT/nav.adoc`) becomes:
+
+```adoc
+* Surnames
+** Krückeberg
+*** xref:research:surnames/krueckeberg-overview.adoc[Overview]
+*** xref:german-kb:petzen/FRI-B-1739a.adoc[1739 Baptism – Petzen KB]
+*** xref:german-kb:frille/FRI-C-1767a.adoc[1767 Confirmation – Frille KB]
+*** xref:immanuel-kb:baptisms/IMG_045.adoc[1855 Baptism – Immanuel Lutheran Decatur]
+*** xref:research:findings/krueckeberg-analysis.adoc[Analytical Summary]
+
+** Bleeke
+*** xref:research:surnames/bleeke-overview.adoc[]
+*** xref:german-kb:petzen/....[]
+*** xref:immanuel-kb:burials/...[]
+*** xref:research:findings/bleeke-analysis.adoc[]
+
+** Weiland
+*** xref:german-kb:petzen/...[]
+*** xref:german-kb:frille/...[]
+*** xref:research:findings/weiland.adoc[]
+```
+
+This gives you exactly what you want:
+
+### ✔ Unified display around **surname**, not location
+
+### ✔ Records from **Petzen**, **Frille**, **Decatur**, etc. all appear under the same surname
+
+### ✔ Antora handles the cross-component linking seamlessly
+
+### ✔ Each archival collection stays in its own logical, lightweight repo
+
+### ✔ Image-heavy collections remain separated for Git performance
+
+---
+
+# ✔️ What this structure gives you
+
+### **1. Perfect organization for human use**
+
+People browse:
+
+```
+Krückeberg
+  1739 Petzen baptism
+  1767 Frille confirmation
+  1855 Immanuel Lutheran baptism
+```
+
+### **2. Perfect organization for archival processing**
+
+You still store images/transliterations/translations grouped by *which church’s record book* they belong to.
+
+### **3. Perfect architecture for long-term scale**
+
+Your genealogical data will *continue growing for years* — organizing by surname keeps everything accessible.
+
+### **4. You can still add submenus like:**
+
+* “Timelines”
+* “Family summaries”
+* “All Krückeberg Records Chronologically”
+
+Using pages in the `research` component.
+
+---
+
+# 🟨 You can even auto-generate surname pages
+
+Later, I can help you write a script that:
+
+* scans all components
+* extracts surnames from filenames
+* auto-builds surname index pages
+
+But that’s optional.
+
+---
+
+# ⭐ FINAL ANSWER
+
+### ✔ YES — you can 100% organize your navigation by **surname**
+
+### ✔ even when the underlying content lives in different components and repositories.
+
+### ✔ The correct way is to create a **single navigation component** (“research”) whose nav.adoc links to pages from the archival components.
+
+This gives you the **best of both worlds**:
+
+* **Storage by archive** (correct from a scholarly/archival standpoint)
+* **Navigation by surname** (correct for genealogical usability)
+
+---
+
+If you want, I can:
+
+* Design the exact nav.adoc structure for your surnames
+* Write starter pages for Krückeberg, Bleeke, Weiland
+* Show ideal folder structures for each component
+* Build a model Antora playbook for this design
+
+Just tell me.
+
+
