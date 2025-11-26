@@ -121,13 +121,13 @@ The Event Table becomes:
 * ✅ the *evidence
 correlation tool*
 
-So instead of saying:
+So instead of thinking:
 
 ____
 “Please help me figure out which Krückeberg belongs to which family…”
 ____
 
-You will say:
+You will think:
 
 ____
 “Rows 22–41 appear to be the family of the 1849 emigrant, but rows 33
