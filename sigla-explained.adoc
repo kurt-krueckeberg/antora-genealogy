@@ -1,8 +1,13 @@
 = Sigla Explained
 
-The format for most of the sigla is LLL-E-YYYYx where:
+== Original Records
 
-* LLL--is one of the 3-letter location prefixes for a specific parish shown in the table below:
+The general format for most of the sigla representing original records is LLL-E-YYYYx, for exammple:
+*PET-B-1744a*.
+
+The scheme for original records is:
+
+* LLL--is a 3-letter location prefix shown in the table:
 +
 [cols="1,2,6"]
 |===
@@ -60,5 +65,20 @@ Cincinnati)
 |===
 * YYYY--is the year of the ceremony
 * x--is a,b,c, d, etc, representing separate indvidual ceremonies from one another.
+
+== Derived Records
+
+These are the sigla of derived and other records:
+
+[cols="1,12"]
+|===
+|Code|Citation
+
+|FS-CHK
+|“Familienschein des Auswanderers Carl Heinrich Krückeberg,” derivative compilation of Petzen Lutheran parish
+church baptism, marriage, and children’s baptism and confirmation entries; creator and date unknown; copy held in
+the private collection of Kurt Krueckeberg, Fort Wayne, Indiana, received through family possession
+
+|===
 
 
