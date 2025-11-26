@@ -35,6 +35,7 @@ d. 14ten Junii Johann Heinrich Krückeberg
 NOTE: Berenbusch is spelled *Bernbusch* in this record.
 
 .Translation
+[literal.bordered,subs="verbatim,quotes"]
 .... 
 The 14th June Johann Heinrich Krückeberg
      from Bernbusch married Anne Christine Elisebet
