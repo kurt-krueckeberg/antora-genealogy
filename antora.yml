@@ -12,6 +12,7 @@ nav:
 # - modules/families/nav.adoc
 # - modules/church-records/nav.adoc
   - modules/family-church-records/nav.adoc
+  - modules/derived-church-records/nav.adoc
 # - modules/cincinnati-churches/nav.adoc
 # - modules/immanuel-lutheran/nav.adoc
 # - modules/timelines/nav.adoc
@@ -26,7 +27,6 @@ nav:
 # - modules/related-trees/nav.adoc
 # - modules/newspapers/nav.adoc
   - modules/research/nav.adoc
-  - modules/derived-church-records/nav.adoc
   - modules/event-tables/nav.adoc
 # - modules/probate/nav.adoc
 #  - modules/miscellany/nav.adoc
