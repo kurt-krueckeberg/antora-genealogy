@@ -1,0 +1,60 @@
+= Petzen Event Table
+:page-role: wide
+:sectnums!:
+
+[cols="2,2,2,2,2,2,2,2,3,2,2",options="header"]
+|===
+| Event Type
+| Event Date
+| Subject Name
+| Father
+| Mother
+| Residence / Village
+| House No.
+| Occupation
+| Sponsors / Witnesses
+| Siglum
+| Citation Key
+
+// --- Example Row (delete when populating) ---
+// | B
+// | 11 Feb 1739
+// | Krückeberg, Johann Heinrich
+// | Hans Krückeberg (as written: Hanß)
+// | Anna Ilsabein (as written: Ilsabheÿn)
+// | Berenbusch (as written: B.B.)
+// | —
+// | linen weaver
+// | Cordt Vahlsing, Anna Bleeke
+// | PET-B-1739a
+// | [[[image144]]]
+
+// Add rows below this line
+
+|===
+
+== Notes on Event Interpretation
+
+* Explain abbreviations (e.g., hÿ, eod., do.)
+* Note variant spellings
+* Note ditto marks or marginalia
+* Note uncertain readings
+* Note conflicting entries
+* Note cases requiring lookup in original scans
+
+== Source and Citation Information
+
+* Full citation to source (BCG-style)
+* Provenance notes if derivative
+* Link or xref to image/document page
+* Repository or archive reference
+* Access date (if online database)
+
+== Analytical Observations (optional)
+
+* Identity hypotheses
+* Cluster groupings (family units)
+* Sponsor network implications
+* Residence movement
+* Relationship to emigrants
+

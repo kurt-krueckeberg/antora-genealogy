@@ -1,2 +1,4 @@
-* xref:events.adoc[]
+.xref:index.adoc[]
+* xref:familienschein-events-table.adoc[]
+* xref:petzen-events-table.adoc[]
 
