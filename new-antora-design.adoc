@@ -1,480 +1,214 @@
 = New Design
 
-== ✅ *Your new logical categories map PERFECTLY to Antora components*
+You **do not** need four repositories unless you *want* that complexity.
 
-See this
-https://chatgpt.com/share/6924fb76-42fc-8004-ba1c-b2f15da18638[ChatGPT
-Chat] You’ve now reached *the natural “second-generation architecture”*
-of your project — and this is _exactly_ the point where most large
-Antora documentation sites evolve into *three clean “domains”*, each
-implemented as its own Antora component (and often its own repository).
+Given what you described, here is the cleanest structure that will:
 
-Your new logical division is not only valid — it is the *best and most
-scalable* way to structure your entire genealogy project going forward.
+✅ keep your **event-table work** separate
+✅ keep your **research-plans module** intact for the historian
+✅ allow **background/reference modules** to exist without forcing a narrative link
+✅ avoid Antora navigation chaos
+✅ avoid breaking all your existing cross-refs
+✅ avoid the “Immanuel disappears from nav” nightmare you already experienced
 
-Let me show you the cleanest possible structure.
+---
 
-You now clearly have *three different content domains*:
+# ✅ Recommended structure (simplest and scalable)
 
-'''''
+## **1. ONE Git repository for *all content modules***
 
-=== *1) German Kirchenbücher*
+This repo contains:
 
-(large, image-heavy, long-term growth)
+```
+modules/
+  ROOT/                   (general landing pages if needed)
+  research/               (your research plans & rationale for the historian)
+  event-tables/           (the tables you are developing)
+  schaumburg-background/  (historical context, geography, customs)
+  land-records/           (Kammerkauf, Ausweisung, Rottländer, etc.)
+  swaplands/              (U.S. 1850 context)
+  other-background/       (anything else)
+antora.yml                (component descriptor)
+```
 
-*Includes:*
+This repository is **a single Antora component** with multiple modules.
 
-* Petzen parish
-* Frille parish
-* Berenbusch
-* Wallensen
-* Buchholz
-* Windheim
-* Any other German parishes
-* All transliterations, translations, and citations
-* All glossaries relating to these parishes
-* Historical notes about the German church records
+### Why this is ideal
 
-This content is:
+✅ Navigation stays clean
+✅ Researcher sees only what you expose in nav.adoc
+✅ Modules stay logically separated
+✅ No duplication of assets folder, UI, etc.
+✅ You avoid multi-repo synchronization headaches
 
-* homogeneous
-* large
-* image-heavy
-* will grow massively
-* has consistent workflows
-* is one archival domain
+---
 
-⭐ This should be *one dedicated component* → likely its own repo.
+## **2. ONE separate repository ONLY IF it’s a distinct component**
 
-Recommended component name:
+Examples that *do* merit a separate repo/component:
 
-....
-german-kirchenbuecher
-....
+✅ **Immanuel Lutheran** churchbooks
+✅ **Petzen / Frille / parish-specific** record sets
+✅ **Your eventual ACTA case file edition**
 
-Shorter:
+Reason: those are **publishable bodies of evidence**, not background.
 
-....
-kirchenbuch-germany
-....
+---
 
-Or simply:
+## **3. ONE “umbrella” playbook repo IF—you want automated website builds**
 
-....
-german-churchbooks
-....
+Only create this if:
 
-'''''
+* your genealogical research repos live separately, **AND**
+* you want a VPS or GitHub Action to build everything together
 
-=== *2) Immanuel Lutheran Church (Decatur, Indiana)*
+This playbook repo contains:
 
-(1850–1905 digital images + transliteration + translation)
+```
+antora-playbook.yml
+ui/ (optional)
+scripts/
+README.md
+```
 
-This is logically separate:
+### When to skip it
 
-* different country
-* different handwriting style
-* different archival sources
-* different audience
-* different workflows
-* different metadata
-* can grow independently
+If you are building **locally only**, don’t create a playbook repo.
 
-⭐ This should be *its own Antora component*, probably its own repo.
+---
 
-Recommended name:
+# ✅ So your likely final footprint should be:
 
-....
-immanuel-kirchenbuch
-....
+### **Repo A — Evidence Repos (multiple components)**
 
-or
+Example:
 
-....
-immanuel-decatur
-....
+* `antora-immanuel`
+* `antora-petzen`
+* `antora-frille`
+* `antora-nla-acta-files` (later)
 
-'''''
+### **Repo B — Background + Research + Event Tables (ONE component)**
 
-=== *3) Research Materials, Background, Analysis, Findings*
+Suggested name:
 
-This includes:
+```
+antora-research-and-context
+```
 
-* Non-Kirchenbuch sources
-* Background essays
-* Research questions
-* Genealogical findings
-* How-to guides
-* Historical context
-* Methodology
-* Summaries
-* Tables
-* Charts
-* Metadata standards
-* Naming schemes
-* Glossaries not tied to German parishes
-* Etc.
+Component name inside `antora.yml`:
 
-This is your intellectual "project spine" — your scholarship around the
-archival material.
+```
+name: research-context
+title: Research & Context
+```
 
-⭐ This should be a *third Antora component*.
+### **Repo C (optional) — Playbook Aggregator**
 
-Names could be:
+Only if you want automatic unified site builds.
 
-....
-research
-....
+---
 
-or
+# ✅ Why not four separate repos?
 
-....
-genealogy-analysis
-....
+Because:
 
-or
+❌ you’d fragment background material
+❌ navigation becomes harder to control
+❌ historian access becomes harder
+❌ cross-component xrefs get annoying
+❌ maintaining versions becomes painful
 
-....
-background
-....
+---
 
-'''''
+# ✅ Suggested nav strategy
 
-== ⭐ *RESULT: A Beautiful, Scalable 3-Component Antora Architecture*
+Each module in the **research-context** component gets its own nav file:
 
-....
-[Component] german-kirchenbuecher
-   modules/
-      ROOT/
-      petzen/
-      frille/
-      wallensen/
-      buchenholz/
-      windheim/
-      (others)
+```
+modules/research/nav.adoc
+modules/event-tables/nav.adoc
+modules/schaumburg-background/nav.adoc
+modules/land-records/nav.adoc
+modules/swaplands/nav.adoc
+```
 
-[Component] immanuel-decatur
-   modules/
-      ROOT/
-      baptisms/
-      marriages/
-      burials/
-      metadata/
+In `antora.yml` for that component:
 
-[Component] research
-   modules/
-      ROOT/
-      methods/
-      background/
-      findings/
-      resources/
-....
+```yaml
+nav:
+  - modules/research/nav.adoc
+  - modules/event-tables/nav.adoc
+  - modules/schaumburg-background/nav.adoc
+  - modules/land-records/nav.adoc
+  - modules/swaplands/nav.adoc
+```
 
-These can live in:
+### Result:
 
-=== Option A — three different repos
+✅ historian sees a clean Research section
+✅ you see Event Tables clearly
+✅ background/reference stays accessible but separate
 
-(best for performance + clarity + size management)
+---
 
-=== Option B — two repos
+# ✅ If you tell me…
 
-(german + research in one; immanuel separate)
+### 1. which repos exist now
 
-=== Option C — one repo with three components
+### 2. which modules are inside each
 
-(the most compact but not optimal for very large image sets)
+### 3. which ones you want visible to:
 
-*Given your workflow and scale, A or B is clearly better.*
+* the historian
+* the public
+* only yourself
 
-'''''
+…I will create:
 
-== 🌳 *Unified Navigation (one top-level structure)*
+✅ a concrete repo plan
+✅ the exact antora.yml files
+✅ the correct nav.adoc files
+✅ the playbook (if needed)
+✅ cross-component xref rules
+✅ recommended naming conventions
 
-If you want *one home page* and one main nav, you make:
+---
 
-* *research* the “master navigation” component
-* and include the other two components under it
+# If you want an immediate TL;DR
 
-Example `+research/modules/ROOT/nav.adoc+`:
+### **You need TWO repos right now:**
 
-[source,adoc]
-----
-* Start
-** xref:research:ROOT:index.adoc[]
+#### ✅ 1. Your evidence repos (Immanuel, Petzen, etc.)
 
-* German Kirchenbücher
-** xref:german-kirchenbuecher:ROOT:index.adoc[]
-** xref:german-kirchenbuecher:petzen:index.adoc[]
-** xref:german-kirchenbuecher:frille:index.adoc[]
+#### ✅ 2. ONE combined repo for:
 
-* Immanuel Lutheran Church (Decatur, IN)
-** xref:immanuel-decatur:ROOT:index.adoc[]
-** xref:immanuel-decatur:baptisms:index.adoc[]
+* research plans
+* rationale for the historian
+* event tables
+* historical background
+* land records explanations
+* Swaplands Act info
+* other contextual pages
 
-* Research & Findings
-** xref:research:methods:index.adoc[]
-** xref:research:background:index.adoc[]
-** xref:research:findings:index.adoc[]
-----
+### Optional later:
 
-This gives you:
+#### ➕ A playbook repo to build them together
 
-* ONE unified website
-* ONE navigation tree
-* THREE separate repositories or component domains
-* Clean separation of archival domains
-* Unlimited future growth
+---
 
-'''''
+If you'd like, just paste:
 
-== 🟦 *Your earlier thought (“make the genealogy repo the organizer”) now becomes…*
+✅ the output of `ls modules` from:
+`antora-genealogy`
+`antora-immanuel`
+`any other repo`
 
-Make the *research* component the “organizer” and place the archival
-components under it.
+…and I will:
 
-This is the most natural scholarly structure.
+⭐ reorganize it logically
+⭐ tell you exactly where each module belongs
+⭐ write the configs for you
 
-'''''
+No loops, no confusion.
 
-== 🟩 *Playbook example with 3 repos*
-
-[source,yaml]
-----
-content:
-  sources:
-    - url: ../antora-research
-      branches: HEAD
-    - url: ../antora-german-kirchenbuecher
-      branches: HEAD
-    - url: ../antora-immanuel
-      branches: HEAD
-----
-
-'''''
-
-== ⭐ *FINAL RECOMMENDATION*
-
-Based on everything you've built, and what you describe:
-
-=== ✔ Your site should have *three Antora components*
-
-[arabic]
-. *german-kirchenbuecher*
-. *immanuel-decatur*
-. *research* (master navigation)
-
-=== ✔ Each major archival collection stays separate
-
-* improves clarity
-* reduces Git repo size
-* prevents merge conflicts
-* allows independent growth
-* improves VPS performance
-
-=== ✔ The research component provides unified organization
-
-This gives you the best possible structure for long-term scholarly work.
-
-'''''
-
-If you'd like, I can:
-
-* propose exact folder structures
-* write all three `+antora.yml+` files
-* generate sample `+nav.adoc+` files
-* help plan the repo layout
-* help reorganize modules for Petzen/Frille/etc.
-* draft final names for all components
-
-Just tell me.
-
-That is *a VERY good idea*, and many genealogists ultimately arrive at
-exactly the same conclusion:
-
-=== 📌 _People search by surname, not by archive._
-
-Your insight is correct:
-
-* The _Kirchenbuch_ where a record appears is secondary information.
-* The _family surname_ is the primary organizing principle.
-
-Antora is flexible enough to support a *surname-centric navigation
-system*, but you must implement it *correctly* so your three archival
-domains (German parishes, Immanuel Decatur, other sources) remain
-cleanly separated in storage while still being _merged_ in navigation.
-
-Below I show the *best architectural pattern* for organizing your Antora
-site around SURNAMES while keeping your archival materials in their
-proper repositories/components.
-
-'''''
-
-== ⭐ *The Key Insight*
-
-You need:
-
-=== ✔ *Storage organized by archive*
-
-(because transliterations, images, metadata belong to specific books)
-
-=== ✔ *Navigation organized by surname*
-
-(because that’s how humans search and read)
-
-This is a classic _classification vs. physical storage_ problem.
-
-Antora solves this through: *a single nav.adoc that links across
-components*.
-
-'''''
-
-== 🟩 *Recommended Antora Architecture (Storage)*
-
-=== 1. German Kirchenbücher repo → component `+german-kb+`
-
-....
-german-kb/
-  antora.yml (name: german-kb)
-  modules/
-    petzen/
-      pages/
-    frille/
-    windheim/
-    etc.
-....
-
-=== 2. Immanuel Lutheran Decatur repo → component `+immanuel-kb+`
-
-....
-immanuel-kb/
-  antora.yml (name: immanuel-kb)
-  modules/
-    baptisms/
-    marriages/
-    burials/
-....
-
-=== 3. Research / Surname index repo → component `+research+`
-
-....
-research/
-  antora.yml (name: research)
-  modules/
-    surnames/
-      pages/
-    background/
-    findings/
-....
-
-This third component becomes your *organizing component*.
-
-'''''
-
-== 🟦 *How Surname-Centric Navigation Works*
-
-Your navigation (in `+research/modules/ROOT/nav.adoc+`) becomes:
-
-[source,adoc]
-----
-* Surnames
-** Krückeberg
-*** xref:research:surnames/krueckeberg-overview.adoc[Overview]
-*** xref:german-kb:petzen/FRI-B-1739a.adoc[1739 Baptism – Petzen KB]
-*** xref:german-kb:frille/FRI-C-1767a.adoc[1767 Confirmation – Frille KB]
-*** xref:immanuel-kb:baptisms/IMG_045.adoc[1855 Baptism – Immanuel Lutheran Decatur]
-*** xref:research:findings/krueckeberg-analysis.adoc[Analytical Summary]
-
-** Bleeke
-*** xref:research:surnames/bleeke-overview.adoc[]
-*** xref:german-kb:petzen/....[]
-*** xref:immanuel-kb:burials/...[]
-*** xref:research:findings/bleeke-analysis.adoc[]
-
-** Weiland
-*** xref:german-kb:petzen/...[]
-*** xref:german-kb:frille/...[]
-*** xref:research:findings/weiland.adoc[]
-----
-
-This gives you exactly what you want:
-
-=== ✔ Unified display around *surname*, not location
-
-=== ✔ Records from *Petzen*, *Frille*, *Decatur*, etc. all appear under the same surname
-
-=== ✔ Antora handles the cross-component linking seamlessly
-
-=== ✔ Each archival collection stays in its own logical, lightweight repo
-
-=== ✔ Image-heavy collections remain separated for Git performance
-
-'''''
-
-== ✔️ What this structure gives you
-
-=== *1. Perfect organization for human use*
-
-People browse:
-
-....
-Krückeberg
-  1739 Petzen baptism
-  1767 Frille confirmation
-  1855 Immanuel Lutheran baptism
-....
-
-=== *2. Perfect organization for archival processing*
-
-You still store images/transliterations/translations grouped by _which
-church’s record book_ they belong to.
-
-=== *3. Perfect architecture for long-term scale*
-
-Your genealogical data will _continue growing for years_ — organizing by
-surname keeps everything accessible.
-
-=== *4. You can still add submenus like:*
-
-* “Timelines”
-* “Family summaries”
-* “All Krückeberg Records Chronologically”
-
-Using pages in the `+research+` component.
-
-'''''
-
-== 🟨 You can even auto-generate surname pages
-
-Later, I can help you write a script that:
-
-* scans all components
-* extracts surnames from filenames
-* auto-builds surname index pages
-
-But that’s optional.
-
-'''''
-
-== ⭐ FINAL ANSWER
-
-=== ✔ YES — you can 100% organize your navigation by *surname*
-
-=== ✔ even when the underlying content lives in different components and repositories.
-
-=== ✔ The correct way is to create a *single navigation component* (“research”) whose nav.adoc links to pages from the archival components.
-
-This gives you the *best of both worlds*:
-
-* *Storage by archive* (correct from a scholarly/archival standpoint)
-* *Navigation by surname* (correct for genealogical usability)
-
-'''''
-
-If you want, I can:
-
-* Design the exact nav.adoc structure for your surnames
-* Write starter pages for Krückeberg, Bleeke, Weiland
-* Show ideal folder structures for each component
-* Build a model Antora playbook for this design
-
-Just tell me.
