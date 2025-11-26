@@ -29,24 +29,28 @@ Getauften und Konfirmierten, 1641-1784".
 
 image::petzen-band1a-img246.jpg[align=left,title='Anna Christina Maria Kruckeberg, entry 10, right-hand page of image 246 (Click to enlarge)',link=self]
 
-[caption="Transliteration and Translation: "]
 .1775 Baptism of Anna Christina Maria Kruckeberg
-[cols="l",frame="none"]
-|===
-^|Getaufte                                                               1775
- Baptisms                                                                1775 
 
-|10) d[en] 10ten Septembr ist getauft Anna Christina Maria Krückebergen
+[literal.bordered,subs="verbatim,quotes"]
+....
+Getaufte                                                               1775
+
+10) d[en] 10ten Septembr ist getauft Anna Christina Maria Krückebergen
     Johann Heinrich Krückebergs aus Berenbusch mit seiner
     Ehefrau Anna Marie Elisabeth geb. Schekele erzeugte
     Tochter. die Gevatterin war die junge Mostin aus
     Berenbusch
+....
 
-|10) On September 10th Anna Christina Maria Krückeberg was
+[literal.bordered,subs="verbatim,quotes"]
+....
+Baptisms                                                               1775
+
+10) On September 10th Anna Christina Maria Krückeberg was
     baptized, the begotton daughter of Johann Heinrich Krückeberg
     from Berenbusch, by his wife Marie Elisabeth born Schekele
     The godmother was the young Mostin from Berenbusch
-|===
+....
 
 
 [bibliography]
