@@ -144,21 +144,24 @@ L. Schwerdtmann from Bergkirchen.
 "Philippine Leonore, née Bleeken" is inaccurate. It should be "Philippine Leonore, née Werkmeister". 
 ====
 
-that the Krückeberg family originated from an area near Petzen called Berenbusch. This document originated from
-Harry Frederick Krueckeberg who believed it was among his father's papers, and he believed his father had typed it.
-I obtained the copy above from Melvin Krueckeberg several years ago.
+== Provenance
 
-According to "The Union Township Krueckebergs (Krückeberg) From Germany to Adams County, Indiana, 1850 to June 29,
-2008", by Melvin E. W. Krueckeberg, a spiral bound publication distributed at the 2008 Krueckeberg reunion in Adams
-county:
+This document originated from Harry Frederick Krueckeberg who believed it was among his late father's papers; he
+believed his father had typed it.  I obtained my copy (above) from Melvin Krueckeberg several years ago.
+
+Mel explained how he came into possession of it in his volume "The Union Township Krueckebergs (Krückeberg)
+From Germany to Adams County, Indiana, 1850 to June 29, 2008", by Melvin E. W. Krueckeberg. This is a spiral
+bound publication distributed at the 2008 Krueckeberg reunion in Adams county:
 
 .From _The Union Township Krueckebergs (Krückeberg) From Germany to Adams County, Indiana, 1850 to June 29, 2008_
 [quote, Melvin E. W. Krueckeberg]   
+____
 When I began doing research on the Krueckebergs I had no idea where they lived in Germany.
 In 1999 Arlene and I were passing through Colorado and we stopped to say hello to cousin
 Harry in Fort Collins. I told him about my new hobby an[sic] that I did not know where in
 Germany the Kruekebergs were located. Harry said: I have that information and gave me as[sic]
 copy of the Certificate of the Emigrant...
+____
  
 Ernest Thode's _German-English Genealogical Dictionary_, defines **Familenschein** as **family record**.
 "Familienschein des Auswanderers" thus translates as: **Emigrant's Family Record**.
@@ -166,4 +169,10 @@ Ernest Thode's _German-English Genealogical Dictionary_, defines **Familenschein
 At the bottom of the document is the name of an official who is "von Bergkirchen" ("from Bergkirchen"). Bergkirchen is 
 22 miles distant from Petzen.
 
+[bibliography]
+== Citations
+
+* [[[FS-CHK]]] “Familienschein des Auswanderers Carl Heinrich Krückeberg,” derivative compilation of Lutheran
+church baptism, marriage, and children’s baptism and confirmation entries; creator and date unknown; copy held in
+the private collection of {author_initials}, Fort Wayne, Indiana, received through family possession.
 
