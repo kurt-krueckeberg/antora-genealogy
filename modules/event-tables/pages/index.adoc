@@ -112,14 +112,13 @@ For *each of the two immigrants*, the Event Table allows you to:
 
 '''''
 
-== ✅ Why This Helps Your German Researcher
+== ✅ Why This Helps Our German Research
 
 The Event Table becomes:
 
 * ✅ the *research brief* 
 * ✅ the *working hypothesis map* 
-* ✅ the *evidence
-correlation tool*
+* ✅ the *evidence correlation tool*
 
 So instead of thinking:
 
@@ -127,39 +126,11 @@ ____
 “Please help me figure out which Krückeberg belongs to which family…”
 ____
 
-You will think:
+We will think:
 
 ____
 “Rows 22–41 appear to be the family of the 1849 emigrant, but rows 33
 and 36 conflict due to residence wording. Please verify in archival
 material A12–K2.”
 ____
-
-That saves you *billable hours* and eliminates wheel-spinning.
-
-'''''
-
-== ✅ Where It Belongs in Your Antora Structure
-
-This should live in the *research-context* component, in a module named:
-
-....
-modules/event-tables/
-....
-
-With pages such as:
-
-....
-krueckeberg-event-table-1700-1749.adoc
-krueckeberg-event-table-1750-1799.adoc
-krueckeberg-event-table-1800-1849.adoc
-....
-
-Each page will contain:
-
-* ✅ the table 
-* ✅ notation system 
-* ✅ interpretation notes 
-* ✅ links to record pages 
-* ✅ developing hypotheses
 
