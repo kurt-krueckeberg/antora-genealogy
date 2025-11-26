@@ -163,28 +163,3 @@ Each page will contain:
 * ✅ links to record pages 
 * ✅ developing hypotheses
 
-== ✅ If you want next steps, tell me ONE thing:
-
-=== Which parish should the first event table cover?
-
-Choose one:
-
-[arabic]
-. *Petzen*
-. *Frille*
-. *Both together*
-. *Whichever has the earliest Krückeberg entries*
-. *Whichever is relevant to the 1849 emigrant*
-. *Whichever is relevant to the 1850 emigrant*
-
-Depending on your choice, I will produce:
-
-* ✅ the table skeleton 
-* ✅ recommended file names 
-* ✅ siglum format 
-* ✅ citation anchors 
-* ✅ sponsor-network markers 
-* ✅ Antora page template
-ready to paste
-
-Just reply with the number (1–6).
