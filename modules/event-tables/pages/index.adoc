@@ -1,6 +1,8 @@
 = Event Tables
 :page-role: very-wide
 
+See also: link:https://chatgpt.com/c/691f9f20-6b38-832d-9383-47ea1984cea2[ChatGPT Conversion]
+
 *What the Event Table is; why we are building it; how it helps identify and document the
 two Krückeberg immigrants from Schaumburg-Lippe?*
 
