@@ -9,6 +9,16 @@ body.wide .doc
    }
 }
 
+body.very-wide .doc
+{
+   max-width: 80rem;  /* Changing this to 'none' widens the page */
+}
+
+@media screen and (min-width:1024px) {
+   body.very-wide .doc {
+      max-width: 85rem; /* Changing this to 'none' widens the page */
+   }
+}
 /* === Make top nav text visible on dark header background === */
 .navbar,
 .navbar .navbar-item,

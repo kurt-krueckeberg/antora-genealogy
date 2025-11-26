@@ -1,5 +1,5 @@
 = Petzen Event Table
-:page-role: wide
+:page-role: very-wide
 :sectnums!:
 
 *Under Development*
@@ -35,6 +35,7 @@
 
 |===
 
+[.narrow]
 == Notes on Event Interpretation
 
 * Explain abbreviations (e.g., hÿ, eod., do.)
@@ -44,6 +45,7 @@
 * Note conflicting entries
 * Note cases requiring lookup in original scans
 
+[.narrow]
 == Source and Citation Information
 
 * Full citation to source (BCG-style)
@@ -52,6 +54,7 @@
 * Repository or archive reference
 * Access date (if online database)
 
+[.narrow]
 == Analytical Observations (optional)
 
 * Identity hypotheses

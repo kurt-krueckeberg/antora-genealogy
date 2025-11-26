@@ -1,8 +1,10 @@
 = Event Tables
+:page-role: very-wide
 
 *What the Event Table is; why we are building it; how it helps identify and document the
 two Krückeberg immigrants from Schaumburg-Lippe?*
 
+[.narrow]
 == ✅ What the Event Table Is
 
 The *Event Table* is a structured list of *all genealogically relevant
@@ -21,6 +23,7 @@ including:
 
 Each row corresponds to *one recorded event*, not one person.
 
+[.narrow]
 == ✅ Why the Event Table Matters for Your Case
 
 You have *two Krückeberg immigrants*:
@@ -53,6 +56,7 @@ The *Event Table solves this* by letting you:
 * ✅ document all claims with proper citations 
 * ✅ build *a defensible lineage* meeting BCG standards
 
+[.narrow]
 == ✅ What Columns the Event Table Should Contain
 
 This is the structure we previously established:
@@ -110,8 +114,7 @@ For *each of the two immigrants*, the Event Table allows you to:
 * conflicting evidence resolved
 * citations for every assertion
 
-'''''
-
+[.narrow]
 == ✅ Why This Helps Our German Research
 
 The Event Table becomes:
