@@ -1,11 +1,11 @@
 .Research Threads
-* xref:background-info.adoc[]
+// * xref:background-info.adoc[]
 * xref:sigla-explained.adoc[]
 * German Records-related Research Questions
 ** xref:bueckeburg-archive-research.adoc[]
 ** xref:johann-hinrich-krueckeberg.adoc[]
 ** xref:naming-conventions.adoc[]
-//** xref:children-of-johann-henrich-krueckeberg-born-1704.adoc[] <-- Only partially finished
+** xref:children-of-johann-henrich-krueckeberg-born-1704.adoc[] 
 ** xref:schaumburg-lippe-censuses.adoc[]
 ** xref:stand-meaning.adoc[]
 ** xref:carl-f-bleeke-military-service.adoc[]

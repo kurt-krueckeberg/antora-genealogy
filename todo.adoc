@@ -1,9 +1,9 @@
 = TODO
 
-== Redesign
+== Further Redesign
 
-* Commented out sections of antora.yml
-* Commented out lots of m/r/nav-top.adoc
+Put modules that have been commented out and navigation that has been commented out, like 
+*Helpful Background information* in `m/research/nav.adoc` under a new"Other" category.
 
 == Finishing Creating Citations for Immanuel Biographies
 
