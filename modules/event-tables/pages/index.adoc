@@ -74,8 +74,7 @@ This is the structure we previously established:
 | Occupation (if present)
 | Sponsors / witnesses (as written)
 | Notes (abbreviations, ambiguity, ditto marks)
-| Siglum of record (your standardized form)
-| Citation key / link to page
+| Record Page
 ....
 
 Optional advanced columns:

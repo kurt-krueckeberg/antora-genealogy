@@ -17,7 +17,7 @@
 | Occupation
 | Sponsors / Witnesses
 | Siglum
-| Citation Key
+| Record Page
 
 // --- Example Row (delete when populating) ---
 // | B
