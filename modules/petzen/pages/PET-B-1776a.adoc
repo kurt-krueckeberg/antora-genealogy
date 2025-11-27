@@ -33,6 +33,7 @@ image::petzen-band1a-img251-bleke.jpg[align=left,title='Fridrich Wilhelm Bleke B
 [biliography]
 == Citations
 
+[[PET-B-1776a]]
 * [[[PET-B-1776a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/0619fcd07c/ : 15 May 2025),
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften und Konfirmierten 1641-1784,

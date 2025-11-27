@@ -59,5 +59,6 @@ is identical to the Kurrent `h`, a practice used in the Petzen church records al
 [bibliography]
 == Citations
 
+[[FRI-B-1760a]]
 * [[[FRI-B-1760a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/11732ef7c6/ : 12 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Frille > Verzeichnis der Getauften, Getrauten, Gestorbenen 1758-1804, image 11 of 388
 

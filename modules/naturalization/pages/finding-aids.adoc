@@ -202,5 +202,6 @@ link:https://www.familysearch.org/en/wiki/Indiana_Archives_and_Libraries[Indiana
 [bibliography]
 == References
 
+[[naturaliziation-article]]
 * [[[naturaliziation-article]]] Adams County Trumpeter of the Adams County Historical Society, Vol. 6, No. 3, Octoboer 1988, pages 1-6,
 Genealogy Center of the Allen County Public Library Call #: 977.201 Ad1hs

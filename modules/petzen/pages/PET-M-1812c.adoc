@@ -124,5 +124,6 @@ Stille
 [bibliography]
 == Citations
 
+[[PET-M-1812c]]
 * [[[PET-M-1812c]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/9c5e2c60a5/ : 7 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
  Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 28 of 357

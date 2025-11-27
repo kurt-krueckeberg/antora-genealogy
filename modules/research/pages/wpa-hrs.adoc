@@ -207,7 +207,9 @@ by Kimberly Powell, 12 May 2022
 [bibliography]
 == References
 
+[[naturaliziation-article]]
 * [[[naturaliziation-article]]] Adams County Trumpeter of the Adams County Historical Society, Vol. 6, No. 3, Octoboer 1988, pages 1-6,
 Genealogy Center of the Allen County Public Library Call #: 977.201 
+[[wpa-digital-book]]
 * [[[wpa-digital-book]]] The WPA historical records survey : a guide to the unpublished inventories, indexes, and transcripts, Loretta L. Hefner, Society of American Archivists (Chicago), 1980, FamilySearch Digital Library : 
 https://www.familysearch.org/library/books/idviewer/398714 

@@ -143,6 +143,7 @@ Jan. in Petzen|penumonia/consumption|54 years old|married|surviving besides her 
 [bibliography]
 == Citations
 
+[[PET-D-1819a]]
 * [[[PET-D-1819a]]] "Archion Protestant Kirchenbücher Portal", database with images,
 (https://www.archion.de/p/52b5179fd4/ : 13 July 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
 Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 300 of 357

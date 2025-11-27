@@ -125,6 +125,7 @@ farmer.
 [bibliography]
 == Citations
 
+[[PET-D-1805a]]
 * [[[PET-D-1805a]]] "Archion Protestant Kirchenbücher Portal", database with
 images, _Archion_ (http://www.archion.de/p/fcf567b28f/ : 25 October 2023),
 path: Niedersachsen: Niedersächsisches Landesarchiv > Kirchenbücher der

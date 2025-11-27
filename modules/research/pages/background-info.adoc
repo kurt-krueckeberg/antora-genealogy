@@ -117,6 +117,8 @@ The map is from the <<adams-county-map-1873, IU Library at Indianapolis's Digita
 [bibliography]
 == References
 
+[[adams-county-map-1873]]
 * [[[adams-county-map-1873]]] "Indiana University Library, Indianapolis, Digital Collection", database of digital images, (https://iuidigital.contentdm.oclc.org/digital/collection/HIM/id/59/rec/1
 : 21 November 2024), path: Home > Historic Indiana Maps > Map of Adams County Indiana [cartographic material] : compiled and drawn from records and surveys / by Abraham Boegley.
+[[wpa-digital-book]]
 * [[[wpa-digital-book]]] The WPA historical records survey : a guide to the unpublished inventories, indexes, and transcripts, Loretta L. Hefner, Society of American Archivists (Chicago), 1980, FamilySearch Digital Library : www.familysearch.org/library/books/idviewer/398714 

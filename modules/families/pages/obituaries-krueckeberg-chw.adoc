@@ -82,7 +82,9 @@ church.
 == References
 
 // newspapers.com image?
+[[ft-wayne-sentinel]]
 * [[[ft-wayne-sentinel]]] "Adams County Pioneer Dies", The Fort Wayne Sentinel, 12 December 1915, page 3
 
+[[ft-wayne-journal-gazette]]
 * [[[ft-wayne-journal-gazette]]] "Carl Krueckeberg Dead in Adams County", The Fort Wayne Journal Gazette, 12 December 1915, page 6
 

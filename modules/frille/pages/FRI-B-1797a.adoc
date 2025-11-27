@@ -47,6 +47,7 @@ godfather Joh. Frid. Volckening
 [bibliography]
 == Citations
 
+[[FRI-B-1797a]]
 * [[[FRI-B-1797a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/34beed4934/: 11 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Frille >
 Verzeichnis der Getauften, Getrauten, Gestorbenen 1758-1804, image 136 of 388
 

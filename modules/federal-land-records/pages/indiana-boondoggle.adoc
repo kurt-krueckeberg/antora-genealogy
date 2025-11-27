@@ -81,6 +81,7 @@ ____
 [bibliography]
 == References
 
+[[citation]]
 * [[[citation]]] Stephen F. Strausberg, link:https://scholarworks.iu.edu/journals/index.php/imh/article/view/10021["Indiana
 and the Swamplands Act: A Study in State Administration"], Indiana Magazine of History, Volume 73, Issue 3, September 1977,
 page 192, retrieved from
