@@ -2,12 +2,10 @@
 
 == Original Records
 
-The general format for most of the format representing original records is LLL-E-YYYYx, for exammple:
-*PET-B-1744a*.
+The file name format for most original records is <3-letter location prefix>-<one-letter church event code>-<four-digit
+event year>-<one-leter `a` or `b` or `c`, etc. 
 
-The scheme for original records is:
-
-* LLL--is a 3-letter location prefix shown in the table:
+* Examples of the 3-letter location prefix are shown in the table:
 +
 [cols="1,2,6"]
 |===
@@ -46,7 +44,7 @@ The scheme for original records is:
 |Windheim Parish, "Germany"
 |===
 
-* E--is a one-letter church ceremony code shown in the table below:
+* E--is a one-letter church ceremony code gioven in the table below:
 +
 |===
 |Code|Ceremony
@@ -64,8 +62,9 @@ The scheme for original records is:
 |Burial/Death
 |===
 
-* YYYY--is the year of the ceremony
-* x--is a,b,c, d, etc, representing separate indvidual ceremonies from one another.
+* The four-didit year the ceremony YYYY folows next.
+* The last element is `a`,`b`,`c`, `d`, etc, representing separate indvidual ceremonies 
+for the particulair parish within the same year.
 
 === Examples of Sigla-Format Filenames
 
@@ -104,11 +103,12 @@ applicable), contextual notes, and full BCG-compliant citation.
 
 == Derived Records
 
-These are the sigla of derived and other records:
+So far we have only one sigla for derived church records, *FS-CHK*s:
 
+.Sigla Prefix for Records Derived from Church Records
 [cols="1,12"]
 |===
-|Code|Citation
+|Code|Citation 
 
 |FS-CHK
 |“Familienschein des Auswanderers Carl Heinrich Krückeberg,” derivative compilation of Petzen Lutheran parish
