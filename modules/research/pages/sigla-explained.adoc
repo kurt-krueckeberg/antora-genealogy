@@ -66,6 +66,40 @@ The scheme for original records is:
 
 * YYYY--is the year of the ceremony
 * x--is a,b,c, d, etc, representing separate indvidual ceremonies from one another.
+=== Examples of Sigla-Format Filenames
+
+The following illustrate how the sigla scheme appears in the actual filenames used for pages on this website. Each file
+name corresponds to one record and matches the LLL-E-YYYYx pattern described above.
+
+[cols="2,8"]
+|===
+|Filename Example|Meaning
+
+|PET-B-1739a.adoc
+|Baptism record from Petzen (PET), year 1739, first baptism identified for that surname in that year.
+
+|PET-C-1752a.adoc
+|Confirmation record from Petzen, 1752, first confirmation record in that year for the individual or surname cluster.
+
+|PET-M-1764a.adoc
+|Marriage record from Petzen, 1764, first marriage record in that year.
+
+|PET-D-1771a.adoc
+|Burial/death record from Petzen, 1771, first such record for the surname in that year.
+
+|FRI-B-1767b.adoc
+|Baptism from Frille (FRI), 1767, second baptismal entry distinguishable for that surname in that year.
+
+|DEC-B-1853a.adoc
+|Baptism record from Immanuel Lutheran Church, Decatur (DEC), 1853, first baptism record distinguishable in that year.
+
+|NDC-M-1849a.adoc
+|Marriage record from the Norddeutsche Evangelisch-Lutherische Kirche in Cincinnati (NDC), 1849, first such entry.
+|===
+
+Each filename corresponds one-to-one with a specific church-register entry. The filename serves as both an
+identifier and a cross-reference target, while the page itself contains the transcription, translation (if
+applicable), contextual notes, and full BCG-compliant citation.
 
 == Derived Records
 
