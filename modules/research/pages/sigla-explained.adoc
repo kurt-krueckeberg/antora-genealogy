@@ -2,10 +2,11 @@
 
 == Original Records
 
-The file name format for original records is *3-letter location prefix* *plus* *-* *plus* *one-letter church event code*
-*plus*  *-* *plus* *four-digit event year* *plus* `a` or `b` or `c`, etc. 
+The file name format for original records is *3-letter location prefix, followed by a *one-letter church event
+code*, followed by a *four-digit event year*, followed by *a* or *b* or *c*, etc.--each separate by a dash; for
+example, *PET-B-1739a.adoc*
 
-* Examples of the 3-letter location prefix are shown in the table:
+* The 3-letter location prefixes are shown in the table:
 +
 [cols="1,2,6"]
 |===
