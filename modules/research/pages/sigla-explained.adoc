@@ -2,8 +2,8 @@
 
 == Original Records
 
-The file name format for original records is *3-letter location prefix* *+* `-` *+* *one-letter church event code*
-*+*  `-` *four-digit event year* *+* `a` or `b` or `c`, etc. 
+The file name format for original records is *3-letter location prefix* *plus* *-* *plus* *one-letter church event code*
+*plus*  *-* *plus* *four-digit event year* *plus* `a` or `b` or `c`, etc. 
 
 * Examples of the 3-letter location prefix are shown in the table:
 +
