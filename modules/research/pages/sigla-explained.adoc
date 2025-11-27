@@ -1,0 +1,118 @@
+= Sigla Explained
+
+== Original Records
+
+The general format for most of the format representing original records is LLL-E-YYYYx, for exammple:
+*PET-B-1744a*.
+
+The scheme for original records is:
+
+* LLL--is a 3-letter location prefix shown in the table:
++
+[cols="1,2,6"]
+|===
+|3-letter Prefix|Location|Meaning
+
+|BUC
+|Buchholz
+|Parish in Buchholz, "Germany"
+
+|CIN
+|Cincinnati
+|Deutsche Evangelisch-Lutherische und Reformierte Kirche von Cincinnati (German Evangelical Lutheran and Reformed Church of Cincinnati)
+
+|FRI
+|Frille
+|Parish in Frille, "Germany"
+
+|PET
+|Petzen
+|Parish in Petzen, Schaumburg-Lippe
+
+|DEC
+|Decatur
+|Immanuel Lutheran Church, Decatur, Indiana
+
+|NDC
+|Cincinnati
+|Norddeutsche Evangelisch-Lutherische Kirche, Cincinnati (North German Lutheran Church of Cincinnati)
+
+|WAL
+|Wallensen
+|Wallsensen Parish, "Germany"
+
+|WIN
+|Windheim
+|Windheim Parish, "Germany"
+|===
+
+* E--is a one-letter church ceremony code shown in the table below:
++
+|===
+|Code|Ceremony
+
+|B
+|Birth/Baptism
+
+|C
+|Confirmation
+
+|M
+|Marriage
+
+|D
+|Burial/Death
+|===
+
+* YYYY--is the year of the ceremony
+* x--is a,b,c, d, etc, representing separate indvidual ceremonies from one another.
+
+== Derived Records
+
+These are the sigla of derived and other records:
+
+[cols="1,12"]
+|===
+|Code|Citation
+
+|FS-CHK
+|“Familienschein des Auswanderers Carl Heinrich Krückeberg,” derivative compilation of Petzen Lutheran parish
+church baptism, marriage, and children’s baptism and confirmation entries; creator and date unknown; copy held in
+the private collection of Kurt Krueckeberg, Fort Wayne, Indiana, received through family possession
+|===
+
+== What “Sigla” Means and Why They Are Used
+
+A *siglum* (plural: *sigla*) is a short, standardized identifier used to refer to a specific record or group of records without
+repeating a full citation. In this project, sigla provide a concise label that uniquely designates a parish, a type of church
+event, a year, and (where needed) the sequence of multiple events within that year.
+
+Sigla are useful because they:
+
+* avoid ambiguity when multiple records involve the same surname in the same parish,
+* allow consistent reference across pages, event tables, research notes, and family groupings,
+* support traceability to the exact original or derivative record,
+* provide a stable shorthand for cross-referencing within this website.
+
+== Use of Sigla in BCG-Compliant Citations
+
+In keeping with standards recommended by the Board for Certification of Genealogists (BCG), sigla in this project serve as
+a convenient shorthand within the narrative, while the full citation—containing all required elements—appears in the
+*Citations* section of each page. The siglum allows the text to flow clearly without repeating long source details, yet the
+reader can always trace the statement back to the exact record cited.
+
+For example, within a discussion of a baptism, the narrative may read:
+
+“Johann Hinrich Krückeberg’s baptism (PET-B-1739a) identifies his father as a resident of Berenbusch.”
+
+Here, the siglum PET-B-1739a tells the reader exactly which record supports the statement. The complete citation—naming
+the parish register, repository or database, collection title, image identifier, and access date—appears in the *Citations*
+section at the end of the page. In this way, the siglum functions as an internal locator, while the citation fulfils the BCG
+requirements of accuracy, completeness, and reproducibility.
+
+This approach allows:
+
+* clear narrative writing without repeated full citations,
+* consistent cross-referencing among related pages,
+* immediate recognition of the parish, event type, and year,
+* and full compliance with accepted genealogical citation standards.
