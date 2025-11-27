@@ -66,6 +66,7 @@ The scheme for original records is:
 
 * YYYY--is the year of the ceremony
 * x--is a,b,c, d, etc, representing separate indvidual ceremonies from one another.
+
 === Examples of Sigla-Format Filenames
 
 The following illustrate how the sigla scheme appears in the actual filenames used for pages on this website. Each file
