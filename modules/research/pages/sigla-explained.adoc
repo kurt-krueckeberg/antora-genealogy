@@ -2,9 +2,9 @@
 
 == Original Records
 
-The file name format for original records is *3-letter location prefix, followed by a *one-letter church event
-code*, followed by a *four-digit event year*, followed by *a* or *b* or *c*, etc.--each separate by a dash; for
-example, *PET-B-1739a.adoc*
+The file name format for original records follows this example *PET-B-1739a.adoc* of a *3-letter location prefix*,
+followed by a *one-letter church event code*, followed by a *four-digit event year*, followed by
+*a*, *b*, *c*, *d*, etc.--each separated by a dash.
 
 * The 3-letter location prefixes are shown in the table:
 +
