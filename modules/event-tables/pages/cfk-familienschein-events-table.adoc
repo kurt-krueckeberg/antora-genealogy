@@ -4,7 +4,7 @@
 
 *Under Development*
 
-[cols="1,2,2,2,2,2,1,1,3a,3,2",options="header"]
+[cols="1,2,3,3,3,2,1,2,3a,4,2",options="header"]
 |===
 | Event Type
 | Event Date
@@ -12,38 +12,182 @@
 | Father
 | Mother
 | Residence / Village
-| House No.
+| No.
 | Occupation
 | Sponsors / Witnesses
 | Notes
 | Record Page
 
-| Birth
-| 21 May 1807, 8 p.m.
-| Carl Friederich Krückeberg
-| Carl Friedrich Gottlieb Krückeberg
-| Philippine Leonore (née Bleeken)
+| Marriage
+| 16 Nov 1834
+| Carl Friedrich Krückeberg & Luise Dorothea Weiland
+| Carl Friedrich Krückeberg
+| Luise Dorothea (née Weiland)
 | Berenbusch
+| 18
 | —
-| Tailor (father)
 |
-| Legitimate second child and first son.
-| xref:petzen:PET-B-1807a.adoc[]
+. Bride: Legitimate third child, third daughter of Friedrich Wilhelm Weiland, colonist at No. 20 in Evensen  
+. Bride’s baptism sponsors: Dorothea Deerberg (No. 6)  
+. Katharine Leonore Kuhlmann (No. 3 in Evensen)
+| Evangelical Lutheran marriage.
+| xref:derived-church-records:FS-CFK.adoc[]
+
+| Birth
+| 4 Feb 1835, 3 a.m.
+| Carl Heinrich Wilhelm Krückeberg
+| Carl Friedrich Krückeberg
+| Luise Dorothea (née Weiland)
+| Berenbusch
+| 18
+| —
+|
+| —
+| xref:derived-church-records:FS-CFK.adoc[]
 
 | Baptism
-| 24 May 1807
-| Carl Friederich Krückeberg
-| Carl Friedrich Gottlieb Krückeberg
-| Philippine Leonore (née Bleeken)
+| 8 Feb 1835
+| Carl Heinrich Wilhelm Krückeberg
+| Carl Friedrich Krückeberg
+| Luise Dorothea (née Weiland)
 | Berenbusch
+| 18
 | —
-| Tailor (father)
 |
-. Hans Heinrich Wilhairm (No. 11)
-. Johann Heinrich Deerberg (No. 6 in Evensen)
-. Jobst Heinrich Krückeberg (Beerenbusch)
-| Baptized “in the name of the Triune God” in the Petzen church.
-| xref:petzen:PET-B-1807a.adoc[]
+| Baptized “in the name of the Triune God.”
+| xref:derived-church-records:FS-CFK.adoc[]
+
+| Confirmation
+| 15 Apr 1849 (Quasimodogeniti Sunday)
+| Carl Heinrich Wilhelm Krückeberg
+| Carl Friedrich Krückeberg
+| Luise Dorothea (née Weiland)
+| Berenbusch
+| 18
+| —
+|
+| Confirmed in the Evangelical Lutheran confession.
+| xref:derived-church-records:FS-CFK.adoc[]
+
+| Birth
+| 15 Oct 1837, 11 a.m.
+| Caroline Philippine Krückeberg
+| Carl Friedrich Krückeberg
+| Luise Dorothea (née Weiland)
+| Berenbusch
+| 18
+| —
+|
+| —
+| xref:derived-church-records:FS-CFK.adoc[]
+
+| Baptism
+| 22 Oct 1837
+| Caroline Philippine Krückeberg
+| Carl Friedrich Krückeberg
+| Luise Dorothea (née Weiland)
+| Berenbusch
+| 18
+| —
+|
+| Baptized “in the name of the Triune God.”
+| xref:derived-church-records:FS-CFK.adoc[]
+
+| Birth
+| 8 Sep 1840, 2 a.m.
+| Caroline Philippine Sophie Krückeberg
+| Carl Friedrich Krückeberg
+| Luise Dorothea (née Weiland)
+| Berenbusch
+| 18
+| —
+|
+| —
+| xref:derived-church-records:FS-CFK.adoc[]
+
+| Baptism
+| 13 Sep 1840
+| Caroline Philippine Sophie Krückeberg
+| Carl Friedrich Krückeberg
+| Luise Dorothea (née Weiland)
+| Berenbusch
+| 18
+| —
+|
+| Baptized “in the name of the Triune God.”
+| xref:derived-church-records:FS-CFK.adoc[]
+
+| Birth
+| 6 Sep 1843, 9 p.m.
+| Wilhelmine Christine Krückeberg
+| Carl Friedrich Krückeberg
+| Luise Dorothea (née Weiland)
+| Berenbusch
+| 18
+| —
+|
+| —
+| xref:derived-church-records:FS-CFK.adoc[]
+
+| Baptism
+| 14 Sep 1843
+| Wilhelmine Christine Krückeberg
+| Carl Friedrich Krückeberg
+| Luise Dorothea (née Weiland)
+| Berenbusch
+| 18
+| —
+|
+| Baptized “in the name of the Triune God.”
+| xref:derived-church-records:FS-CFK.adoc[]
+
+| Birth
+| 23 Jul 1846
+| Friederich Wilhelm Krückeberg
+| Carl Friedrich Krückeberg
+| Luise Dorothea (née Weiland)
+| Berenbusch
+| 18
+| —
+|
+| —
+| xref:derived-church-records:FS-CFK.adoc[]
+
+| Baptism
+| 30 Jul 1846
+| Friederich Wilhelm Krückeberg
+| Carl Friedrich Krückeberg
+| Luise Dorothea (née Weiland)
+| Berenbusch
+| 18
+| —
+|
+| Baptized “in the name of the Triune God.”
+| xref:derived-church-records:FS-CFK.adoc[]
+
+| Birth
+| 6 Feb 1850, 6 a.m.
+| Ernst Heinrich Krückeberg
+| Carl Friedrich Krückeberg
+| Luise Dorothea (née Weiland)
+| Berenbusch
+| 18
+| —
+|
+| —
+| xref:derived-church-records:FS-CFK.adoc[]
+
+| Baptism
+| 13 Feb 1850
+| Ernst Heinrich Krückeberg
+| Carl Friedrich Krückeberg
+| Luise Dorothea (née Weiland)
+| Berenbusch
+| 18
+| —
+|
+| Baptized “in the name of the Triune God.”
+| xref:derived-church-records:FS-CFK.adoc[]
 |===
 
 [.narrow]
