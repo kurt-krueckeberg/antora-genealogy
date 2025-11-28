@@ -11,7 +11,7 @@ image::petzen-band2-img115.jpg[title="Louise Dorothee Weiland 1811, pp. 224-225(
 
 [caption="Transliteration and Translation: "]
 .Geboren im Kirchspiele Petzen im Jahr 1811 (Born in the Petzen parish in the year 1811)
-[cols="1,3,3,3,3,4,4,4,4",frame="none"]
+[%header,cols="1,3,3,3,3,4,4,4,4",frame="none"]
 |===
 |Zahl
 |Name des Kindes 
@@ -36,7 +36,7 @@ image::petzen-band2-img115.jpg[title="Louise Dorothee Weiland 1811, pp. 224-225(
 
 [caption="Transliteration and Translation: "]
 .Geboren im Kirchspiele Petzen im Jahr 1811 (Born in the Petzen parish in the year 1811)
-[cols="1,3,3,3,3,4,4,4,4",frame="none"]
+[%header,cols="1,3,3,3,3,4,4,4,4",frame="none"]
 |===
 |Number
 |Child's Name
