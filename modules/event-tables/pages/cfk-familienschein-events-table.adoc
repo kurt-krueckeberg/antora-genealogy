@@ -6,7 +6,7 @@
 
 *TODO:* Combine this page with Family Church Records for the Parents.
 
-[cols="1,2,3,3,3,2,1,2,3a,4,2",options="header"]
+[cols="1,2,3,3,3,2,1,2,3a,4a,2",options="header"]
 |===
 | Event Type
 | Event Date
@@ -29,8 +29,8 @@
 | 18
 | —
 |
-| Evangelical Lutheran marriage.
-. Bride: Legitimate third child, third daughter of Friedrich Wilhelm Weiland, colonist at No. 20 in Evensen  
+| Evangelical Lutheran marriage. +
+Bride: Legitimate third child, third daughter of Friedrich Wilhelm Weiland, colonist at No. 20 in Evensen  
 | xref:derived-church-records:FS-CFK.adoc[]
 
 | Birth
