@@ -17,6 +17,20 @@
 | Notes
 | Record Page
 
+|Birth
+|2 Jan. 1811
+|Louise Dorothee Weiland
+|Friedrich Wilhelm Weiland
+|Anne Catherine Drinckuth
+|Evesen
+|20
+|-
+|
+. Dorothee Deerberg n. 6 Evesen
+. Dorothee Lenore Kuhlmann n. 3 Evesen
+|
+|xref:petzen:PET-B-1811a.adoc[]
+
 | Confirmation
 | 8 April 1821
 | Carl Friedrich Krückeberg
@@ -28,7 +42,6 @@
 | -
 |Confirmed on Quasimodogeniti Sunday 
 |xref:petzen:PET-C-1821a.adoc[]
-
 
 | Marriage
 | 16 Nov 1834
