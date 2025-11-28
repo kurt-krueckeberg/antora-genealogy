@@ -56,7 +56,7 @@ Bride: Legitimate third child, third daughter of Friedrich Wilhelm Weiland, colo
 | xref:derived-church-records:FS-CFK.adoc[]
 
 | Confirmation
-| 15 Apr 1849 (Quasimodogeniti Sunday)
+| 15 Apr 1849
 | Carl Heinrich Wilhelm Krückeberg
 | Carl Friedrich Krückeberg
 | Luise Dorothea née Weiland
@@ -64,7 +64,8 @@ Bride: Legitimate third child, third daughter of Friedrich Wilhelm Weiland, colo
 | 18
 | —
 |
-| Confirmed in the Evangelical Lutheran confession.
+| Confirmed in the Evangelical Lutheran confession. +
+Confirmed on Quasimodogeniti Sunday 
 | xref:derived-church-records:FS-CFK.adoc[]
 
 | Birth
