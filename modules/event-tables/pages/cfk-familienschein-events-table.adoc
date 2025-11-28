@@ -6,7 +6,7 @@
 
 *TODO:* Combine this page with Family Church Records for the Parents.
 
-[cols="1,2,3,3,3,2,1,2,3a,4a,2",options="header"]
+[cols="1,2,3,3,3,2,1,1,3a,4a,2",options="header"]
 |===
 | Event Type
 | Event Date
