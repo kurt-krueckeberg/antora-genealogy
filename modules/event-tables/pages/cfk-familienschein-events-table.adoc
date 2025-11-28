@@ -19,7 +19,7 @@
 | Notes
 | Record Page
 
-|B
+//
 |===
 
 [cols="1,1,2,2,2,2,1,1,2,3,2",options="header"]
@@ -68,8 +68,6 @@
 // | Cordt Vahlsing, Anna Bleeke
 // | hÿ used; ambiguous ink mark over surname
 // | xref:petzen:PET-B-1739a.adoc[PET-B-1739a]
-
-|===
 
 
 [.narrow]
