@@ -9,7 +9,9 @@ The birth and baptism of Louise Dorothee Weiland is on <<PET-B-1811a, image 115,
 
 image::petzen-band2-img115.jpg[title="Louise Dorothee Weiland 1811, pp. 224-225(Click to enlarge)",link=self]
 
-[caption="Transliteration and Translation: "]
+== Transliteration and Translation
+
+[caption="Transliteration: "]
 .Geboren im Kirchspiele Petzen im Jahr 1811 (Born in the Petzen parish in the year 1811)
 [%header,cols="1,3,3,3,3,4,4,4,4",frame="none"]
 |===
@@ -34,7 +36,7 @@ image::petzen-band2-img115.jpg[title="Louise Dorothee Weiland 1811, pp. 224-225(
 |Dorothee Deerbergs n. 6 Dorothee Lenore Kuhlmanns n. 3 alle aus Evesen
 |===
 
-[caption="Transliteration and Translation: "]
+[caption="Translation: "]
 .Geboren im Kirchspiele Petzen im Jahr 1811 (Born in the Petzen parish in the year 1811)
 [%header,cols="1,3,3,3,3,4,4,4,4",frame="none"]
 |===
