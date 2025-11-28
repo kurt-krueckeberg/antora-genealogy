@@ -4,7 +4,7 @@
 
 *Under Development*
 
-*TODO: Combine this page with 
+*TODO:* Combine this page with Family Church Records for the Parents.
 
 [cols="1,2,3,3,3,2,1,2,3a,4,2",options="header"]
 |===
