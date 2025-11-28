@@ -53,6 +53,5 @@ image::petzen-band2-img190-405.jpg[title="Confirmati Dominica Quasimodogeniti 17
 [bibliography]
 == Citations
 
-[[PET-C-1789a]]
 * [[[PET-C-1789a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/e8f6dc75b2/ : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 190 of 357
 

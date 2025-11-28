@@ -49,6 +49,5 @@ Jobst Heinrich Hofmeier aus(from) Evesen
 [bibliography]
 == Citations
 
-[[PET-C-1764a]]
 * [[[PET-C-1764a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/62093969d6/: 30 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 313 of 322
 

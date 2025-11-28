@@ -18,7 +18,6 @@ image::LandPatent-Bleeke-Carl-Friedrich-born-1794.jpg[align=left,title="C.F. Ble
 [bibliography]
 == References
 
-[[patent23247]]
 * [[[patent23247]]] General Land Office Records, U.S. Department of the Interior, Bureau of Land Management, searchable database with PDFs (link:https://glorecords.blm.gov/details/patent/default.aspx?accession=IN3630++__++.160&docClass=STA&sid=txmd0a1c.q1j[https://glorecords.blm.gov/details/patent/default.aspx?accession=IN3630++__++.160&docClass=STA&sid=txmd0a1c.q1j]
 : 9 April 2025),
 path: Search Documents > State "Indiana"; Search Criteria: Township 28 North (of 2^nd^ Prime Meridian), Range 15 East, Section 21 > Accession Nr: `IN3630__.160`	

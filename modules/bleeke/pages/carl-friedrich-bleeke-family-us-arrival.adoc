@@ -18,6 +18,5 @@ is available on <<cite, FamilySearch>>. The passenger list line numbers and name
 [bibliography]
 == Citation
 
-[[cite]]
 * [[[cite]]] "New York, Passenger Lists, 1820-1920", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:QVPX-BS7F : Tue Apr 15 11:02:26 UTC 2025),
 Entry for C F Blecke, 1836. 

@@ -225,11 +225,8 @@ ____
 [bibliography]
 == References
 
-[[history-declaration-of-intention]]
 * [[[history-declaration-of-intention]]] History of the Declaration of Intention (1795-1956), U.S. Citizenship Services, URL: 
 https://www.uscis.gov/about-us/our-history/stories-from-the-archives/history-of-the-declaration-of-intention-1795-1956
-[[family-search]]
 * [[[family-search]]] link:https://www.familysearch.org/en/wiki/United_States_Naturalization_and_Citizenship[United States Naturalization and Citizenship]
-[[ownership-article]]
 * [[[ownership-article]]] Allison B. Tirres, Ownership Without Citizenship: The Creation of Noncitizen Property Rights, 19 MICH. J.
 RACE & L. 1 (2013). Available at: https://repository.law.umich.edu/mjrl/vol19/iss1/1

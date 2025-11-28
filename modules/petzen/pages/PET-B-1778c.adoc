@@ -29,5 +29,4 @@ image::petzen-band1a-img261-right.jpg[align=center,title='Sophia Eleonora Weilan
 [biliography]
 == Citations
 
-[[PET-B-1778c]]
 * [[[PET-B-1778c]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/fe8e5665ac/ : 6 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 261 of 322

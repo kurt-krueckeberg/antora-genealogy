@@ -29,10 +29,8 @@ image::LandPatentCertificate-Bleeke-JHP-23246-year-1840.jpg[align=left,title="JH
 [bibliography]
 == References
 
-[[patent23246]]
 * [[[patent23246]]] General Land Office Records, U.S. Department of the Interior, Bureau of Land Management, searchable database with PDFs (link:https://glorecords.blm.gov/details/patent/default.aspx?accession=IN3630++__++.161&docClass=STA&sid=shqewtfd.wvs[https://glorecords.blm.gov/details/patent/default.aspx?accession=IN3630++__++.161&docClass=STA&sid=shqewtfd.wvs] : 9 April 2025),
 path: Search Documents > State "Indiana"; Search Criteria: Township 28 North (of 2^nd^ Prime Meridian), Range 15 East, Section 21 > Accession Nr: `IN3630__.161`	
-[[patent23248]]
 * [[[patent23248]]] General Land Office Records, U.S. Department of the Interior, Bureau of Land Management, searchable database with PDFs.
 (link:https://glorecords.blm.gov/details/patent/default.aspx?accession=IN3630++__++.159&docClass=STA&sid=vyeovsy3.ogb[https://glorecords.blm.gov/details/patent/default.aspx?accession=IN3630++__++.159&docClass=STA&sid=vyeovsy3.ogb] : 9 April 2025),
 Search Documents > State "Indiana"; Search Criteria: Township 28 North (of 2^nd^ Prime Meridian), Range 15 East, Section 21 > Accession Nr: `IN3630__.159`	

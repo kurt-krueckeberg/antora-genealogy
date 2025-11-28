@@ -45,7 +45,6 @@ the "n" ending indicative of a female's surname.117
 [bibliography]
 == Citations
 
-[[PET-B-1783a]]
 * [[[PET-B-1783a]]] "Archion Protestant Kirchenbücher Portal", database with images, Archion (https://www.archion.de/p/e7573f3c3e/ : 8 May 2025),
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften und Konfirmierten 1641-1784, image 287 of 322, left hand page, first entry.

@@ -126,9 +126,7 @@ Certificate of Purchase. .2+^s|TO WHOM PATENTED. .2+^s|DATE OF PATENT 2+^s|When 
 [bibliography]
 == Citation
 
-[[book-cit]]
 * [[[book-cit]]] Land & Property Research in the United States, E. Wade Hone, Ancestry Publishing, Provo Utah, 1997
 
-[[image529]]
 * [[[image529]]] "United States Bureau of Land Management Tract Books, 1800-c. 1955", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:6KDS-HCDC : Mon Sep 16 11:17:18 UTC 2024),
 Entry for Carl Friedrich Krückeberg, 16 Dec 1850.

@@ -39,9 +39,6 @@ TODO: complete the steps.
 [bibliography]
 == References
 
-[[hone-book]]
 * [[[hone-book]]] Hone, E. Wade, _Land & Property Research in the United States_ (Provo Utah, Ancestry Publishing, 1997)
-[[page-110]]
 * [[[page-110]]] _Ibid_, page 110 
-[[page-111]]
 * [[[page-111]]] _Ibid_, page 111 

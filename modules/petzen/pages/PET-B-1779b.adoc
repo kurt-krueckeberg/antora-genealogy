@@ -125,7 +125,6 @@ a|&nbsp;&nbsp;&#8224; +
 [bibliography]
 == Citations
 
-[[PET-B-1779b]]
 * [[[PET-B-1779b]]] "Archion Protestant Kirchenbücher Portal", database with
 images, _Archion_ (http://www.archion.de/p/68d61bc772/: 31 October 2023),
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der
