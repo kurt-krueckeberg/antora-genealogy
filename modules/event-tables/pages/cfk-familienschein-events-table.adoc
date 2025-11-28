@@ -4,6 +4,8 @@
 
 *Under Development*
 
+*TODO: Combine this page with 
+
 [cols="1,2,3,3,3,2,1,2,3a,4,2",options="header"]
 |===
 | Event Type
@@ -14,7 +16,7 @@
 | Residence / Village
 | No.
 | Occupation
-| Sponsors / Witnesses
+| Sponsors
 | Notes
 | Record Page
 
@@ -22,14 +24,12 @@
 | 16 Nov 1834
 | Carl Friedrich Krückeberg & Luise Dorothea Weiland
 | Carl Friedrich Krückeberg
-| Luise Dorothea (née Weiland)
+| Luise Dorothea née Weiland
 | Berenbusch
 | 18
 | —
 |
 . Bride: Legitimate third child, third daughter of Friedrich Wilhelm Weiland, colonist at No. 20 in Evensen  
-. Bride’s baptism sponsors: Dorothea Deerberg (No. 6)  
-. Katharine Leonore Kuhlmann (No. 3 in Evensen)
 | Evangelical Lutheran marriage.
 | xref:derived-church-records:FS-CFK.adoc[]
 
@@ -37,7 +37,7 @@
 | 4 Feb 1835, 3 a.m.
 | Carl Heinrich Wilhelm Krückeberg
 | Carl Friedrich Krückeberg
-| Luise Dorothea (née Weiland)
+| Luise Dorothea née Weiland
 | Berenbusch
 | 18
 | —
@@ -49,7 +49,7 @@
 | 8 Feb 1835
 | Carl Heinrich Wilhelm Krückeberg
 | Carl Friedrich Krückeberg
-| Luise Dorothea (née Weiland)
+| Luise Dorothea née Weiland
 | Berenbusch
 | 18
 | —
@@ -61,7 +61,7 @@
 | 15 Apr 1849 (Quasimodogeniti Sunday)
 | Carl Heinrich Wilhelm Krückeberg
 | Carl Friedrich Krückeberg
-| Luise Dorothea (née Weiland)
+| Luise Dorothea née Weiland
 | Berenbusch
 | 18
 | —
@@ -73,7 +73,7 @@
 | 15 Oct 1837, 11 a.m.
 | Caroline Philippine Krückeberg
 | Carl Friedrich Krückeberg
-| Luise Dorothea (née Weiland)
+| Luise Dorothea née Weiland
 | Berenbusch
 | 18
 | —
@@ -85,7 +85,7 @@
 | 22 Oct 1837
 | Caroline Philippine Krückeberg
 | Carl Friedrich Krückeberg
-| Luise Dorothea (née Weiland)
+| Luise Dorothea née Weiland
 | Berenbusch
 | 18
 | —
@@ -97,7 +97,7 @@
 | 8 Sep 1840, 2 a.m.
 | Caroline Philippine Sophie Krückeberg
 | Carl Friedrich Krückeberg
-| Luise Dorothea (née Weiland)
+| Luise Dorothea née Weiland
 | Berenbusch
 | 18
 | —
@@ -109,7 +109,7 @@
 | 13 Sep 1840
 | Caroline Philippine Sophie Krückeberg
 | Carl Friedrich Krückeberg
-| Luise Dorothea (née Weiland)
+| Luise Dorothea née Weiland
 | Berenbusch
 | 18
 | —
@@ -121,7 +121,7 @@
 | 6 Sep 1843, 9 p.m.
 | Wilhelmine Christine Krückeberg
 | Carl Friedrich Krückeberg
-| Luise Dorothea (née Weiland)
+| Luise Dorothea née Weiland
 | Berenbusch
 | 18
 | —
@@ -133,7 +133,7 @@
 | 14 Sep 1843
 | Wilhelmine Christine Krückeberg
 | Carl Friedrich Krückeberg
-| Luise Dorothea (née Weiland)
+| Luise Dorothea née Weiland
 | Berenbusch
 | 18
 | —
@@ -145,7 +145,7 @@
 | 23 Jul 1846
 | Friederich Wilhelm Krückeberg
 | Carl Friedrich Krückeberg
-| Luise Dorothea (née Weiland)
+| Luise Dorothea née Weiland
 | Berenbusch
 | 18
 | —
@@ -157,7 +157,7 @@
 | 30 Jul 1846
 | Friederich Wilhelm Krückeberg
 | Carl Friedrich Krückeberg
-| Luise Dorothea (née Weiland)
+| Luise Dorothea née Weiland
 | Berenbusch
 | 18
 | —
@@ -169,7 +169,7 @@
 | 6 Feb 1850, 6 a.m.
 | Ernst Heinrich Krückeberg
 | Carl Friedrich Krückeberg
-| Luise Dorothea (née Weiland)
+| Luise Dorothea née Weiland
 | Berenbusch
 | 18
 | —
@@ -181,7 +181,7 @@
 | 13 Feb 1850
 | Ernst Heinrich Krückeberg
 | Carl Friedrich Krückeberg
-| Luise Dorothea (née Weiland)
+| Luise Dorothea née Weiland
 | Berenbusch
 | 18
 | —
