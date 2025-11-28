@@ -1,4 +1,4 @@
-= Petzen Event Table
+= Krückeberg Petzen Event Table
 :page-role: very-wide
 :sectnums!:
 
