@@ -1,7 +1,7 @@
 = Family Record of Emigrant Carl Friedrich Krückeberg
 :page-role: wide
 
-image::Familienschein-des-Auswanderers.jpg[align=left,width=800,title='Familienschein des Auswanderers',link=self]
+image::Familienschein-des-Auswanderers.jpg[align=center,width=800,title='Familienschein des Auswanderers',link=self]
 
 == Transliteration and Translation
 
