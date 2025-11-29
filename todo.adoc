@@ -1,5 +1,15 @@
 = TODO
 
+== Event Tables
+
+Create event Tables by families for example the Carl Friedrich k r u e c k e b e r g family, and either before or
+after the table explain it. Explain for example how the family record of the Immigrant plus the church records
+prove that this is the family of Carl Friedrich Krückeberg. Then move on to the next family namely Carl Friedrich,
+his siblings and his parents. Do you likewise with Johann  Heinrich Krückeberg. Do also with Louise Dorothee
+Weiland's family, her siblings and her parents.
+
+Also use Carl Friedrich Wilhelm Krüceberg's Immanuel biography aa a Record Sourcebin event table.
+
 == In early Petzen church registers, Find All Remaining Baptism Records and Possible Confirmation, Marriage and Death Records
 
 Using the hand written lists of Archion.de images I have reviewed and have yet to review:
