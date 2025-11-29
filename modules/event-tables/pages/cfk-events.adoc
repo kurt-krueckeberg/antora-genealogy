@@ -2,17 +2,29 @@
 :page-role: very-wide
 :sectnums!:
 
-*TODO:*
+== Event Table for Carl Heinrich Wilhelm Krückeberg (born 1835) Immanuel Biography
 
-* Get the latest verison of this file on github.
-* Use only the Familienschein's information for this table.
-* Remove the `Record Page` column
-* The subsequent table will be the Petzen event table for a given time-range and for the future 
-Carl Friedrich Krückeberg family.
+[caption="Information from: "]
+.xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
+[cols="1,2,3,3,3,2,1,1,3a,4a",options="header"]
+|===
+| Event Type
+| Event Date
+| Name of Subject
+| Father
+| Mother
+| Residence / Village
+| No.
+| Occupation
+| Sponsors
+| Notes
+
+|===
+
 
 == Family Record of the Emigrant Carl Friedrich Krückeberg Event Table
 
-[caption="Information found in: "]
+[caption="Information from: "]
 .xref:derived-church-records:FS-CFK.adoc[]
 [cols="1,2,3,3,3,2,1,1,3a,4a",options="header"]
 |===
@@ -157,8 +169,6 @@ Confirmed on Quasimodogeniti Sunday
 |===
 
 *†* -- The *Bleeken* surname for Phlippine Leonore is in error.
-
-== Event Table for Carl Heinrich Wilhelm Krückeberg (born 1835)
 
 == Event Table of Petzen Records for Carl Friedrich Krückeberg and Louise Dorothee Weiland
 
