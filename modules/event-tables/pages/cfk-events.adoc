@@ -21,7 +21,8 @@
 
 |===
 
-== Event Table for Family Record of the Emigrant Carl Friedrich Krückeberg
+
+== Family Record of the Emigrant Carl Friedrich Krückeberg Event Table
 
 [caption="Information from: "]
 .xref:derived-church-records:FS-CFK.adoc[]
@@ -59,7 +60,22 @@
 | Anne Catherine Drinckuth
 | Evesen
 | 20
+| —
+|
+. Dorothee Deerberg n. 6 Evesen
+. Dorothee Lenore Kuhlmann n. 3 Evesen
+|* 3^rd^ child & 3^rd^ daughter
+* Father: Kolon
+
+| Confirmation
+| 8 April 1821
+| Carl Friedrich Krückeberg
+| -
+| -
+| Berenbusch
+| 14
 | - 
+| -
 |Confirmed on Quasimodogeniti Sunday 
 
 | Marriage
@@ -80,22 +96,6 @@
 | Luise Dorothea née Weiland
 | Berenbusch
 | 18
-| -
-|
-. Dorothee Deerberg n. 6 Evesen
-. Dorothee Lenore Kuhlmann n. 3 Evesen
-|* 3^rd^ child & 3^rd^ daughter
-* Father: Kolon
-
-| Confirmation
-| 8 April 1821
-| Carl Friedrich Krückeberg
-| -
-| -
-| Berenbusch
-| 14
-| —
-| —
 | —
 |
 | —
