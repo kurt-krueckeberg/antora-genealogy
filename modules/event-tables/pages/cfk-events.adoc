@@ -2,8 +2,8 @@
 :page-role: very-wide
 :sectnums!:
 
-
-[cols="1,2,3,3,3,2,1,1,3a,4a,2",options="header"]
+.TheC arl Friedrich Krückeberg (born 1807) Family
+[cols="1,2,3,3,3,2,1,1,3a,4a",options="header"]
 |===
 | Event Type
 | Event Date
