@@ -1,4 +1,4 @@
-= Carl Friedrich Krückeberg (b. 1807) Event Table
+= Carl Friedrich Krückeberg (b. 1807) Event Tables
 :page-role: very-wide
 :sectnums!:
 
@@ -10,6 +10,7 @@
 * The subsequent table will be the Petzen event table for a given time-range and for the future 
 Carl Friedrich Krückeberg family.
 
+== Family Record of the Emigrant Carl Friedrich Krückeberg Event Table
 
 [caption="Information found in: "]
 .xref:derived-church-records:FS-CFK.adoc[]
@@ -140,6 +141,12 @@ Confirmed on Quasimodogeniti Sunday
 |
 | —
 |===
+
+== Event Table for Carl Heinrich Wilhelm Krückeberg (born 1835)
+
+== Event Table of Petzen Records for Carl Friedrich Krückeberg and Louise Dorothee Weiland
+
+According to the FCarl Friedrich Krückeberg and Louise Dorothee Weiland woul
 
 [.narrow]
 == Notes on Event Interpretation
