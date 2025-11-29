@@ -10,10 +10,7 @@
 * The subsequent table will be the Petzen event table for a given time-range and for the future 
 Carl Friedrich Krückeberg family.
 
-
-[caption="Information found in: "]
-.xref:derived-church-records:FS-CFK.adoc[]
-[cols="1,2,3,3,3,2,1,1,3a,4a",options="header"]
+[cols="1,2,3,3,3,2,1,1,3a,4a,2",options="header"]
 |===
 | Event Type
 | Event Date
@@ -25,8 +22,9 @@ Carl Friedrich Krückeberg family.
 | Occupation
 | Sponsors
 | Notes
+| Record Page
 
-| Birth *STILL KEEP???*
+| Birth
 | 2 Jan. 1811
 | Louise Dorothee Weiland
 | Friedrich Wilhelm Weiland
@@ -38,6 +36,7 @@ Carl Friedrich Krückeberg family.
 * Dorothee Deerberg n. 6 Evesen
 * Dorothee Lenore Kuhlmann n. 3 Evesen
 |
+|xref:petzen:PET-B-1811a.adoc[]
 
 | Confirmation
 | 8 April 1821
@@ -49,6 +48,7 @@ Carl Friedrich Krückeberg family.
 | - 
 | -
 |Confirmed on Quasimodogeniti Sunday 
+|xref:petzen:PET-C-1821a.adoc[]
 
 | Marriage
 | 16 Nov 1834
@@ -61,6 +61,7 @@ Carl Friedrich Krückeberg family.
 |
 | 
 Bride: Legitimate third child, third daughter of Friedrich Wilhelm Weiland, colonist at No. 20 in Evensen  
+| xref:derived-church-records:FS-CFK.adoc[]
 
 | Birth
 | 4 Feb 1835, 3 a.m.
@@ -72,6 +73,7 @@ Bride: Legitimate third child, third daughter of Friedrich Wilhelm Weiland, colo
 | —
 |
 | —
+| xref:derived-church-records:FS-CFK.adoc[]
 
 | Confirmation
 | 15 Apr 1849
@@ -84,6 +86,7 @@ Bride: Legitimate third child, third daughter of Friedrich Wilhelm Weiland, colo
 |
 |
 Confirmed on Quasimodogeniti Sunday 
+| xref:derived-church-records:FS-CFK.adoc[]
 
 | Birth
 | 15 Oct 1837, 11 a.m.
@@ -95,6 +98,7 @@ Confirmed on Quasimodogeniti Sunday
 | —
 |
 | —
+| xref:derived-church-records:FS-CFK.adoc[]
 
 | Birth
 | 8 Sep 1840, 2 a.m.
@@ -106,6 +110,7 @@ Confirmed on Quasimodogeniti Sunday
 | —
 |
 | —
+| xref:derived-church-records:FS-CFK.adoc[]
 
 | Birth
 | 6 Sep 1843, 9 p.m.
@@ -117,6 +122,7 @@ Confirmed on Quasimodogeniti Sunday
 | —
 |
 | —
+| xref:derived-church-records:FS-CFK.adoc[]
 
 | Birth
 | 23 Jul 1846
@@ -128,6 +134,7 @@ Confirmed on Quasimodogeniti Sunday
 | —
 |
 | —
+| xref:derived-church-records:FS-CFK.adoc[]
 
 | Birth
 | 6 Feb 1850, 6 a.m.
@@ -139,6 +146,7 @@ Confirmed on Quasimodogeniti Sunday
 | —
 |
 | —
+| xref:derived-church-records:FS-CFK.adoc[]
 |===
 
 [.narrow]
