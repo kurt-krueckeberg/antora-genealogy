@@ -339,7 +339,7 @@
 *†* -- The *Bleeken* surname for Phlippine Leonore is in error.
 
 == Combined Table
-[cols="1,2,3,3,3,2,1,2,3a,4a,3",options="header"]
+[cols="1,2,3,3,3,2,1,2,3a,4a,3a",options="header"]
 |===
 | Event Type
 | Event Date
