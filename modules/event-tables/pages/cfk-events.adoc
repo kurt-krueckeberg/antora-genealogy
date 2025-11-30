@@ -1,6 +1,53 @@
 = Carl Friedrich Krückeberg (b. 1807) Event Tables
 :page-role: very-wide
 
+== Introduction
+
+The xref:derived-church-records:FS-CFK.adoc[] tells us that his parents lived in
+"Beerenbusch" (more typically spelled *Berenbsuch*), where they were tenants. His mother was from
+Evensen [sic] (Evesen), which is just south of Berenbusch. Evesen and Beerenbusch are all the
+residences of his baptismal sponsors.
+
+We know the closest Lutheran Church closest to Evesen and Berenbusch was Petzen (See: footnote myersgaz.com).
+
+Furthermore *Petzen* is mentioned at the bottom of the  xref:derived-church-records:FS-CFK.adoc[]:
+
+[quote]
+____ 
+Petzen d. 23sten September 1850
+Pede vacanti
+der vikarirende Prediger
+
+Fürstentum Schaumburg Lippe.
+
+L. Schwerdtmann von Bergkirchen.
+____
+
+which means:
+
+[quote]
+____
+Petzen, the 23rd of September 1850  
+During a pastoral vacancy  
+the acting preacher  
+
+Principality of Schaumburg-Lippe  
+
+L. Schwerdtmann of Bergkirchen
+(signatory)
+____
+
+The acting pastor for Petzen was L. Schwerdtmann of Bergkirchen. Petzen was the parish
+were the Krückeberg were members, where their original birth, baptism, confirmation, marriage
+and death and burial records are found.
+
+But we don't as of November 30, 2025, have acces online to Petzen church records after 1827.
+So we turn to the records derived from the original records, which are:
+
+. xref:derived-church-records:FS-CFK.adoc[]
+. xref:immanuel:DEC-BIO-Krueckeberg-01.adoc[]
+. xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
+
 == Derived Records Event Table for Family of Carl Friedrich Krückeberg
 
 The event table is based on two derived records:
