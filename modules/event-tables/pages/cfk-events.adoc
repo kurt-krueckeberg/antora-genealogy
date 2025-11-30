@@ -5,13 +5,15 @@
 == Introduction
 
 The xref:derived-church-records:FS-CFK.adoc[] tells us that his parents lived in
-"Beerenbusch" (more typically spelled *Berenbsuch*), where they were tenants. His mother was from
-Evensen [sic] (Evesen), which is just south of Berenbusch. Evesen and Beerenbusch are all the
-residences of his baptismal sponsors.
+*Beerenbusch* [sic], which is commonly typically spelled *Berenbsuch*. His father's status
+was *Einlieger* implyiung they lived as tenants at this address. His mother was from
+Evensen [sic] (Evesen), which is just south of Berenbusch. Evesen and Beerenbusch are also the
+villages of his baptismal sponsors.
 
 We know the closest Lutheran Church closest to Evesen and Berenbusch was Petzen (See: footnote myersgaz.com).
 
-Furthermore *Petzen* is mentioned at the bottom of the  xref:derived-church-records:FS-CFK.adoc[]:
+Furthermore *Petzen* is mentioned at the bottom of the  xref:derived-church-records:FS-CFK.adoc[] as being the 
+family's parish:
 
 [quote]
 ____ 
@@ -24,7 +26,7 @@ Fürstentum Schaumburg Lippe.
 L. Schwerdtmann von Bergkirchen.
 ____
 
-which means:
+This translates as:
 
 [quote]
 ____
@@ -42,15 +44,17 @@ The acting pastor for Petzen was L. Schwerdtmann of Bergkirchen. Petzen was the 
 were the Krückeberg were members, where their original birth, baptism, confirmation, marriage
 and death and burial records are found.
 
-But we don't as of November 30, 2025, have acces online to Petzen church records after 1827.
-So we turn to the records derived from the original records, which are:
+But as of November 30, 2025, we don't have access online to Petzen church records after 1827.
+The Petzen church register after 18237 is only available at the Lower Saxony State Archive in
+Bückeburg. So we must turn to the record derived from the original Petzen church records: 
+xref:derived-church-records:FS-CFK.adoc[], and two biographies of the founders of Immanuel Lutheran,
+Decatur, Indiana:
 
-. xref:derived-church-records:FS-CFK.adoc[]
 . xref:immanuel:DEC-BIO-Krueckeberg-01.adoc[]
 . xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
 
 The xref:derived-church-records:FS-CFK.adoc[] begins: Laut Angabe des hiesigen Kirchenbuchs ("according to the
-local church records". The xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[] does not note its source of
+local church records". The xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[] does not explicitly note its source of
 information.
 
 == Derived Records Event Table for Family of Carl Friedrich Krückeberg
