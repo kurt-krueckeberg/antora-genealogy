@@ -677,7 +677,7 @@
 | —
 |
 . xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
-
+ 
 | Birth
 | 2 Jul 1862
 | Sophie Louise Krückeberg
@@ -690,58 +690,59 @@
 | —
 |
 . xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
-
-| Baptism
-| 14 Jul 1862
-| Sophie Louise Krückeberg
-| Carl Heinrich Wilhelm Krückeberg
-| Caroline Wilhelmine (née Kleinschmidt)
-| —
-| —
-| —
-| Baptism
-| 14 Jul 1862
-| Sophie Louise Krückeberg
-| Carl Heinrich Wilhelm Krückeberg
-| Caroline Wilhelmine (née Kleinschmidt)
-| —
-| —
-| —
-|
-. Philippine Schamerloh
-. Sophie Buuck
-| —
-|
-. xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
-
-| Birth
-| 10 Jul 1864
-| Louise Wilhelmine Sophie Krückeberg
-| Carl Heinrich Wilhelm Krückeberg
-| Caroline Wilhelmine (née Kleinschmidt)
-| —
-| —
-| —
-|
-| —
-|
-. xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
-
-| Baptism
-| 17 Jul 1864
-| Louise Wilhelmine Sophie Krückeberg
-| Carl Heinrich Wilhelm Krückeberg
-| Caroline Wilhelmine (née Kleinschmidt)
-| —
-| —
-| —
-|
-. Caroline Schamerloh
-. Emma Belz
-| —
-|
-. xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 |===
+// 
+// | Baptism
+// | 14 Jul 1862
+// | Sophie Louise Krückeberg
+// | Carl Heinrich Wilhelm Krückeberg
+// | Caroline Wilhelmine (née Kleinschmidt)
+// | —
+// | —
+// | —
+// | Baptism
+// | 14 Jul 1862
+// | Sophie Louise Krückeberg
+// | Carl Heinrich Wilhelm Krückeberg
+// | Caroline Wilhelmine (née Kleinschmidt)
+// | —
+// | —
+// | —
+// |
+// . Philippine Schamerloh
+// . Sophie Buuck
+// | —
+// |
+// . xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
+// 
+// | Birth
+// | 10 Jul 1864
+// | Louise Wilhelmine Sophie Krückeberg
+// | Carl Heinrich Wilhelm Krückeberg
+// | Caroline Wilhelmine (née Kleinschmidt)
+// | —
+// | —
+// | —
+// |
+// | —
+// |
+// . xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
+// 
+// | Baptism
+// | 17 Jul 1864
+// | Louise Wilhelmine Sophie Krückeberg
+// | Carl Heinrich Wilhelm Krückeberg
+// | Caroline Wilhelmine (née Kleinschmidt)
+// | —
+// | —
+// | —
+// |
+// . Caroline Schamerloh
+// . Emma Belz
+// | —
+// |
+// . xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
+// |===
 
 == Event Table of Petzen Records for Carl Friedrich Krückeberg and Louise Dorothee Weiland
 
