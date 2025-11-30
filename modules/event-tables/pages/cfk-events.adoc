@@ -7,6 +7,7 @@
 [caption="Information from: "]
 .xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 [cols="1,2,3,3,3,2,1,2,3a,4a",options="header"]
+[cols="1,2,3,3,3,2,1,2,3a,4a",options="header"]
 |===
 | Event Type
 | Event Date
@@ -28,7 +29,7 @@
 | —
 | —
 |
-| Born in Berenbusch, County of Bückeburg, Principality Schaumburg-Lippe.
+| Born in County of Bückeburg, Principality Schaumburg-Lippe.
 
 | Baptism
 | Feb 1835
@@ -42,7 +43,7 @@
 | Baptized the same month.
 
 | Confirmation
-| 1 April 1849 
+| 1 Apr 1849 (Palm Sunday)
 | Carl Heinrich Wilhelm Krückeberg
 | Carl Gottlieb Krückeberg
 | Dorathea (née Weiland)
@@ -50,8 +51,7 @@
 | —
 | —
 |
-| * Confirmed by Pastor Schwertmann on
-Palm Sunday 1849
+| Confirmed by Pastor Schwertmann.
 
 | Emigration Departure
 | 1 Oct 1850
@@ -84,8 +84,40 @@ Palm Sunday 1849
 | —
 | —
 |
-| Bride: Caroline Wilhelmine Kleinschmidt, daughter of Christian Kleinschmidt and Sophie.  
-Born 13 Sep 1834 in Großenheerse; baptized in Buchholz; confirmed in Preble Twp., Adams Co., Indiana.
+| Marriage to Caroline Wilhelmine Kleinschmidt.
+
+| Birth
+| 13 Sep 1834
+| Caroline Wilhelmine Kleinschmidt
+| Christian Kleinschmidt
+| Sophie
+| Großenheerse
+| —
+| —
+|
+| Born in Großenheerse, District Minden, Kingdom of Prussia.
+
+| Baptism
+| 1834
+| Caroline Wilhelmine Kleinschmidt
+| Christian Kleinschmidt
+| Sophie
+| Buchholz
+| —
+| —
+|
+| Baptized in the Protestant Church of Buchholz by Pastor Köhn.
+
+| Confirmation
+| Palm Sunday (year not given)
+| Caroline Wilhelmine Kleinschmidt
+| Christian Kleinschmidt
+| Sophie
+| Preble Township, Adams County, Indiana
+| —
+| —
+|
+| Confirmed by Pastor Jäbker in Preble Township, Adams County, Indiana; year not given in biography.
 
 | Birth
 | 30 Sep 1860
@@ -96,7 +128,7 @@ Born 13 Sep 1834 in Großenheerse; baptized in Buchholz; confirmed in Preble Twp
 | —
 | —
 |
-| 
+| Born to the marriage of C.H.W. Krückeberg and C.W. Kleinschmidt.
 
 | Baptism
 | 6 Oct 1860
@@ -107,7 +139,7 @@ Born 13 Sep 1834 in Großenheerse; baptized in Buchholz; confirmed in Preble Twp
 | —
 | —
 |
-. Wilhelm Schamerloh  
+. Wilhelm Schamerloh
 . Christian Kleinschmidt
 | —
 
@@ -120,7 +152,7 @@ Born 13 Sep 1834 in Großenheerse; baptized in Buchholz; confirmed in Preble Twp
 | —
 | —
 |
-| Baptized 14 Jul 1862.
+| —
 
 | Baptism
 | 14 Jul 1862
@@ -131,7 +163,7 @@ Born 13 Sep 1834 in Großenheerse; baptized in Buchholz; confirmed in Preble Twp
 | —
 | —
 |
-. Philippine Schamerloh  
+. Philippine Schamerloh
 . Sophie Buuck
 | —
 
@@ -144,7 +176,7 @@ Born 13 Sep 1834 in Großenheerse; baptized in Buchholz; confirmed in Preble Twp
 | —
 | —
 |
-| Baptized 17 Jul 1864.
+| —
 
 | Baptism
 | 17 Jul 1864
@@ -155,7 +187,7 @@ Born 13 Sep 1834 in Großenheerse; baptized in Buchholz; confirmed in Preble Twp
 | —
 | —
 |
-. Caroline Schamerloh  
+. Caroline Schamerloh
 . Emma Belz
 | —
 |===
