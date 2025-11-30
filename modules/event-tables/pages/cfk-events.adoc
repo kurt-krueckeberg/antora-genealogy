@@ -5,7 +5,7 @@
 == Event Table for Carl Heinrich Wilhelm Krückeberg (born 1835) Immanuel Biography
 
 [caption="Information from: "]
-.xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
+.xref:immanuel:ROOT:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 [cols="1,2,3,3,3,2,1,2,3a,4a",options="header"]
 |===
 | Event Type
@@ -367,7 +367,9 @@
 | —
 |
 | Born in the County of Bückeburg, Principality Schaumburg-Lippe.
-| xref:derived-church-records:FS-CFK.adoc[]; xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
+|
+* xref:derived-church-records:FS-CFK.adoc[]
+* xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
 | Baptism
 | Feb 1835
@@ -379,7 +381,7 @@
 | —
 |
 | Baptized the same month.
-| xref:derived-church-records:FS-CFK.adoc[]; xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
+| xref:derived-church-records:FS-CFK.adoc[]; xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
 
 // =========================================================
@@ -538,7 +540,7 @@
 | —
 |
 | Born in Großenheerse, District Minden, Kingdom of Prussia.
-| xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
+| xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
 | Baptism
 | 1834
@@ -550,7 +552,7 @@
 | —
 |
 | Baptized by Pastor Köhn.
-| xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
+| xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
 // Her confirmation, placed using year 1848 (undocumented)
 
@@ -564,7 +566,7 @@
 | —
 |
 | Palm Sunday 1848 (undocumented year in biography).
-| xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
+| xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
 // Confirmation of CHWK
 
@@ -578,7 +580,7 @@
 | —
 |
 | Confirmed by Pastor Schwertmann.
-| xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
+| xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
 // Emigration
 
@@ -592,7 +594,7 @@
 | —
 |
 | Emigrated with parents.
-| xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
+| xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
 | Emigration Arrival
 | 26 Nov 1850
@@ -604,7 +606,7 @@
 | —
 |
 | Arrived in Fort Wayne.
-| xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
+| xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
 // Marriage of CHWK
 
@@ -618,7 +620,7 @@
 | —
 |
 | Marriage recorded at Immanuel.
-| xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
+| xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
 // Children of CHWK
 
@@ -632,7 +634,7 @@
 | —
 |
 | —
-| xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
+| xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
 | Baptism
 | 6 Oct 1860
@@ -646,7 +648,7 @@
 . Wilhelm Schamerloh
 . Christian Kleinschmidt
 | —
-| xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
+| xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
 | Birth
 | 2 Jul 1862
@@ -658,7 +660,7 @@
 | —
 |
 | —
-| xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
+| xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
 | Baptism
 | 14 Jul 1862
@@ -672,7 +674,7 @@
 . Philippine Schamerloh
 . Sophie Buuck
 | —
-| xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
+| xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
 | Birth
 | 10 Jul 1864
@@ -684,7 +686,7 @@
 | —
 |
 | —
-| xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
+| xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
 | Baptism
 | 17 Jul 1864
@@ -698,7 +700,7 @@
 . Caroline Schamerloh
 . Emma Belz
 | —
-| xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
+| xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 |===
 
 == Event Table of Petzen Records for Carl Friedrich Krückeberg and Louise Dorothee Weiland
