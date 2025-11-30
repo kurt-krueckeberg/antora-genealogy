@@ -431,7 +431,7 @@ xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 | Record Page(s)
 
 | Birth
-| 12 May 1807
+| 21 May 1807
 | Carl Friedrich Krückeberg
 | Carl Friedrich Gottlieb Krückeberg
 | Philippine Lenore née Bleeken *†*
@@ -478,9 +478,6 @@ Mother from no. 11 Evesen
 | - 
 |Confirmed: Quasimodogeniti Sunday, 1821 
 |xref:petzen:PET-C-1821a.adoc[]
-
-| Birth
-|
 |===
 
 *†* -- The *Bleeken* surname for Phlippine Leonore is in error.
