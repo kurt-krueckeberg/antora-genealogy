@@ -705,36 +705,35 @@
 | —
 |
 . xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
+
+| Birth
+| 10 Jul 1864
+| Louise Wilhelmine Sophie Krückeberg
+| Carl Heinrich Wilhelm Krückeberg
+| Caroline Wilhelmine (née Kleinschmidt)
+| —
+| —
+| —
+|
+| —
+|
+. xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
+
+| Baptism
+| 17 Jul 1864
+| Louise Wilhelmine Sophie Krückeberg
+| Carl Heinrich Wilhelm Krückeberg
+| Caroline Wilhelmine (née Kleinschmidt)
+| —
+| —
+| —
+|
+. Caroline Schamerloh
+. Emma Belz
+| —
+|
+. xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 |===
-// 
-// | Birth
-// | 10 Jul 1864
-// | Louise Wilhelmine Sophie Krückeberg
-// | Carl Heinrich Wilhelm Krückeberg
-// | Caroline Wilhelmine (née Kleinschmidt)
-// | —
-// | —
-// | —
-// |
-// | —
-// |
-// . xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
-// 
-// | Baptism
-// | 17 Jul 1864
-// | Louise Wilhelmine Sophie Krückeberg
-// | Carl Heinrich Wilhelm Krückeberg
-// | Caroline Wilhelmine (née Kleinschmidt)
-// | —
-// | —
-// | —
-// |
-// . Caroline Schamerloh
-// . Emma Belz
-// | —
-// |
-// . xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
-// |===
 
 == Event Table of Petzen Records for Carl Friedrich Krückeberg and Louise Dorothee Weiland
 
