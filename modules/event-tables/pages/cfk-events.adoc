@@ -61,7 +61,7 @@
 | Evesen
 | 20
 | —
-|
+| —
 . Dorothee Deerberg n. 6 Evesen
 . Dorothee Lenore Kuhlmann n. 3 Evesen
 |* 3^rd^ child & 3^rd^ daughter
@@ -81,13 +81,13 @@
 | Marriage
 | 16 Nov 1834
 | Carl Friedrich Krückeberg & Luise Dorothea Weiland
-| 
-| 
+| —
+| —
 | Berenbusch
 | 18
 | —
-|
-| 
+| —
+| —
 
 | Birth
 | 4 Feb 1835
@@ -97,7 +97,7 @@
 | Berenbusch
 | 18
 | —
-|
+| —
 | —
 
 | Confirmation
@@ -108,9 +108,8 @@
 | Berenbusch
 | 18
 | —
-|
-|
-Confirmed on Quasimodogeniti Sunday 
+| —
+| Confirmed on Quasimodogeniti Sunday 
 
 | Birth
 | 15 Oct 1837
@@ -120,7 +119,7 @@ Confirmed on Quasimodogeniti Sunday
 | Berenbusch
 | 18
 | —
-|
+| —
 | —
 
 | Birth
@@ -131,7 +130,7 @@ Confirmed on Quasimodogeniti Sunday
 | Berenbusch
 | 18
 | —
-|
+| —
 | —
 
 | Birth
@@ -142,7 +141,7 @@ Confirmed on Quasimodogeniti Sunday
 | Berenbusch
 | 18
 | —
-|
+| —
 | —
 
 | Birth
@@ -153,7 +152,7 @@ Confirmed on Quasimodogeniti Sunday
 | Berenbusch
 | 18
 | —
-|
+| —
 | —
 
 | Birth
@@ -164,7 +163,7 @@ Confirmed on Quasimodogeniti Sunday
 | Berenbusch
 | 18
 | —
-|
+| —
 | —
 |===
 
