@@ -339,13 +339,14 @@
 
 == Event Table for the Family of Carl Friedrich Krückeberg
 
-This chronologically ordered table is base on two derived records:
+This chronologically ordered table is based on two derived records:
 
 . xref:derived-church-records:FS-CFK.adoc[]
 . xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
-The first record notes that is "Laut Angabe des hiesigen Kirchenbuchs", "according to the local church records".
-The second record does not note its source of information.`
+The xref:derived-church-records:FS-CFK.adoc[] begins: Laut Angabe des hiesigen Kirchenbuchs ("according to the
+local church records"). The xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[] does not note its source of
+information.
 
 [cols="1,2,3,3,3,2,1,2,3a,4a,3a",options="header"]
 |===
@@ -409,7 +410,7 @@ The second record does not note its source of information.`
 |
 | Marriage from Familienschein.
 |
-. xref:derived-church-records:FS-CFK.adoc[]
+xref:derived-church-records:FS-CFK.adoc[]
 
 | Birth
 | 15 Oct 1837, 11 a.m.
@@ -422,7 +423,7 @@ The second record does not note its source of information.`
 |
 | —
 |
-. xref:derived-church-records:FS-CFK.adoc[]
+xref:derived-church-records:FS-CFK.adoc[]
 
 | Baptism
 | 22 Oct 1837
@@ -435,7 +436,7 @@ The second record does not note its source of information.`
 |
 | Baptized in the name of the Triune God.
 |
-. xref:derived-church-records:FS-CFK.adoc[]
+xref:derived-church-records:FS-CFK.adoc[]
 
 | Birth
 | 8 Sep 1840, 2 a.m.
@@ -448,7 +449,7 @@ The second record does not note its source of information.`
 |
 | —
 |
-. xref:derived-church-records:FS-CFK.adoc[]
+xref:derived-church-records:FS-CFK.adoc[]
 
 | Baptism
 | 13 Sep 1840
@@ -461,7 +462,7 @@ The second record does not note its source of information.`
 |
 | Baptized in the name of the Triune God.
 |
-. xref:derived-church-records:FS-CFK.adoc[]
+xref:derived-church-records:FS-CFK.adoc[]
 
 | Birth
 | 6 Sep 1843, 9 p.m.
@@ -474,7 +475,7 @@ The second record does not note its source of information.`
 |
 | —
 |
-. xref:derived-church-records:FS-CFK.adoc[]
+xref:derived-church-records:FS-CFK.adoc[]
 
 | Baptism
 | 14 Sep 1843
@@ -487,7 +488,7 @@ The second record does not note its source of information.`
 |
 | Baptized in the name of the Triune God.
 |
-. xref:derived-church-records:FS-CFK.adoc[]
+xref:derived-church-records:FS-CFK.adoc[]
 
 | Birth
 | 23 Jul 1846
@@ -500,7 +501,7 @@ The second record does not note its source of information.`
 |
 | —
 |
-. xref:derived-church-records:FS-CFK.adoc[]
+xref:derived-church-records:FS-CFK.adoc[]
 
 | Baptism
 | 30 Jul 1846
@@ -513,7 +514,7 @@ The second record does not note its source of information.`
 |
 | Baptized in the name of the Triune God.
 |
-. xref:derived-church-records:FS-CFK.adoc[]
+xref:derived-church-records:FS-CFK.adoc[]
 
 | Birth
 | 6 Feb 1850, 6 a.m.
@@ -526,7 +527,7 @@ The second record does not note its source of information.`
 |
 | —
 |
-. xref:derived-church-records:FS-CFK.adoc[]
+xref:derived-church-records:FS-CFK.adoc[]
 
 | Baptism
 | 13 Feb 1850
@@ -539,7 +540,7 @@ The second record does not note its source of information.`
 |
 | Baptized in the name of the Triune God.
 |
-. xref:derived-church-records:FS-CFK.adoc[]
+xref:derived-church-records:FS-CFK.adoc[]
 
 
 // =========================================================
@@ -557,7 +558,7 @@ The second record does not note its source of information.`
 |
 | Born in Großenheerse, District Minden, Kingdom of Prussia.
 |
-. xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
+xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
 | Baptism
 | 1834
@@ -570,7 +571,7 @@ The second record does not note its source of information.`
 |
 | Baptized by Pastor Köhn.
 |
-. xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
+xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
 | Confirmation
 | 16 Apr 1848 +
@@ -584,7 +585,7 @@ The second record does not note its source of information.`
 |
 | Palm Sunday 1848 (undocumented but chronologically consistent).
 |
-. xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
+xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
 
 // =========================================================
@@ -602,7 +603,7 @@ The second record does not note its source of information.`
 |
 | Confirmed by Pastor Schwertmann.
 |
-. xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
+xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
 
 // =========================================================
@@ -620,7 +621,7 @@ The second record does not note its source of information.`
 |
 | Emigrated with parents.
 |
-. xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
+xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
 | Emigration Arrival
 | 26 Nov 1850
@@ -633,7 +634,7 @@ The second record does not note its source of information.`
 |
 | Arrived in Fort Wayne.
 |
-. xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
+xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
 
 // =========================================================
@@ -651,7 +652,7 @@ The second record does not note its source of information.`
 |
 | Marriage recorded at Immanuel.
 |
-. xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
+xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
 
 // =========================================================
@@ -669,7 +670,7 @@ The second record does not note its source of information.`
 |
 | —
 |
-. xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
+xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
 | Baptism
 | 6 Oct 1860
@@ -680,11 +681,11 @@ The second record does not note its source of information.`
 | —
 | —
 |
-. Wilhelm Schamerloh
-. Christian Kleinschmidt
+Wilhelm Schamerloh
+Christian Kleinschmidt
 | —
 |
-. xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
+xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
  
 | Birth
 | 2 Jul 1862
@@ -697,7 +698,7 @@ The second record does not note its source of information.`
 |
 | —
 |
-. xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
+xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
 | Baptism
 | 14 Jul 1862
@@ -708,11 +709,11 @@ The second record does not note its source of information.`
 | —
 | —
 |
-. Philippine Schamerloh
-. Sophie Buuck
+Philippine Schamerloh
+Sophie Buuck
 | —
 |
-. xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
+xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
 | Birth
 | 10 Jul 1864
@@ -725,7 +726,7 @@ The second record does not note its source of information.`
 |
 | —
 |
-. xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
+xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
 | Baptism
 | 17 Jul 1864
@@ -736,11 +737,11 @@ The second record does not note its source of information.`
 | —
 | —
 |
-. Caroline Schamerloh
-. Emma Belz
+Caroline Schamerloh
+Emma Belz
 | —
 |
-. xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
+xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 |===
 
 *†* -- The *Bleeken* surname for Phlippine Leonore is in error.
