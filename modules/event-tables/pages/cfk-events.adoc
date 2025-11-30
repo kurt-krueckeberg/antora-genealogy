@@ -370,7 +370,7 @@
 | Born in the County of Bückeburg, Principality Schaumburg-Lippe.
 |
 . xref:derived-church-records:FS-CFK.adoc[]
-. xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
+. xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
 | Baptism
 | Feb 1835
@@ -384,11 +384,11 @@
 | Baptized the same month.
 |
 . xref:derived-church-records:FS-CFK.adoc[]
-. xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
+. xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
 
 // =========================================================
-// EVENTS FOR CARL FRIEDRICH KRÜCKEBERG FAMILY (FS-CFK)
+// CARL FRIEDRICH KRÜCKEBERG FAMILY (FS-CFK)
 // =========================================================
 
 | Marriage
@@ -536,7 +536,7 @@
 
 
 // =========================================================
-// EVENTS FROM IMMANUEL BIO FOR CHWK, WIFE, CHILDREN
+// CAROLINE WILHELMINE KLEINSCHMIDT (IMMANUEL)
 // =========================================================
 
 | Birth
@@ -550,7 +550,7 @@
 |
 | Born in Großenheerse, District Minden, Kingdom of Prussia.
 |
-. xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
+. xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
 | Baptism
 | 1834
@@ -563,7 +563,7 @@
 |
 | Baptized by Pastor Köhn.
 |
-. xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
+. xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
 | Confirmation
 | 16 Apr 1848
@@ -574,9 +574,14 @@
 | —
 | —
 |
-| Palm Sunday 1848 (undocumented year in the biography).
+| Palm Sunday 1848 (undocumented but chronologically consistent).
 |
-. xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
+. xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
+
+
+// =========================================================
+// CONFIRMATION OF CHWK (IMMANUEL)
+// =========================================================
 
 | Confirmation
 | 1 Apr 1849
@@ -589,7 +594,12 @@
 |
 | Confirmed by Pastor Schwertmann.
 |
-. xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
+. xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
+
+
+// =========================================================
+// EMIGRATION OF CHWK (IMMANUEL)
+// =========================================================
 
 | Emigration Departure
 | 1 Oct 1850
@@ -602,7 +612,7 @@
 |
 | Emigrated with parents.
 |
-. xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
+. xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
 | Emigration Arrival
 | 26 Nov 1850
@@ -615,7 +625,12 @@
 |
 | Arrived in Fort Wayne.
 |
-. xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
+. xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
+
+
+// =========================================================
+// MARRIAGE OF CHWK (IMMANUEL)
+// =========================================================
 
 | Marriage
 | 28 Jan 1860
@@ -628,7 +643,12 @@
 |
 | Marriage recorded at Immanuel.
 |
-. xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
+. xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
+
+
+// =========================================================
+// CHILDREN OF CHWK (IMMANUEL)
+// =========================================================
 
 | Birth
 | 30 Sep 1860
@@ -641,7 +661,7 @@
 |
 | —
 |
-. xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
+. xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
 | Baptism
 | 6 Oct 1860
@@ -656,7 +676,7 @@
 . Christian Kleinschmidt
 | —
 |
-. xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
+. xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
 | Birth
 | 2 Jul 1862
@@ -669,8 +689,16 @@
 |
 | —
 |
-. xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
+. xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
+| Baptism
+| 14 Jul 1862
+| Sophie Louise Krückeberg
+| Carl Heinrich Wilhelm Krückeberg
+| Caroline Wilhelmine (née Kleinschmidt)
+| —
+| —
+| —
 | Baptism
 | 14 Jul 1862
 | Sophie Louise Krückeberg
@@ -684,7 +712,7 @@
 . Sophie Buuck
 | —
 |
-. xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
+. xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
 | Birth
 | 10 Jul 1864
@@ -697,7 +725,7 @@
 |
 | —
 |
-. xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
+. xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
 | Baptism
 | 17 Jul 1864
@@ -712,9 +740,8 @@
 . Emma Belz
 | —
 |
-. xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
+. xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 |===
-
 
 == Event Table of Petzen Records for Carl Friedrich Krückeberg and Louise Dorothee Weiland
 
