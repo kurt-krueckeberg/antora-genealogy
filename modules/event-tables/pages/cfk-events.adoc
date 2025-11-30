@@ -11,10 +11,8 @@ Evensen [sic] (Evesen), which is just south of Berenbusch. Evesen and Beerenbusc
 villages of his baptismal sponsors.
 
 We know the closest Lutheran Church closest to Evesen and Berenbusch was Petzen
-(See:https://www.meyersgaz.org/place/10466052).
-
-Furthermore *Petzen* is mentioned at the bottom of the  xref:derived-church-records:FS-CFK.adoc[] as being the 
-family's parish:
+(See:https://www.meyersgaz.org/place/10466052). Furthermore *Petzen* is mentioned at the bottom of the
+xref:derived-church-records:FS-CFK.adoc[] as being the family's parish:
 
 [quote]
 ____ 
@@ -46,7 +44,7 @@ were the Krückeberg were members, where their original birth, baptism, confirma
 and death and burial records are found.
 
 But as of November 30, 2025, we don't have access online to Petzen church records after 1827.
-The Petzen church register after 18237 is only available at the Lower Saxony State Archive in
+The Petzen church register after 1827 is only available at the Lower Saxony State Archive in
 Bückeburg. So we must turn to the record derived from the original Petzen church records: 
 xref:derived-church-records:FS-CFK.adoc[], and two biographies of the founders of Immanuel Lutheran,
 Decatur, Indiana:
