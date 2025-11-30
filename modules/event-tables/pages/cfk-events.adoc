@@ -448,6 +448,25 @@ Mother from no. 11 Evesen
 1^st^ son
 |xref:petzen:PET-B-1807a.adoc[]
 
+| Baptism 
+| 24 May 1807
+| Carl Friedrich Krückeberg 
+| Carl Friedrich Gottlieb Krückeberg
+| Philippine Lenore née Bleeken *†*
+| Berenbusch 
+| 14
+| tailor
+|
+. Hans Heinrich Wilharm, n. 11 Evesen
+. Johann Heinrich Deerberg, n. 11 Evesen
+. Jobst Heinrich Krückeberg, Bärenbusch
+|
+Father is *Einlieger* 
+
+Mother from no. 11 Evesen
+|xref:petzen:PET-B-1807a.adoc[]
+
+
 | Confirmation
 | 8 April 1821
 | Carl Friedrich Krückeberg
@@ -460,16 +479,7 @@ Mother from no. 11 Evesen
 |Confirmed: Quasimodogeniti Sunday, 1821 
 |xref:petzen:PET-C-1821a.adoc[]
 
-| Confirmation
-| ?
-| Luise Dorothee Weiland
-| -
-| -
-| ?? 
-| ??
-| -
-| - 
-| Confirmations end in 1824
+| Birth
 |
 |===
 
