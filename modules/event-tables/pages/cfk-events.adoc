@@ -1,6 +1,7 @@
 = Carl Friedrich Krückeberg (b. 1807) Event Tables
 :page-role: very-wide
 
+[.narrow]
 == Introduction
 
 The xref:derived-church-records:FS-CFK.adoc[] tells us that his parents lived in
@@ -48,16 +49,16 @@ So we turn to the records derived from the original records, which are:
 . xref:immanuel:DEC-BIO-Krueckeberg-01.adoc[]
 . xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
 
-== Derived Records Event Table for Family of Carl Friedrich Krückeberg
-
-The event table is based on two derived records:
-
-. xref:derived-church-records:FS-CFK.adoc[]
-. xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
-
 The xref:derived-church-records:FS-CFK.adoc[] begins: Laut Angabe des hiesigen Kirchenbuchs ("according to the
 local church records". The xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[] does not note its source of
 information.
+
+== Derived Records Event Table for Family of Carl Friedrich Krückeberg
+
+This event table is based on two derived records:
+
+. xref:derived-church-records:FS-CFK.adoc[]
+. xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
 .Derived Record Event Table for Carl Friedrich Krückeberg Family
 [cols="1,2,3,3,3,2,1,2,3a,4a,3a",options="header"]
