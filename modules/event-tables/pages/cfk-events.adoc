@@ -337,7 +337,15 @@
 // |===
 // 
 
-== Combined Table
+== Event Table for the Family of Carl Friedrich Krückeberg
+
+This chronologically ordered table is base on two derived records:
+
+. xref:derived-church-records:FS-CFK.adoc[]
+. xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
+
+The first record notes that is "Laut Angabe des hiesigen Kirchenbuchs", "according to the local church records".
+The second record does not note its source of information.`
 
 [cols="1,2,3,3,3,2,1,2,3a,4a,3a",options="header"]
 |===
