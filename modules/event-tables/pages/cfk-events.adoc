@@ -336,7 +336,6 @@
 // | —
 // |===
 // 
-*†* -- The *Bleeken* surname for Phlippine Leonore is in error.
 
 == Combined Table
 
@@ -735,6 +734,8 @@
 |
 . xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 |===
+
+*†* -- The *Bleeken* surname for Phlippine Leonore is in error.
 
 == Event Table of Petzen Records for Carl Friedrich Krückeberg and Louise Dorothee Weiland
 
