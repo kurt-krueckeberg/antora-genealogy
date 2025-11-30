@@ -339,6 +339,7 @@
 *†* -- The *Bleeken* surname for Phlippine Leonore is in error.
 
 == Combined Table
+
 [cols="1,2,3,3,3,2,1,2,3a,4a,3a",options="header"]
 |===
 | Event Type
@@ -354,7 +355,7 @@
 | Record Page
 
 // =========================================================
-// BIRTHS AND BAPTISMS IN BOTH SOURCES (CHWK merged row)
+// MERGED BIRTH & BAPTISM OF CHWK (TWO SOURCES)
 // =========================================================
 
 | Birth
@@ -369,7 +370,7 @@
 | Born in the County of Bückeburg, Principality Schaumburg-Lippe.
 |
 . xref:derived-church-records:FS-CFK.adoc[]
-. xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
+. xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
 
 | Baptism
 | Feb 1835
@@ -383,14 +384,13 @@
 | Baptized the same month.
 |
 . xref:derived-church-records:FS-CFK.adoc[]
-. xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
+. xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
 
 
 // =========================================================
-// EVENTS FOR PARENTS' GENERATION (FS-CFK SOURCE)
+// EVENTS FOR CARL FRIEDRICH KRÜCKEBERG FAMILY (FS-CFK)
 // =========================================================
 
-// Marriage of CFK
 | Marriage
 | 16 Nov 1834
 | Carl Friedrich Krückeberg & Luise Dorothea Weiland
@@ -401,9 +401,8 @@
 | Tailor
 |
 | Marriage from Familienschein.
-| xref:derived-church-records:FS-CFK.adoc[]
-
-// Children of CFK — Births & Baptisms
+|
+. xref:derived-church-records:FS-CFK.adoc[]
 
 | Birth
 | 15 Oct 1837, 11 a.m.
@@ -415,7 +414,8 @@
 | Tailor
 |
 | —
-| xref:derived-church-records:FS-CFK.adoc[]
+|
+. xref:derived-church-records:FS-CFK.adoc[]
 
 | Baptism
 | 22 Oct 1837
@@ -427,7 +427,8 @@
 | Tailor
 |
 | Baptized in the name of the Triune God.
-| xref:derived-church-records:FS-CFK.adoc[]
+|
+. xref:derived-church-records:FS-CFK.adoc[]
 
 | Birth
 | 8 Sep 1840, 2 a.m.
@@ -439,7 +440,8 @@
 | Tailor
 |
 | —
-| xref:derived-church-records:FS-CFK.adoc[]
+|
+. xref:derived-church-records:FS-CFK.adoc[]
 
 | Baptism
 | 13 Sep 1840
@@ -451,7 +453,8 @@
 | Tailor
 |
 | Baptized in the name of the Triune God.
-| xref:derived-church-records:FS-CFK.adoc[]
+|
+. xref:derived-church-records:FS-CFK.adoc[]
 
 | Birth
 | 6 Sep 1843, 9 p.m.
@@ -463,7 +466,8 @@
 | Tailor
 |
 | —
-| xref:derived-church-records:FS-CFK.adoc[]
+|
+. xref:derived-church-records:FS-CFK.adoc[]
 
 | Baptism
 | 14 Sep 1843
@@ -475,7 +479,8 @@
 | Tailor
 |
 | Baptized in the name of the Triune God.
-| xref:derived-church-records:FS-CFK.adoc[]
+|
+. xref:derived-church-records:FS-CFK.adoc[]
 
 | Birth
 | 23 Jul 1846
@@ -487,7 +492,8 @@
 | Tailor
 |
 | —
-| xref:derived-church-records:FS-CFK.adoc[]
+|
+. xref:derived-church-records:FS-CFK.adoc[]
 
 | Baptism
 | 30 Jul 1846
@@ -499,7 +505,8 @@
 | Tailor
 |
 | Baptized in the name of the Triune God.
-| xref:derived-church-records:FS-CFK.adoc[]
+|
+. xref:derived-church-records:FS-CFK.adoc[]
 
 | Birth
 | 6 Feb 1850, 6 a.m.
@@ -511,7 +518,8 @@
 | Tailor
 |
 | —
-| xref:derived-church-records:FS-CFK.adoc[]
+|
+. xref:derived-church-records:FS-CFK.adoc[]
 
 | Baptism
 | 13 Feb 1850
@@ -523,14 +531,13 @@
 | Tailor
 |
 | Baptized in the name of the Triune God.
-| xref:derived-church-records:FS-CFK.adoc[]
+|
+. xref:derived-church-records:FS-CFK.adoc[]
 
 
 // =========================================================
-// EVENTS FROM IMMANUEL BIOGRAPHY
+// EVENTS FROM IMMANUEL BIO FOR CHWK, WIFE, CHILDREN
 // =========================================================
-
-// Wife of CHWK
 
 | Birth
 | 13 Sep 1834
@@ -542,7 +549,8 @@
 | —
 |
 | Born in Großenheerse, District Minden, Kingdom of Prussia.
-| xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
+|
+. xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
 
 | Baptism
 | 1834
@@ -554,9 +562,8 @@
 | —
 |
 | Baptized by Pastor Köhn.
-| xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
-
-// Her confirmation, placed using year 1848 (undocumented)
+|
+. xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
 
 | Confirmation
 | 16 Apr 1848
@@ -567,10 +574,9 @@
 | —
 | —
 |
-| Palm Sunday 1848 (undocumented year in biography).
-| xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
-
-// Confirmation of CHWK
+| Palm Sunday 1848 (undocumented year in the biography).
+|
+. xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
 
 | Confirmation
 | 1 Apr 1849
@@ -582,9 +588,8 @@
 | —
 |
 | Confirmed by Pastor Schwertmann.
-| xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
-
-// Emigration
+|
+. xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
 
 | Emigration Departure
 | 1 Oct 1850
@@ -596,7 +601,8 @@
 | —
 |
 | Emigrated with parents.
-| xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
+|
+. xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
 
 | Emigration Arrival
 | 26 Nov 1850
@@ -608,9 +614,8 @@
 | —
 |
 | Arrived in Fort Wayne.
-| xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
-
-// Marriage of CHWK
+|
+. xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
 
 | Marriage
 | 28 Jan 1860
@@ -622,9 +627,8 @@
 | —
 |
 | Marriage recorded at Immanuel.
-| xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
-
-// Children of CHWK
+|
+. xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
 
 | Birth
 | 30 Sep 1860
@@ -636,7 +640,8 @@
 | —
 |
 | —
-| xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
+|
+. xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
 
 | Baptism
 | 6 Oct 1860
@@ -650,7 +655,8 @@
 . Wilhelm Schamerloh
 . Christian Kleinschmidt
 | —
-| xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
+|
+. xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
 
 | Birth
 | 2 Jul 1862
@@ -662,7 +668,8 @@
 | —
 |
 | —
-| xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
+|
+. xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
 
 | Baptism
 | 14 Jul 1862
@@ -676,7 +683,8 @@
 . Philippine Schamerloh
 . Sophie Buuck
 | —
-| xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
+|
+. xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
 
 | Birth
 | 10 Jul 1864
@@ -688,7 +696,8 @@
 | —
 |
 | —
-| xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
+|
+. xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
 
 | Baptism
 | 17 Jul 1864
@@ -702,8 +711,10 @@
 . Caroline Schamerloh
 . Emma Belz
 | —
-| xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
+|
+. xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
 |===
+
 
 == Event Table of Petzen Records for Carl Friedrich Krückeberg and Louise Dorothee Weiland
 
