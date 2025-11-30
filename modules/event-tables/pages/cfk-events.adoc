@@ -430,6 +430,23 @@ xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 | Note
 | Record Page(s)
 
+| Birth
+| 12 May 1807
+| Carl Friedrich Krückeberg
+| Philippine Lenore née Bleeken *†*
+| Berenbusch
+| 14
+| tailor
+|
+Father is *Einlieger* 
+
+Mother from no. 11 Evesen
+|
+2^nd^ child
+
+1^st^ son
+|xref:petzen:PET-B-1807a.adoc[]
+
 | Confirmation
 | 8 April 1821
 | Carl Friedrich Krückeberg
@@ -451,11 +468,11 @@ xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 | ??
 | -
 | - 
-| ??
+| Confirmations end in 1824
 |
 |===
 
-
+*†* -- The *Bleeken* surname for Phlippine Leonore is in error.
 
 [.narrow]
 == Notes on Event Interpretation
