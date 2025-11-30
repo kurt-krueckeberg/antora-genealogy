@@ -1,13 +1,18 @@
 = TODO
 
-== Event Tables
+= Tools for Generating Family Trees
+
+Graphviz and Mermaid. See https://chatgpt.com/share/692cd231-6ac8-8004-93e0-b34ac18795f6.
+
+== Event Tables TODOES
 
 * Confirm the accuracy of the combined event table.
-* Use it instead of the two separate tables.
 * Merge into it the Petzen birth, baptism and confirmation records for Carl Friedrich Krückeberg 
 and his wife.
 
-== In early Petzen church registers, Find All Remaining Baptism Records and Possible Confirmation, Marriage and Death Records
+== Research: In the early Petzen church registers, find all remaining records
+
+Find all remaing Krueckeberg birth/bpatims, possible donfirmation, marriage and deathj/burial records.
 
 Using the hand written lists of Archion.de images I have reviewed and have yet to review:
 
@@ -16,7 +21,7 @@ Using the hand written lists of Archion.de images I have reviewed and have yet t
 * Also deaths during the time period 1728 to 1750
 * Marriages between 1710 to 1750.
 
-== Further Redesign
+== "Other" section to website
 
 Put modules that have been commented out and navigation that has been commented out, like 
 *Helpful Background information* in `m/research/nav.adoc` under a new"Other" category.
