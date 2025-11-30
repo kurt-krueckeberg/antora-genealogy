@@ -368,8 +368,8 @@
 |
 | Born in the County of Bückeburg, Principality Schaumburg-Lippe.
 |
-* xref:derived-church-records:FS-CFK.adoc[]
-* xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
+. xref:derived-church-records:FS-CFK.adoc[]
+. xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
 | Baptism
 | Feb 1835
@@ -381,7 +381,9 @@
 | —
 |
 | Baptized the same month.
-| xref:derived-church-records:FS-CFK.adoc[]; xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
+|
+. xref:derived-church-records:FS-CFK.adoc[]
+. xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
 
 // =========================================================
