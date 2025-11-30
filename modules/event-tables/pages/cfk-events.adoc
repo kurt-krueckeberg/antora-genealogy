@@ -2,340 +2,340 @@
 :page-role: very-wide
 :sectnums!:
 
-== Event Table for Carl Heinrich Wilhelm Krückeberg (born 1835) Immanuel Biography
-
-[caption="Information from: "]
-.xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
-[cols="1,2,3,3,3,2,1,2,3a,4a",options="header"]
-|===
-| Event Type
-| Event Date
-| Name of Subject
-| Father
-| Mother
-| Residence / Village
-| No.
-| Occupation
-| Sponsors
-| Notes
-
-| Birth
-| 1 Feb 1835
-| Carl Heinrich Wilhelm Krückeberg
-| Carl Gottlieb Krückeberg
-| Dorathea (née Weiland)
-| Berenbusch
-| —
-| —
-|
-| Born in County of Bückeburg, Principality Schaumburg-Lippe.
-
-| Baptism
-| Feb 1835
-| Carl Heinrich Wilhelm Krückeberg
-| Carl Gottlieb Krückeberg
-| Dorathea (née Weiland)
-| Berenbusch
-| —
-| —
-|
-| Baptized the same month.
-
-| Confirmation
-| 1 Apr 1849 (Palm Sunday)
-| Carl Heinrich Wilhelm Krückeberg
-| Carl Gottlieb Krückeberg
-| Dorathea (née Weiland)
-| Berenbusch
-| —
-| —
-|
-| Confirmed by Pastor Schwertmann.
-
-| Emigration Departure
-| 1 Oct 1850
-| Carl Heinrich Wilhelm Krückeberg
-| Carl Gottlieb Krückeberg
-| Dorathea (née Weiland)
-| —
-| —
-| —
-|
-| Emigrated with parents to the United States.
-
-| Emigration Arrival
-| 26 Nov 1850
-| Carl Heinrich Wilhelm Krückeberg
-| Carl Gottlieb Krückeberg
-| Dorathea (née Weiland)
-| Fort Wayne, Indiana
-| —
-| —
-|
-| Arrived in Fort Wayne, Indiana.
-
-| Marriage
-| 28 Jan 1860
-| Carl Heinrich Wilhelm Krückeberg & Caroline Wilhelmine Kleinschmidt
-| Carl Gottlieb Krückeberg
-| Dorathea (née Weiland)
-| —
-| —
-| —
-|
-| Marriage to Caroline Wilhelmine Kleinschmidt.
-
-| Birth
-| 13 Sep 1834
-| Caroline Wilhelmine Kleinschmidt
-| Christian Kleinschmidt
-| Sophie
-| Großenheerse
-| —
-| —
-|
-| Born in Großenheerse, District Minden, Kingdom of Prussia.
-
-| Baptism
-| 1834
-| Caroline Wilhelmine Kleinschmidt
-| Christian Kleinschmidt
-| Sophie
-| Buchholz
-| —
-| —
-|
-| Baptized in the Protestant Church of Buchholz by Pastor Köhn.
-
-| Confirmation
-| Palm Sunday (year not given)
-| Caroline Wilhelmine Kleinschmidt
-| Christian Kleinschmidt
-| Sophie
-| Preble Township, Adams County, Indiana
-| —
-| —
-|
-| Confirmed by Pastor Jäbker in Preble Township, Adams County, Indiana; year not given in biography.
-
-| Birth
-| 30 Sep 1860
-| Friedrich Christian Wilhelm Krückeberg
-| Carl Heinrich Wilhelm Krückeberg
-| Caroline Wilhelmine (née Kleinschmidt)
-| —
-| —
-| —
-|
-| Born to the marriage of C.H.W. Krückeberg and C.W. Kleinschmidt.
-
-| Baptism
-| 6 Oct 1860
-| Friedrich Christian Wilhelm Krückeberg
-| Carl Heinrich Wilhelm Krückeberg
-| Caroline Wilhelmine (née Kleinschmidt)
-| —
-| —
-| —
-|
-. Wilhelm Schamerloh
-. Christian Kleinschmidt
-| —
-
-| Birth
-| 2 Jul 1862
-| Sophie Louise Krückeberg
-| Carl Heinrich Wilhelm Krückeberg
-| Caroline Wilhelmine (née Kleinschmidt)
-| —
-| —
-| —
-|
-| —
-
-| Baptism
-| 14 Jul 1862
-| Sophie Louise Krückeberg
-| Carl Heinrich Wilhelm Krückeberg
-| Caroline Wilhelmine (née Kleinschmidt)
-| —
-| —
-| —
-|
-. Philippine Schamerloh
-. Sophie Buuck
-| —
-
-| Birth
-| 10 Jul 1864
-| Louise Wilhelmine Sophie Krückeberg
-| Carl Heinrich Wilhelm Krückeberg
-| Caroline Wilhelmine (née Kleinschmidt)
-| —
-| —
-| —
-|
-| —
-
-| Baptism
-| 17 Jul 1864
-| Louise Wilhelmine Sophie Krückeberg
-| Carl Heinrich Wilhelm Krückeberg
-| Caroline Wilhelmine (née Kleinschmidt)
-| —
-| —
-| —
-|
-. Caroline Schamerloh
-. Emma Belz
-| —
-|===
-
-== Family Record of the Emigrant Carl Friedrich Krückeberg Event Table
-
-[caption="Information from: "]
-.xref:derived-church-records:FS-CFK.adoc[]
-[cols="1,2,3,3,3,2,1,2,3a,4a",options="header"]
-|===
-| Event Type
-| Event Date
-| Name of Subject
-| Father
-| Mother
-| Residence / Village
-| No.
-| Occupation
-| Sponsors
-| Notes
-
-| Birth
-| 21 May 1807
-| Carl Friedrich Krückeberg
-| Carl Friedrich Gottlieb Krückeberg
-| Philippine Leonore née Bleeken†, no. 11 Evensen [sic]
-| -
-| -
-| Father: tailor
-|
-. Hans Heinrich Wilharm, No. 11,
-. Johann Heinrich Deerberg, No. 6 in Evensen,
-. Jobst Heinrich Krückeberg, Beerenbusch
-|
-
-| Birth 
-| 2 Jan. 1811
-| Louise Dorothee Weiland
-| Friedrich Wilhelm Weiland
-| Anne Catherine Drinckuth
-| Evesen
-| 20
-| —
-| 
-. Dorothee Deerberg n. 6 Evesen
-. Dorothee Lenore Kuhlmann n. 3 Evesen
-|* 3^rd^ child & 3^rd^ daughter
-* Father: Kolon
-
-| Confirmation
-| 8 April 1821
-| Carl Friedrich Krückeberg
-| —
-| —
-| Berenbusch
-| 14
-| —
-| —
-|Confirmed on Quasimodogeniti Sunday 
-
-| Marriage
-| 16 Nov 1834
-| Carl Friedrich Krückeberg & Luise Dorothea Weiland
-| —
-| —
-| Berenbusch
-| 18
-| —
-| —
-| —
-
-| Birth
-| 4 Feb 1835
-| Carl Heinrich Wilhelm Krückeberg
-| Carl Friedrich Krückeberg
-| Luise Dorothea née Weiland
-| Berenbusch
-| 18
-| —
-| —
-| —
-
-| Confirmation
-| 15 Apr 1849
-| Carl Heinrich Wilhelm Krückeberg
-| Carl Friedrich Krückeberg
-| Luise Dorothea née Weiland
-| Berenbusch
-| 18
-| —
-| —
-| Confirmed on Quasimodogeniti Sunday 
-
-| Birth
-| 15 Oct 1837
-| Caroline Philippine Krückeberg
-| Carl Friedrich Krückeberg
-| Luise Dorothea née Weiland
-| Berenbusch
-| 18
-| —
-| —
-| —
-
-| Birth
-| 8 Sep 1840
-| Caroline Philippine Sophie Krückeberg
-| Carl Friedrich Krückeberg
-| Luise Dorothea née Weiland
-| Berenbusch
-| 18
-| —
-| —
-| —
-
-| Birth
-| 6 Sep 1843
-| Wilhelmine Christine Krückeberg
-| Carl Friedrich Krückeberg
-| Luise Dorothea née Weiland
-| Berenbusch
-| 18
-| —
-| —
-| —
-
-| Birth
-| 23 Jul 1846
-| Friederich Wilhelm Krückeberg
-| Carl Friedrich Krückeberg
-| Luise Dorothea née Weiland
-| Berenbusch
-| 18
-| —
-| —
-| —
-
-| Birth
-| 6 Feb 1850
-| Ernst Heinrich Krückeberg
-| Carl Friedrich Krückeberg
-| Luise Dorothea née Weiland
-| Berenbusch
-| 18
-| —
-| —
-| —
-|===
-
+// == Event Table for Carl Heinrich Wilhelm Krückeberg (born 1835) Immanuel Biography
+// 
+// [caption="Information from: "]
+// .xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
+// [cols="1,2,3,3,3,2,1,2,3a,4a",options="header"]
+// |===
+// | Event Type
+// | Event Date
+// | Name of Subject
+// | Father
+// | Mother
+// | Residence / Village
+// | No.
+// | Occupation
+// | Sponsors
+// | Notes
+// 
+// | Birth
+// | 1 Feb 1835
+// | Carl Heinrich Wilhelm Krückeberg
+// | Carl Gottlieb Krückeberg
+// | Dorathea Weiland
+// | Berenbusch
+// | —
+// | —
+// |
+// | Born in County of Bückeburg, Principality Schaumburg-Lippe.
+// 
+// | Baptism
+// | Feb 1835
+// | Carl Heinrich Wilhelm Krückeberg
+// | Carl Gottlieb Krückeberg
+// | Dorathea Weiland
+// | Berenbusch
+// | —
+// | —
+// |
+// | Baptized the same month.
+// 
+// | Confirmation
+// | 1 Apr 1849 (Palm Sunday)
+// | Carl Heinrich Wilhelm Krückeberg
+// | Carl Gottlieb Krückeberg
+// | Dorathea Weiland
+// | Berenbusch
+// | —
+// | —
+// |
+// | Confirmed by Pastor Schwertmann.
+// 
+// | Emigration Departure
+// | 1 Oct 1850
+// | Carl Heinrich Wilhelm Krückeberg
+// | Carl Gottlieb Krückeberg
+// | Dorathea Weiland
+// | —
+// | —
+// | —
+// |
+// | Emigrated with parents to the United States.
+// 
+// | Emigration Arrival
+// | 26 Nov 1850
+// | Carl Heinrich Wilhelm Krückeberg
+// | Carl Gottlieb Krückeberg
+// | Dorathea Weiland
+// | Fort Wayne, Indiana
+// | —
+// | —
+// |
+// | Arrived in Fort Wayne, Indiana.
+// 
+// | Marriage
+// | 28 Jan 1860
+// | Carl Heinrich Wilhelm Krückeberg & Caroline Wilhelmine Kleinschmidt
+// | Carl Gottlieb Krückeberg
+// | Dorathea Weiland
+// | —
+// | —
+// | —
+// |
+// | Marriage to Caroline Wilhelmine Kleinschmidt.
+// 
+// | Birth
+// | 13 Sep 1834
+// | Caroline Wilhelmine Kleinschmidt
+// | Christian Kleinschmidt
+// | Sophie
+// | Großenheerse
+// | —
+// | —
+// |
+// | Born in Großenheerse, District Minden, Kingdom of Prussia.
+// 
+// | Baptism
+// | 1834
+// | Caroline Wilhelmine Kleinschmidt
+// | Christian Kleinschmidt
+// | Sophie
+// | Buchholz
+// | —
+// | —
+// |
+// | Baptized in the Protestant Church of Buchholz by Pastor Köhn.
+// 
+// | Confirmation
+// | Palm Sunday (year not given)
+// | Caroline Wilhelmine Kleinschmidt
+// | Christian Kleinschmidt
+// | Sophie
+// | Preble Township, Adams County, Indiana
+// | —
+// | —
+// |
+// | Confirmed by Pastor Jäbker in Preble Township, Adams County, Indiana; year not given in biography.
+// 
+// | Birth
+// | 30 Sep 1860
+// | Friedrich Christian Wilhelm Krückeberg
+// | Carl Heinrich Wilhelm Krückeberg
+// | Caroline Wilhelmine Kleinschmidt
+// | —
+// | —
+// | —
+// |
+// | Born to the marriage of C.H.W. Krückeberg and C.W. Kleinschmidt.
+// 
+// | Baptism
+// | 6 Oct 1860
+// | Friedrich Christian Wilhelm Krückeberg
+// | Carl Heinrich Wilhelm Krückeberg
+// | Caroline Wilhelmine Kleinschmidt
+// | —
+// | —
+// | —
+// |
+// . Wilhelm Schamerloh
+// . Christian Kleinschmidt
+// | —
+// 
+// | Birth
+// | 2 Jul 1862
+// | Sophie Louise Krückeberg
+// | Carl Heinrich Wilhelm Krückeberg
+// | Caroline Wilhelmine Kleinschmidt
+// | —
+// | —
+// | —
+// |
+// | —
+// 
+// | Baptism
+// | 14 Jul 1862
+// | Sophie Louise Krückeberg
+// | Carl Heinrich Wilhelm Krückeberg
+// | Caroline Wilhelmine Kleinschmidt
+// | —
+// | —
+// | —
+// |
+// . Philippine Schamerloh
+// . Sophie Buuck
+// | —
+// 
+// | Birth
+// | 10 Jul 1864
+// | Louise Wilhelmine Sophie Krückeberg
+// | Carl Heinrich Wilhelm Krückeberg
+// | Caroline Wilhelmine Kleinschmidt
+// | —
+// | —
+// | —
+// |
+// | —
+// 
+// | Baptism
+// | 17 Jul 1864
+// | Louise Wilhelmine Sophie Krückeberg
+// | Carl Heinrich Wilhelm Krückeberg
+// | Caroline Wilhelmine Kleinschmidt
+// | —
+// | —
+// | —
+// |
+// . Caroline Schamerloh
+// . Emma Belz
+// | —
+// |===
+// 
+// == Family Record of the Emigrant Carl Friedrich Krückeberg Event Table
+// 
+// [caption="Information from: "]
+// .xref:derived-church-records:FS-CFK.adoc[]
+// [cols="1,2,3,3,3,2,1,2,3a,4a",options="header"]
+// |===
+// | Event Type
+// | Event Date
+// | Name of Subject
+// | Father
+// | Mother
+// | Residence / Village
+// | No.
+// | Occupation
+// | Sponsors
+// | Notes
+// 
+// | Birth
+// | 21 May 1807
+// | Carl Friedrich Krückeberg
+// | Carl Friedrich Gottlieb Krückeberg
+// | Philippine Leonore née Bleeken†, no. 11 Evensen [sic]
+// | -
+// | -
+// | Father: tailor
+// |
+// . Hans Heinrich Wilharm, No. 11,
+// . Johann Heinrich Deerberg, No. 6 in Evensen,
+// . Jobst Heinrich Krückeberg, Beerenbusch
+// |
+// 
+// | Birth 
+// | 2 Jan. 1811
+// | Louise Dorothee Weiland
+// | Friedrich Wilhelm Weiland
+// | Anne Catherine Drinckuth
+// | Evesen
+// | 20
+// | —
+// | 
+// . Dorothee Deerberg n. 6 Evesen
+// . Dorothee Lenore Kuhlmann n. 3 Evesen
+// |* 3^rd^ child & 3^rd^ daughter
+// * Father: Kolon
+// 
+// | Confirmation
+// | 8 April 1821
+// | Carl Friedrich Krückeberg
+// | —
+// | —
+// | Berenbusch
+// | 14
+// | —
+// | —
+// |Confirmed on Quasimodogeniti Sunday 
+// 
+// | Marriage
+// | 16 Nov 1834
+// | Carl Friedrich Krückeberg & Luise Dorothea Weiland
+// | —
+// | —
+// | Berenbusch
+// | 18
+// | —
+// | —
+// | —
+// 
+// | Birth
+// | 4 Feb 1835
+// | Carl Heinrich Wilhelm Krückeberg
+// | Carl Friedrich Krückeberg
+// | Luise Dorothea née Weiland
+// | Berenbusch
+// | 18
+// | —
+// | —
+// | —
+// 
+// | Confirmation
+// | 15 Apr 1849
+// | Carl Heinrich Wilhelm Krückeberg
+// | Carl Friedrich Krückeberg
+// | Luise Dorothea née Weiland
+// | Berenbusch
+// | 18
+// | —
+// | —
+// | Confirmed on Quasimodogeniti Sunday 
+// 
+// | Birth
+// | 15 Oct 1837
+// | Caroline Philippine Krückeberg
+// | Carl Friedrich Krückeberg
+// | Luise Dorothea née Weiland
+// | Berenbusch
+// | 18
+// | —
+// | —
+// | —
+// 
+// | Birth
+// | 8 Sep 1840
+// | Caroline Philippine Sophie Krückeberg
+// | Carl Friedrich Krückeberg
+// | Luise Dorothea née Weiland
+// | Berenbusch
+// | 18
+// | —
+// | —
+// | —
+// 
+// | Birth
+// | 6 Sep 1843
+// | Wilhelmine Christine Krückeberg
+// | Carl Friedrich Krückeberg
+// | Luise Dorothea née Weiland
+// | Berenbusch
+// | 18
+// | —
+// | —
+// | —
+// 
+// | Birth
+// | 23 Jul 1846
+// | Friederich Wilhelm Krückeberg
+// | Carl Friedrich Krückeberg
+// | Luise Dorothea née Weiland
+// | Berenbusch
+// | 18
+// | —
+// | —
+// | —
+// 
+// | Birth
+// | 6 Feb 1850
+// | Ernst Heinrich Krückeberg
+// | Carl Friedrich Krückeberg
+// | Luise Dorothea née Weiland
+// | Berenbusch
+// | 18
+// | —
+// | —
+// | —
+// |===
+// 
 *†* -- The *Bleeken* surname for Phlippine Leonore is in error.
 
 == Combined Table
@@ -362,7 +362,7 @@
 | 1 Feb 1835
 | Carl Heinrich Wilhelm Krückeberg
 | Carl Gottlieb Krückeberg
-| Dorathea (née Weiland)
+| Dorathea Weiland
 | Berenbusch
 | —
 | —
@@ -376,7 +376,7 @@
 | Feb 1835
 | Carl Heinrich Wilhelm Krückeberg
 | Carl Gottlieb Krückeberg
-| Dorathea (née Weiland)
+| Dorathea Weiland
 | Berenbusch
 | —
 | —
@@ -395,7 +395,7 @@
 | 16 Nov 1834
 | Carl Friedrich Krückeberg & Luise Dorothea Weiland
 | Carl Friedrich Krückeberg
-| Philippine Leonore (née Bleeken)
+| Philippine Leonore Bleeken†
 | Berenbusch
 | 18
 | Tailor
@@ -408,7 +408,7 @@
 | 15 Oct 1837, 11 a.m.
 | Caroline Philippine Krückeberg
 | Carl Friedrich Krückeberg
-| Luise Dorothea (née Weiland)
+| Luise Dorothea Weiland
 | Berenbusch
 | 18
 | Tailor
@@ -421,7 +421,7 @@
 | 22 Oct 1837
 | Caroline Philippine Krückeberg
 | Carl Friedrich Krückeberg
-| Luise Dorothea (née Weiland)
+| Luise Dorothea Weiland
 | Berenbusch
 | 18
 | Tailor
@@ -434,7 +434,7 @@
 | 8 Sep 1840, 2 a.m.
 | Caroline Philippine Sophie Krückeberg
 | Carl Friedrich Krückeberg
-| Luise Dorothea (née Weiland)
+| Luise Dorothea Weiland
 | Berenbusch
 | 18
 | Tailor
@@ -447,7 +447,7 @@
 | 13 Sep 1840
 | Caroline Philippine Sophie Krückeberg
 | Carl Friedrich Krückeberg
-| Luise Dorothea (née Weiland)
+| Luise Dorothea Weiland
 | Berenbusch
 | 18
 | Tailor
@@ -460,7 +460,7 @@
 | 6 Sep 1843, 9 p.m.
 | Wilhelmine Christine Krückeberg
 | Carl Friedrich Krückeberg
-| Luise Dorothea (née Weiland)
+| Luise Dorothea Weiland
 | Berenbusch
 | 18
 | Tailor
@@ -473,7 +473,7 @@
 | 14 Sep 1843
 | Wilhelmine Christine Krückeberg
 | Carl Friedrich Krückeberg
-| Luise Dorothea (née Weiland)
+| Luise Dorothea Weiland
 | Berenbusch
 | 18
 | Tailor
@@ -486,7 +486,7 @@
 | 23 Jul 1846
 | Friederich Wilhelm Krückeberg
 | Carl Friedrich Krückeberg
-| Luise Dorothea (née Weiland)
+| Luise Dorothea Weiland
 | Berenbusch
 | 18
 | Tailor
@@ -499,7 +499,7 @@
 | 30 Jul 1846
 | Friederich Wilhelm Krückeberg
 | Carl Friedrich Krückeberg
-| Luise Dorothea (née Weiland)
+| Luise Dorothea Weiland
 | Berenbusch
 | 18
 | Tailor
@@ -512,7 +512,7 @@
 | 6 Feb 1850, 6 a.m.
 | Ernst Heinrich Krückeberg
 | Carl Friedrich Krückeberg
-| Luise Dorothea (née Weiland)
+| Luise Dorothea Weiland
 | Berenbusch
 | 18
 | Tailor
@@ -525,7 +525,7 @@
 | 13 Feb 1850
 | Ernst Heinrich Krückeberg
 | Carl Friedrich Krückeberg
-| Luise Dorothea (née Weiland)
+| Luise Dorothea Weiland
 | Berenbusch
 | 18
 | Tailor
@@ -588,7 +588,7 @@
 | 1 Apr 1849
 | Carl Heinrich Wilhelm Krückeberg
 | Carl Gottlieb Krückeberg
-| Dorathea (née Weiland)
+| Dorathea Weiland
 | Berenbusch
 | —
 | —
@@ -606,7 +606,7 @@
 | 1 Oct 1850
 | Carl Heinrich Wilhelm Krückeberg
 | Carl Gottlieb Krückeberg
-| Dorathea (née Weiland)
+| Dorathea Weiland
 | —
 | —
 | —
@@ -619,7 +619,7 @@
 | 26 Nov 1850
 | Carl Heinrich Wilhelm Krückeberg
 | Carl Gottlieb Krückeberg
-| Dorathea (née Weiland)
+| Dorathea Weiland
 | Fort Wayne, Indiana
 | —
 | —
@@ -637,7 +637,7 @@
 | 28 Jan 1860
 | Carl Heinrich Wilhelm Krückeberg & Caroline Wilhelmine Kleinschmidt
 | Carl Gottlieb Krückeberg
-| Dorothea (née Weiland)
+| Dorothea Weiland
 | —
 | —
 | —
@@ -655,7 +655,7 @@
 | 30 Sep 1860
 | Friedrich Christian Wilhelm Krückeberg
 | Carl Heinrich Wilhelm Krückeberg
-| Caroline Wilhelmine (née Kleinschmidt)
+| Caroline Wilhelmine Kleinschmidt
 | —
 | —
 | —
@@ -668,7 +668,7 @@
 | 6 Oct 1860
 | Friedrich Christian Wilhelm Krückeberg
 | Carl Heinrich Wilhelm Krückeberg
-| Caroline Wilhelmine (née Kleinschmidt)
+| Caroline Wilhelmine Kleinschmidt
 | —
 | —
 | —
@@ -683,7 +683,7 @@
 | 2 Jul 1862
 | Sophie Louise Krückeberg
 | Carl Heinrich Wilhelm Krückeberg
-| Caroline Wilhelmine (née Kleinschmidt)
+| Caroline Wilhelmine Kleinschmidt
 | —
 | —
 | —
@@ -696,7 +696,7 @@
 | 14 Jul 1862
 | Sophie Louise Krückeberg
 | Carl Heinrich Wilhelm Krückeberg
-| Caroline Wilhelmine (née Kleinschmidt)
+| Caroline Wilhelmine Kleinschmidt
 | —
 | —
 | —
@@ -711,7 +711,7 @@
 | 10 Jul 1864
 | Louise Wilhelmine Sophie Krückeberg
 | Carl Heinrich Wilhelm Krückeberg
-| Caroline Wilhelmine (née Kleinschmidt)
+| Caroline Wilhelmine Kleinschmidt
 | —
 | —
 | —
@@ -724,7 +724,7 @@
 | 17 Jul 1864
 | Louise Wilhelmine Sophie Krückeberg
 | Carl Heinrich Wilhelm Krückeberg
-| Caroline Wilhelmine (née Kleinschmidt)
+| Caroline Wilhelmine Kleinschmidt
 | —
 | —
 | —
