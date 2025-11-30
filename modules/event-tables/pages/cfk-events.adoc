@@ -413,7 +413,7 @@ xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
 *†* -- The *Bleeken* surname for Phlippine Leonore is in error.
 
-== Event Table of Petzen Records for Carl Friedrich Krückeberg
+== Event Table of Original Petzen Records for Carl Friedrich Krückeberg
 
 .Petzen Parish Records Event Table for Carl Friedrich Krückeberg Family
 [cols="1,2,3,3,3,2,1,2,3a,4a,3a",options="header"]
