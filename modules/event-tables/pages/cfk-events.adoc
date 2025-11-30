@@ -6,7 +6,7 @@
 
 [caption="Information from: "]
 .xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
-[cols="1,2,3,3,3,2,1,1,3a,4a",options="header"]
+[cols="1,2,3,3,3,2,1,2,3a,4a",options="header"]
 |===
 | Event Type
 | Event Date
@@ -36,7 +36,7 @@
 
 [caption="Information from: "]
 .xref:derived-church-records:FS-CFK.adoc[]
-[cols="1,2,3,3,3,2,1,1,3a,4a",options="header"]
+[cols="1,2,3,3,3,2,1,2,3a,4a",options="header"]
 |===
 | Event Type
 | Event Date
