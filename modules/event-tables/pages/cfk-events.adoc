@@ -1,6 +1,8 @@
 = Carl Friedrich Krückeberg (b. 1807) Event Tables
 :page-role: very-wide
-:sectnums!:
+:toc:
+:toclevels: 3
+:toc-placement: preamble
 
 == Derived Records Event Table for Family of Carl Friedrich Krückeberg
 
