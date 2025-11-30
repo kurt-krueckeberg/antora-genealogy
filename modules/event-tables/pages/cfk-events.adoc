@@ -690,30 +690,30 @@
 | —
 |
 . xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
+
+| Baptism
+| 14 Jul 1862
+| Sophie Louise Krückeberg
+| Carl Heinrich Wilhelm Krückeberg
+| Caroline Wilhelmine (née Kleinschmidt)
+| —
+| —
+| —
+| Baptism
+| 14 Jul 1862
+| Sophie Louise Krückeberg
+| Carl Heinrich Wilhelm Krückeberg
+| Caroline Wilhelmine (née Kleinschmidt)
+| —
+| —
+| —
+|
+. Philippine Schamerloh
+. Sophie Buuck
+| —
+|
+. xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 |===
-// 
-// | Baptism
-// | 14 Jul 1862
-// | Sophie Louise Krückeberg
-// | Carl Heinrich Wilhelm Krückeberg
-// | Caroline Wilhelmine (née Kleinschmidt)
-// | —
-// | —
-// | —
-// | Baptism
-// | 14 Jul 1862
-// | Sophie Louise Krückeberg
-// | Carl Heinrich Wilhelm Krückeberg
-// | Caroline Wilhelmine (née Kleinschmidt)
-// | —
-// | —
-// | —
-// |
-// . Philippine Schamerloh
-// . Sophie Buuck
-// | —
-// |
-// . xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 // 
 // | Birth
 // | 10 Jul 1864
