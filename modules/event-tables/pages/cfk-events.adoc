@@ -360,7 +360,7 @@ information.
 | Occupation
 | Sponsors
 | Note
-| Record Page
+| Record Page(s)
 
 // =========================================================
 // MERGED BIRTH & BAPTISM OF CHWK (TWO SOURCES)
@@ -377,8 +377,9 @@ information.
 |
 | Born in the County of Bückeburg, Principality Schaumburg-Lippe.
 |
-. xref:derived-church-records:FS-CFK.adoc[]
-. xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
+xref:derived-church-records:FS-CFK.adoc[]
+
+xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
 | Baptism
 | Feb 1835
@@ -391,8 +392,9 @@ information.
 |
 | Baptized the same month.
 |
-. xref:derived-church-records:FS-CFK.adoc[]
-. xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
+xref:derived-church-records:FS-CFK.adoc[]
+
+xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
 
 // =========================================================
