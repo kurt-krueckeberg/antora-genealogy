@@ -6,7 +6,7 @@
 
 == Derived Records Event Table for Family of Carl Friedrich Krückeberg
 
-This chronologically ordered table is based on two derived records:
+The event table is based on two derived records:
 
 . xref:derived-church-records:FS-CFK.adoc[]
 . xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
