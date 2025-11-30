@@ -416,7 +416,34 @@ xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
 == Event Table of Petzen Records for Carl Friedrich Krückeberg and Louise Dorothee Weiland
 
-*TODO*
+.Petzen Parish Records Event Table for Carl Friedrich Krückeberg Family
+[cols="1,2,3,3,3,2,1,2,3a,4a,3a",options="header"]
+|===
+| Event Type
+| Event Date
+| Name of Subject
+| Father
+| Mother
+| Residence / Village
+| No.
+| Occupation
+| Sponsors
+| Note
+| Record Page(s)
+
+| Confirmation
+| 8 April 1821
+| Carl Friedrich Krückeberg
+| -
+| -
+| Berenbusch
+| 14
+| -
+| - 
+|Confirmed: Quasimodogeniti Sunday, 1821 
+|xref:petzen:PET-C-1821a.adoc[]
+|===
+
 
 
 [.narrow]
