@@ -5,7 +5,7 @@
 == Event Table for Carl Heinrich Wilhelm Krückeberg (born 1835) Immanuel Biography
 
 [caption="Information from: "]
-.xref:immanuel:ROOT:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
+.xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 [cols="1,2,3,3,3,2,1,2,3a,4a",options="header"]
 |===
 | Event Type
