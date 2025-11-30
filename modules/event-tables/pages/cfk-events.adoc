@@ -566,7 +566,8 @@
 . xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
 | Confirmation
-| 16 Apr 1848
+| 16 Apr 1848 +
+(undocumented)
 | Caroline Wilhelmine Kleinschmidt
 | Christian Kleinschmidt
 | Sophie
