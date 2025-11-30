@@ -442,10 +442,7 @@ xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 Father is *Einlieger* 
 
 Mother from no. 11 Evesen
-|
-2^nd^ child
-
-1^st^ son
+|1^st^ son, 2^nd^ child
 |xref:petzen:PET-B-1807a.adoc[]
 
 | Baptism 
