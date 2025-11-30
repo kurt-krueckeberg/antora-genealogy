@@ -397,6 +397,8 @@ xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
 | Baptism
 | 17 Jul 1864
+| Baptism
+| 17 Jul 1864
 | Louise Wilhelmine Sophie Krückeberg
 | Carl Heinrich Wilhelm Krückeberg
 | Caroline Wilhelmine Kleinschmidt
@@ -413,7 +415,9 @@ xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
 *†* -- The *Bleeken* surname for Phlippine Leonore is in error.
 
-== Event Table of Original Petzen Records for Carl Friedrich Krückeberg
+== Event Table of Original Petzen Records for Carl Friedrich Gottlieb? Krückeberg
+
+Carl Friedrich Gottlieb Krückeberg was the father of Carl Friedrich Krückeberg
 
 .Petzen Parish Records Event Table for Carl Friedrich Krückeberg Family
 [cols="1,2,3,3,3,2,1,2,3a,4a,3a",options="header"]
@@ -429,6 +433,18 @@ xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 | Sponsors
 | Note
 | Record Page(s)
+
+| Birth
+| 7 Dec. 1803
+| Christine Philippine Krückeberg
+| Carl Friedrich Krückeberg
+| Philippine Werkmeister
+| Evesen
+| todo
+| todo
+| todo
+| todo
+| xref:petzen:PET-B-1803c.adoc[]
 
 | Birth
 | 21 May 1807
