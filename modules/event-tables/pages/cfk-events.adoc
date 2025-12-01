@@ -51,8 +51,7 @@ burial records are to be found.
 As of November 30, 2025, we only have online access to the Petzen church registers prior to 1827. Those after 1827
 are only is only available at the Lower Saxony State Archive in Bückeburg. Until those have been researched, we
 must rely on the xref:derived-church-records:FS-CFK.adoc[] because it states it is derived from the original Petzen
-church records: "Laut Angabe des hiesigen Kirchenbuchs..." or "According to the local church
-register...". 
+church records: "Laut Angabe des hiesigen Kirchenbuchs..." ("According to the local church register..."). 
 
 While we do have the two Krückeberg biographies who, were founders of Immanuel Lutheran, Decatur, Indiana
 
