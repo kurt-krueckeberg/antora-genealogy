@@ -4,7 +4,7 @@
 TODO: Note that in CHW's biography, the father's name is different than in the Familienschein, and that
 his birth date is also different than the Familienschein. We prefer the Familienschein because it claims
 to be based on the Petzen church register.
-TODO: Merge this into the Introduction below.
+TODO: Merge this into the Introduction below: the bio is really just an authored narrative.
 
 *TODO:* Redo the event table using only the Familienschein for parentage and dates.
 
