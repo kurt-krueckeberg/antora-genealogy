@@ -96,7 +96,7 @@ This event table is based on xref:derived-church-records:FS-CFK.adoc[].
 | 21 May 1807
 | Carl Friedrich Krückeberg
 | Carl Friedrich Gottlieb Krückeberg
-| Philippine Leonore née Bleeken†, no. 11 Evensen [sic]
+| Philippine Leonore née Bleeken *†*, no. 11 Evensen [sic]
 | -
 | -
 | Father: tailor
@@ -117,9 +117,9 @@ This event table is based on xref:derived-church-records:FS-CFK.adoc[].
 | 
 . Dorothee Deerberg n. 6 Evesen
 . Dorothee Lenore Kuhlmann n. 3 Evesen
-|* 3^rd^ child & 3^rd^ daughter
-* Father: Kolon
+| 3^rd^ child & 3^rd^ daughter
 
+Father: Kolon
 | Confirmation
 | 8 April 1821
 | Carl Friedrich Krückeberg
