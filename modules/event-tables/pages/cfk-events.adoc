@@ -4,10 +4,10 @@
 [.narrow]
 == Introduction
 
-The document that tells us where the Carl Friedrich Krückeberg family, who settled in Adams county, Indiana, in
-1850, originate is the xref:derived-church-records:FS-CFK.adoc[], which tells us Carl Friedrich Krückeberg, who
-emigrated from Schaumburg-Lippe in 1850 and settled in Adams County, Indiana, waas born in the village of
-*"Beerenbsuch"* [sic]  (more commonly spelled Berenbsuch) in the principality of Schaumburg-Lippe.
+In 1850 the Carl Friedrich Krückeberg family, who settled in Adams county, Indiana.  The document that tells us the
+town where they originate is the xref:derived-church-records:FS-CFK.adoc[].  It tells us Carl Friedrich Krückeberg
+was born in the village of *"Beerenbsuch"* [sic] (more commonly spelled Berenbsuch) in the principality of
+Schaumburg-Lippe.
 
 TODO: give the Familienschein's document's history and provenance.
 
