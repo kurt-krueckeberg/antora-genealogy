@@ -6,13 +6,12 @@
 
 In 1850 the Carl Friedrich Krückeberg family emigrated from Schaumburg-Lippe and settled in Adams county, Indiana.
 The document that tells us the town they came from is the xref:derived-church-records:FS-CFK.adoc[]. It tells us
-Carl Friedrich Krückeberg was born in the village of *"Beerenbsuch"* [sic] (more commonly spelled Berenbsuch) in
-the principality of Schaumburg-Lippe.
+their village was *"Beerenbsuch"* [sic] (more commonly spelled Berenbsuch) in the principality of Schaumburg-Lippe.
 
 TODO: give the Familienschein's document's history and provenance.
 
-It goes to explain that his father, Carl Friedrich Gottlieb, was a shoemaker and his social status was an
-*Einlieger*, implying he and his family lived as tenants--at least at the time of the birth of Carl Friedrich, their 1^st^ 
+It goes to explain that Carl Friedrich's father, Carl Friedrich Gottlieb, was a shoemaker and his social status was an
+*Einlieger*, implying the family lived as tenants--at least at the time of the birth of Carl Friedrich, their 1^st^ 
 son and 2^nd^ child.  His mother was from the village of Evensen [sic] (or Evesen) located immediately south of
 Berenbusch. Evesen and Berenbusch are also the villages of his baptismal sponsors.
 
