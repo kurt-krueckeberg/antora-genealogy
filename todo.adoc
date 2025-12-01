@@ -1,8 +1,9 @@
 = TODO
 
-==  See cfk-events.adoc
+== Pedigree/Ancestry instead of Event Tables
 
-For its todo changes.
+Rename the Event Tables module to *ancestry* and within it use the event-tables'
+pages. Add .svg images of the ancestry. Group the pages by one or two generations.
 
 == Tools for Generating Family Trees
 
