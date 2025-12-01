@@ -1,6 +1,12 @@
 = Carl Friedrich Krückeberg (b. 1807) Event Tables
 :page-role: very-wide
 
+TODO: Note that in CHW's biography, the father's name is different than in the Familienschein, and that
+his birth date is also different than the Familienschein. We prefer the Familienschein because it claims
+to be based on the Petzen church register.
+
+*TODO:* Redo the event table using only the Familienschein for parentage and dates.
+
 [.narrow]
 == Introduction
 
@@ -63,6 +69,14 @@ This event table is based on two derived records:
 . xref:derived-church-records:FS-CFK.adoc[]
 . xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 
+[IMPORTANT]
+====
+There is a contradition in the name of the father of Carl Heinrich Wilhelm Krückeberg (CHW Krückeberg). 
+The Immanuel biograph of CHW gives his father as *"Carl Gottlieb"*, but the
+xref:derived-church-records:FS-CFK.adoc[] gives his father as *"Carl Friedrich"*.
+       
+====
+
 .Derived Record Event Table for Carl Friedrich Krückeberg Family
 [cols="1,2,3,3,3,2,1,2,3a,4a,3a",options="header"]
 |===
@@ -83,34 +97,28 @@ This event table is based on two derived records:
 // =========================================================
 
 | Birth
-| 1 Feb 1835
+| 4 Feb 1835
 | Carl Heinrich Wilhelm Krückeberg
-| Carl Gottlieb Krückeberg
-| Dorathea Weiland
+| Carl Friedrich Krückeberg
+| Luise Dorothea Weiland
 | Berenbusch
 | —
 | —
 |
 | Born in the County of Bückeburg, Principality Schaumburg-Lippe.
-|
-xref:derived-church-records:FS-CFK.adoc[]
-
-xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
+| xref:derived-church-records:FS-CFK.adoc[]
 
 | Baptism
 | Feb 1835
 | Carl Heinrich Wilhelm Krückeberg
 | Carl Gottlieb Krückeberg
-| Dorathea Weiland
+| Luise Dorathea Weiland
 | Berenbusch
 | —
 | —
 |
 | Baptized the same month.
-|
-xref:derived-church-records:FS-CFK.adoc[]
-
-xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
+| xref:derived-church-records:FS-CFK.adoc[]
 
 
 // =========================================================
