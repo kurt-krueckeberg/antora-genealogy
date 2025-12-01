@@ -4,6 +4,7 @@
 TODO: Note that in CHW's biography, the father's name is different than in the Familienschein, and that
 his birth date is also different than the Familienschein. We prefer the Familienschein because it claims
 to be based on the Petzen church register.
+TODO: Merge this into the Introduction below.
 
 *TODO:* Redo the event table using only the Familienschein for parentage and dates.
 
@@ -64,10 +65,7 @@ information.
 
 == Derived Records Event Table for Family of Carl Friedrich Krückeberg
 
-This event table is based on two derived records:
-
-. xref:derived-church-records:FS-CFK.adoc[]
-. xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
+This event table is based on xref:derived-church-records:FS-CFK.adoc[].
 
 [IMPORTANT]
 ====
@@ -78,7 +76,7 @@ xref:derived-church-records:FS-CFK.adoc[] gives his father as *"Carl Friedrich"*
 ====
 
 .Derived Record Event Table for Carl Friedrich Krückeberg Family
-[cols="1,2,3,3,3,2,1,2,3a,4a,3a",options="header"]
+[cols="1,2,3,3,3,2,1,2,3a,4a",options="header"]
 |===
 | Event Type
 | Event Date
@@ -90,386 +88,144 @@ xref:derived-church-records:FS-CFK.adoc[] gives his father as *"Carl Friedrich"*
 | Occupation
 | Sponsors
 | Note
-| Record Page(s)
 
-// =========================================================
-// MERGED BIRTH & BAPTISM OF CHWK (TWO SOURCES)
-// =========================================================
+| Event Type
+| Event Date
+| Name of Subject
+| Father
+| Mother
+| Residence / Village
+| No.
+| Occupation
+| Sponsors
+| Notes
+
+| Birth
+| 21 May 1807
+| Carl Friedrich Krückeberg
+| Carl Friedrich Gottlieb Krückeberg
+| Philippine Leonore née Bleeken†, no. 11 Evensen [sic]
+| -
+| -
+| Father: tailor
+|
+. Hans Heinrich Wilharm, No. 11,
+. Johann Heinrich Deerberg, No. 6 in Evensen,
+. Jobst Heinrich Krückeberg, Beerenbusch
+|
+
+| Birth 
+| 2 Jan. 1811
+| Louise Dorothee Weiland
+| Friedrich Wilhelm Weiland
+| Anne Catherine Drinckuth
+| Evesen
+| 20
+| —
+| 
+. Dorothee Deerberg n. 6 Evesen
+. Dorothee Lenore Kuhlmann n. 3 Evesen
+|* 3^rd^ child & 3^rd^ daughter
+* Father: Kolon
+
+| Confirmation
+| 8 April 1821
+| Carl Friedrich Krückeberg
+| —
+| —
+| Berenbusch
+| 14
+| —
+| —
+|Confirmed on Quasimodogeniti Sunday 
+
+| Marriage
+| 16 Nov 1834
+| Carl Friedrich Krückeberg & Luise Dorothea Weiland
+| —
+| —
+| Berenbusch
+| 18
+| —
+| —
+| —
 
 | Birth
 | 4 Feb 1835
 | Carl Heinrich Wilhelm Krückeberg
 | Carl Friedrich Krückeberg
-| Luise Dorothea Weiland
+| Luise Dorothea née Weiland
 | Berenbusch
+| 18
 | —
 | —
-|
-| Born in the County of Bückeburg, Principality Schaumburg-Lippe.
-| xref:derived-church-records:FS-CFK.adoc[]
+| —
 
-| Baptism
-| Feb 1835
+| Confirmation
+| 15 Apr 1849
 | Carl Heinrich Wilhelm Krückeberg
-| Carl Gottlieb Krückeberg
-| Luise Dorathea Weiland
-| Berenbusch
-| —
-| —
-|
-| Baptized the same month.
-| xref:derived-church-records:FS-CFK.adoc[]
-
-
-// =========================================================
-// CARL FRIEDRICH KRÜCKEBERG FAMILY (FS-CFK)
-// =========================================================
-
-| Marriage
-| 16 Nov 1834
-| Carl Friedrich Krückeberg & Luise Dorothea Weiland
 | Carl Friedrich Krückeberg
-| Philippine Leonore Bleeken†
+| Luise Dorothea née Weiland
 | Berenbusch
 | 18
-| Tailor
-|
-| Marriage from Familienschein.
-|
-xref:derived-church-records:FS-CFK.adoc[]
+| —
+| —
+| Confirmed on Quasimodogeniti Sunday 
 
 | Birth
-| 15 Oct 1837, 11 a.m.
+| 15 Oct 1837
 | Caroline Philippine Krückeberg
 | Carl Friedrich Krückeberg
-| Luise Dorothea Weiland
+| Luise Dorothea née Weiland
 | Berenbusch
 | 18
-| Tailor
-|
 | —
-|
-xref:derived-church-records:FS-CFK.adoc[]
-
-| Baptism
-| 22 Oct 1837
-| Caroline Philippine Krückeberg
-| Carl Friedrich Krückeberg
-| Luise Dorothea Weiland
-| Berenbusch
-| 18
-| Tailor
-|
-| Baptized in the name of the Triune God.
-|
-xref:derived-church-records:FS-CFK.adoc[]
+| —
+| —
 
 | Birth
-| 8 Sep 1840, 2 a.m.
+| 8 Sep 1840
 | Caroline Philippine Sophie Krückeberg
 | Carl Friedrich Krückeberg
-| Luise Dorothea Weiland
+| Luise Dorothea née Weiland
 | Berenbusch
 | 18
-| Tailor
-|
 | —
-|
-xref:derived-church-records:FS-CFK.adoc[]
-
-| Baptism
-| 13 Sep 1840
-| Caroline Philippine Sophie Krückeberg
-| Carl Friedrich Krückeberg
-| Luise Dorothea Weiland
-| Berenbusch
-| 18
-| Tailor
-|
-| Baptized in the name of the Triune God.
-|
-xref:derived-church-records:FS-CFK.adoc[]
+| —
+| —
 
 | Birth
-| 6 Sep 1843, 9 p.m.
+| 6 Sep 1843
 | Wilhelmine Christine Krückeberg
 | Carl Friedrich Krückeberg
-| Luise Dorothea Weiland
+| Luise Dorothea née Weiland
 | Berenbusch
 | 18
-| Tailor
-|
 | —
-|
-xref:derived-church-records:FS-CFK.adoc[]
-
-| Baptism
-| 14 Sep 1843
-| Wilhelmine Christine Krückeberg
-| Carl Friedrich Krückeberg
-| Luise Dorothea Weiland
-| Berenbusch
-| 18
-| Tailor
-|
-| Baptized in the name of the Triune God.
-|
-xref:derived-church-records:FS-CFK.adoc[]
+| —
+| —
 
 | Birth
 | 23 Jul 1846
 | Friederich Wilhelm Krückeberg
 | Carl Friedrich Krückeberg
-| Luise Dorothea Weiland
+| Luise Dorothea née Weiland
 | Berenbusch
 | 18
-| Tailor
-|
 | —
-|
-xref:derived-church-records:FS-CFK.adoc[]
-
-| Baptism
-| 30 Jul 1846
-| Friederich Wilhelm Krückeberg
-| Carl Friedrich Krückeberg
-| Luise Dorothea Weiland
-| Berenbusch
-| 18
-| Tailor
-|
-| Baptized in the name of the Triune God.
-|
-xref:derived-church-records:FS-CFK.adoc[]
+| —
+| —
 
 | Birth
-| 6 Feb 1850, 6 a.m.
+| 6 Feb 1850
 | Ernst Heinrich Krückeberg
 | Carl Friedrich Krückeberg
-| Luise Dorothea Weiland
+| Luise Dorothea née Weiland
 | Berenbusch
 | 18
-| Tailor
-|
-| —
-|
-xref:derived-church-records:FS-CFK.adoc[]
-
-| Baptism
-| 13 Feb 1850
-| Ernst Heinrich Krückeberg
-| Carl Friedrich Krückeberg
-| Luise Dorothea Weiland
-| Berenbusch
-| 18
-| Tailor
-|
-| Baptized in the name of the Triune God.
-|
-xref:derived-church-records:FS-CFK.adoc[]
-
-
-// =========================================================
-// CAROLINE WILHELMINE KLEINSCHMIDT (IMMANUEL)
-// =========================================================
-
-| Birth
-| 13 Sep 1834
-| Caroline Wilhelmine Kleinschmidt
-| Christian Kleinschmidt
-| Sophie
-| Großenheerse
-| —
-| —
-|
-| Born in Großenheerse, District Minden, Kingdom of Prussia.
-|
-xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
-
-| Baptism
-| 1834
-| Caroline Wilhelmine Kleinschmidt
-| Christian Kleinschmidt
-| Sophie
-| Buchholz
-| —
-| —
-|
-| Baptized by Pastor Köhn.
-|
-xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
-
-| Confirmation
-| 16 Apr 1848 +
-(undocumented)
-| Caroline Wilhelmine Kleinschmidt
-| Christian Kleinschmidt
-| Sophie
-| Preble Township, Adams County, Indiana
-| —
-| —
-|
-| Palm Sunday 1848 (undocumented but chronologically consistent).
-|
-xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
-
-
-// =========================================================
-// CONFIRMATION OF CHWK (IMMANUEL)
-// =========================================================
-
-| Confirmation
-| 1 Apr 1849
-| Carl Heinrich Wilhelm Krückeberg
-| Carl Gottlieb Krückeberg
-| Dorathea Weiland
-| Berenbusch
-| —
-| —
-|
-| Confirmed by Pastor Schwertmann.
-|
-xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
-
-
-// =========================================================
-// EMIGRATION OF CHWK (IMMANUEL)
-// =========================================================
-
-| Emigration Departure
-| 1 Oct 1850
-| Carl Heinrich Wilhelm Krückeberg
-| Carl Gottlieb Krückeberg
-| Dorathea Weiland
 | —
 | —
 | —
-|
-| Emigrated with parents.
-|
-xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
-
-| Emigration Arrival
-| 26 Nov 1850
-| Carl Heinrich Wilhelm Krückeberg
-| Carl Gottlieb Krückeberg
-| Dorathea Weiland
-| Fort Wayne, Indiana
-| —
-| —
-|
-| Arrived in Fort Wayne.
-|
-xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
-
-
-// =========================================================
-// MARRIAGE OF CHWK (IMMANUEL)
-// =========================================================
-
-| Marriage
-| 28 Jan 1860
-| Carl Heinrich Wilhelm Krückeberg & Caroline Wilhelmine Kleinschmidt
-| Carl Gottlieb Krückeberg
-| Dorothea Weiland
-| —
-| —
-| —
-|
-| Marriage recorded at Immanuel.
-|
-xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
-
-
-// =========================================================
-// CHILDREN OF CHWK (IMMANUEL)
-// =========================================================
-
-| Birth
-| 30 Sep 1860
-| Friedrich Christian Wilhelm Krückeberg
-| Carl Heinrich Wilhelm Krückeberg
-| Caroline Wilhelmine Kleinschmidt
-| —
-| —
-| —
-|
-| —
-|
-xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
-
-| Baptism
-| 6 Oct 1860
-| Friedrich Christian Wilhelm Krückeberg
-| Carl Heinrich Wilhelm Krückeberg
-| Caroline Wilhelmine Kleinschmidt
-| —
-| —
-| —
-|
-Wilhelm Schamerloh
-Christian Kleinschmidt
-| —
-|
-xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
- 
-| Birth
-| 2 Jul 1862
-| Sophie Louise Krückeberg
-| Carl Heinrich Wilhelm Krückeberg
-| Caroline Wilhelmine Kleinschmidt
-| —
-| —
-| —
-|
-| —
-|
-xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
-
-| Baptism
-| 14 Jul 1862
-| Sophie Louise Krückeberg
-| Carl Heinrich Wilhelm Krückeberg
-| Caroline Wilhelmine Kleinschmidt
-| —
-| —
-| —
-|
-Philippine Schamerloh
-Sophie Buuck
-| —
-|
-xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
-
-| Birth
-| 10 Jul 1864
-| Louise Wilhelmine Sophie Krückeberg
-| Carl Heinrich Wilhelm Krückeberg
-| Caroline Wilhelmine Kleinschmidt
-| —
-| —
-| —
-|
-| —
-|
-xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
-
-| Baptism
-| 17 Jul 1864
-| Baptism
-| 17 Jul 1864
-| Louise Wilhelmine Sophie Krückeberg
-| Carl Heinrich Wilhelm Krückeberg
-| Caroline Wilhelmine Kleinschmidt
-| —
-| —
-| —
-|
-Caroline Schamerloh
-Emma Belz
-| —
-|
-xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
 |===
 
 *†* -- The *Bleeken* surname for Phlippine Leonore is in error.
