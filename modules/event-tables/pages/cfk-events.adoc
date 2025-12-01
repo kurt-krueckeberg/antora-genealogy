@@ -79,17 +79,6 @@ This event table is based on xref:derived-church-records:FS-CFK.adoc[].
 | No.
 | Occupation
 | Sponsors
-| Note
-
-| Event Type
-| Event Date
-| Name of Subject
-| Father
-| Mother
-| Residence / Village
-| No.
-| Occupation
-| Sponsors
 | Notes
 
 | Birth
