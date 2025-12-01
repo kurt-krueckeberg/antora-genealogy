@@ -4,10 +4,10 @@
 [.narrow]
 == Introduction
 
-In 1850 the Carl Friedrich Krückeberg family, who settled in Adams county, Indiana.  The document that tells us the
-town they came from is the xref:derived-church-records:FS-CFK.adoc[].  It tells us Carl Friedrich Krückeberg
-was born in the village of *"Beerenbsuch"* [sic] (more commonly spelled Berenbsuch) in the principality of
-Schaumburg-Lippe.
+In 1850 the Carl Friedrich Krückeberg family emigrated from Schaumburg-Lippe and settled in Adams county, Indiana.
+The document that tells us the town they came from is the xref:derived-church-records:FS-CFK.adoc[]. It tells us
+Carl Friedrich Krückeberg was born in the village of *"Beerenbsuch"* [sic] (more commonly spelled Berenbsuch) in
+the principality of Schaumburg-Lippe.
 
 TODO: give the Familienschein's document's history and provenance.
 
@@ -16,8 +16,8 @@ It goes to explain that his father, Carl Friedrich Gottlieb, was a shoemaker and
 son and 2^nd^ child.  His mother was from the village of Evensen [sic] (or Evesen) located immediately south of
 Berenbusch. Evesen and Berenbusch are also the villages of his baptismal sponsors.
 
-We know the closest Lutheran Church closest to Evesen and Berenbusch was Petzen
-(See: link:https://www.meyersgaz.org/place/10466052[Meyer's Gazetteer]). Furthermore  the
+We know the closest Lutheran Church closest to Evesen and Berenbusch was Petzen (See:
+link:https://www.meyersgaz.org/place/10466052[Meyer's Gazetteer]). Furthermore  the
 xref:derived-church-records:FS-CFK.adoc[] mentions the family's parish and its acting pastor. At its bottom is:
 
 [quote]
@@ -45,15 +45,15 @@ pass:[L. Schwerdtmann von Bergkirchen.]
 (signatory)
 ____
 
-The acting pastor for Petzen was L. Schwerdtmann of Bergkirchen, and Petzen was the parish where the Krückeberg
+The acting pastor for Petzen was L. Schwerdtmann of Bergkirchen, and *Petzen* was the parish where the Krückeberg
 were members, and it is where their and their ancestor's original birth, baptism, confirmation, marriage and death and
 burial records are to be found.
 
 As of November 30, 2025, we only have online access to the Petzen church registers prior to 1827. Those after 1827
 are only is only available at the Lower Saxony State Archive in Bückeburg. Until those have been researched, we
 must rely on the xref:derived-church-records:FS-CFK.adoc[] because it states it is derived from the original Petzen
-church records. The xref:derived-church-records:FS-CFK.adoc[] begins "Laut Angabe des hiesigen Kirchenbuchs..." or
-"According to the local church register...". 
+church records. It begins "Laut Angabe des hiesigen Kirchenbuchs..." or "According to the local church
+register...". 
 
 While we do have the two Krückeberg biographies who were founders of Immanuel Lutheran, Decatur, Indiana
 
@@ -63,7 +63,7 @@ While we do have the two Krückeberg biographies who were founders of Immanuel L
 unlike the xref:derived-church-records:FS-CFK.adoc[] neither mentions the source of their information. 
 
 Furthermore the biography of xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[], the first child of Carl Friedrich, gives
-the father's name of *"Carl Gottlieb"* and not *"Carl Friedrich"*, making it suspect. 
+the father's name as *"Carl Gottlieb"* not *"Carl Friedrich"*, making it suspect. 
 
 == Derived Record Event Table for Family of Carl Friedrich Krückeberg
 
