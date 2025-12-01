@@ -227,7 +227,7 @@ Carl Friedrich Gottlieb Krückeberg was the father of Carl Friedrich Krückeberg
 | No.
 | Occupation
 | Sponsors
-| Note
+| Notes
 | Record Page(s)
 
 | Birth
@@ -251,10 +251,13 @@ Carl Friedrich Gottlieb Krückeberg was the father of Carl Friedrich Krückeberg
 | 14
 | tailor
 |
+|
+1^st^ son, 2^nd^ child
+
 Father is *Einlieger* 
 
 Mother from no. 11 Evesen
-|1^st^ son, 2^nd^ child
+
 |xref:petzen:PET-B-1807a.adoc[]
 
 | Baptism 
