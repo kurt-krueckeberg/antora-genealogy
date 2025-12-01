@@ -54,7 +54,7 @@ must rely on the xref:derived-church-records:FS-CFK.adoc[] because it states it 
 church records: "Laut Angabe des hiesigen Kirchenbuchs..." or "According to the local church
 register...". 
 
-While we do have the two Krückeberg biographies who were founders of Immanuel Lutheran, Decatur, Indiana
+While we do have the two Krückeberg biographies who, were founders of Immanuel Lutheran, Decatur, Indiana
 
 . xref:immanuel:ROOT:DEC-BIO-Krueckeberg-01.adoc[]
 . xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]
