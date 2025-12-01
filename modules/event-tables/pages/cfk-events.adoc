@@ -64,7 +64,7 @@ father's name as *"Carl Gottlieb"* not *"Carl Friedrich"*, making it suspect.
 
 == Derived Record Event Table for Family of Carl Friedrich Krückeberg
 
-This event table is based on xref:derived-church-records:FS-CFK.adoc[].
+This event table synthesis the information in the xref:derived-church-records:FS-CFK.adoc[].
 
 .Derived Record Event Table for Carl Friedrich Krückeberg Family
 [cols="1,2,3,3,3,2,1,2,3a,4a",options="header"]
