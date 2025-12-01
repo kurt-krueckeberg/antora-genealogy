@@ -11,15 +11,21 @@ TODO: Merge this into the Introduction below: the bio is really just an authored
 [.narrow]
 == Introduction
 
-The xref:derived-church-records:FS-CFK.adoc[] tells us that his parents lived in
-*Beerenbusch* [sic], more typically spelled *Berenbsuch*. His father's status
-was *Einlieger* implyiung they lived as tenants at this address. His mother was from
-Evensen [sic] (Evesen), which is just south of Berenbusch. Evesen and Beerenbusch are also the
-villages of his baptismal sponsors.
+The document that tells us where the Krückebergs who settled in Adms county, Indiana, originate 
+is the xref:derived-church-records:FS-CFK.adoc[], which tells us Carl Friedrich Krückeberg, who emigrated from
+Schaumburg-Lippe in 1850 and settled in Adams County, Indiana, waas born in the village of 
+*"Beerenbsuch"* [sic]  (more commonly spelled Berenbsuch) in the principality of Schaumburg-Lippe.
+
+TODO: give the Familienschein's document's history and provenance.
+
+It goes to explain that his father, Carl Friedrich Gottlieb, was a shoemaker and his social status was *Einlieger*
+implying he and his family lived as tenents, at least at the time of the birth of Carl Friedrich, their 1^st^ 
+son and 2^nd^ child.  His mother was from the village of Evensen [sic] (or Evesen) located immediately south of
+Berenbusch. Evesen and Berenbusch are also the villages of his baptismal sponsors.
 
 We know the closest Lutheran Church closest to Evesen and Berenbusch was Petzen
-(See:https://www.meyersgaz.org/place/10466052). Furthermore *Petzen* is mentioned at the bottom of the
-xref:derived-church-records:FS-CFK.adoc[] as being the family's parish:
+(See: link:https://www.meyersgaz.org/place/10466052[Meyer's Gazetteer]). Furthermore the bottom of the
+xref:derived-church-records:FS-CFK.adoc[] mentions the family's parish and its acting pastor:
 
 [quote]
 ____ 
@@ -46,24 +52,29 @@ L. Schwerdtmann of Bergkirchen
 (signatory)
 ____
 
-The acting pastor for Petzen was L. Schwerdtmann of Bergkirchen. Petzen was the parish
-were the Krückeberg were members, where their original birth, baptism, confirmation, marriage
-and death and burial records are found.
+The acting pastor for Petzen was L. Schwerdtmann of Bergkirchen, and Petzen was the parish where the Krückeberg
+were members, and where their and their ancestor's original birth, baptism, confirmation, marriage and death and
+burial records are found.
 
-But as of November 30, 2025, we don't have access online to Petzen church records after 1827.
-The Petzen church register after 1827 is only available at the Lower Saxony State Archive in
-Bückeburg. So we must turn to the record derived from the original Petzen church records: 
-xref:derived-church-records:FS-CFK.adoc[], and two biographies of the founders of Immanuel Lutheran,
-Decatur, Indiana:
+As of November 30, 2025, we only have online access to the Petzen church registers prior to 1827, but those after
+1827 are only is only available at the Lower Saxony State Archive in Bückeburg. So we must rely on the
+xref:derived-church-records:FS-CFK.adoc[] because it states it is derived from the original Petzen church records.
+The xref:derived-church-records:FS-CFK.adoc[] begins "Laut Angabe des hiesigen Kirchenbuchs..." or "According to
+the local church register...". 
+
+While we do have the two Krückeberg biographies who were founders of Immanuel Lutheran,
+Decatur, Indiana
 
 . xref:immanuel:DEC-BIO-Krueckeberg-01.adoc[]
 . xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[]
 
-The xref:derived-church-records:FS-CFK.adoc[] begins: Laut Angabe des hiesigen Kirchenbuchs ("according to the
-local church records". The xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[] does not explicitly note its source of
-information.
+neither mentions the source of their information. On the other hand, the xref:derived-church-records:FS-CFK.adoc[]
+does. It begins: Laut Angabe des hiesigen Kirchenbuchs ("according to the local church records").
 
-== Derived Records Event Table for Family of Carl Friedrich Krückeberg
+Furthermore the biography of xref:immanuel:DEC-BIO-Krueckeberg-02.adoc[], the first child of Carl Friedrich, gives
+the father's name of *"Carl Gottlieb"* and not *"Carl Friedrich"*. 
+
+== Derived Record Event Table for Family of Carl Friedrich Krückeberg
 
 This event table is based on xref:derived-church-records:FS-CFK.adoc[].
 
