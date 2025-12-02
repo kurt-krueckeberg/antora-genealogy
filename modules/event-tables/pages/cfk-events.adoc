@@ -14,7 +14,7 @@ those linked events belong to the same individual.
 | Corresponding Event Table xref(s)
 |===
 
-.Actual example
+.Nachträge table with valid Nachträge 
 [cols="3,3,2,4a,3a",options="header"]
 |===
 | Name of Subject
@@ -24,34 +24,34 @@ those linked events belong to the same individual.
 | Corresponding Event(s)
 
 | Caroline Dorothee Krückeberg
-| xref:petzen:PET-B-1812x.adoc[]
+| xref:petzen:PET-B-1812a.adoc[]
 | Marriage
 | „copulirt den 25ten October 1835“
 |
 . xref:#event-table-petzen-cfg-krueckeberg-family[Marriage]
 
 | Caroline Dorothee Krückeberg
-| xref:petzen:PET-B-1812x.adoc[]
+| xref:petzen:PET-B-1812a.adoc[]
 | Death
 | „gestorben den 14ten December 1869“
 |
 . xref:#event-table-petzen-cfg-krueckeberg-family[Death]
 
 | Carl Friedrich Gottlieb Krückeberg
-| xref:petzen:PET-B-1779x.adoc[]
+| xref:petzen:PET-B-1779b.adoc[]
 | Baptism
 | „getauft den 18ten April 1779“
 |
 . xref:#event-table-petzen-cfg-krueckeberg-family[Baptism]
 
-| Carl Friedrich Gottlieb Gottlieb Krückeberg
-| xref:petzen:PET-B-1779x.adoc[]
+| Carl Friedrich Gottlieb Krückeberg
+| xref:petzen:PET-B-1779b.adoc[]
 | Marriage
 | „copulirt den 13ten März 1803“
 |
 . xref:#event-table-petzen-cfg-krueckeberg-family[Marriage]
-
 |===
+
 
 [.narrow]
 == Introduction
