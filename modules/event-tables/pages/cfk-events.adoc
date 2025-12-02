@@ -284,16 +284,27 @@ Father is *Einlieger*
 Mother from no. 11 Evesen
 |xref:petzen:PET-B-1807a.adoc[]
 
-
 | Confirmation
-| 8 April 1821
-| Carl Friedrich Krückeberg
+| 6 April 1817
+| Christine Philippine Krückeberg
 | -
 | -
 | Berenbusch
-| 14
+| 18
 | -
 | - 
+|Confirmed: Quasimodogeniti Sunday, 1817 
+|xref:petzen:PET-C-1817a.adoc[]
+
+| Confirmation
+| 8 April 1821
+| 
+| 
+| 
+| Berenbusch
+| 14
+|
+|
 |Confirmed: Quasimodogeniti Sunday, 1821 
 |xref:petzen:PET-C-1821a.adoc[]
 |===
