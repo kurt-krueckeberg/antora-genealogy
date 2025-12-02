@@ -89,7 +89,7 @@ image::petzen-band2-img82-entry40-159.jpg[title="Entry 40, page 159 portion (Cli
 7
 |Decbr. +
 11
-|[F/Fr. This might be an abbrev. for "Frauen"?] Kruckeberg u[nd] Weyland aus Berenb[usch].
+|Fr Kruckeberg u[nd] Weyland aus Berenb[usch].
 |===
 
 [caption="Translation: "]
@@ -107,7 +107,7 @@ image::petzen-band2-img82-entry40-159.jpg[title="Entry 40, page 159 portion (Cli
 |Philipp[ine] nee: Werkmeister
 |Dec. 7
 |Dec. 11
-|[F?] Kruckeberg a[nd] Weyland from Berenb[usch].
+|[??] Kruckeberg a[nd] Weyland from Berenb[usch].
 |===
 
 
