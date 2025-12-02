@@ -1,5 +1,10 @@
 = TODO
 
+== Decide How to Utilitze Nachträge
+
+Nachträge (later marginal notes) confirm identity across lifetime events, but a normal event table cannot show why
+those linked events belong to the same individual.
+
 == Pedigree/Ancestry instead of Event Tables
 
 Rename the Event Tables module to *ancestry* and within it use the event-tables'
