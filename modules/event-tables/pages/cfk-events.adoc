@@ -242,9 +242,9 @@ Carl Friedrich Gottlieb Krückeberg was the father of Carl Friedrich Krückeberg
 | Carl Friedrich Krückeberg
 | Philippine Werkmeister
 | Evesen
-| todo
-| todo
-| todo
+| 
+| 
+| 
 | Father: Einlieger 
 | xref:petzen:PET-B-1803c.adoc[]
 
@@ -254,9 +254,9 @@ Carl Friedrich Gottlieb Krückeberg was the father of Carl Friedrich Krückeberg
 | Carl Friedrich Krückeberg
 | Philippine Werkmeister
 | Evesen
-| todo
-| todo
-| todo
+| 
+| 
+| 
 | Father: Einlieger 
 | xref:petzen:PET-B-1803c.adoc[]
 
