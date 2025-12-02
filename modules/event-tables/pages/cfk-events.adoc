@@ -374,7 +374,7 @@ person who later:
 Because these marginal notes link multiple life events to the same individual, they strengthen genealogical proof
 and prevent mistaken identity—especially in villages where names repeat across families.
 
-.Nachträge table with valid Nachträge 
+.Nachträge table for xref:##event-table-petzen-cfg-krueckeberg-family[]
 [cols="3,3,2,4a,3a",options="header"]
 |===
 | Name of Subject
