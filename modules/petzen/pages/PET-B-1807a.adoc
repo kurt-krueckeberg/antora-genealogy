@@ -50,8 +50,7 @@ xref:findings:proof-arg-philippine-eleonore.adoc[explanation].
 
 |Hans Heinrich Wilharm|n. 11 Evesen
 
-|Johann Heinrich Deerberg|n. 11 Evesen +
-(give as: "the same")
+|Johann Heinrich Deerberg|n. [6] [the same: Evesen] +
 
 |Jobst Heinrich Krückeberg|Bärenbusch
 |===
@@ -131,7 +130,7 @@ Eltern |Taufzeugen
 |Carl Friedrich Gottlieb Krückeberg. Schneider u. Einlieger in n. 14 in Bärenbusch. Luth. Conf.
 |Philippine Leonore geb. Blecken aus n. 11 in Evesen, Luth Conf.
 |wohnen auf n. 14 in Bärenbusch
-|1 Hans Heinrich Wilharm n. 11 in Evesen 2. Joh. Heinr. Deerberg n. [6?] daselbst, u. 3. Jobst Heinrich Kruckeberg aus Bärenbusch
+|1 Hans Heinrich Wilharm n. 11 in Evesen 2. Joh. Heinr. Deerberg n. [6] daselbst, u. 3. Jobst Heinrich Kruckeberg aus Bärenbusch
 |===
 
 NOTE: As mentioned above, the maiden name *Bleeken* is in error in the church register. It should be *Werkmeister*. See the explanation
@@ -155,7 +154,9 @@ and Birthplace |Parent's Residence|Baptismal Sponsors
 |Carl Friedrich Gottlieb Krückeberg. Tailor and free farm laborer in n. 14 in Bärenbusch. Luth. Conf.
 |Philippine Leonore born Blecken from no. 11 in Evesen, Luth Conf.
 |live in n. 14 in Bärenbusch
-|1 Hans Heinrich Wilharm n. 11 in Evesen 2 Joh. Heinr. Deerberg n. [0/O?] in said place, u. 3 Jobst Heinrich Kruckeberg from Bärenbusch
+|1 Hans Heinrich Wilharm n. 11 in Evesen +
+2 Joh. Heinr. Deerberg n. [6] in said place +
+and 3 Jobst Heinrich Kruckeberg from Bärenbusch
 |===
 
 [bibliography]
