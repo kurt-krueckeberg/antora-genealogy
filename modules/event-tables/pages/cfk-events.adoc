@@ -124,8 +124,8 @@ Father: Kolon
 | Carl Friedrich Krückeberg & Luise Dorothea Weiland
 | —
 | —
-| Berenbusch
-| 18
+| -
+| -
 | —
 | —
 | —
@@ -135,8 +135,8 @@ Father: Kolon
 | Carl Heinrich Wilhelm Krückeberg
 | Carl Friedrich Krückeberg
 | Luise Dorothea née Weiland
-| Berenbusch
-| 18
+| -
+| -
 | —
 | —
 | —
@@ -146,8 +146,8 @@ Father: Kolon
 | Carl Heinrich Wilhelm Krückeberg
 | Carl Friedrich Krückeberg
 | Luise Dorothea née Weiland
-| Berenbusch
-| 18
+| -
+| -
 | —
 | —
 | Confirmed on Quasimodogeniti Sunday 
@@ -157,8 +157,8 @@ Father: Kolon
 | Caroline Philippine Krückeberg
 | Carl Friedrich Krückeberg
 | Luise Dorothea née Weiland
-| Berenbusch
-| 18
+| -
+| -
 | —
 | —
 | —
@@ -168,8 +168,8 @@ Father: Kolon
 | Caroline Philippine Sophie Krückeberg
 | Carl Friedrich Krückeberg
 | Luise Dorothea née Weiland
-| Berenbusch
-| 18
+| -
+| -
 | —
 | —
 | —
@@ -179,8 +179,8 @@ Father: Kolon
 | Wilhelmine Christine Krückeberg
 | Carl Friedrich Krückeberg
 | Luise Dorothea née Weiland
-| Berenbusch
-| 18
+| -
+| -
 | —
 | —
 | —
@@ -190,8 +190,8 @@ Father: Kolon
 | Friederich Wilhelm Krückeberg
 | Carl Friedrich Krückeberg
 | Luise Dorothea née Weiland
-| Berenbusch
-| 18
+| -
+| -
 | —
 | —
 | —
@@ -201,8 +201,8 @@ Father: Kolon
 | Ernst Heinrich Krückeberg
 | Carl Friedrich Krückeberg
 | Luise Dorothea née Weiland
-| Berenbusch
-| 18
+| -
+| -
 | —
 | —
 | —
