@@ -245,7 +245,19 @@ Carl Friedrich Gottlieb Krückeberg was the father of Carl Friedrich Krückeberg
 | todo
 | todo
 | todo
+| Father: Einlieger 
+| xref:petzen:PET-B-1803c.adoc[]
+
+| Baptism
+| 11 Dec. 1803
+| Christine Philippine Krückeberg
+| Carl Friedrich Krückeberg
+| Philippine Werkmeister
+| Evesen
 | todo
+| todo
+| todo
+| Father: Einlieger 
 | xref:petzen:PET-B-1803c.adoc[]
 
 | Birth
@@ -287,12 +299,12 @@ Mother from no. 11 Evesen
 | Confirmation
 | 6 April 1817
 | Christine Philippine Krückeberg
-| -
-| -
+|
+|
 | Berenbusch
 | 18
-| -
-| - 
+|
+|
 |Confirmed: Quasimodogeniti Sunday, 1817 
 |xref:petzen:PET-C-1817a.adoc[]
 
