@@ -1,6 +1,58 @@
 = Carl Friedrich Krückeberg (b. 1807) Event Tables
 :page-role: very-wide
 
+*TODO*: Nachträge (later marginal notes) confirm identity across lifetime events, but a normal event table cannot show why
+those linked events belong to the same individual.
+
+.Prospective Nachträge table
+[cols="2,3,3,4a,3",options="header"]
+|===
+| Name of Subject
+| Source Record (xref)
+| Type(s) of Ceremony Referenced
+| Nachtrag Text (literal or transliteration)
+| Corresponding Event Table xref(s)
+|===
+
+.Actual example
+[cols="3,3,2,4a,3a",options="header"]
+|===
+| Name of Subject
+| Source Record (xref)
+| Referenced Ceremony
+| Nachtrag Text
+| Corresponding Event(s)
+
+| Caroline Dorothee Krückeberg
+| xref:petzen:PET-B-1812x.adoc[]
+| Marriage
+| „copulirt den 25ten October 1835“
+|
+. xref:#event-table-petzen-cfg-krueckeberg-family[Marriage]
+
+| Caroline Dorothee Krückeberg
+| xref:petzen:PET-B-1812x.adoc[]
+| Death
+| „gestorben den 14ten December 1869“
+|
+. xref:#event-table-petzen-cfg-krueckeberg-family[Death]
+
+| Carl Friedrich Gottlieb Krückeberg
+| xref:petzen:PET-B-1779x.adoc[]
+| Baptism
+| „getauft den 18ten April 1779“
+|
+. xref:#event-table-petzen-cfg-krueckeberg-family[Baptism]
+
+| Carl Friedrich Gottlieb Gottlieb Krückeberg
+| xref:petzen:PET-B-1779x.adoc[]
+| Marriage
+| „copulirt den 13ten März 1803“
+|
+. xref:#event-table-petzen-cfg-krueckeberg-family[Marriage]
+
+|===
+
 [.narrow]
 == Introduction
 
@@ -210,6 +262,7 @@ Father: Kolon
 
 *†* -- The *Bleeken* surname for Phlippine Leonore is in error.
 
+[[event-table-petzen-cfg-krueckeberg-family]]
 == Event Table of Original Petzen Records for the Carl Friedrich Gottlieb Krückeberg Family
 
 Reviewing the Petzen records from the early part of the 18th century into the early part of the 19th century, we find that
@@ -299,6 +352,31 @@ Father is *Einlieger*
 
 Mother from no. 11 Evesen
 |xref:petzen:PET-B-1807a.adoc[]
+
+|Birth
+|Carloline Dorothee Krückeberg
+|
+|
+|
+|
+|
+|
+|
+|
+|
+
+|Baptism
+|Carloline Dorothee Krückeberg
+|
+|
+|
+|
+|
+|
+|
+|
+|
+
 
 | Confirmation
 | 6 April 1817
