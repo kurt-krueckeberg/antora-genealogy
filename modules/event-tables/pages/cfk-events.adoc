@@ -1,58 +1,6 @@
 = Carl Friedrich Krückeberg (b. 1807) Event Tables
 :page-role: very-wide
 
-*TODO*: Nachträge (later marginal notes) confirm identity across lifetime events, but a normal event table cannot show why
-those linked events belong to the same individual.
-
-.Prospective Nachträge table
-[cols="2,3,3,4a,3",options="header"]
-|===
-| Name of Subject
-| Source Record (xref)
-| Type(s) of Ceremony Referenced
-| Nachtrag Text (literal or transliteration)
-| Corresponding Event Table xref(s)
-|===
-
-.Nachträge table with valid Nachträge 
-[cols="3,3,2,4a,3a",options="header"]
-|===
-| Name of Subject
-| Source Record (xref)
-| Referenced Ceremony
-| Nachtrag Text
-| Corresponding Event(s)
-
-| Caroline Dorothee Krückeberg
-| xref:petzen:PET-B-1812a.adoc[]
-| Marriage
-| „copulirt den 25ten October 1835“
-|
-. xref:#event-table-petzen-cfg-krueckeberg-family[Marriage]
-
-| Caroline Dorothee Krückeberg
-| xref:petzen:PET-B-1812a.adoc[]
-| Death
-| „gestorben den 14ten December 1869“
-|
-. xref:#event-table-petzen-cfg-krueckeberg-family[Death]
-
-| Carl Friedrich Gottlieb Krückeberg
-| xref:petzen:PET-B-1779b.adoc[]
-| Baptism
-| „getauft den 18ten April 1779“
-|
-. xref:#event-table-petzen-cfg-krueckeberg-family[Baptism]
-
-| Carl Friedrich Gottlieb Krückeberg
-| xref:petzen:PET-B-1779b.adoc[]
-| Marriage
-| „copulirt den 13ten März 1803“
-|
-. xref:#event-table-petzen-cfg-krueckeberg-family[Marriage]
-|===
-
-
 [.narrow]
 == Introduction
 
@@ -404,6 +352,74 @@ Mother from no. 11 Evesen
 |===
 
 *†* -- The *Bleeken* surname for Phlippine Leonore is in error.
+
+[.narrow]
+== Nachträge Table
+
+===  Purpose of the Nachträge Table
+
+The Nachträge table records the marginal notes (Nachträge) found in baptism, marriage, and burial registers. These
+notes were added years—sometimes decades—after the original entry and often record later life events such as
+confirmations, marriages, deaths, or emigration.
+
+=== Why the Nachträge is Important
+
+Nachträge are critical identity evidence. They confirm that the child baptized in a specific record is the same
+person who later:
+
+* married on a particular date,
+* died in a particular year,
+* or underwent another recorded ceremony.
+
+Because these marginal notes link multiple life events to the same individual, they strengthen genealogical proof
+and prevent mistaken identity—especially in villages where names repeat across families.
+
+.Nachträge table with valid Nachträge 
+[cols="3,3,2,4a,3a",options="header"]
+|===
+| Name of Subject
+| Source Record (xref)
+| Referenced Ceremony
+| Nachtrag Text
+| Corresponding Event(s)
+
+| Caroline Dorothee Krückeberg
+| xref:petzen:PET-B-1812a.adoc[]
+| Marriage
+| „cop. 25.10.35“
+
+married 15 Oct. 1835
+|
+. xref:#event-table-petzen-cfg-krueckeberg-family[Marriage]
+
+| Caroline Dorothee Krückeberg
+| xref:petzen:PET-B-1812a.adoc[]
+| Death
+| „gest.14.12.69“
+
+died 14 Dec. 1869
+|
+. xref:#event-table-petzen-cfg-krueckeberg-family[Death]
+
+| Carl Friedrich Gottlieb Krückeberg
+| xref:petzen:PET-B-1779b.adoc[]
+| Baptism
+| „get. 18.4.1779“
+
+baptized 18 Mar. 1779
+|
+. xref:#event-table-petzen-cfg-krueckeberg-family[Baptism]
+
+| Carl Friedrich Gottlieb Krückeberg
+| xref:petzen:PET-B-1779b.adoc[]
+| Marriage
+| „cop. 13.3.03“
+
+married 13 Mar. 1803
+|
+. xref:#event-table-petzen-cfg-krueckeberg-family[Marriage]
+|===
+
 
 [.narrow]
 == Notes on Event Interpretation
