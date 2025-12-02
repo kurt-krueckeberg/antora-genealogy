@@ -86,7 +86,7 @@ This event table synthesis the information in the xref:derived-church-records:FS
 | Carl Friedrich Gottlieb Krückeberg
 | Philippine Leonore née Bleeken *†*, no. 11 Evensen [sic] at time of marriage
 | Berenbusch
-| —
+| 
 | Father: tailor
 |
 . Hans Heinrich Wilharm, No. 11,
@@ -101,7 +101,7 @@ This event table synthesis the information in the xref:derived-church-records:FS
 | Anne Catherine Drinckuth
 | Evesen
 | 20
-| —
+| 
 | 
 . Dorothee Deerberg n. 6 Evesen
 . Dorothee Lenore Kuhlmann n. 3 Evesen
@@ -111,45 +111,45 @@ Father: Kolon
 | Confirmation
 | 8 April 1821
 | Carl Friedrich Krückeberg
-| —
-| —
-| —
-| —
-| —
-| —
+| 
+| 
+| 
+| 
+| 
+| 
 |Confirmed on Quasimodogeniti Sunday 
 
 | Marriage
 | 16 Nov 1834
 | Carl Friedrich Krückeberg & Luise Dorothea Weiland
-| —
-| —
-| —
-| —
-| —
-| —
-| —
+| 
+| 
+| 
+| 
+| 
+| 
+| 
 
 | Birth
 | 4 Feb 1835
 | Carl Heinrich Wilhelm Krückeberg
 | Carl Friedrich Krückeberg
 | Luise Dorothea née Weiland
-| —
-| —
-| —
-| —
-| —
+| 
+| 
+| 
+| 
+| 
 
 | Confirmation
 | 15 Apr 1849
 | Carl Heinrich Wilhelm Krückeberg
 | Carl Friedrich Krückeberg
 | Luise Dorothea née Weiland
-| -
-| -
-| —
-| —
+|  
+|  
+| 
+| 
 | Confirmed on Quasimodogeniti Sunday 
 
 | Birth
@@ -157,55 +157,55 @@ Father: Kolon
 | Caroline Philippine Krückeberg
 | Carl Friedrich Krückeberg
 | Luise Dorothea née Weiland
-| -
-| -
-| —
-| —
-| —
+|  
+|  
+| 
+| 
+| 
 
 | Birth
 | 8 Sep 1840
 | Caroline Philippine Sophie Krückeberg
 | Carl Friedrich Krückeberg
 | Luise Dorothea née Weiland
-| -
-| -
-| —
-| —
-| —
+|  
+|  
+| 
+| 
+| 
 
 | Birth
 | 6 Sep 1843
 | Wilhelmine Christine Krückeberg
 | Carl Friedrich Krückeberg
 | Luise Dorothea née Weiland
-| -
-| -
-| —
-| —
-| —
+|  
+|  
+| 
+| 
+| 
 
 | Birth
 | 23 Jul 1846
 | Friederich Wilhelm Krückeberg
 | Carl Friedrich Krückeberg
 | Luise Dorothea née Weiland
-| -
-| -
-| —
-| —
-| —
+|  
+|  
+| 
+| 
+| 
 
 | Birth
 | 6 Feb 1850
 | Ernst Heinrich Krückeberg
 | Carl Friedrich Krückeberg
 | Luise Dorothea née Weiland
-| -
-| -
-| —
-| —
-| —
+|  
+|  
+| 
+| 
+| 
 |===
 
 *†* -- The *Bleeken* surname for Phlippine Leonore is in error.
