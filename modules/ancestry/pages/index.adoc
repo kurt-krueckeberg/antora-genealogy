@@ -21,7 +21,7 @@ including:
 
 Each row corresponds to *one recorded event*, not one person.
 
-== ✅ Why the Event Table Matters for Your Case
+== ✅ Why the Event Table Matters for Our Case
 
 We have *two Krückeberg immigrants*:
 
