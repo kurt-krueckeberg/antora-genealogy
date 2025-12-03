@@ -312,6 +312,8 @@ from n. 11 Evesen
 |
 |
 |3^rd^ child, 2^nd^ daughter
+
+xref:#nachtraege[Nachträge exists]
 |xref:petzen:PET-B-1812a.adoc[]
 
 |Baptism
@@ -326,7 +328,7 @@ from n. 11 Evesen
 |
 . Marie Dorothee Deerbergs, n. 6 Evesen
 . Caroline Charolitte Sieckmeiern, n. 4 in Evesen.
-|
+|xref:#nachtraege[Nachträge exists]
 |xref:petzen:PET-B-1812a.adoc[]
 
 | Confirmation
@@ -357,6 +359,7 @@ from n. 11 Evesen
 *†* -- The *Bleeken* surname for Phlippine Leonore is in error.
 
 [.narrow]
+[[nachtraege-table]]
 == Nachträge Table
 
 .Nachträge table for xref:#event-table-petzen-cfg-krueckeberg-family[]
