@@ -378,7 +378,7 @@ and prevent mistaken identity—especially in villages where names repeat across
 [cols="3,3,2,4a,3a",options="header"]
 |===
 | Name of Subject
-| Source Record (xref)
+| Source Record
 | Referenced Ceremony
 | Nachtrag Text
 | Corresponding Event
