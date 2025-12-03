@@ -1,3 +1,2 @@
 .Findings
-* xref:proof-arg-philippine-eleonore.adoc[]
 * xref:father-of-marie-philippine-krueckeberg.adoc[]
