@@ -55,7 +55,7 @@ The *Event Table solves this* by letting us:
 
 == ✅ What Columns the Event Table Should Contain
 
-This is the structure we previously established:
+This is their structure:
 
 ....
 | Event Type (B, C, M, D)
