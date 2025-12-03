@@ -133,14 +133,6 @@ getauft: Gev[atter]. Fahlsings Sohn aus Eversen
 In those baptism records where the father's given name is not specified, we have
 "Krückeberg".... 
 
-[.narrow]
-=== Extremely Atypical Birth Pattern
-
-If Anna Marie Vahlsing were their mother, she would have been ages 40, 43, 45, 49, respectively, at the birth
-of her last four children. A child at born to a women age 49 is unbelievealbe, and three births at ages
-40, 43 and 44 also seems suspect. If she were the mother, say, also of Dorothea Elisabeth Krückeberg born 29
-January 1736, then three of her six children were have been born when she was in her forties.
-
 [[prospective]]
 === Prospective Secular Records for Parentage of Krückeberg Children Born in 1736, 1741, 1744, 1746 and 1750.
 
@@ -461,7 +453,7 @@ I would also like transcription for the records below, which are approximate dat
 //|===
 
 
-=== Marriage Records
+=== Marriage Records to Confirm
 
 .Krückeberg Marriages Approximate Dates
 [width="75%"]
@@ -471,6 +463,8 @@ I would also like transcription for the records below, which are approximate dat
 |Johann Heinrich Krückeberg|Caroline Sophie Weÿland |Jan. 26, 1833|Petzen
 
 |Carl Friedrich Krückeberg|Luise Dorothea Weiland|Nov. 16, 1834|Petzen
+
+|Caroline Dorothee Krückeberg|?|15 Oct. 1835|Petzen?
 |===
 
 === Baptisms/Births and Confirmations Approximate Dates
@@ -525,6 +519,8 @@ I would also like transcription for the records below, which are approximate dat
 |Philippine Eleonore nee Werkmesiter Krückeberg|16 Dec. 1840
 
 |Philippine Christine Eleonore geb. Tegtmeyer Krückeberg|8 [May?] 1849
+
+|Caroline Dorothee nee Krückeberg|14 Dec. 1869
 |===
 
 
