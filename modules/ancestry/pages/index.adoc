@@ -43,7 +43,7 @@ The Schaumburg-Lippe parish registers (Petzen, Frille, nearby) contain
 
 So identities can sometimes easily get confused.
 
-The *Event Table solves this* by letting you:
+The *Event Table solves this* by letting us:
 
 
 * ✅ cluster events belonging to the same nuclear family 
