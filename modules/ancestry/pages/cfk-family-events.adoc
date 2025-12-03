@@ -213,10 +213,13 @@ Father: Kolon
 [[event-table-petzen-cfg-krueckeberg-family]]
 == Event Table of Original Petzen Records for the Carl Friedrich Gottlieb Krückeberg Family
 
+*TODO:* Rewrite and move:
+
 Reviewing the Petzen records from the early part of the 18th century into the early part of the 19th century, we find that
-there are not many Krückeberg records because there were not that many Krückeberg families.
-This aids finding the prior generation to j o h a n n h e i n r i c h and Carl Friedrich k r u e c k e b
-e r g . We can immediately look for those families that lived at the same address, have the same occupations, have
+there are not many Krückeberg records because there were not that many Krückeberg families in the Petzen parish.
+This aids finding the prior generation to Johann Heinrich and Carl Friedrich Krückeberg.
+
+We can immediately look for those Krückebergs that lived at the same address, have the same occupations, have
 the same parents,  and lived in the same Village, and had the same parents. And we can use the same technique to
 find the prior generation
 
