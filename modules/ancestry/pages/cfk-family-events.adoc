@@ -284,7 +284,6 @@ from no. 11 Evesen
 Father is *Einlieger* 
 
 Mother from no. 11 Evesen
-
 |xref:petzen:PET-B-1807a.adoc[]
 
 | Baptism 
@@ -317,8 +316,7 @@ from n. 11 Evesen
 |
 |
 |3^rd^ child, 2^nd^ daughter
-
-xref:#nachtraege[Nachträge exists for her and her father]
+|xref:#nachtraege[Nachträge exists for her and her father]
 |xref:petzen:PET-B-1812a.adoc[]
 
 |Baptism
@@ -333,7 +331,7 @@ from n. 11 Evesen
 |
 . Marie Dorothee Deerberg, n. 6 Evesen
 . Caroline Charolitte Sieckmeier, n. 4 in Evesen.
-xref:#nachtraege[Nachträge exists for her and her father]
+|xref:#nachtraege[Nachträge exists for her and her father]
 |xref:petzen:PET-B-1812a.adoc[]
 
 | Confirmation
@@ -347,19 +345,20 @@ xref:#nachtraege[Nachträge exists for her and her father]
 |
 |Confirmed: Quasimodogeniti Sunday, 1817 
 |xref:petzen:PET-C-1817a.adoc[]
-
-| Confirmation
-| 8 April 1821
-| Carl Friedrich Krückeberg 
-| 
-| 
-| Berenbusch
-| 14
-|
-|
-|Confirmed: Quasimodogeniti Sunday, 1821 
-|xref:petzen:PET-C-1821a.adoc[]
 |===
+
+// | Confirmation
+// | 8 April 1821
+// | Carl Friedrich Krückeberg 
+// | 
+// | 
+// | Berenbusch
+// | 14
+// |
+// |
+// |Confirmed: Quasimodogeniti Sunday, 1821 
+// |xref:petzen:PET-C-1821a.adoc[]
+// |===
 
 *†* -- The *Bleeken* surname for Phlippine Leonore is in error.
 
