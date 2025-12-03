@@ -1,10 +1,8 @@
-= Event Tables
-:page-role: very-wide
+= Event and Nachträge Tables
 
 *What the Event Table is; why we are building it; how it helps identify and document the
 two Krückeberg immigrants from Schaumburg-Lippe?*
 
-[.narrow]
 == ✅ What the Event Table Is
 
 The *Event Table* is a structured list of *all genealogically relevant
@@ -23,10 +21,9 @@ including:
 
 Each row corresponds to *one recorded event*, not one person.
 
-[.narrow]
 == ✅ Why the Event Table Matters for Your Case
 
-You have *two Krückeberg immigrants*:
+We have *two Krückeberg immigrants*:
 
 === 1. *Johann Heinrich Krückeberg*
 
@@ -56,7 +53,6 @@ The *Event Table solves this* by letting you:
 * ✅ document all claims with proper citations 
 * ✅ build *a defensible lineage* meeting BCG standards
 
-[.narrow]
 == ✅ What Columns the Event Table Should Contain
 
 This is the structure we previously established:
@@ -113,7 +109,6 @@ For *each of the two immigrants*, the Event Table allows you to:
 * conflicting evidence resolved
 * citations for every assertion
 
-[.narrow]
 == ✅ Why This Helps Our German Research
 
 The Event Table becomes:
@@ -135,4 +130,33 @@ ____
 and 36 conflict due to residence wording. Please verify in archival
 material A12–K2.”
 ____
+
+== Nachträge Tables
+
+=== What is Nachträge?
+
+Nachträge are later marginal notes added to entries in German church books (Kirchenbücher) that record additional
+life events—such as a person’s confirmation, marriage, death, or migration—made months or even decades after the
+original entry.
+
+They serve to link multiple church records to the same individual and are essential for confirming identity across
+a person’s lifetime.
+What 
+===  Purpose of the Nachträge Table
+
+The Nachträge table records the marginal notes (Nachträge) found in baptism, marriage, and burial registers. These
+notes were added years—sometimes decades—after the original entry and often record later life events such as
+confirmations, marriages, deaths, or emigration.
+
+=== Why the Nachträge is Important
+
+Nachträge are critical identity evidence. They confirm that the child baptized in a specific record is the same
+person who later:
+
+* married on a particular date,
+* died in a particular year,
+* or underwent another recorded ceremony.
+
+Because these marginal notes link multiple life events to the same individual, they strengthen genealogical proof
+and prevent mistaken identity—especially in villages where names repeat across families.
 

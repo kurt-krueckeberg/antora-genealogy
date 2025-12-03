@@ -356,24 +356,6 @@ Mother from no. 11 Evesen
 [.narrow]
 == Nachträge Table
 
-===  Purpose of the Nachträge Table
-
-The Nachträge table records the marginal notes (Nachträge) found in baptism, marriage, and burial registers. These
-notes were added years—sometimes decades—after the original entry and often record later life events such as
-confirmations, marriages, deaths, or emigration.
-
-=== Why the Nachträge is Important
-
-Nachträge are critical identity evidence. They confirm that the child baptized in a specific record is the same
-person who later:
-
-* married on a particular date,
-* died in a particular year,
-* or underwent another recorded ceremony.
-
-Because these marginal notes link multiple life events to the same individual, they strengthen genealogical proof
-and prevent mistaken identity—especially in villages where names repeat across families.
-
 .Nachträge table for xref:#event-table-petzen-cfg-krueckeberg-family[]
 [cols="3,3,2,4a,3a",options="header"]
 |===
