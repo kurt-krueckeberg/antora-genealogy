@@ -41,7 +41,7 @@ The Schaumburg-Lippe parish registers (Petzen, Frille, nearby) contain
 * without house numbers in early records
 * without occupations in early records
 
-So identities easily get confused.
+So identities can sometimes easily get confused.
 
 The *Event Table solves this* by letting you:
 
