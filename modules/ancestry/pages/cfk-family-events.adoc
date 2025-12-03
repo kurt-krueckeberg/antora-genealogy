@@ -302,28 +302,30 @@ Mother from no. 11 Evesen
 |xref:petzen:PET-B-1807a.adoc[]
 
 |Birth
+|2 Dec. 1812
 |Caroline Dorothee Krückeberg
-|*todo:* complete. Add Nachträge table entries
+|Carl Friedrich Gottlieb Krückeberg
+|Philippine Leonore  née Bleeken *†* +
+from n. 11 Evesen
+|Berenbusch
+|18
 |
 |
-|
-|
-|
-|
-|
-|
+|3^rd^ child, 2^nd^ daughter
+|xref:PET-B-1812a.adoc[]
 
 |Baptism
+|6 Dec. 1812
 |Caroline Dorothee Krückeberg
-|*todo:* complete. Add Nachträge table entries
+|Carl Friedrich Gottlieb Krückeberg
+|Philippine Leonore  née Bleeken *†* +
+from n. 11 Evesen
+|Berenbusch
+|18
 |
 |
 |
-|
-|
-|
-|
-|
+|xref:PET-B-1812a.adoc[]
 
 
 | Confirmation
