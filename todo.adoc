@@ -1,5 +1,9 @@
 = TODO
 
+== See the TODOes in cfk-family-events.adoc
+
+These concern writing up a concluding proof argument for what the tables on that page tell us.
+
 == Research Question
 
 For the k r u e c k e b e r marriage in 1727 and the subsequent children with that surname that were born in whose

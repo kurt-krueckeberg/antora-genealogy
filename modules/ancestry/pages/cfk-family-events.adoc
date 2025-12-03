@@ -361,9 +361,20 @@ xref:#nachtraege[Nachträge exists for her and her father]
 
 *†* -- The *Bleeken* surname for Phlippine Leonore is in error.
 
+*TODO:* Comment on the significance of the birth order and sex birth order
+
 [.narrow]
 [[nachtraege]]
 == Nachträge Table
+
+*TODO:* Put the yet-to-do write up for *TODO* above this one, and the information in this paragraph below
+into a conclusions section.
+
+The baptism record for Caroline Dorothee Krückeberg contains Nachträge, mariginal addenda, that lists
+her future marriage and burial and death dates as well as her father's exact baptism date. Having her 
+father's baptism dates allows us to immediately locate his birth record and determine who his parents are,
+where they lived--not to mention other details his baptism record might have. It provides the connecting
+link to the prior generation, the proof of who his parent's are.
 
 .Nachträge table for xref:#event-table-petzen-cfg-krueckeberg-family[]
 [cols="3,3,2,4a,3a",options="header"]
