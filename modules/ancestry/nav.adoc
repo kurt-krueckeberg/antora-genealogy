@@ -1,5 +1,5 @@
 .xref:index.adoc[]
-* xref:cfk-events.adoc[]
+* xref:cfk-family-events.adoc[]
 * xref:krueckeberg-petzen-event-table.adoc[]
 * xref:proof-arg-philippine-eleonore-werkmeister.adoc[]
 
