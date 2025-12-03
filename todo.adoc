@@ -1,9 +1,8 @@
 = TODO
 
-== Decide How to Utilitze Nachträge
+== Move Explanation of Nachtraege Table
 
-Nachträge (later marginal notes) confirm identity across lifetime events, but a normal event table cannot show why
-those linked events belong to the same individual.
+Move it from `m/event-tables:cfk-events.adoc` to `m/event-tables/index.adoc`.
 
 == Pedigree/Ancestry instead of Event Tables
 
