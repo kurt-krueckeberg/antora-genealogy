@@ -314,7 +314,6 @@ from n. 11 Evesen
 |Berenbusch
 |18
 |
-|
 |3^rd^ child, 2^nd^ daughter
 |xref:#nachtraege[Nachträge exists for her and her father]
 |xref:petzen:PET-B-1812a.adoc[]
@@ -345,20 +344,19 @@ from n. 11 Evesen
 |
 |Confirmed: Quasimodogeniti Sunday, 1817 
 |xref:petzen:PET-C-1817a.adoc[]
-|===
 
-// | Confirmation
-// | 8 April 1821
-// | Carl Friedrich Krückeberg 
-// | 
-// | 
-// | Berenbusch
-// | 14
-// |
-// |
-// |Confirmed: Quasimodogeniti Sunday, 1821 
-// |xref:petzen:PET-C-1821a.adoc[]
-// |===
+| Confirmation
+| 8 April 1821
+| Carl Friedrich Krückeberg 
+| 
+| 
+| Berenbusch
+| 14
+|
+|
+|Confirmed: Quasimodogeniti Sunday, 1821 
+|xref:petzen:PET-C-1821a.adoc[]
+|===
 
 *†* -- The *Bleeken* surname for Phlippine Leonore is in error.
 
