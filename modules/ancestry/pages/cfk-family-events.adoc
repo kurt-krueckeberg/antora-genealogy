@@ -324,9 +324,8 @@ from n. 11 Evesen
 |18
 |
 |
-Marie Dorothee Deerbergs, n. 6 Evesen
-
-Caroline Charolitte Sieckmeiern, n. 4 in Evesen.
+. Marie Dorothee Deerbergs, n. 6 Evesen
+. Caroline Charolitte Sieckmeiern, n. 4 in Evesen.
 |
 |xref:petzen:PET-B-1812a.adoc[]
 

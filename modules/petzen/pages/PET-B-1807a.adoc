@@ -50,7 +50,7 @@ xref:ancestry:proof-arg-philippine-eleonore-werkmeister.adoc[explanation].
 
 |Hans Heinrich Wilharm|n. 11 Evesen
 
-|Johann Heinrich Deerberg|n. [6] [the same: Evesen] +
+|Johann Heinrich Deerberg|n. 6 [the same: Evesen] +
 
 |Jobst Heinrich Krückeberg|Bärenbusch
 |===
@@ -155,7 +155,7 @@ and Birthplace |Parent's Residence|Baptismal Sponsors
 |Philippine Leonore born Blecken from no. 11 in Evesen, Luth Conf.
 |live in n. 14 in Bärenbusch
 |1 Hans Heinrich Wilharm n. 11 in Evesen +
-2 Joh. Heinr. Deerberg n. [6] in said place +
+2 Joh. Heinr. Deerberg n. 6 in said place +
 and 3 Jobst Heinrich Kruckeberg from Bärenbusch
 |===
 
