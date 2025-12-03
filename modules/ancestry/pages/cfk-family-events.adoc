@@ -210,11 +210,10 @@ Father: Kolon
 
 *†* -- The *Bleeken* surname for Phlippine Leonore is in error.
 
-[[event-table-petzen-cfg-krueckeberg-family]]
 == Event Table of Original Petzen Records for the Carl Friedrich Gottlieb Krückeberg Family
 
-*TODO:* Rewrite and move:
-
+[.narrow]
+=== Remarks on Petzen Records
 Reviewing the Petzen records from the early part of the 18th century into the early part of the 19th century, we find that
 there are not many Krückeberg records because there were not that many Krückeberg families in the Petzen parish.
 This aids finding the prior generation to Johann Heinrich and Carl Friedrich Krückeberg.
@@ -224,6 +223,9 @@ the same parents,  and lived in the same Village, and had the same parents. And 
 find the prior generation
 
 Carl Friedrich Gottlieb Krückeberg was the father of Carl Friedrich Krückeberg born in 1807.
+
+[[event-table-petzen-cfg-krueckeberg-family]]
+=== Event Table
 
 .Petzen Parish Records Event Table for Carl Friedrich Krückeberg Family
 [cols="1,2,3,3,3,2,1,2,3a,4a,3a",options="header"]
