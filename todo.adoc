@@ -1,5 +1,12 @@
 = TODO
 
+== Research Question
+
+For the k r u e c k e b e r marriage in 1727 and the subsequent children with that surname that were born in whose
+records the parentage is given either as k r u e c k e b e r g from b e r e n Busch, or Johann Heinrich k r u e c k
+e b e r g. Are these one in the same person? Is the person with Justice surname and without a given name one in the
+same as Johann Heinrich?
+
 == Xref's
 
 On `m/research/bueckeburg-archive-research.adoc`. provide xref's to individuals page that lists
