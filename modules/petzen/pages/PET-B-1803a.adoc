@@ -34,6 +34,17 @@ image::petzen-band2-img81-157-header.jpg[title="Header page 157 portion(Click to
 
 == Transliteration and Translation of header for pages 156 and 157
 
+.Significance of *Hausherr*
+****
+
+[NOTE]
+====
+A *Hausherr* did have his own independent house or housing unit.
+He was the head of that household and not a lodger, worker, or dependent.
+The exact landholding class (Kolon, Kötter, Brinksitzer, etc.) is not specified by the term.
+====
+****
+
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....

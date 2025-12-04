@@ -1,0 +1,189 @@
+= Landholding Status and Rural Society in Schaumburg-Lippe (ca. 1700–1850)
+:page-role: wide
+
+This document explains the major social and landholding terms found in the church
+and secular records of Berenbusch, Evesen, and the surrounding region of
+Schaumburg-Lippe from the early 18th through the mid 19th century. These terms—
+*Kolon*, *Kötter*, *Brinksitzer*, *Hausherr*, *Einlieger*, and related titles—were
+not merely occupational labels. They defined a person's economic standing, legal
+rights, obligations to the land and to the lordship, and their position within the
+social fabric of the village.
+
+Understanding these terms is essential for interpreting both Kirchenbücher and
+the secular administrative records (Lagerbücher, Brandkassenkataster,
+Kontributionslisten, and Visitation protocols), because nearly all such records
+were structured around household status rather than personal identity.
+
+== Rural Society in Context
+
+Between 1700 and 1850, most of the villages in Schaumburg-Lippe were shaped by
+older agrarian traditions. Land was not owned outright in a modern sense; instead,
+it was bound up in a mixture of lordship rights, hereditary leases, communal
+obligations, and settlement policies. When Berenbusch was founded in the 17th and
+early 18th century as a colonist settlement, the land was distributed to settlers
+under forms of hereditary tenure rather than fee-simple ownership. The state (the
+Fürstentum Schaumburg-Lippe), through its Amt in Bückeburg, oversaw these
+arrangements.
+
+A village, therefore, was composed not simply of “owners” but of a complex
+hierarchy of **households**, each with a recognized status. Some households held
+land; some held only a small cottage; some had no land at all. The administrative
+systems of the time—tax rolls, fire insurance (Brandkasse), land registers
+(Lagerbücher)—recorded households by the *status of their holder*, not by modern
+property categories.
+
+Within this world, the household was the fundamental unit. The *Hausherr* was its
+head; the *Kolon* or *Kötter* or *Brinksitzer* was its standing; and the *Einlieger*
+or servant was someone living within that structure but not representing it.
+
+The sections that follow explain these terms and how they relate to each other.
+
+== The Kolon (Colonist)
+
+A *Kolon* was the holder of a full colonist farmstead—one of the principal
+hereditary tenure types in Schaumburg-Lippe. The Kolonat was granted to a settler
+(usually during village expansion or reclamation of forest or heath land) on the
+condition of certain obligations: payment of rents, maintenance of the land, and
+participation in communal labor or duties. A Kolon typically held:
+
+* a substantial house,
+* farmland (arable and meadow),
+* hereditary rights to the holding, and
+* obligations toward the state or landlord.
+
+Kolone formed the upper layer of village society below the gentry and clergy.
+Their houses were the core economic units of the village, and many families lived
+for generations on the same Kolonat, often recorded in both church and secular
+registers.
+
+== The Kötter (Cottager)
+
+A *Kötter* (plural Kötter or Köter) held a smaller hereditary or semi-hereditary
+holding—usually a cottage with a small plot of land. Kötter stood below Kolone in
+social and economic rank. Their land was limited, often not enough to sustain the
+family without additional labor, such as weaving, carting, or seasonal farming
+work for larger households.
+
+Although their holdings were smaller, Kötter usually possessed:
+
+* the right to occupy their cottage,
+* a small parcel of land,
+* obligations similar to but lighter than those of the Kolon.
+
+Many Kötter households were stable over generations but lacked the wealth or
+social prominence of the full Kolonat holders.
+
+== The Brinksitzer
+
+A *Brinksitzer* (“someone sitting on the brink or edge”) was a smallholder living
+on the margin of the village—often literally on the “brink.” These households were
+typically formed later, as villages grew and marginal land became settled. A
+Brinksitzer might have:
+
+* a small dwelling,
+* little or no farmland,
+* partial rights of pasture or access to communal resources.
+
+Their economic standing was below that of the Kötter, and they frequently combined
+agricultural labor with trades or small crafts. Brinksitzer are regularly seen in
+lower-tax categories in Kontributionslisten.
+
+== The Hausherr
+
+A *Hausherr* was the head of a recognized household. The term does **not** mean
+modern ownership of a house; instead, it signifies the *responsible holder* of the
+dwelling, whether the underlying right was a Kolonat, a Kötterstelle, a cottage,
+or even an assigned house.
+
+The Hausherr:
+
+* occupied the house as its representative,
+* was liable for taxes and obligations,
+* appeared in fire-insurance registers as the insured party,
+* represented the household in legal and administrative matters,
+* was the name under which the household appeared in all secular records.
+
+This means that a man listed as Hausherr—such as *Jobst Heinrich Krückeberg* in the
+1803 baptism record—was recognized by the Amt as the responsible head of the
+dwelling (e.g., No. 6 Berenbusch), even if he did not “own” the house in a modern,
+absolute sense.
+
+The significance of being Hausherr is that the secular records were organized by
+household, so the appearance of a man as Hausherr makes him *traceable* across
+multiple administrative sources.
+
+== The Einlieger
+
+An *Einlieger* was a lodger—someone living inside another's household, without a
+holding of his own. Einlieger could be:
+
+* younger sons not yet established,
+* widowers or widows,
+* day laborers,
+* artisans without land,
+* elderly relatives living out their days in a family home.
+
+Einlieger had no formal household status; therefore, their names **rarely** appear
+in land, tax, or insurance records. They are known primarily through:
+
+* church books (baptisms, marriages, burials),
+* Nachträge (marginal notes),
+* occasional court files,
+* marriage contracts,
+* militia rolls.
+
+Understanding Einlieger status is crucial because many individuals later became
+Hausherren, Kolone, or Kötter after marriage or inheritance.
+
+== Additional Related Terms
+
+=== Hausgenosse
+A *Hausgenosse* was a dependent housemate—someone living in a household under its
+Hausherr, not independent enough to qualify as an Einlieger. This might include
+hired farmhands, servants, or extended family.
+
+=== Meier / Meierstelle
+A *Meier* held a hereditary lease (Meierrecht), similar to a Kolon but under older,
+more formalized legal traditions. The distinction between a Kolonat and a Meiergut
+is sometimes subtle and varies by region, but both represent substantial hereditary
+holdings.
+
+=== Anbauer / Anlieger
+Settlers who built small houses on village outskirts or communal lands. Their
+rights were usually limited, and over time these categories blurred with
+Brinksitzer or Kötter.
+
+== How These Terms Fit Together
+
+Village society can be pictured as a hierarchy of households:
+
+*At the top* stood the **Kolon** or **Meier**, running substantial farms and holding
+hereditary rights.  
+*Below them* were **Kötter** and **Brinksitzer**, smallholders with diminished land
+and economic power.  
+*At the base* were **Einlieger**, living within other households and lacking a
+recognized holding.
+
+The unifying element across all these statuses was the **household**. No matter the
+rank, the administrative world recognized *households* rather than individuals.
+Thus, the **Hausherr**—not the land itself—was the central figure in secular
+records.
+
+== Why This Matters for Genealogical Research
+
+The terms explained above shape how and where individuals appear in surviving
+records. A Hausherr will be present in:
+
+* Brandkassenkataster (fire-insurance registers),
+* Kontributionslisten (tax records),
+* Lagerbücher (tenure records),
+* Villages surveys and visitation protocols.
+
+By contrast, an Einlieger will appear primarily in church books, marginal notes,
+and occasional legal or military documents.
+
+Understanding these categories allows us to track Krückeberg families across the
+18th and 19th centuries and to interpret their place within the evolving
+agricultural society of Schaumburg-Lippe.
+
+

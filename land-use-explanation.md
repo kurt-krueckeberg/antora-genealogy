@@ -1,4 +1,5 @@
-You’re right to want this in plain, human terms. Here’s a clean, self-contained explainer, then a walk-through of the “Stand” words you tallied and what their mix says about village life.
+You’re right to want this in plain, human terms. Here’s a clean, self-contained explainer, then a walk-through of
+the “Stand” words you tallied and what their mix says about village life.
 
 # How landholding worked (in plain language)
 
@@ -23,8 +24,10 @@ That’s exactly what your document describes: in **1814** and **1818** the Krü
 
 These words describe a person’s **social/economic position at the moment of the entry** (baptism, marriage, burial). They’re quick tags, not full biographies.
 
-* **Hausherr** — literally “house-master”: the **head of a household**. He might be a big farmer, a smallholder, or a craftsman; the word itself doesn’t tell you how much land he has—only that he’s in charge of that dwelling.
-* **Einlieger** — a **lodger/subtenant**. Usually has **little or no land**, lives in someone else’s house or on a corner of a farm, works for wages or odd jobs.
+* **Hausherr** — literally “house-master”: the **head of a household**. He might be a big farmer, a smallholder, or
+  a craftsman; the word itself doesn’t tell you how much land he has—only that he’s in charge of that dwelling.
+* **Einlieger** — a **lodger/subtenant**. Usually has **little or no land**, lives in someone else’s house or on a
+  corner of a farm, works for wages or odd jobs.
 * **Knecht** — a **hired farmhand** (male). Works for a farmer; status can change over time.
 * **Meier/Meyer** — a **full farm holder** running one of the village’s **numbered farms** for the domain; the **family right is heritable** and comes with dues/obligations.
 * **Colon** — in your area, used much like **Meier** for a full farm holder.
@@ -34,7 +37,8 @@ These words describe a person’s **social/economic position at the moment of th
 
 ## What your counts suggest
 
-You noted (combining your lines): many **Hausherr** and **Einlieger**, very few **Meier**, a fair number of **Anerbe**, and an occasional **Knecht** or **soldier**.
+You noted (combining your lines): many **Hausherr** and **Einlieger**, very few **Meier**, a fair number of
+**Anerbe**, and an occasional **Knecht** or **soldier**.
 
 That’s a classic small-state village profile:
 

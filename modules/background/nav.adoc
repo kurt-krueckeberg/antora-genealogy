@@ -1,0 +1,5 @@
+.Land Use and Social Status
+* xref:land-use-explanation.adoc[]
+* xref:landholding-status.adoc[]
+* xref:additional-terms.adoc[] 
+
