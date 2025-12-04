@@ -14,7 +14,7 @@ nav:
   - modules/family-church-records/nav.adoc
   - modules/derived-church-records/nav.adoc
 # - modules/cincinnati-churches/nav.adoc
-# - modules/immanuel-lutheran/nav.adoc
+  - modules/immanuel-lutheran/nav.adoc
 # - modules/timelines/nav.adoc
 # - modules/persons/nav.adoc
 # - modules/emigration/nav.adoc

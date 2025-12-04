@@ -1,4 +1,2 @@
 * Derived Church Records
 ** xref:FS-CFK.adoc[]
-** xref:immanuel:ROOT:DEC-BIO-Krueckeberg-01.adoc[]
-** xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[]

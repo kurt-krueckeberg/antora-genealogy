@@ -2,9 +2,16 @@
 :page-role: very-wide
 :sectnums!:
 
-*Under Development*
-// See: https://chatgpt.com/share/691fa228-7674-8004-91a5-1bf305719fb1/
+[.narrow]
+== Derived Records
 
+Johann Heinrich Krückeberg (1807-1879) was one of the founders of Immanuel Lutheran, Decatur, Indiana, and
+his xref:immanuel:ROOT:DEC-BIO-Krueckeberg-01.adoc[founder's biography] gives details of his life upon which
+the event table below is based.
+
+== Immanuel Biograhy-Based Event Table
+
+.Events based on xref:immanuel:ROOT:DEC-BIO-Krueckeberg-01.adoc[]
 [cols="1,1,2,2,2,2,1,1,2,3,2",options="header"]
 |===
 | Event Type
@@ -17,18 +24,29 @@
 | Occupation
 | Sponsors / Witnesses
 | Notes
-| Record Page
 
-// Example row (delete after inserting real data)
-// | B
-// | 11 Feb 1739
-// | Krückeberg, Johann Heinrich
-// | Hanß Krückeberg (Hans)
-// | Ilsabein (Elisabeth)
-// | Berenbusch (B.B.)
-// | —
-// | linen weaver
-// | Cordt Vahlsing, Anna Bleeke
-// | hÿ used; ambiguous ink mark over surname
-// | xref:petzen:PET-B-1739a.adoc[PET-B-1739a]
+|Birth
+|12 Aug. 1806
+|Johann Heinrich Krückeberg
+|Jobst Krückeberg
+|Christine Eleonore Tägtmeier
+|Behrenbusch
+|
+|
+|
+. Gottlieb Krückeberg
+. Christian Tägtmeier
+|Baptized by Stille in Petzen church.
+
+
+|Confirmed
+|Around Easter 1820
+|
+|
+|
+|
+|
+|
+|
+|
 |===
