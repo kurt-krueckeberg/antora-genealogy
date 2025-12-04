@@ -62,12 +62,10 @@ unlike the xref:derived-church-records:FS-CFK.adoc[] neither mentions the source
 the biography of xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[], the first child of Carl Friedrich, gives the
 father's name as *"Carl Gottlieb"* not *"Carl Friedrich"*, making it further suspect. 
 
-== Derived Record Event Table for Family of Carl Friedrich Krückeberg
-
-This event table synthesis the information in the xref:derived-church-records:FS-CFK.adoc[].
+== Event Table for Family of Carl Friedrich Krückeberg (1807-185?)
 
 .Derived Record Event Table for Carl Friedrich Krückeberg Family
-[cols="1,2,3,3,3,2,1,2,3a,4a",options="header"]
+[cols="1,2,3,3,3,2,1,2,3a,4a,3a",options="header"]
 |===
 | Event Type
 | Event Date
@@ -79,56 +77,19 @@ This event table synthesis the information in the xref:derived-church-records:FS
 | Occupation
 | Sponsors
 | Notes
-
-| Birth
-| 21 May 1807
-| Carl Friedrich Krückeberg
-| Carl Friedrich Gottlieb Krückeberg
-| Philippine Leonore née Bleeken *†*, no. 11 Evensen [sic] at time of marriage
-| Berenbusch
-| 
-| Father: tailor
-|
-. Hans Heinrich Wilharm, No. 11,
-. Johann Heinrich Deerberg, No. 6 in Evensen,
-. Jobst Heinrich Krückeberg, Beerenbusch
-|
-
-| Birth 
-| 2 Jan. 1811
-| Louise Dorothee Weiland
-| Friedrich Wilhelm Weiland
-| Anne Catherine Drinckuth
-| Evesen
-| 20
-| 
-| 
-. Dorothee Deerberg n. 6 Evesen
-. Dorothee Lenore Kuhlmann n. 3 Evesen
-| 3^rd^ child & 3^rd^ daughter
-
-Father: Kolon
-| Confirmation
-| 8 April 1821
-| Carl Friedrich Krückeberg
-| 
-| 
-| 
-| 
-| 
-| 
-|Confirmed on Quasimodogeniti Sunday 
+| Record Page(s)
 
 | Marriage
 | 16 Nov 1834
 | Carl Friedrich Krückeberg & Luise Dorothea Weiland
-| 
-| 
-| 
-| 
-| 
-| 
-| 
+| todo 
+| todo 
+| todo 
+| todo 
+| todo 
+| todo 
+| todo 
+|xref:derived-church-records:FS-CFK.adoc[]
 
 | Birth
 | 4 Feb 1835
@@ -140,6 +101,7 @@ Father: Kolon
 | 
 | 
 | 
+|xref:derived-church-records:FS-CFK.adoc[]
 
 | Confirmation
 | 15 Apr 1849
@@ -151,6 +113,7 @@ Father: Kolon
 | 
 | 
 | Confirmed on Quasimodogeniti Sunday 
+|xref:derived-church-records:FS-CFK.adoc[]
 
 | Birth
 | 15 Oct 1837
@@ -162,6 +125,7 @@ Father: Kolon
 | 
 | 
 | 
+|xref:derived-church-records:FS-CFK.adoc[]
 
 | Birth
 | 8 Sep 1840
@@ -173,6 +137,7 @@ Father: Kolon
 | 
 | 
 | 
+|xref:derived-church-records:FS-CFK.adoc[]
 
 | Birth
 | 6 Sep 1843
@@ -184,6 +149,7 @@ Father: Kolon
 | 
 | 
 | 
+|xref:derived-church-records:FS-CFK.adoc[]
 
 | Birth
 | 23 Jul 1846
@@ -195,6 +161,7 @@ Father: Kolon
 | 
 | 
 | 
+|xref:derived-church-records:FS-CFK.adoc[]
 
 | Birth
 | 6 Feb 1850
@@ -206,6 +173,7 @@ Father: Kolon
 | 
 | 
 | 
+|xref:derived-church-records:FS-CFK.adoc[]
 |===
 
 *†* -- The *Bleeken* surname for Phlippine Leonore is in error.
