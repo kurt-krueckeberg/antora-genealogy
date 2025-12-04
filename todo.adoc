@@ -1,8 +1,8 @@
 = TODO
 
-== See the TODOes in cfk-family-events.adoc
+== cfk-family-events is too long
 
-These concern writing up a concluding proof argument for what the tables on that page tell us.
+Perhaps put some of the text into a intro page? 
 
 == Research Question
 
