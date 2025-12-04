@@ -1,0 +1,34 @@
+ = Johann Heinrich Krückeberg (1744-1822) Event Table
+:page-role: very-wide
+:sectnums!:
+
+*Under Development*
+// See: https://chatgpt.com/share/691fa228-7674-8004-91a5-1bf305719fb1/
+
+[cols="1,1,2,2,2,2,1,1,2,3,2",options="header"]
+|===
+| Event Type
+| Event Date
+| Name of Subject
+| Father
+| Mother
+| Residence / Village
+| House Number
+| Occupation
+| Sponsors / Witnesses
+| Notes
+| Record Page
+
+// Example row (delete after inserting real data)
+// | B
+// | 11 Feb 1739
+// | Krückeberg, Johann Heinrich
+// | Hanß Krückeberg (Hans)
+// | Ilsabein (Elisabeth)
+// | Berenbusch (B.B.)
+// | —
+// | linen weaver
+// | Cordt Vahlsing, Anna Bleeke
+// | hÿ used; ambiguous ink mark over surname
+// | xref:petzen:PET-B-1739a.adoc[PET-B-1739a]
+|===
