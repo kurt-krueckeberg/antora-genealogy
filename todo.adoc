@@ -1,8 +1,6 @@
 = TODO
 
-== Reorganize the Research navigation.
-
-I need a section just for Dr. Möhle.
+== Finish the Johann Heinrich Krückeberg (1807-1879) Family of Origin Event Table/Nachtraege Table
 
 == Is cfk-family-events is too long?
 
