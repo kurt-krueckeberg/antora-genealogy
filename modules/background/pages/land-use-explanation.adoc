@@ -63,7 +63,7 @@ take over the core farm.
 * *Reuter/Reiter* — a *horseman/soldier*.
 * *Carabinier* — also a *soldier* (light cavalry).
 
-=== What your counts suggest
+=== "Stand" Percentages
 
 You noted (combining your lines): many *Hausherr* and *Einlieger*, very
 few *Meier*, a fair number of *Anerbe*, and an occasional *Knecht* or
