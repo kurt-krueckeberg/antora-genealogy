@@ -131,8 +131,8 @@ the event table below is based.
 |Baptized in Petzen
 
 |Birth
-|Christine Sophie Eleonore
 |22 Aug. 1835
+|Christine Sophie Eleonore
 |Johann Heinrich Krückeberg
 |Catharina Hahn
 |
@@ -142,8 +142,8 @@ the event table below is based.
 |
 
 |Baptism
-|Christine Sophie Eleonore
 |28 Aug. 1835
+|Christine Sophie Eleonore
 |Johann Heinrich Krückeberg
 |Catharina Hahn
 |
@@ -153,8 +153,8 @@ the event table below is based.
 |Baptized in Petzen
 
 |Birth
-|Phlippine Christine
 |18 June 1837
+|Phlippine Christine
 |Johann Heinrich Krückeberg
 |Catharina Hahn
 |
@@ -164,8 +164,8 @@ the event table below is based.
 |
 
 |Baptism
-|Phlippine Christine
 |18 June 1837
+|Phlippine Christine
 |Johann Heinrich Krückeberg
 |Catharina Hahn
 |
@@ -185,7 +185,7 @@ the event table below is based.
 |
 |
 
-|Arrive in Adams CO. IN
+|Arrival in Adams CO. IN
 |21 Nov. 1849
 |Johann Heinrich Krǘckeberg family
 |
