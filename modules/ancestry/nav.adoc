@@ -1,6 +1,7 @@
 .xref:index.adoc[]
 * xref:cfk-family-events.adoc[]
-* xref:johann-heinrich-krueckeberg-1744-event-table.adoc[]
+* xref:jhk-1806-events.adoc[]
+* xref:jhk-1744-events.adoc[]
 * xref:proof-arg-philippine-eleonore-werkmeister.adoc[]
 
 
