@@ -12,7 +12,7 @@ the event table below is based.
 == Immanuel Biograhy-Based Event Table
 
 .Events based on xref:immanuel:ROOT:DEC-BIO-Krueckeberg-01.adoc[]
-[cols="1,1,2,2,2,2,1,1,2,3,2",options="header"]
+[cols="1,2,3,3,3,2,1,2,3a",options="header"]
 |===
 | Event Type
 | Event Date
