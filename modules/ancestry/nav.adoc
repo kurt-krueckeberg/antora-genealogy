@@ -1,7 +1,6 @@
-.Krückeberg Ancestry
-* xref:index.adoc[]
-** xref:cfk-family-events.adoc[]
-** xref:krueckeberg-petzen-event-table.adoc[]
-** xref:proof-arg-philippine-eleonore-werkmeister.adoc[]
+.xref:index.adoc[Krückeberg Ancestry]
+* xref:cfk-family-events.adoc[]
+* xref:krueckeberg-petzen-event-table.adoc[]
+* xref:proof-arg-philippine-eleonore-werkmeister.adoc[]
 
 
