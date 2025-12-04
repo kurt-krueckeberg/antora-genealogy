@@ -368,6 +368,9 @@ from n. 11 Evesen
 
 *†* -- The *Bleeken* surname for Phlippine Leonore is in error.
 
+[.narrow]
+=== Comments
+
 The event table shows that for each of the three children born to Carl Friedrich Gottlieb Krückeberg and Philippine
 Leonore Werkmeister (or to Philippine Leonore Bleeke as her name is recorded baptism records of her 2nd and 3rd
 children, a contradication that will be explained later), we find:
@@ -433,7 +436,6 @@ baptized 18 Mar. 1779
 (married 13 Mar. 1803)
 | xref:#event-table-petzen-cfg-krueckeberg-family[Marriage]
 |===
-
 
 [.narrow]
 == Notes on Event Interpretation
