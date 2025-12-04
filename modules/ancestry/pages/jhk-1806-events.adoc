@@ -198,3 +198,47 @@ Confirmed by Fritze
 |
 |
 |===
+
+== Petzen Original Records Event Table for Jobst Heinrich Krückeberg Family
+
+.Events based on xref:??
+[cols="1,2,3,3,3,2,1,2,3a,4a,3a",options="header"]
+|===
+| Event Type
+| Event Date
+| Name of Subject
+| Father
+| Mother
+| Residence / Village
+| House Number
+| Occupation
+| Sponsors
+| Notes
+| Record Page
+
+|Birth
+|4 Aug. 1806
+|Johann Heinrich Krückeberg
+|Jobst Heinrich Krückeberg
+|Christine Philippine Leonore Tegtmeier, from Evesen
+|Bärenbusch
+|10
+|Schuster Amtsmeister (Shoemaker Guild Master)
+|4^th^ child, 1^st^ son
+|
+|xref:petzen:PET-B-1806a.adoc[]
+
+|Baptism
+|17 Aug. 1806
+|Johann Heinrich Krückeberg
+|Jobst Heinrich Krückeberg
+|Christine Philippine Leonore Tegtmeier, from Evesen
+|Bärenbusch
+|10
+|Schuster Amtsmeister (Shoemaker Guild Master)
+|
+. Carl Friedrich Gottlieb Krückeberg, Einlieger in Bärenbush
+. C Friedrich Tegtmeier from Meinsen
+|
+|xref:petzen:PET-B-1806a.adoc[]
+|===
