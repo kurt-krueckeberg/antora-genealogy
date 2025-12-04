@@ -1,0 +1,131 @@
+= Master Research Strategy: Krückeberg Families of Berenbusch & Evesen (1700–1850)
+:page-role: wide
+
+== Purpose
+
+This document unifies the research strategy for investigating all **Krückeberg** families who lived in the villages of **Berenbusch** and **Evesen** between **1700 and 1850**.  
+Because the available secular record types differ sharply between the mid-18th and early-19th centuries, research is divided into two distinct phases:
+
+* **Part I (1700–1760):** Generallandesvisitation and early secular lists  
+* **Part II (ca. 1780–1850):** House-number-based Brandkasse, Lagerbücher, and tax registers
+
+Both phases are essential, because early church records contain gaps and ambiguities, and later secular records rely heavily on stable house numbers.
+
+== Why Two Phases Are Necessary
+
+* Before ca. 1760, **house numbers did not exist**, and secular records consist of **visitation lists, surveys, and colonist registers**.  
+* From **ca. 1780–1800**, the administration in Schaumburg-Lippe gradually shifted toward modern, standardized **house-numbered** taxation, insurance, and landholding systems.  
+* By **ca. 1802–1805**, house numbers were used consistently in administrative records, enabling detailed reconstruction of household succession.  
+* Einlieger and dependent household members appear only indirectly, but can often be identified once the Hausherr and house number are known.
+
+== PART I: Research Strategy for 1700–1760
+(Goal: Identify all Krückeberg households before house numbers existed.)
+
+The following secular sources should be examined for **any Krückeberg** (or variant spelling) residing in Berenbusch or Evesen. These records represent the only nominal secular evidence for early settlement and landholding.
+
+=== Core Documents (1700–1760)
+
+[cols="2,6a,1",width="75%"]
+|===
+|Identifier |Description |Life span
+
+|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4869389[NLA BU, L 101a, A No. 140]
+|Kolonenverzeichnis: list of all colonists with numbering (1740). Earliest near-census of householders.
+|1740–1830
+
+|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894569[NLA BU L 2 L Nr. 27/28]
+|Generallandesvisitation: survey of all house and farm owners in the Amt Bückeburg.
+|1737
+
+|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894537[NLA BU L 2 L Nr. 27/41]
+|Interview protocols with each householder in Berenbusch, Evesen, Nordholz, and Rusbend. May contain relational or predecessor information.
+|1743–1744
+
+|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894533[NLA BU L 2 L Nr. 27/13]
+|General survey of Berenbusch, Evesen, and Nordholz. Provides land context with limited personal detail.
+|1745
+
+|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894545[NLA BU L 2 L Nr. 27/54]
+|Special survey (“Spezialvermessung”) of the same villages. Useful for matching early house sites.
+|1734–1742
+
+|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v9665016[NLA BU Dep. 61 Acc. 2018/7 Nr. 245]
+|Lagerbuch (1816). Mainly for later continuity rather than early origins.
+|1816
+|===
+
+=== Priority Ranking
+
+[options="header",cols="3%,49%,48%"]
+|===
+|Priority |Document |Why It Matters
+
+|1 |Kolonenverzeichnis (L 101a A 140) |Earliest broad household listing. Likely to include all Krückebergs in Berenbusch ca. 1740.
+|2 |Visitation Survey 1737 |Identifies all house and farm owners.
+|3 |Interview Protocols 1743–1744 |May include obligations, predecessors, and relational clues.
+|4 |Village Survey 1745 |Provides supporting land context.
+|5 |Special Survey |Useful for mapping early household locations.
+|6 |1816 Lagerbuch |Important for confirming continuity but not for 1700–1760 reconstruction.
+|===
+
+=== Research Goal for 1700–1760
+
+To determine whether **all Krückeberg children born 1728–1750** descend from:
+
+**Johann Heinrich Krückeberg  
+&  
+Anna Marie Vahlsing (m. 1727)**
+
+and to reconstruct every **Krückeberg household** present in Berenbusch during the early settlement period.
+
+== PART II: Research Strategy for ca. 1780–1850
+(Goal: Identify each Krückeberg household under the emerging house-number system.)
+
+From approximately **1780 to 1800**, Schaumburg-Lippe transitioned from the old visitation-based system of recordkeeping into a more standardized administrative framework in which **house numbers** became central to taxation, insurance, and landholding.  
+By **ca. 1802–1805**, the house-number system was well established and can be used effectively to trace the Krückeberg families of Berenbusch and Evesen.
+
+### Why This Phase Is Necessary
+
+These administrative records reveal information **not found** in the Kirchenbücher:
+
+* Householder status (Kolon, Kötter, Brinksitzer, Einlieger’s host)
+* Household succession (who followed whom in each dwelling)
+* Land parcels, meadows, rights, and obligations
+* Insurance valuations
+* Approximate death or departure years
+* Identification of younger sons or sons-in-law who became successors
+
+=== Core Sources (1780–1850)
+
+* **Brandversicherungen / Brandkassenkataster**  
+  Registers of insured buildings by house number; trace succession and economic status.
+
+* **Kontributions- und Schatzungsregister**  
+  Tax lists; establish relative wealth and continuity of household occupancy.
+
+* **Lagerbücher / Meier- und Grundregister**  
+  Record hereditary rights, parcels, obligations, and transfers.
+
+* **Kolonen- & Hausnummernverzeichnisse (1740–1830)**  
+  Link early colonial households to their 19th-century numbered equivalents.
+
+=== Einlieger Considerations
+
+Einlieger do not appear directly in land/tax sources but often can be identified through:
+
+* The Hausherr under whom they lived  
+* Court files (Vormundschaften, disputes, marriage contracts)  
+* Militia rolls  
+* Nachträge in Kirchenbücher  
+
+The researcher should note any reference that clarifies the household where an Einlieger resided.
+
+== Expected Outcomes (1700–1850)
+
+* Identification of all Krückeberg households in Berenbusch and Evesen from 1700–1850  
+* Verification of early ancestry hypotheses (e.g., the 1727 marriage couple) using secular evidence  
+* Reconstruction of household succession lines into the 19th century  
+* Determination of each ancestor’s social position, tenure type, and economic status  
+* Discovery of supplementary non-church evidence otherwise absent from the Petzen Kirchenbücher  
+* Integration of all findings into genealogical event tables and Nachträge
+

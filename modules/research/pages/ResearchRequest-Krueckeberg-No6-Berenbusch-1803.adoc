@@ -1,0 +1,71 @@
+= Research Request: Non-Church Evidence for Krückeberg of No. 6 Berenbusch (1803)
+:page-role: wide
+
+== Summary of Known Facts
+
+* Individual of interest: **Jobst Heinrich Krückeberg**, recorded as **Hausherr**.
+* Wife: **Christine Philippine Techtmeÿer**.
+* Child: **Sophie Wilhelmine Krückeberg**, baptized **24 January 1803** at **No. 6 Berenbusch**.
+* Baptism record reference: xref:petzen:PET-B-1803a.adoc[].
+* Research goal: To discover what **non-Kirchenbuch records** can reveal about the **Krückeberg family**, especially details that church books do not record (tenure, landholding, economic status, succession, and household continuity).
+
+== Key Clarification
+
+The aim is **not** to reconstruct the history of Haus Nr. 6 itself.  
+The purpose is to uncover **additional information about the Krückebergs** that can only be found in secular, house-organized records. These sources may reveal:
+
+* the family's **tenure type** (Kolon, Kötter, Brinksitzer, etc.)  
+* **land parcels**, rents, and obligations  
+* **insurance valuations**  
+* **tax status** and assessed wealth  
+* **inheritance or succession** at No. 6  
+* whether earlier or later occupants were also Krückebergs  
+
+Because these records are arranged **by house number**, No. 6 Berenbusch is the necessary key to locating non-church information.
+
+== Research Request (For On-Site Researcher)
+
+Please locate and examine records for **No. 6 Berenbusch** (ca. 1780–1830) in the following administrative series.
+*Note:* Precise archival signatures for these volumes are **not fully published** and must be identified on site
+with archivist assistance.
+
+1. **Brandversicherungen / Brandkassenkataster**  
+   Insurance registers listing householders and buildings; may show the Krückeberg name, valuations, and year-to-year changes.
+
+2. **Kontributions- und Schatzungsregister**  
+   Taxpayer and valuation lists; helpful for identifying tenure, household wealth, and Krückeberg predecessors or successors.
+
+3. **Lagerbücher / Meier- und Grundregister**  
+   Registers of hereditary rights, obligations, land parcels, and changes of possession tied to No. 6.
+
+4. **Kolonen- und Hausnummernverzeichnisse**  
+   Long-running lists of householders by house number; may extend the Krückeberg line backward or forward.
+
+Please extract all entries associated with **No. 6 Berenbusch**, with emphasis on identifying the **Krückebergs**,
+their tenure, their economic standing, and any succession patterns.
+
+== Research Plan
+
+1. **Confirm Household Identity**  
+   Match all entries for **No. 6 Berenbusch** with xref:petzen:PET-B-1803a.adoc[].
+
+2. **Determine Tenure Category**  
+   Identify whether Jobst Heinrich was Kolon, Kötter, Brinksitzer, or another type of hereditary tenant.
+
+3. **Trace Predecessors and Successors**  
+   Determine whether earlier or later holders of No. 6 were Krückebergs, related kin, or in-laws.
+
+4. **Assess Economic Status**  
+   Examine valuations, rents, and landholdings to understand the family’s social and economic position.
+
+5. **Construct a Household Timeline**  
+   Create a chronological sequence of occupancy at No. 6 that clarifies generational continuity or household transitions.
+
+6. **Incorporate Findings**  
+   Add all non-Kirchenbuch evidence to the Krückeberg family reconstruction with precise cross-references.
+
+== Expected Outcome
+
+A fuller picture of **Jobst Heinrich Krückeberg** and his household, including their **tenure, landholding, tax
+status, and succession**, as revealed by secular administrative records not reflected in the Kirchenbücher.
+
