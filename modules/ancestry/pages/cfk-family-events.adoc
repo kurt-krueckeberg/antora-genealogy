@@ -224,9 +224,10 @@ We can immediately look for those Krückebergs that lived at the same address, h
 has the same occupation and the same status (Stand in German), had the network of sponsors, etc.
 We can use the same technique to find the prior generation.
 
-Especially help in confirming the individual in different records is the Nachträge (addenda) that is sometime
+Especially helpful in confirming the individual in different records is the Nachträge (addenda) that is sometime
 occurance in the margins of a record that references past of future church ceremonies involving a individual
-and sometimes their parents. 
+and sometimes their parents. So in addition to the event table, we also have a separate xref:#nachtraege[Nachträge
+table].
 
 *TODO:* Move this statement where it better fits:
 Carl Friedrich Gottlieb Krückeberg was the father of Carl Friedrich Krückeberg born in 1807.
