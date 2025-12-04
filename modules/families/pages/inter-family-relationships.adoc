@@ -2,7 +2,7 @@
 
 == Weiland and Krückeberg and Bleeke
 
-According to his Immanuel Lutheran xref:immanuel-lutheran:ROOT:DEC-BIO-Krueckeberg-01.adoc[biography], the baptismal sponsor for Johann Heinrich’s
+According to his Immanuel Lutheran xref:immanuel:ROOT:DEC-BIO-Krueckeberg-01.adoc[biography], the baptismal sponsor for Johann Heinrich’s
 eldest child, Caroline Philippine Dorathee, born February 27, 1834, in Germany, were:
 
 * **Doratha Weÿland (Weiland)**

@@ -14,7 +14,7 @@ image::north-german-lutheran:vol2-page17.jpg[align=left,title="Page and column h
 
 Two pieces of information link the Johann Heinrich Philip Bleeke family that settled in Adams County to the name of their church
 in Cincinnati Ohio. First, the name of their pastor in Cincinnati is mentioned in the Immaunel Lutheran, Decatur, Indiana,
-xref:immanuel-lutheran:ROOT:DEC-BIO-Bleeke-01.adoc[biography] of Johann Heinrich Philip Bleeke, who was one of its founders. This pastor was
+xref:immanuel:ROOT:DEC-BIO-Bleeke-01.adoc[biography] of Johann Heinrich Philip Bleeke, who was one of its founders. This pastor was
 Möllmann, and he appears in a article on the Hamilton County, Ohio, Genealogical Society's website entitled
 link:https://hcgsohio.org/upload/files/Local%20Records/Church%20Records/Rau_GENEALOGY_OF_SOME_GERMAN_EVANGELICAL_Churches_in_Cincy_and_history.pdf[Genealogy
 of Some German Evangelical Churches in Cincinnati, Ohio] written by Robert C. Rau:
@@ -32,7 +32,7 @@ church on Walnut Street between 8th and 9th Streets. The South German group, who
 took the name **German Protestant St. John's Church**.
 ____
 
-The aforementioned xref:immanuel-lutheran:ROOT:DEC-BIO-Bleeke-01.adoc[biography] of Johann Heinrich Philip Bleeke mentions the
+The aforementioned xref:immanuel:ROOT:DEC-BIO-Bleeke-01.adoc[biography] of Johann Heinrich Philip Bleeke mentions the
 names of two pastors in Cincinnati, Möllmann and Lauer:
 
 * his son Carl Fridrich Wilhelm, born 30 November 1825, was: "confirmiert um Ostern 1840 on Past. Möllmann in
