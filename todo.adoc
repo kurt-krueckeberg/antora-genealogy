@@ -9,6 +9,13 @@ when there is no Petzen record.
 This resulst in a unified, original-record–driven event table with the Familienschein or Immanuel founder's bio
 acting as a supplemental, corroborating source.
 
+Since the event table is built around a FAMILY, it should begin with the event that creates that family:
+the parents’ marriage. Everything that follows (births, baptisms, confirmations of their children, emigration,
+death of one spouse) belongs to that family, not to the parent’s family of origin.
+
+I believe this means merging parts of the two tables I have so far for Carl Friedrich Krueckeberg and Johann
+Heinrich Krueckeberg?
+
 == Is cfk-family-events is too long?
 
 Perhaps put some of the text into a intro page? 
