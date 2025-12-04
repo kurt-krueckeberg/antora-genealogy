@@ -1,6 +1,13 @@
 = Bückeburg Archive Research
 :page-role: wide
 
+This document lists the specific archival items required for conducting
+the early-period Krückeberg research (1700–1760) in the Bückeburg archive.
+It is designed to be used together with the overarching research framework
+in the Master Research Strategy:
+
+xref:RR-Krueckeberg-MasterResearch-1700-1850.adoc[].
+
 == Finding Prospective Parents of Krückebergs Born between 1736 and 1750 in Secular Records
 
 The secular records listed xref:#prospective[here] might hold the clue to the parentage of the Krückeberg
@@ -305,15 +312,6 @@ I would also like transcription for the records below, which are approximate dat
 
 |Caroline Dorothee nee Krückeberg|14 Dec. 1869
 |===
-
-
-//*TODO:* Add those individuals currently listed as children of Johann Henrich
-
-//* xref:petzen:PET-B-1728a.adoc[]
-//* xref:petzen:PET-B-1736a.adoc[]
-//* xref:petzen:PET-B-1744a.adoc[]
-//* xref:petzen:PET-B-1746a.adoc[]
-//* xref:petzen:PET-B-1750a.adoc[]
 
 [.narrow]
 === Emigration Dates to Look for

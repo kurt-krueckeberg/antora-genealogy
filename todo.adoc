@@ -1,10 +1,10 @@
 = TODO
 
-== Sponsors of jhk's (born 1807) children
+== Reorganize the Research navigation.
 
-The sponsors of jhk's children include a Krückeberg. Who was this?
+I need a section just for Dr. Möhle.
 
-== cfk-family-events is too long
+== Is cfk-family-events is too long?
 
 Perhaps put some of the text into a intro page? 
 

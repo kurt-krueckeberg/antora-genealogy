@@ -1,6 +1,15 @@
 = Master Research Strategy: Krückeberg Families of Berenbusch & Evesen (1700–1850)
 :page-role: wide
 
+This document provides the overall research framework for investigating all
+Krückeberg families in Berenbusch and Evesen between 1700 and 1850. It explains
+the two-phase approach (early secular sources before ca. 1760, and the later
+house-number–based administrative records after ca. 1780–1800). The specific
+archival volumes required for the early period (1700–1760) are listed separately
+in the companion document:
+
+xref:RR-Krueckeberg-1700-1760-TargetRecords.adoc[].
+
 == Purpose
 
 This document unifies the research strategy for investigating all **Krückeberg** families who lived in the villages of **Berenbusch** and **Evesen** between **1700 and 1850**.  

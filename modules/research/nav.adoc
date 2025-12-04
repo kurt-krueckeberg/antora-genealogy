@@ -1,8 +1,10 @@
 .Research Threads
 // * xref:background-info.adoc[]
 * xref:sigla-explained.adoc[]
+* Bückeberg Archive Research
+** xref:R-Krueckeberg-MasterResearch-1700-1850.adoc[]
+** xref:RR-Krueckeberg-1700-1760-TargetRecords.adoc 
 * German Records-related Research Questions
-** xref:bueckeburg-archive-research.adoc[]
 ** xref:johann-hinrich-krueckeberg.adoc[]
 ** xref:naming-conventions.adoc[]
 ** xref:children-of-johann-henrich-krueckeberg-born-1704.adoc[] 
