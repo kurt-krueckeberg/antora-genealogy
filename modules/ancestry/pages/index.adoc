@@ -143,7 +143,7 @@ original entry.
 
 They serve to link multiple church records to the same individual and are essential for confirming identity across
 a person’s lifetime.
-What 
+
 ===  Purpose of the Nachträge Table
 
 The Nachträge table records the marginal notes (Nachträge) found in baptism, marriage, and burial registers. These
