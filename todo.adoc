@@ -1,6 +1,13 @@
 = TODO
 
-== Finish the Johann Heinrich Krückeberg (1807-1879) Family of Origin Event Table/Nachtraege Table
+== Rework the Event Tables 
+
+Add the "Record Page" column to all the tables. Don't base a table soley around the Familienschein or Immanuel
+founder's bio. Instead use the Petzen records exclusively and only use these two other derived records
+when there is no Petzen record. 
+
+This resulst in a unified, original-record–driven event table with the Familienschein or Immanuel founder's bio
+acting as a supplemental, corroborating source.
 
 == Is cfk-family-events is too long?
 
