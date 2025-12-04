@@ -73,7 +73,7 @@ applies to her or the person in the entry following.
 |4
 |Sophie Wilhelmine
 |Jobst Heinr[ich] Krückeberg
-|[Hausherr?]
+|Hausherr
 |Berenb[usch].
 |10
 |Christine Ph[ilippine] Techtmeÿer +
@@ -92,7 +92,7 @@ applies to her or the person in the entry following.
 |4                                  
 |Sophie Wilhelmine                  
 |Jobst Heinr[ich] Krückeberg        
-|[Landlord/Farmer?]                 
+|Hausherr
 |Berenb[usch].                            
 |10                                 
 |Christine Ph[ilippine] Techtmeÿer +
