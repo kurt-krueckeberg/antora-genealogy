@@ -35,7 +35,7 @@ Kirchenbuchabschrigen for his brother Carl Friedrich Bleeke.
 The original church register entries for the church ceremonies of the children
 of Johann Heinrich Bleeke shown in the table below. This table summarizes the
 Lutheran church ceremonies of JHP Bleeke's children mentioned in his
-Immanuel Lutheran, Decatur, xref:immanuel-lutheran:DEC-BIO-Bleeke-01.adoc[biography].
+Immanuel Lutheran, Decatur, xref:immanuel-lutheran:ROOT:DEC-BIO-Bleeke-01.adoc[biography].
 Those ceremonies that took place after about 1836 would have occurred in the U.S.
 +
 [caption="Religiöse Zeremonien für: "]

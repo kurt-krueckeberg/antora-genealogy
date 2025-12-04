@@ -2,7 +2,7 @@
 
 == Birthplace
 
-Johann Heinrich Philipp Bleeke's Immanel Lutheran xref:immanuel-lutheran:DEC-BIO-Bleeke-01.adoc[biography] summarizes his parentage, marriage, children
+Johann Heinrich Philipp Bleeke's Immanel Lutheran xref:immanuel-lutheran:ROOT:DEC-BIO-Bleeke-01.adoc[biography] summarizes his parentage, marriage, children
 and how he came to Union twp, Adams, Indiana. It explains he was born 
 
 "zu Leeteln (Leteln), Kanton Windheim, Kreis Minden, Königr. Preussen"

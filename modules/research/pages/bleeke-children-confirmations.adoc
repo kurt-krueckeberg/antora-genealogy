@@ -1,6 +1,6 @@
 = Get Confirmation Records of JHP Bleeke Children
 
-Look up confirmation records for these children, who were confirmed in Indiana. See xref:immanuel-lutheran:DEC-BIO-Bleeke-01.adoc[children of JHP Bleeke].
+Look up confirmation records for these children, who were confirmed in Indiana. See xref:immanuel-lutheran:ROOT:DEC-BIO-Bleeke-01.adoc[children of JHP Bleeke].
 
 [cols="4,1,4,3"]
 |===
