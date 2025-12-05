@@ -4,8 +4,8 @@ There are three documents that tell us where the Krückebergs who settle in Adam
 Indiana, in 1849 and 1850 originate. The first is the xref:derived-church-records:FS-CFK.adoc[]....
 The other two are from two of the Immanuel Lutheran, Decatur, Indiana, founder's biographies:
 
-* The biography of
-* The biography of
+* xref:immanuel:ROOT:DEC-BIO-Weiland.adoc[]
+* xref:immanuel:ROOT:DEC-BIO-Krueckeberg-01.adoc[]
 
 *TODO:* Complete
 
