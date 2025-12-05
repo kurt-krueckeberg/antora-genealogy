@@ -5,6 +5,7 @@
 ** xref:RR-Krueckeberg-MasterResearch-1700-1850.adoc[]
 ** xref:RR-Krueckeberg-1700-1760-TargetRecords.adoc[]
 * German Records-related Research Questions
+** xref:did-jhk-1744-marry-at-17.adoc[] 
 ** xref:johann-hinrich-krueckeberg.adoc[]
 ** xref:naming-conventions.adoc[]
 ** xref:children-of-johann-henrich-krueckeberg-born-1704.adoc[] 
