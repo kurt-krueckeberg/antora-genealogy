@@ -211,20 +211,6 @@ link to the prior generation, the proof of who his parent's are.
 | Nachtrag Text
 | Corresponding Event
 
-| Caroline Dorothee Krückeberg
-| xref:petzen:PET-B-1812a.adoc[]
-| Marriage
-| „cop. 25.10.35“ +
-married 15 Oct. 1835
-| xref:#event-table-petzen-cfg-krueckeberg-family[Marriage]
-
-| Caroline Dorothee Krückeberg
-| xref:petzen:PET-B-1812a.adoc[]
-| Death
-| „gest.14.12.69“ +
-died 14 Dec. 1869
-| xref:#event-table-petzen-cfg-krueckeberg-family[Death]
-
 | Carl Friedrich Gottlieb Krückeberg
 | xref:petzen:PET-B-1779b.adoc[]
 | Baptism
@@ -238,6 +224,20 @@ baptized 18 Mar. 1779
 | „cop. 13.3.03“ +
 (married 13 Mar. 1803)
 | xref:#event-table-petzen-cfg-krueckeberg-family[Marriage]
+
+| Caroline Dorothee Krückeberg
+| xref:petzen:PET-B-1812a.adoc[]
+| Marriage
+| „cop. 25.10.35“ +
+married 15 Oct. 1835
+| xref:#event-table-petzen-cfg-krueckeberg-family[Marriage]
+
+| Caroline Dorothee Krückeberg
+| xref:petzen:PET-B-1812a.adoc[]
+| Death
+| „gest.14.12.69“ +
+died 14 Dec. 1869
+| xref:#event-table-petzen-cfg-krueckeberg-family[Death]
 |===
 
 [.narrow]
