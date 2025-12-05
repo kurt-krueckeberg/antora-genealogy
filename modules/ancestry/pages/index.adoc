@@ -1,6 +1,6 @@
 = Krückeberg Ancestry
 
-There are three documents that tell us where the Krückebergs who settle in Adams County,
+There are three documents that tell us the place of origin of the Krückebergs who settled  in Adams County,
 Indiana, in 1849 and 1850 originate. The first is the xref:derived-church-records:FS-CFK.adoc[]....
 The other two are from two of the Immanuel Lutheran, Decatur, Indiana, founder's biographies:
 
@@ -8,4 +8,5 @@ The other two are from two of the Immanuel Lutheran, Decatur, Indiana, founder's
 * xref:immanuel:ROOT:DEC-BIO-Krueckeberg-01.adoc[]
 
 *TODO:* Complete
+
 
