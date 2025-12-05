@@ -193,9 +193,6 @@ further births to this couples were found recorded, we have the entire family.
 [[nachtraege]]
 == Nachträge Table
 
-*TODO* Add the information above and the information in this paragraph below
-into a conclusions section below.
-
 The baptism record for Caroline Dorothee Krückeberg contains Nachträge, mariginal addenda, that lists
 her future marriage and burial and death dates as well as her father's exact baptism date. Having her 
 father's baptism dates allows us to immediately locate his birth record and determine who his parents are,
