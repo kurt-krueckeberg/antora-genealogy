@@ -10,9 +10,17 @@
 Date|Locality (at time
 of marriage)
 
-|*Groom*|Johann Heinrich Kruckkeberg|Nov. 7 1773|Berenbusch
+|*Groom*|Johann Heinrich Kruckkeberg, widower|Nov. 7 1773|Berenbusch
 
 |*Bride*|Ilse Anna Marie Elisabeth née Schakeln|Nov. 7 1773|Päpinghausen
+|===
+
+.Other Facts
+[%header,width="65%"]
+|===
+|Person|Fact
+
+|Johann Heinrich Kruckkeberg|Widower at time of marriage
 |===
 
 == Citation
