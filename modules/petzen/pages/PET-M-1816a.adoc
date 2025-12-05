@@ -24,17 +24,25 @@ Birth| Religion
 .Nachträge for Groom Johann Heinrich Klöpper
 [width="35%"]
 |===
-|Baptism|Death
+|Event|Date 
 
-|10 Oct. 1790|25 Dec. 1853
+|Baptism
+|10 Oct. 1790
+
+|Death
+|25 Dec. 1853
 |===
 
 .Nachträge for Bride Christine Louise Krückeberg 
 [width="35%"]
 |===
-|Birth|Death
+|Event|Date
 
-a|xref:petzen:PET-B-1798b.adoc[26 April 1798]|11 Sept. 1878
+|Birth
+a|xref:petzen:PET-B-1798b.adoc[26 April 1798]
+
+|Death
+|11 Sept. 1878
 |===
 
 .Facts for Groom's Father
