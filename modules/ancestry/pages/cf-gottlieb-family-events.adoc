@@ -44,8 +44,8 @@ Philippine Eleonore Werkmeister
 |not given
 |Groom: Berenbusch +
 Bride: Evesen
-|Groom: #10 +
-Bride: #11
+|#10 +
+#11
 |not given
 |
 |*Note:* The groom's residence is his residence at the time of marraige, not necessarily were the couple will live.
