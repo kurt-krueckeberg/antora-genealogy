@@ -4,18 +4,18 @@
 == Family Relationship and Other Facts
 
 .Confirmand's Family Group
-[width="60%"]
+[%header,width="85%",cols="3,1,1,3,3,1"]
 |===
-|||Child's Birthdate|Date of Confirmation
+|Child|Child's Birthdate|Date of Confirmation|Father|Mother|Residence
 
-|*Father*|Johann Heinrich Krückeberg 2+|
-
-|*Mother*|Anne Sophie née Crömer 2+| 
-
-|*Child/Confirmant*|Christine Louise Krückeberg|26 April 1798|7 April 1811
-
-|*Residence*|no. 19 Evesen 2+|
+|Christine Louise Krückeberg
+|26 April 1798
+|7 April 1811
+|Johann Heinrich Krückeberg 
+|Anne Sophie née Crömer
+|no. 19 Evesen 
 |===
+
 
 == Citation
 
