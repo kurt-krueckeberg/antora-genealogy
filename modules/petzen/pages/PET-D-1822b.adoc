@@ -62,7 +62,7 @@ and representing the guild in municipal matters.
 The death of Jobst Heinrich Krückeberg, on October 21, 1822, is recorded on <<PET-D-1822b, image 314, on pages 654 and 654>> of Petzen Kirchenbuch:
 Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
 
-=== Death Record Pages 654 and 655 
+== Death Record Pages 654 and 655 
 
 Page overview:
 
@@ -76,7 +76,7 @@ Page 655:
 
 image::petzen-band2-img314-655.jpg[title="Johann Heinrich Krückeberg (Click to enlarge)",link=self]
 
-=== Transliteration and Translation of Pages 654 and 655
+== Transliteration and Translation of Pages 654 and 655
 
 .Transliteration of Page Header
 [literal.bordered,subs="verbatim,quotes"]
