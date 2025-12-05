@@ -1,20 +1,14 @@
 = TODO
 
-== Rework the Event Tables 
+== Rewrite or Eliminate `m/research/johann-hinrich-krueckeberg`
 
-Add the "Record Page" column to all the tables. Don't base a table soley around the Familienschein or Immanuel
-founder's bio. Instead use the Petzen records exclusively and only use these two other derived records
-when there is no Petzen record. 
+I believe it is out of date. The "issues" paragraph at the end is good.
+It mentions that there are other birth records from the 1728 to 1750 timeframe that also 
+only mentioned the father's surname.
 
-This resulst in a unified, original-record–driven event table with the Familienschein or Immanuel founder's bio
-acting as a supplemental, corroborating source.
+== New Research Question
 
-Since the event table is built around a FAMILY, it should begin with the event that creates that family:
-the parents’ marriage. Everything that follows (births, baptisms, confirmations of their children, emigration,
-death of one spouse) belongs to that family, not to the parent’s family of origin.
-
-I believe this means merging parts of the two tables I have so far for Carl Friedrich Krueckeberg and Johann
-Heinrich Krueckeberg?
+See `m/research/p/did-jhk-1744-marry-at-17.adoc`.
 
 == Is cfk-family-events is too long?
 
