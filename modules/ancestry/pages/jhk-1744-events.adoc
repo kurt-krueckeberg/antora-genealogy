@@ -30,7 +30,7 @@ Bride: Evesen
 | not given
 | 
 | 
-|If this is the Johann Heinrich Krückeberg born in 1744, he would be only 17
-at the time of marrage, and his bride would have been 25.
+|If the groom is the Johann Heinrich Krückeberg born in 1744, he would be only 17
+at the time of marrage, while his bride would have been 25.
 | xref:petzen:PET-M-1761a.adoc[]
 |===
