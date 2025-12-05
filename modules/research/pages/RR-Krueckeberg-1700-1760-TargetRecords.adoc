@@ -138,6 +138,16 @@ Pater _ _ _ Krückeberg aus Berenbusch Gevatter Rödenbecks
 Tochter aus Scheye
 ....
 
+|xref:petzen:PET-D-1747a.adoc[5 Nov. 1747]
+|Johann Wilhelm Krückeberg
+|
+[literal.bordered,subs="verbatim,quotes"]
+....
+d 5t Novemb. Johann Wilhelm Krückeberg
+     Patris Johann Heinrich Krückeberg aus Berenbusch
+     Söhnlein begraben, alt 8 3/4 Jahr
+....
+
 |xref:petzen:PET-B-1750a.adoc[4 Nov. 1750]
 |Carl Philip Krückeberg
 |
