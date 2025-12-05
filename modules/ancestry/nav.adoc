@@ -1,5 +1,5 @@
 .xref:index.adoc[]
-* Carl Friedrich Krückeberg (1807-185?) Ancestry
+* xref:cfk-branch.adoc[]
 ** xref:cfk-family-events.adoc[]
 * Carl Friedrich Krückeberg (1806-1879) Ancestry
 ** xref:jhk-1806-events.adoc[]
