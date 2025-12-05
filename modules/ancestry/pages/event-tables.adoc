@@ -1,6 +1,4 @@
-= Krückeberg Ancestry
-
-== ✅ Event and Nachträge Tables Research Strategy
+= ✅ Event and Nachträge Tables Research Strategy
 
 *What the Event Table is; why we are building it; how it helps identify and document the
 two Krückeberg immigrants from Schaumburg-Lippe?*
