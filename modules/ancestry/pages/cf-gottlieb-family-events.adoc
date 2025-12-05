@@ -36,6 +36,23 @@ table].
 | Notes
 | Record Page(s)
 
+|Marriage
+|13 Mar. 1803
+|Carl Friedrich Gottlieb Krüceberg &
+Philippine Eleonore Werkmeister
+|not given
+|not given
+|Groom: Berenbusch +
+Bride: Evesen
+|Groom: #10 +
+Bride: #11
+|not given
+|
+|*Note:* The groom's residence is his residence at the time of marraige, not necessarily were the couple will live.
+
+There is Nachträge for the bride and groom.
+|xref:petzen:PET-M-1803a.adoc[]
+
 | Birth
 | 7 Dec. 1803
 | Christine Philippine Krückeberg
