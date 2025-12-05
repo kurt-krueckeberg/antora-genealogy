@@ -203,7 +203,7 @@ where they lived--not to mention other details his baptism record might have. It
 link to the prior generation, the proof of who his parent's are.
 
 .Nachträge table for xref:#event-table-petzen-cfg-krueckeberg-family[]
-[cols="3,3,2,4a,3a",options="header"]
+[cols="4,4,2,4a",options="header"]
 |===
 | Name of Subject
 | Source Record
@@ -213,22 +213,22 @@ link to the prior generation, the proof of who his parent's are.
 | Carl Friedrich Gottlieb Krückeberg
 | xref:petzen:PET-M-1803a.adoc[]
 | Baptism
-| baptized 18 Mar. 1779
+| "Baptized 18 Mar. 1779"
 
 | Carl Friedrich Gottlieb Krückeberg
 | xref:petzen:PET-M-1803a.adoc[]
 | Death
-| Died 13 May 1838
+| "Died 13 May 1838"
 
 | Caroline Dorothee Krückeberg
 | xref:petzen:PET-B-1812a.adoc[]
 | Marriage
-| married 15 Oct. 1835
+| "Married 15 Oct. 1835"
 
 | Caroline Dorothee Krückeberg
 | xref:petzen:PET-B-1812a.adoc[]
 | Death
-| died 14 Dec. 1869
+| "Died 14 Dec. 1869"
 |===
 
 [.narrow]
