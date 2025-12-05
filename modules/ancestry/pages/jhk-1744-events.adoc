@@ -19,16 +19,18 @@
 | Notes
 | Record Page
 
-// Example row (delete after inserting real data)
-// | B
-// | 11 Feb 1739
-// | Krückeberg, Johann Heinrich
-// | Hanß Krückeberg (Hans)
-// | Ilsabein (Elisabeth)
-// | Berenbusch (B.B.)
-// | —
-// | linen weaver
-// | Cordt Vahlsing, Anna Bleeke
-// | hÿ used; ambiguous ink mark over surname
-// | xref:petzen:PET-B-1739a.adoc[PET-B-1739a]
+| Marriage
+| 14  June 1761
+| Johann Heinrich Krückeberg &
+Anne Chritine Elisabeth Seeger
+| not given
+| not given
+|Groom: Berenbusch +
+Bride: Evesen
+| not given
+| 
+| 
+|If this is the Johann Heinrich Krückeberg born in 1744, he would be only 17
+at the time of marrage, and his bride would have been 25.
+| xref:petzen:PET-M-1761a.adoc[]
 |===
