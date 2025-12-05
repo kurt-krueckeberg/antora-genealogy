@@ -50,7 +50,7 @@ Bride: Evesen
 |
 |*Note:* The groom's residence is his residence at the time of marraige, not necessarily were the couple will live.
 
-There is Nachträge for the bride and groom.
+Nxref:#nachtraege[Nachträge exists for the bride and groom]
 |xref:petzen:PET-M-1803a.adoc[]
 
 | Birth
