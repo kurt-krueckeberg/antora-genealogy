@@ -1,6 +1,8 @@
 .xref:index.adoc[]
+* xref:event-tables.adoc[]
 * xref:cfk-branch.adoc[]
 ** xref:cfk-family-events.adoc[]
+** xref:cf-gottlieb-family-events.adoc[]
 * Carl Friedrich Krückeberg (1806-1879) Ancestry
 ** xref:jhk-1806-events.adoc[]
 //* xref:jhk-1744-events.adoc[]

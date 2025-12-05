@@ -1,0 +1,164 @@
+= Krückeberg Ancestry
+
+== ✅ Event and Nachträge Tables Research Strategy
+
+*What the Event Table is; why we are building it; how it helps identify and document the
+two Krückeberg immigrants from Schaumburg-Lippe?*
+
+== ✅ What the Event Table Is
+
+The *Event Table* is a structured list of *all genealogically relevant
+events* found in the Schaumburg-Lippe Lutheran church records,
+including:
+
+* *Baptisms*
+* *Confirmations*
+* *Marriages*
+* *Deaths/Burials*
+* *Communicant lists (if needed)*
+* *Residence indicators*
+* *House numbers (when they begin appearing)*
+* *Occupations (when given)*
+* *Patronymic/sponsor relationships*
+
+Each row corresponds to *one recorded event*, not one person.
+
+== ✅ Why the Event Table Matters for Our Case
+
+We have *two Krückeberg immigrants*:
+
+=== 1. *Johann Heinrich Krückeberg*
+
+— emigrated *1849* to Adams County, Indiana
+
+=== 2. *Carl Heinrich Krückeberg*
+
+— emigrated *1850* to Adams County, Indiana
+
+The Schaumburg-Lippe parish registers (Petzen, Frille, nearby) contain
+*multiple Krückeberg families*, often:
+
+* with the same given names
+* living in the *same village* (Berenbusch, Petzen, etc.)
+* without house numbers in early records
+* without occupations in early records
+
+So identities can sometimes easily get confused.
+
+The *Event Table solves this* by letting us:
+
+
+* ✅ cluster events belonging to the same nuclear family 
+* ✅ distinguish same-name individuals 
+* ✅ track movement between villages 
+* ✅ identify fathers and mothers even when not named 
+* ✅ document all claims with proper citations 
+* ✅ build *a defensible lineage* meeting BCG standards
+
+== ✅ What Columns the Event Table Should Contain
+
+These are the columns the event tables will contain:
+
+....
+| Event Type (B, C, M, D)
+| Event Date (exact or circa)
+| Name of subject
+| Father (as written; normalized in parentheses)
+| Mother (as written; normalized in parentheses)
+| Residence / village (as written)
+| House number (when available)
+| Occupation (if present)
+| Sponsors / witnesses (as written)
+| Notes (abbreviations, ambiguity, ditto marks)
+| Record Page
+....
+
+Optional advanced columns:
+
+* ✅ inferred identity 
+* ✅ confidence level 
+* ✅ link to other event rows
+
+== ✅ How the Event Table Connects to Building the Pedigree
+
+For *each of the two immigrants*, the Event Table allows you to:
+
+=== Step 1 — Identify the correct baptism record
+
+(eliminating others with same name)
+
+=== Step 2 — Confirm parents through:
+
+* marriage entries
+* siblings’ baptisms
+* death records
+* sponsor networks
+
+=== Step 3 — Tie family to:
+
+* a specific house number (later records)
+* village cluster (Berenbusch, etc.)
+
+=== Step 4 — Link to Indiana arrivals
+
+* matching given names of children
+* matching ages in US census
+* matching Lutheran confirmation ages
+
+=== Step 5 — Produce BCG-compliant proof
+
+* negative evidence documented
+* conflicting evidence resolved
+* citations for every assertion
+
+== ✅ Why This Helps Our German Research
+
+The Event Table becomes:
+
+* ✅ the *research brief* 
+* ✅ the *working hypothesis map* 
+* ✅ the *evidence correlation tool*
+
+So instead of thinking:
+
+____
+“Please help me figure out which Krückeberg belongs to which family…”
+____
+
+We will think:
+
+____
+“Rows 22–41 appear to be the family of the 1849 emigrant, but rows 33
+and 36 conflict due to residence wording. Please verify in archival
+material A12–K2.”
+____
+
+== ✅ Nachträge Tables
+
+=== What is Nachträge?
+
+Nachträge are later marginal notes added to entries in German church books (Kirchenbücher) that record additional
+life events—such as a person’s confirmation, marriage, death, or migration—made months or even decades after the
+original entry.
+
+They serve to link multiple church records to the same individual and are essential for confirming identity across
+a person’s lifetime.
+
+===  Purpose of the Nachträge Table
+
+The Nachträge table records the marginal notes (Nachträge) found in baptism, marriage, and burial registers. These
+notes were added years—sometimes decades—after the original entry and often record later life events such as
+confirmations, marriages, deaths, or emigration.
+
+=== Why the Nachträge is Important
+
+Nachträge are critical identity evidence. They confirm that the child baptized in a specific record is the same
+person who later:
+
+* married on a particular date,
+* died in a particular year,
+* or underwent another recorded ceremony.
+
+Because these marginal notes link multiple life events to the same individual, they strengthen genealogical proof
+and prevent mistaken identity—especially in villages where names repeat across families.
+
