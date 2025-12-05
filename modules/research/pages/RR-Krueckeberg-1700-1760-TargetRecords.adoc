@@ -37,9 +37,9 @@ The table below summarizes what is known of the parentage of these seven childre
 .Krückeberg Children born/baptized between 1728 and 1750
 [cols="1,2a,4a",frame=none]
 |===
-|Baptism Date|Child's Name|Parentage Information in Record
+|Event Date|Child's Name|Parentage Information in Record
 
-|xref:petzen:PET-B-1728a.adoc[July 7, 1728]
+|xref:petzen:PET-B-1728a.adoc[Baptism July 7, 1728]
 |Johann Friedrich Krückeberg
 |His baptism record states:
 
@@ -48,7 +48,7 @@ The table below summarizes what is known of the parentage of these seven childre
 *Johann Heinrich Krückebergs* aus Berenbusch Söhnlein Johann Friedrich getauft
 ....
 
-|xref:petzen:PET-B-1731a.adoc[13 Januar 1731] 
+|xref:petzen:PET-B-1731a.adoc[Baptism 13 Januar 1731] 
 |Rudolphia Margaretha Elisabeth Krückeberg
 |Her baptism record states:
 [literal.bordered,subs="verbatim,quotes"]
@@ -61,7 +61,7 @@ beth Weÿland, und Anna Margareth Stedings aus
 Berenbusch
 ....
 
-|xref:petzen:PET-B-1733a.adoc[6 Sept. 1733]
+|xref:petzen:PET-B-1733a.adoc[Baptism 6 Sept. 1733]
 |Jobst Heinrich Krückeberg
 |His baptism record states:
 
@@ -71,7 +71,7 @@ d 6th Septembr ist Johann Hinrich Krückeberg
 im Berenbusch Söhnlein Jobst Hinrich getrauft.
 ....
 
-|xref:petzen:PET-D-1734a.adoc[14 Feb. 1734]|
+|xref:petzen:PET-D-1734a.adoc[Burial 14 Feb. 1734]|
 Unamed "small" daughter buried
 |
 [literal.bordered,subs="verbatim,quotes"]
@@ -80,7 +80,7 @@ Unamed "small" daughter buried
 Töchterlein begrab lasß.
 ....
 
-|xref:petzen:PET-B-1736a.adoc[29 Jan. 1736]
+|xref:petzen:PET-B-1736a.adoc[Baptism 29 Jan. 1736]
 |Dorothea Elisabeth Krückeberg
 |
 [literal.bordered,subs="verbatim,quotes"]
@@ -88,7 +88,7 @@ Töchterlein begrab lasß.
 Krückeberg v. [B. B.] ein Töchterl[ein] tauft lassen (Krückeberg from Berenbusch had a daughter baptized.)
 ....                                              
 
-|xref:petzen:PET-B-1739a.adoc[11 Feb. 1739]
+|xref:petzen:PET-B-1739a.adoc[Burial 11 Feb. 1739]
 |Johann Wilhelm Krückeberg
 |His xref:petzen:PET-D-1747a.adoc[death record]
 states: +
@@ -106,7 +106,7 @@ son of Johann Heinrich Krückeberg from Berenbusch,
 was buried, aged 8¾ years
 ....
                                               
-|xref:petzen:PET-B-1741a.adoc[27 Dec. 1741]
+|xref:petzen:PET-B-1741a.adoc[Burial 27 Dec. 1741]
 |Sophie Marie Krückeberg
 |From her xref:petzen:PET-D-1801a.adoc[death
 record]:
@@ -117,7 +117,7 @@ Sophie Marie Krückeberg, des *Jobst Heinrich Krückeberg* nachgelaßen, blindge
 Krückeberg, surviving daughter of Jobst Heinrich Krückeberg, born blind)
 ....
 
-|xref:petzen:PET-B-1744a.adoc[19 Jan. 1744]
+|xref:petzen:PET-B-1744a.adoc[Baptism 19 Jan. 1744]
 |Johann Heinrich Krückeberg
 |
 [literal.bordered,subs="verbatim,quotes"]
@@ -128,7 +128,7 @@ d. 19 dito Krückeberg ein Söhnlein taufen laßen
 Soh[n?] von Nordholtz.
 ....
 
-|xref:petzen:PET-B-1746a.adoc[26 Oct. 1746]
+|xref:petzen:PET-B-1746a.adoc[Baptism 26 Oct. 1746]
 |Anna Louise Eleonore Krückeberg
 |
 [literal.bordered,subs="verbatim,quotes"]
@@ -138,7 +138,7 @@ Pater _ _ _ Krückeberg aus Berenbusch Gevatter Rödenbecks
 Tochter aus Scheye
 ....
 
-|xref:petzen:PET-D-1747a.adoc[5 Nov. 1747]
+|xref:petzen:PET-D-1747a.adoc[Burial 5 Nov. 1747]
 |Johann Wilhelm Krückeberg
 |
 [literal.bordered,subs="verbatim,quotes"]
@@ -148,7 +148,7 @@ d 5t Novemb. Johann Wilhelm Krückeberg
      Söhnlein begraben, alt 8 3/4 Jahr
 ....
 
-|xref:petzen:PET-B-1750a.adoc[4 Nov. 1750]
+|xref:petzen:PET-B-1750a.adoc[Baptism 4 Nov. 1750]
 |Carl Philip Krückeberg
 |
 [literal.bordered,subs="verbatim,quotes"]
@@ -158,10 +158,6 @@ des Leineweber Kruckebergs zu Bernbusch Sohn
 getauft: Gev[atter]. Fahlsings Sohn aus Eversen
 ....
 |===
-
-*TODO: Finish...*
-In those baptism records where the father's given name is not specified, we have
-"Krückeberg".... 
 
 [[prospective]]
 === Prospective Secular Records for Parentage of Krückeberg Children Born in 1736, 1741, 1744, 1746 and 1750.
