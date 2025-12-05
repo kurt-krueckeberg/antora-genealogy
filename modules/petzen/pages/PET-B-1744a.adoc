@@ -50,7 +50,7 @@ Due to the poor quality of the text, it is unclear word precedes "Johann Heinric
 names? It is might be **benahmsen**, with **benahmsen** likely just another form of **benamsen**, colloquial
 for _benennen_, "to name somebody or something after, or for".
 
-.Transliteration
+.Transliteration (See NOTE below)
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Anno 1744
@@ -59,7 +59,7 @@ Anno 1744
 
 d. 19 dito Krückeberg ein Söhnlein taufen laßen
 [See note below: benahmset = benamset = benennt = to name] Johann Heinrich, Gevatter sind G[eorg?]
-[Frerking/Frerkung] Ahldags. [see note below]  Weiland in Behrenbusch. Watermanns
+[Frerking/Frerkung] Ahldags.  Weiland in Behrenbusch. Watermanns
 Soh[n?] von Nordholtz.
 ....
 
