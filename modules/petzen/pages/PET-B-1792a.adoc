@@ -71,15 +71,19 @@ image::petzen-band2-img55-105.jpg[align="left",title="Click to enlarge",link=sel
 
 [IMPORTANT]
 ====
-The word *ejusd* is an abbreviation of the Latin word "ejusdem", which means "of the same" — in
+* *"10"* appears as "1/0" likely because there was no room enough to write "10".
+
+* The word *ejusd* is an abbreviation of the Latin word "ejusdem", which means "of the same" — in
 this case, "of the same [month]".
+
+(
 ====
 
 .Transliteration of page 105, entry 9
 [literal.bordered,subs="verbatim,quotes"]
 ....
    9) 3ten Febr ist Philippine Caroline Christine Krueckebergen
-1. cop. 23.2.1812    des Jobst Heinrich Krückeberg Schusters in Berenbusch No [no number]
+1. cop. 23.2.1812    des Jobst Heinrich Krückeberg Schusters in Berenbusch No 10 
 2. cop. 11.5.34      mit seiner Ehefrau Christine Philippine Eleonore
 gest. 26.10.70       geb. Tegtmeyern erzeugte und d. 1ten *ejusd* abends 6 Uhr
                  geb. Tochter. Gevatterin waren
