@@ -1,16 +1,15 @@
 = 1798 Anne Christine Eleonore Krückeberg Birth
 :page-role: wide
 
-
 == Family Relationship 
 
 .Family Relationship 
 [cols="3,3,3,2,2,2",width="85%"]
 |===
-|Father|Mother|Child|Village and
+|Child|Father|Mother|Village and
 House #er|Birthdate|Baptism Date
 
-|Jobst Heinrich Krückeberg|Anne Christine Philippine Eleonore Tegtmeÿer|Anne Chritine Eleonore|No. 10 Bärenbusch|14 Feb. 1798|18 Feb. 1798 
+|Anne Chritine Eleonore|Jobst Heinrich Krückeberg|Anne Christine Philippine Eleonore Tegtmeÿer|No. 10 Bärenbusch|14 Feb. 1798|18 Feb. 1798 
 |=== 
 
 .Baptism Sponsors
