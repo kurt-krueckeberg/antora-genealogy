@@ -32,6 +32,33 @@ Answer:
 * The record states he was the  the 4^th^ child and 1`^st^ son of the *1^st^ marragie*.
 * When Jobst Heinrich, his father, died, he was survied by "his widow 4 children, namely 3 daughters and 1 son".
 
+== Contradictions
+
+Jobst Heinrivh Krückeberg clearly appears to have had five daughters and one son, five total children, because
+each of the children has:
+
+create a table?
+
+* the same parents,
+* and the same Village,
+* and I believe the same numeric address
+
+Does each of the children also has a confirmation record? That would be two records for each child.
+ 
+There isn't really a good explanation why the record of the birth of his son Johann Heinrich states that he
+is the first of first son of four children of the first wife. There is no record of his second wife, and when
+he dies his death record states that there are this is that the survivors are his wife and three daughters and
+one son. We don't have a death record for any of the children. So this is a bit of a mystery. I can check for
+death records again. But one of the children may have married moved to a different village because her husband was from a different village and subsequently died. We just don't know.
+
+In one of the birth records of one of the children the mother's surname is spelled differently, but she is clearly
+the same person because their given names are the same as is her place of origin and the spelling is not
+so different that it greatly differs in pronunciation.
+
+In terms of the number of survivors after Jobst death, one or two of the children could have died. We just don't
+know?
+
+
 == Petzen Original Records Event Table for Jobst Heinrich Krückeberg Family
 
 .Events based on xref:??
