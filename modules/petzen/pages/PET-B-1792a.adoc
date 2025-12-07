@@ -71,7 +71,7 @@ image::petzen-band2-img55-105.jpg[align="left",title="Click to enlarge",link=sel
 
 [IMPORTANT]
 ====
-* *"10"* appears as "1/0" likely because there was no room enough to write "10".
+* *"10"* appears as "1/0" likely because there was not enough room to write "10".
 
 * The word *ejusd* is an abbreviation of the Latin word "ejusdem", which means "of the same" — in
 this case, "of the same [month]".
