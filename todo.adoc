@@ -1,5 +1,9 @@
 = TODO
 
+== Change Citations for Frille Kirchenbuchduplikat
+
+Change the FRI-*-182??.adoc and FRI-*-183>>.adoc file from what I have not to match the format of `FRI-M-1826a.adoc`.
+
 == Research
 
 Find the death of Philippine Caroline Christine Krückeberg's 1st husband, since she
