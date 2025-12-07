@@ -86,6 +86,20 @@ this case, "of the same [month]".
    geb. Tochter. Gevatterin waren
      1. die alte Krückebergen als Gros[sm]utter
      2. die Fa[h]lsi[e/n]gen des Schäfers aus Evensen [????]
+....
+
+.Transliteration and translation of margin notations
+[literal.bordered,subs="verbatim,quotes"]
+....
+1. cop. 23.2.1812
+2. cop. 11.5.34
+gest. 26.10.70
+....
+
+
+.Translation of page 105, entry 9
+[literal.bordered,subs="verbatim,quotes"]
+....
 
 9) 3rd Febr Philippine Caroline Christine Krueckeberg was baptized
    the begotten daughter of Jobst Heinrich Krückeberg cobbler in Berenbusch No [no number]
@@ -99,10 +113,6 @@ this case, "of the same [month]".
 .Transliteration and translation of margin notations
 [literal.bordered,subs="verbatim,quotes"]
 ....
-1. cop. 23.2.1812
-2. cop. 11.5.34
-gest. 26.10.70
-
 1. married 2/23/1812
 2. married 5/11/1834
 died 10/26/1870

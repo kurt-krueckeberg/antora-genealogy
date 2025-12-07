@@ -1,5 +1,11 @@
 = TODO
 
+== Research
+
+Find the death of Philippine Caroline Christine Krückeberg's 1st husband, since she
+remarried, according to the Nachtaege in her baptism record, PET-B-1792a.adoc, on
+11 May 1834, after first marrying on 23 Feb. 1812.
+
 == Rewrite or Eliminate `m/research/johann-hinrich-krueckeberg`
 
 I believe it is out of date. The "issues" paragraph at the end is good.
