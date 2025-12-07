@@ -32,10 +32,10 @@
 *** xref:frille:FRI-B-1821a.adoc[]
 *** xref:frille:FRI-B-1823b.adoc[]
 *** xref:frille:FRI-B-1825a.adoc[]
+*** xref:frille:FRI-D-1825a.adoc[]
 *** xref:frille:FRI-B-1828b.adoc[]
 *** xref:frille:FRI-B-1831a.adoc[]
 *** xref:frille:FRI-B-1833c.adoc[]
-*** xref:frille:FRI-D-1825a.adoc[]
 *** xref:german-evangelical-lutheran-and-reformed-church:CIN-B-1837a.adoc[]
 *** xref:german-evangelical-lutheran-and-reformed-church:CIN-B-1840a.adoc[]
 ** Christian Friedrich Bleeke's (1800) Children
