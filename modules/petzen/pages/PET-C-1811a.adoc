@@ -53,7 +53,7 @@ image::petzen-band2-img207-439-entry20.jpg[[title="Anne Christine Leonore Krück
 
 |19)|Anne Marie Stedings|Albrecht Carl Steding|Dorothee Philippine Wöbklings|Petzen no. 15|d[ate]. 14. Jan. 1798| 
 
-|20)|Anne Christine Leonore Krückebergs|Jobst Heinrich Kruckeberg|Anna Christine Philippine. geb[oren = born] Tegtmeier|Bärenbusch n. 10|d[ate]. 14. Febr. 1798|
+|20)|Anne Christine Leonore Krückebergs|Jobst Heinrich Kruckeberg|Anna Christine Philippine geb. Tegtmeier|Bärenbusch n. 10|d[ate]. 14. Febr. 1798|
 |===
 
 [caption="German Translation: "]
@@ -64,7 +64,7 @@ image::petzen-band2-img207-439-entry20.jpg[[title="Anne Christine Leonore Krück
 
 |19)|Anne Marie Stedings|Albrecht Carl Steding|Dorothee Philippine Wöbklings|Petzen no. 15|d[ate]. 14. Jan. 1798| 
 
-|20)|Anne Christine Leonore Krückeberg|Jobst Heinrich Kruckeberg|Anna Christine Philippine. geb[oren = born] Tegtmeier|Bärenbusch n. 10|d[ate]. 14. Febr. 1798|
+|20)|Anne Christine Leonore Krückeberg|Jobst Heinrich Kruckeberg|Anna Christine Philippine nee Tegtmeier|Bärenbusch n. 10|d[ate]. 14. Febr. 1798|
 |===
 
 
