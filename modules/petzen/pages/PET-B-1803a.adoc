@@ -6,10 +6,10 @@
 .Family Relationship 
 [cols="3,2,3,2,2,2,2"]
 |===
-|Father|"Stand"|Mother|Child|Location|Child's Birthdate|Child's Baptism Date
+|Child|Father|"Stand"|Mother|Location|Child's Birthdate|Child's Baptism Date
 
-|Jobst Heinrich Krückeberg|Hausherr|Christine Philippine Techtmeÿer +
-from Meinsen|Sophie Wilhelmine|No. 10 Berenbusch|24 Jan 1803|30 Jan 1803
+|Sophie Wilhelmine|Jobst Heinrich Krückeberg|Hausherr|Christine Philippine Techtmeÿer +
+from Meinsen|No. 10 Berenbusch|24 Jan 1803|30 Jan 1803
 |===
 
 .Baptism Sponsors
