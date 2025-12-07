@@ -4,15 +4,11 @@
 == Family Relationship and Other Facts
 
 .Family Relationship 
-[%header,cols="2,4,2",width="45%"]
+[%header,cols="3,3,2,1",width="85%"]
 |===
-||Name|Baptism Date
+|Child|Father|Residence|Baptism Date
 
-|*Father*|Johann Heinrich Krückeberg|
-
-|*Child*|Jobst Heinrich Krückeberg|March 24, 1765
-
-|*Residence*|Berenbusch|
+|Jobst Heinrich Krückeberg|Johann Heinrich Krückeberg|Berenbusch|March 24, 1765
 |===
 
 
