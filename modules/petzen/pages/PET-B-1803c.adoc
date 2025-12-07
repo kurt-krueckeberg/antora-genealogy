@@ -6,10 +6,10 @@
 .Family Relationship 
 [cols="3,2,3,3,2,2,2"]
 |===
-|Father|"Stand"|Mother|Child|Location|Child's Birthdate|Child's Baptism Date
+|Child|Father|"Stand"|Mother|Location|Child's Birthdate|Child's Baptism Date
 
-|Carl Friedrich Krückeberg|Einlieger|Philippine née Werkmeister|Christine Philippine|Evesen 
-(No. not given)|7 Dec. 1803|11 Dec. 1803
+|Christine Philippine|Carl Friedrich Krückeberg|Einlieger|Philippine née Werkmeister|Evesen 
+(No. missing)|7 Dec. 1803|11 Dec. 1803
 |===
 
 .Baptism Sponsors
