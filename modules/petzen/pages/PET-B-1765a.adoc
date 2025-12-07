@@ -34,9 +34,10 @@ image::petzen-band1a-img211-header.jpg[align=left,title='Page header for image 2
 
 The page header transliteration:
 
-----
+[literal.bordered,subs="verbatim,quotes"]
+....
 1765                  Getaufte (Baptisms)
-----
+....
 
 === Baptism Entry
 
