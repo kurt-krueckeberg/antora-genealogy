@@ -51,8 +51,6 @@ This entry appears on <<PET-B-1792a,image 55, page 105>> of Petzen Kirchenbuch v
 
 === Header Page 105
 
-image::petzen-band2-img55-105.jpg[align="left",title="Click to enlarge",link=self]
-
 .Transliteration of page 105 header
 [literal.bordered,subs="verbatim,quotes"]
 ....
