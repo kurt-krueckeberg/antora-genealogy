@@ -5,12 +5,7 @@
 [.narrow]
 == Introduction
 
-Using the event table for Johann Heinrich Krückeberg (1806-1879) as
-
-In addition to the information in his immanuel biograhy, we also have the Rentcammer (Fiscal Chamber of the
-Schaumburg-Lippe government) case files found in the state archive to help us to discover Johann Heinrich 
-Krückeberg's family of origin. There are three case files that mentioned Johann Heinrich and his father Jobst
-Heinrich, one also mentions his mother. These are a backup source we can turn to if needed.
+Using the event table for Johann Heinrich Krückeberg (1806-1879) 
 
 This information togeter with all and any information found in the Petzen church records of prospective family
 members will guide our research strategy in building his family of origin.
@@ -18,46 +13,32 @@ members will guide our research strategy in building his family of origin.
 == Steps
 
 The xref:jhk-1806-events.adoc#event-table[] takes us to his Petzen xref:petzen:PET-B-1806a.adoc[1807 birth record],
-which confirms his birth date, his parents names (which are further clarified), his baptismal sponsors, and the
-village where the family lived. The  xref:jhk-1806-events.adoc#event-table[] also takes us to his Petzen 1820
-confirmation record. 
-
-Using the parent's names, their residence, and the father's occupation, we next look for other children born to this
-couple, and we find four older daughters?
-
-QUESTION: Jhk's birth record states he is the 4^th^ child and 1`^st^ son. How could he then have four older
-sisters?
+which confirms his birth date, his parents names, which are further clarified, his baptismal sponsors, and the
+village where the family lived. The xref:jhk-1806-events.adoc#event-table[] also takes us to his Petzen 1820
+confirmation record. Using the parent's names, their residence, the father's occupation, and any family attributes
+as a guide, we looks for other children born to this couple and their confirmation and marriage records.
 
 Answer: 
 * The record states he was the  the 4^th^ child and 1`^st^ son of the *1^st^ marragie*.
 * When Jobst Heinrich, his father, died, he was survied by "his widow 4 children, namely 3 daughters and 1 son".
 
-== Contradictions
+== Contradictions and Questions
 
-Jobst Heinrivh Krückeberg clearly appears to have had five daughters and one son, five total children, because
-each of the children has:
+Jobst Heinrich Krückeberg clearly appears to have had five daughters and one son, five total children. Yet when 
+Johann Heinrich is born in 1806, he is, according to his birth-baptism record, the *4^th^ child and 1^st^ son
+of the first marriage*. But there was only one marraige--right?
 
-create a table?
-
-* the same parents,
-* and the same Village,
-* and I believe the same numeric address
-
-Does each of the children also has a confirmation record? That would be two records for each child.
- 
-There isn't really a good explanation why the record of the birth of his son Johann Heinrich states that he
-is the first of first son of four children of the first wife. There is no record of his second wife, and when
-he dies his death record states that there are this is that the survivors are his wife and three daughters and
-one son. We don't have a death record for any of the children. So this is a bit of a mystery. I can check for
-death records again. But one of the children may have married moved to a different village because her husband was from a different village and subsequently died. We just don't know.
+When Jobst Heinrich dies in 1822, this curious "fact" is repeated. He is survived by "a widow and ffour children,
+namely three daughters and one son." It could be that two of the five daughter died, which left three daughters.
+If  two of the daughters married spouses from other parishes, and subsequently died--something we will never know,
+then only three daughters would have survived him.
 
 In one of the birth records of one of the children the mother's surname is spelled differently, but she is clearly
 the same person because their given names are the same as is her place of origin and the spelling is not
 so different that it greatly differs in pronunciation.
 
-In terms of the number of survivors after Jobst death, one or two of the children could have died. We just don't
-know?
-
+In the birth record of the first child, Philippine Caroline Christine, her Krückeberg grandmother is a baptismal
+sponsor. She is still alive! Who would this be?
 
 == Petzen Original Records Event Table for Jobst Heinrich Krückeberg Family
 
@@ -101,4 +82,16 @@ know?
 . C Friedrich Tegtmeier from Meinsen
 |
 |xref:petzen:PET-B-1806a.adoc[]
+
+|Confirmation
+|2 April 1820
+|Johann Heinrich Krückeberg
+|not given
+|not given
+|Bärenbusch
+|not given
+|not given
+|
+|Quasimodigeniti win 1818 was 2 Apr. 1818
+|xref:petzen:PET-C-1820a.adoc[]
 |===
