@@ -17,7 +17,7 @@ members will guide our research strategy in building his family of origin.
 
 == Steps
 
-The xref:jhk-1806-events.adoc#event-table[] takes us to his Petzen xref:petzen:PET-B-1807.adoc[1807 birth record],
+The xref:jhk-1806-events.adoc#event-table[] takes us to his Petzen xref:petzen:PET-B-1806a.adoc[1807 birth record],
 which confirms his birth date, his parents names (which are further clarified), his baptismal sponsors, and the
 village where the family lived. The  xref:jhk-1806-events.adoc#event-table[] also takes us to his Petzen 1820
 confirmation record. 

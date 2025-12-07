@@ -7,25 +7,17 @@ The baptism of Philippine Caroline Christine Kruckebergen 1792, page 105.
 
 [caption="Family group for: "]
 .1792 Philippine Caroline Christine Kruckeberg Baptism
-[%header,width="60%",cols="2,4,2,2"]
+[%header,cols="2,4,2,2"]
 |===
-||Name|Birthdate|Baptism Date
+|Child|Father|Occupation|Mother|Residence|Birthdate|Baptism Date
 
-|*Father* 3+|Jobst Heinrich Krückeberg
-
-|*Mother* 3+|Christine Philippine Eleonore née Tegtmeyer
-
-|*Child/Infant*|Philippine Caroline Christine|1 Feb. 1792|3 Feb. 1792
-
-|*Residence* 3+|Berenbusch
-|===
-
-.Jobst Heinrich Krückeberg Facts
-[width="35%"]
-|===
-|Fact
-
-|Occupation is cobbler
+|Philippine Caroline Christine
+|Jobst Heinrich Krückeberg
+|Cobbler
+|Christine Philippine Eleonore Tegtmeyer
+|Berenbusch
+|1 Feb. 1792
+|3 Feb. 1792
 |===
 
 .Nachträge for Philippine Caroline Christine Kruckeberg 
