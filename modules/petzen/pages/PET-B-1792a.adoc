@@ -69,7 +69,7 @@ image::petzen-band2-img55-105.jpg[align="left",title="Click to enlarge",link=sel
 
 image::petzen-band2-img55-105.jpg[align="left",title="Click to enlarge",link=self]
 
-[NOTE]
+[IMPORTANT]
 ====
 * Dates noted in the left margin have been displayed separately.
 * The word *ejusd* is an abbreviation of the Latin word "ejusdem", which means "of the same" — in
@@ -82,7 +82,7 @@ this case, "of the same [month]".
 9) 3ten Febr ist Philippine Caroline Christine Krueckebergen
    des Jobst Heinrich Krückeberg Schusters in Berenbusch No [no number]
    mit seiner Ehefrau Christine Philippine Eleonore
-   geb. Tegtmeyern erzeugte und d. 1ten [time signifier?] abends 6 Uhr
+   geb. Tegtmeyern erzeugte und d. 1ten *ejusd* abends 6 Uhr
    geb. Tochter. Gevatterin waren
      1. die alte Krückebergen als Gros[sm]utter
      2. die Fa[h]lsi[e/n]gen des Schäfers aus Evensen [????]
