@@ -80,7 +80,7 @@ this case, "of the same [month]".
 [literal.bordered,subs="verbatim,quotes"]
 ....
 9) 3ten Febr ist Philippine Caroline Christine Krueckebergen
-   des Jobst Heinrich Krückeberg [Sc]husters in Berenbusch No [no number]
+   des Jobst Heinrich Krückeberg Schusters in Berenbusch No [no number]
    mit seiner Ehefrau Christine Philippine Eleonore
    geb. Tegtmeyern erzeugte und d. 1ten [time signifier?] abends 6 Uhr
    geb. Tochter. Gevatterin waren
