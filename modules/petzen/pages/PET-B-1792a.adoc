@@ -87,12 +87,16 @@ gest. 26.10.70       geb. Tegtmeyern erzeugte und d. 1ten *ejusd* abends 6 Uhr
                  2. die Fa[h]lsi[e/n]gen des Schäfers aus Evensen [????]
 ....
 
-.Transliteration and translation of margin notations
+.Translation of page 105, entry 9
 [literal.bordered,subs="verbatim,quotes"]
 ....
-1. cop. 23.2.1812
-2. cop. 11.5.34
-gest. 26.10.70
+   9) 3rd Febr Philippine Caroline Christine Krueckeberg was baptized
+1. married 2/23/1812     the begotten daughter of Jobst Heinrich Krückeberg cobbler in Berenbusch No [no number]
+2. married 5/11/1834     and his wife Christine Philippine Eleonore
+died 10/26/1870          born Tegtmeyer and born 1st. of the same month[at] 6 o'clock in the evening
+               born Tochter. Godmothers were
+               1. the old Krückeberg as grandmother.
+               2. the Fahlsi[e/n]s of the Schäfers[likely surname. Not shepherd(s)] from Evensen [unclear]
 ....
 
 [bibliography]
