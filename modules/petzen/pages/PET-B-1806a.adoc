@@ -15,9 +15,9 @@
 .Child Johann Heinrich Krückeberg Facts
 [%header]
 |===
-|Name|Birthdate| Baptism Date|Baptism Place
+|Name|Birthdate| Birth Order| Baptism Date|Baptism Place
 
-|Johann Heinrich Krückeberg|12 Aug 1806, 4 p.m.|17 Aug 1806|Petzen
+|Johann Heinrich Krückeberg|4^th^ child, 1^st^ son |12 Aug 1806, 4 p.m.|17 Aug 1806|Petzen
 |===
 
 .Father Jobst Heinrich Krückeberg Facts

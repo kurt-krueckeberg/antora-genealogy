@@ -1,15 +1,25 @@
-= Johann Heinrich Krückeberg (1806-1879) Event Table
+= Jobst Heinrich Krückeberg (1779-1822) Family Event Table
 :page-role: very-wide
 :sectnums!:
 
 [.narrow]
-== Johann Heinrich Krückeberg's Immanuel Founders Biography
+== Introduction
 
-Johann Heinrich Krückeberg (1806-1879) was one of the founders of Immanuel Lutheran, Decatur, Indiana, and
-his founder's xref:immanuel:ROOT:DEC-BIO-Krueckeberg-01.adoc[founder's biography] contains the information
-displayed in the event table below. The source of the information in his biography is not given.
+Using the event table for Johann Heinrich Krückeberg (1806-1879) as
 
-[[event-table]]
+In addition to the information in his immanuel biograhy, we also have the Rentcammer (Fiscal Chamber of the
+Schaumburg-Lippe government) case files found in the state archive to help us to discover Johann Heinrich 
+Krückeberg's family of origin. There are three case files that mentioned Johann Heinrich and his father Jobst
+Heinrich, one also mentions his mother. These are a backup source we can turn to if needed.
+
+This information togeter with all and any information found in the Petzen church records of prospective family
+members will guide our research strategy in building his family of origin.
+
+== Steps
+
+The xref:jhk-1806-events.adoc#event-table[] takes us to his Petzen xref:petzen:PET-B-1807.adoc[1807 birth record],
+which confirms .
+
 == Immanuel Biograhy-Based Event Table
 
 .Events based on xref:immanuel:ROOT:DEC-BIO-Krueckeberg-01.adoc[]
@@ -200,3 +210,46 @@ Confirmed by Fritze
 |
 |===
 
+== Petzen Original Records Event Table for Jobst Heinrich Krückeberg Family
+
+.Events based on xref:??
+[cols="1,2,3,3,3,2,1,2,3a,4a,3a",options="header"]
+|===
+| Event Type
+| Event Date
+| Name of Subject
+| Father
+| Mother
+| Residence / Village
+| House Number
+| Occupation
+| Sponsors
+| Notes
+| Record Page
+
+|Birth
+|4 Aug. 1806
+|Johann Heinrich Krückeberg
+|Jobst Heinrich Krückeberg
+|Christine Philippine Leonore Tegtmeier, from Evesen
+|Bärenbusch
+|10
+|Schuster Amtsmeister (Shoemaker Guild Master)
+|4^th^ child, 1^st^ son
+|
+|xref:petzen:PET-B-1806a.adoc[]
+
+|Baptism
+|17 Aug. 1806
+|Johann Heinrich Krückeberg
+|Jobst Heinrich Krückeberg
+|Christine Philippine Leonore Tegtmeier, from Evesen
+|Bärenbusch
+|10
+|Schuster Amtsmeister (Shoemaker Guild Master)
+|
+. Carl Friedrich Gottlieb Krückeberg, Einlieger in Bärenbush
+. C Friedrich Tegtmeier from Meinsen
+|
+|xref:petzen:PET-B-1806a.adoc[]
+|===
