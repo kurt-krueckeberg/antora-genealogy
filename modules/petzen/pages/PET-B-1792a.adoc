@@ -69,9 +69,9 @@ image::petzen-band2-img55-105.jpg[align="left",title="Click to enlarge",link=sel
 
 [IMPORTANT]
 ====
-* *"10"* appears as "1/0" likely because there was not enough room to write "10".
+The residence number *10* appears as pass:[<strong><span style="display:inline-block;vertical-align:middle;line-height:0.85;text-align:center;font-size:110%;"><span style="display:block;">1</span><span style="display:block;border-top:1px solid #000;width:100%;">0</span></span></strong>] likely because there was not enough room to write "10".
 
-* The word *ejusd* is an abbreviation of the Latin word "ejusdem", which means "of the same" — in
+The word *ejusd* is an abbreviation of the Latin word "ejusdem", which means "of the same" — in
 this case, "of the same [month]".
 ====
 
