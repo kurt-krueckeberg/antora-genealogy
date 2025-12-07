@@ -7,7 +7,7 @@ The baptism of Philippine Caroline Christine Kruckebergen 1792, page 105.
 
 [caption="Family group for: "]
 .1792 Philippine Caroline Christine Kruckeberg Baptism
-[%header,cols="2,4,2,2"]
+[%header,cols="4,4,2,4,3,2,2"]
 |===
 |Child|Father|Occupation|Mother|Residence|Birthdate|Baptism Date
 
