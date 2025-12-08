@@ -2,7 +2,12 @@
 
 There are three documents that tell us the place of origin of the Krückebergs who settled in Adams County,
 Indiana, in 1849 and 1850: the xref:derived-church-records:FS-CFK.adoc[], the xref:immanuel:ROOT:DEC-BIO-Krueckeberg-01.adoc[]
-and the xref:immanuel:ROOT:DEC-BIO-Krueckeberg-01.adoc[].
+and the xref:immanuel:ROOT:DEC-BIO-Krueckeberg-01.adoc[]. All three give Berenbusch (which they spell in various ways) in the principality of Schaumburg-Lippe as
+that place. 
 
-All three give Berenbusch (which they spell in various ways) in the principality of Schaumburg-Lippe as
-that place.
+Johann Heinrich Krückeberg was the brother-in-law of another Immanuel Lutheran founder, Heinrich Wilhelm Weiland.
+Both of their families traveled together to the U.S. aboard the same ship. As the
+xref:immanuel:ROOT:DEC-BIO-Weiland.adoc[] tells us, he was from Evesen, which was located just south of Berenbusch.
+
+The closest Lutheran parish to Berenbusch and Evesen was Petzen, which is mentioned in all ??? four/three
+documents.
