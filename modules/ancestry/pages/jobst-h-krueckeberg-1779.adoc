@@ -51,6 +51,19 @@ sponsor. She is still alive! Who would this be?
 | Record Page
 
 |Birth
+|1 Feb. 1792
+|Philippine Caroline Christine
+|Jobst Heinrich Krückeberg
+|Christine Philippine Eleonore Tegtmeyer
+|Berenbusch
+| No 10
+|Shoemaker
+. the old Krückeberg being a grandmother.
+. the wife of Fahlsing of the shepards from Evensen
+|We are not old if they are tenants.
+|xref:petzen:PET-B-1792a.adoc[]
+
+|Birth
 |4 Aug. 1806
 |Johann Heinrich Krückeberg
 |Jobst Heinrich Krückeberg
@@ -87,4 +100,13 @@ sponsor. She is still alive! Who would this be?
 |
 |Quasimodigeniti win 1818 was 2 Apr. 1818
 |xref:petzen:PET-C-1820a.adoc[]
+|===
+
+.Nachträge
+|===
+|Name of Subject|Source Record|Referenced Ceremony|Nachtrag Text
+
+|Philippine Caroline Christine
+|xref:petzen:PET-B-1792a.adoc[]
+|xref:petzen:1^st^ marriage
 |===
