@@ -4,13 +4,13 @@
 == Family Relationship and Other Facts
 
 .1794 Birth
-[%header,cols="1,3,4,2",width="60%"]
+[%header,cols="4,4,4",width="85%"]
 |===
-|        | Name     | Address (at time of marriage)|Birthplace
+|Daughter|Father| Address 
 
-|*Father*|Johann Heinrich Krückeberg| no. 10 in Bärenbusch when she marries in 1812|
-
-|*Daughter*|Marie Philippine Krückeberg|no. 10 in Bärenbusch when she marries in 1812|Steinbergen
+|Marie Philippine Krückeberg
+|Johann Heinrich Krückeberg
+|no. 10 in Bärenbusch when she marries in 1812
 |===
 
 .Nachträge for Bride Marie Philippine Krückeberg 

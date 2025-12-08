@@ -56,11 +56,24 @@ sponsor. She is still alive! Who would this be?
 |Jobst Heinrich Krückeberg
 |Christine Philippine Eleonore Tegtmeyer
 |Berenbusch
-| No 10
+|No 10
 |Shoemaker
+|
+|We are not old if they are tenants.
+|xref:petzen:PET-B-1792a.adoc[]
+
+|Baptism
+|3 Feb. 1792
+|Philippine Caroline Christine
+|Jobst Heinrich Krückeberg
+|Christine Philippine Eleonore Tegtmeyer
+|Berenbusch
+|No 10
+|Shoemaker
+|
 . the old Krückeberg being a grandmother.
 . the wife of Fahlsing of the shepards from Evensen
-|We are not old if they are tenants.
+|We are not told if they are tenants.
 |xref:petzen:PET-B-1792a.adoc[]
 
 |Birth
@@ -104,9 +117,13 @@ sponsor. She is still alive! Who would this be?
 
 .Nachträge
 |===
-|Name of Subject|Source Record|Referenced Ceremony|Nachtrag Text
+|Name of Subject|Source Record|Referenced Ceremony
 
 |Philippine Caroline Christine
 |xref:petzen:PET-B-1792a.adoc[]
-|xref:petzen:1^st^ marriage
+|xref:petzen:PET-M-1812b.adoc[1^st^ marriage, 23 Feb. 1812]
+
+|Philippine Caroline Christine
+|xref:petzen:PET-B-1792a.adoc[]
+|2^nd^ marriage: 11 May 1834
 |===
