@@ -7,7 +7,7 @@
 
 Johann Heinrich Krückeberg (1806-1879) was one of the founders of Immanuel Lutheran, Decatur, Indiana, and
 his founder's xref:immanuel:ROOT:DEC-BIO-Krueckeberg-01.adoc[founder's biography] contains the information
-displayed in the event table below. The source of the information in his biography is not given.
+displayed in the event table below. The source of the information is not attributed.
 
 [[event-table]]
 == Immanuel Biograhy-Based Event Table
