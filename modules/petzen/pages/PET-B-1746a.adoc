@@ -19,6 +19,13 @@
 |Rödenbeck's daughter|Scheye
 |===
 
+[IMPORTANT]
+====
+We know from xref:PET-D-1757b.adoc[her death record] that she was born blind. This was also true of 
+Sophie Marie Krückeberg xref:PET-B-1741a.adoc[born in 1741], whose xref:PET-D-1801a.adoc[death record]
+states she was also born blind.
+====
+
 == Citation
 
 The baptism appears on <<PET-B-1746a, image 174>> at the bottom of the left-hand
