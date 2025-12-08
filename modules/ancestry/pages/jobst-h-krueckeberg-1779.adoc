@@ -173,6 +173,30 @@ from Meinsen
 |Birthdate: 14 Jan. 1798
 |xref:petzen:PET-C-1811a.adoc[]
 
+|Marriage
+|23 Feb. 1812
+|Philippine Caroline Krückeberg
+|TODO: finish
+|
+|
+|
+|
+|
+|
+|
+
+|Confirmation
+|31 March 1816 
+|Sophie Wilhelmine Krückeberg
+|not given
+|not given
+|Bärenbusch
+|no. 10
+|
+|
+|Confimed on Quasimodigeniti
+|xref:petzen:PET-C-1811a.adoc[]
+
 |Confirmation
 |2 April 1820
 |Johann Heinrich Krückeberg
