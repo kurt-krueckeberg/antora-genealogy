@@ -16,19 +16,16 @@ In one of the birth records of one of the children the mother's surname is spell
 the same person because their given names are the same as is her place of origin and the spelling is not
 so different that it greatly differs in pronunciation.
 
-== Contradictions and Questions
+Jobst Heinrich Krückeberg (1806-1879) had four children. His xref:petzen:PET-D-1822b.adoc[death and
+burial record] of Oct. 1822 states that his survivors were: *"a widow and four children, namely three daughters and
+one son".* The birth record of his last child and first son, Johann Heinrich, states that he is the *"fourth child
+and the first son"*. The four children documented children of Jobst Heinrich accordihng to the Petzen church
+records are:
 
-Jobst Heinrich Krückeberg clearly appears to have had five daughters and one son, five total children. Yet when 
-Johann Heinrich is born in 1806, he is, according to his birth-baptism record, the *4^th^ child and 1^st^ son
-of the first marriage*. But he had only one marraige--didn't he--and he had five daughters before his first and
-only son was born--correct?
-
-When Jobst Heinrich dies in 1822, he death record recrds the survivors as *"a widow and four children, namely three
-daughters and one son."* This could be true, if two of the five daughters had died before him. If two
-of hise daughters married spouses from other parishes, where they would have married, and subsequently died, then
-only three daughters would have survived him. But this is something we will never know, since we
-have no way of knowing, if they did marry someone outside the Petzen congregation, who they married and which parish
-recorded the subsequent death. So we need to locate all the marriage records of the daughter.
+. Philippine Carolina Christine, born 1 Feb. 1792
+. Anne Christina Eleonore, born 14 Feb. 1798
+. Sophie Wilhelmine, born 24 Jan 1803
+. Johann Heinrich, born 12 Aug 1806
 
 == Petzen Original Records Event Table for Jobst Heinrich Krückeberg Family
 
@@ -74,7 +71,8 @@ sponsor. She is still alive! Who would this be?
 . the old Krückeberg being a grandmother.
 . the wife of Fahlsing of the shepards from Evensen
 |We are not told if they are tenants.
-|xref:petzen:PET-B-1792a.adoc[]
+|xref:petzen:PET-B-1792a.adoc[]EDIT
+
 
 |Birth
 |4 Aug. 1806
