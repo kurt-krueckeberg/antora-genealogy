@@ -1,0 +1,18 @@
+= FamilySearch Error 
+
+On November 26, 1826, Christian Friederich Bleeke, No. 1[3] in Leeteln, married the daughter of the late Jobst Heinrich
+Krückeberg, no. 10 Bärenbusch. Her name in the marriage record is given as *Luise Eleonore Krückeberg*, and her age is
+given as 30 years. But Jobst Heinrich did not have a daughter who would have been 30 years old in 1826. No births
+of Krückeberg children are recorded between 1795 and 1797. 
+
+Jobst Heinrich Krückeberg (1806-1879) had four children. His xref:petzen:PET-D-1822b.adoc[death and
+burial record] of Oct. 1822 states that his survivors were: *"a widow and four children, namely three daughters and
+one son".* The birth record of his last child and first son, Johann Heinrich, states that he is the *"fourth child
+and the first son"*. The four children documented children of Jobst Heinrich according to the Petzen church
+records are:
+
+. xref:petzen:PET-B-1792a.adoc[Philippine Carolina Christine, born 1 Feb. 1792]
+. xref:petzen:PET-B-1798a.adoc[Anne Christina Eleonore, born 14 Feb. 1798]
+. xref:petzen:PET-B-1803a.adoc[Sophie Wilhelmine, born 24 Jan 1803]
+. xref:petzen:PET-B-1806a.adoc[Johann Heinrich, born 12 Aug 1806]
+
