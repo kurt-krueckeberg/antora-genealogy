@@ -4,10 +4,9 @@
 == Family Relationship 
 
 .Family Relationship 
-[cols="3,3,3,2,2,2",width="85%"]
+[cols="3,3,3,2,2,2",width="95%"]
 |===
-|Child|Father|Mother|Village and
-House #er|Birthdate|Baptism Date
+|Child|Father|Mother|Residence|Birthdate|Baptism Date
 
 |Anne Chritine Eleonore|Jobst Heinrich Krückeberg|Anne Christine Philippine Eleonore Tegtmeÿer|No. 10 Bärenbusch|14 Feb. 1798|18 Feb. 1798 
 |=== 
