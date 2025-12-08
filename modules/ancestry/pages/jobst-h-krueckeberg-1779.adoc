@@ -5,34 +5,30 @@
 [.narrow]
 == Introduction
 
-Using the Immanuel Lutheran biography of xref:jhk-1806-events.adoc#event-table[Johann Heinrich Krückeberg] as a
-guide to the Petzen church records takes us to his Petzen xref:petzen:PET-B-1806a.adoc[1807 birth record],
+The Immanuel Lutheran biography of xref:jhk-1806-events.adoc#event-table[Johann Heinrich Krückeberg] serves
+as a cross reference to the Petzen church records. It directs to the xref:petzen:PET-B-1806a.adoc[] record,
 which confirms his birth date, his parents names (which are further clarified), his baptismal sponsors, and the
-family's residence. It alstakes us to his Petzen 1820 confirmation record. Then using these details--the parent's
-names, their residence, the father's occupation, and any family attributes--as a guide, we can look for other
-children born to this couple.
-
-In one of the birth records of one of the children the mother's surname is spelled differently, but she is clearly
-the same person because their given names are the same as is her place of origin and the spelling is not
-so different that it greatly differs in pronunciation.
+family's residence. The biography also guides us us to the xref:petzen:PET-C-1820a.adoc[] record. Then using
+the details in these two records--the parent's names, their residence, the father's occupation, and any other
+family attributes--as a guide, we look for other children born to this couple.
 
 Jobst Heinrich Krückeberg (1806-1879) had four children. His xref:petzen:PET-D-1822b.adoc[death and
 burial record] of Oct. 1822 states that his survivors were: *"a widow and four children, namely three daughters and
 one son".* The birth record of his last child and first son, Johann Heinrich, states that he is the *"fourth child
-and the first son"*. The four children documented children of Jobst Heinrich accordihng to the Petzen church
+and the first son"*. The four children documented children of Jobst Heinrich according to the Petzen church
 records are:
 
-. Philippine Carolina Christine, born 1 Feb. 1792
-. Anne Christina Eleonore, born 14 Feb. 1798
-. Sophie Wilhelmine, born 24 Jan 1803
-. Johann Heinrich, born 12 Aug 1806
+. xref:petzen:PET-B-1792a.adoc[Philippine Carolina Christine, born 1 Feb. 1792]
+. xref:petzen:PET-B-1798a.adoc[Anne Christina Eleonore, born 14 Feb. 1798]
+. xref:petzen:PET-B-1803a.adoc[Sophie Wilhelmine, born 24 Jan 1803]
+. xref:petzen:PET-B-1806a.adoc[Johann Heinrich, born 12 Aug 1806]
 
 == Petzen Original Records Event Table for Jobst Heinrich Krückeberg Family
 
 *Question:* In the birth record of the first child, Philippine Caroline Christine, her Krückeberg grandmother is a baptismal
 sponsor. She is still alive! Who would this be?
 
-.Events based on xref:??
+.Events based on Petzen Church Records
 [cols="1,2,3,3,3,2,1,2,3a,4a,3a",options="header"]
 |===
 | Event Type
@@ -56,7 +52,7 @@ sponsor. She is still alive! Who would this be?
 |No 10
 |Shoemaker
 |
-|We are not old if they are tenants.
+|We are not told if they are tenants.
 |xref:petzen:PET-B-1792a.adoc[]
 
 |Baptism
@@ -73,6 +69,71 @@ sponsor. She is still alive! Who would this be?
 |We are not told if they are tenants.
 |xref:petzen:PET-B-1792a.adoc[]EDIT
 
+|Birth
+|14 Jan. 1798
+|Anne Christine Eleonore Krückeberg
+|Jobst Heinrich Krückeberg
+|Anne Christine Philippine Eleonore Tegtmeÿer
+|Bärenbusch
+|no. 10
+|
+|
+|
+|xref:petzen:PET-B-1798a.adoc[]
+
+|Baptism
+|18 Jan. 1798
+|Anne Christine Eleonore Krückeberg
+|Jobst Heinrich Krückeberg
+|Anne Christine Philippine Eleonore Tegtmeÿer
+|Bärenbusch
+|no. 10
+|
+|
+|
+. Ilse Margarethe Weiland, No. 1 Bärenbusch
+. Elisabeth Aldag, No. 1 Evesen
+. Katharine Margharethe Kuhlmann, No. 3 Evesen
+|xref:petzen:PET-B-1798a.adoc[]
+
+|Birth
+|24 Jan 1803
+|Sophie Wilhelmine Krückeberg
+|Jobst Heinrich Krückeberg
+|Christine Philippine Techtmeÿer
+from Meinsen
+|Berenbusch
+|No. 10
+|
+|
+|Her father is a *Hausherr*
+|xref:petzen:PET-B-1803a.adoc[]
+
+|Baptism
+|30 Jan 1803
+|Sophie Wilhelmine Krückeberg
+|Jobst Heinrich Krückeberg
+|Christine Philippine Techtmeÿer
+from Meinsen
+|Berenbusch
+|No. 10
+|
+|
+. Ms. Caroline Aldag, n. 4 Evesen
+|Her father is a *Hausherr*
+|xref:petzen:PET-B-1803a.adoc[]
+
+|Confirmation
+|21 Apr 1805
+|Philippine Caroline Christine
+|Jobst Heinrich Krückeberg
+|Christine Philippine Eleonore Tegtmeyer
+|Bärenbusch
+|
+|
+|
+|The birthdate given of 9 Sep. 1791 is incorrect
+|xref:petzen:PET-C-1805a.adoc[]
 
 |Birth
 |4 Aug. 1806
@@ -99,6 +160,18 @@ sponsor. She is still alive! Who would this be?
 . C Friedrich Tegtmeier from Meinsen
 |
 |xref:petzen:PET-B-1806a.adoc[]
+
+|Confirmation
+|7 Apr. 1811
+|Anne Christine Lenore Krückeberg
+|Jobst Heinrch Kruckeberg
+|Anna Christine Philippine nee Tegtmeier
+|Bärenbusch
+|no. 10
+|
+|
+|Birthdate: 14 Jan. 1798
+|xref:petzen:PET-C-1811a.adoc[]
 
 |Confirmation
 |2 April 1820
