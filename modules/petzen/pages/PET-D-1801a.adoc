@@ -7,13 +7,11 @@
 .Sophie Marie Krückeberg
 [%header,width=60%]
 |===
-||Name|Residence
+|Name|late Father|Residence
 
-|*Father* +
-(previously deceased)|Jobst Heinrich Krückeberg|
-
-|*Daughter* +
-(just deceased)|Sophie Marie Krückeberg|no. 10 Berenbusch
+|Sophie Marie Krückeberg
+|Jobst Heinrich Krückeberg
+|no. 10 Berenbusch
 |===
 
 .Decedent Facts 
@@ -27,8 +25,15 @@
 
 |*Age at Death*| 60
 
+|*Father deceased*|
+
 |*Residence*| no. 10 Berenbusch
 |===
+
+[IMPORTANT]
+====
+It is very possible that *Jobst* is incorrect, a scribal error, and her father was *Johann Heinrich*. 
+====
 
 == Citation
 
@@ -74,7 +79,7 @@ Auszehrung|60||März 17|März 19
 Years|Age +
 Weeks|died|buried
 
-|9|Sophie Marie Krückeberg, surviving daughter of Jobst Heinrich Krückeberg, born blind|Bärenbusch|10|Debility of Age +
+|9|Sophie Marie Krückeberg, the blind-born daughter of the late Jobst Heinrich Krückeberg|Bärenbusch|10|Debility of Age +
 and +
 (lung) consumption/ +
 tuberculosis|60||March 17|March 19
