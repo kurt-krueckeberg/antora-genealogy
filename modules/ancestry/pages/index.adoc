@@ -4,4 +4,5 @@ There are three documents that tell us the place of origin of the Krückebergs w
 Indiana, in 1849 and 1850 originate: the xref:derived-church-records:FS-CFK.adoc[], xref:immanuel:ROOT:DEC-BIO-Krueckeberg-01.adoc[]
 and xref:immanuel:ROOT:DEC-BIO-Krueckeberg-01.adoc[].
 
-All three douments mention Berenbusch, which they spell in various ways, in the principality of Schaumburg-Lippe.
+All three douments give Berenbusch (which they spell in various ways) in the principality of Schaumburg-Lippe as
+the place of origin.
