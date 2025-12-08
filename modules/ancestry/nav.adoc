@@ -5,7 +5,7 @@
 ** xref:cf-gottlieb-family-events.adoc[]
 * Johann Heinrich Krückeberg (1806-1879) Ancestry
 ** xref:jhk-1806-events.adoc[]
-** xref:jhk-1744-events.adoc[]
+** xref:jobst-h-krueckeberg-1779.adoc[]
 * xref:proof-arg-philippine-eleonore-werkmeister.adoc[]
 
 
