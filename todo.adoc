@@ -1,5 +1,12 @@
 = TODO
 
+== Work on this new Record
+
+dd the record to my website and Johann Heinrich's event tree:
+https://dfg-viewer.de/show?tx_dlf%5Bdouble%5D=0&tx_dlf%5Bid%5D=https%3A%2F%2Fwww.landesarchiv-nrw.de%2Fdigitalisate%2FAbt_Ostwestfalen-Lippe%2FP1%2FB%2F~001%2FB00168_02_1831-1845%2Fmets.xml&tx_dlf%5Bpage%5D=40&cHash=7d66b09b1bf2d80b14084deb862675d3
+
+Then correct FamilySearch id P35C-TTV, after I determine which Johann Heinrich is her father.
+
 == Change Citations for Frille Kirchenbuchduplikat
 
 Change the FRI-*-182??.adoc and FRI-*-183>>.adoc file from what I have not to match the format of `FRI-M-1826a.adoc`.
