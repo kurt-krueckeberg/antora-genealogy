@@ -156,8 +156,8 @@ from Meinsen
 |Bärenbusch
 |10
 |Schuster Amtsmeister (Shoemaker Guild Master)
-|4^th^ child, 1^st^ son
 |
+|4^th^ child, 1^st^ son
 |xref:petzen:PET-B-1806a.adoc[]
 
 |Baptism
