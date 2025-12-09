@@ -188,15 +188,19 @@ from Meinsen
 
 |Marriage
 |23 Feb. 1812
-|Philippine Caroline Krückeberg
-|TODO: finish
+|Philippine Caroline Krückeberg & Friedrich Wilhelm Watermann, #11 Nordholz
+|Jobst Heinrich Kruckeberg, n. 10 in Bärenbusch
+|not given
+|Berenbusch
+|#10
+|not given
 |
-|
-|
-|
-|
-|
-|
+|*Bride:* +
+* 21 years old
+* born 1 Feb. 1792
+* 2^nd^ marriage: 11 May 1834
+* died 26 Oct. 1870
+|xref:petzen:PET-M-1812b.adoc[]
 
 |Confirmation
 |31 March 1816 
