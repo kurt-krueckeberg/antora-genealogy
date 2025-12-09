@@ -59,7 +59,7 @@ bride: #19
 |
 |
 . Johann Heinrich Krückeberg from Berenbusch
-|The residence #er was omitted
+|The residence number was omitted
 |xref:petzen:PET-B-1791a.adoc[]
 
 |
