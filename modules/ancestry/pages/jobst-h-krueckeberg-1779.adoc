@@ -44,16 +44,16 @@ sponsor. She is still alive! Who would this be?
 | Record Page
 
 |Marriage
-|
-|Jobst Heinrich Krückeberg/Christine Philippine Eleonore Tegtmeyer
-|
-|
+|12 Oct. 1790
+|Jobst Heinrich Krückeberg & Christine Philippine Eleonore Tegtmeyer
 |
 |
+|Berenbusch
+|no. 10
+|cobbler/shoemaker
 |
-|
-|
-|
+|*wife:* from Menssen (Meinsen) no. 41
+*wife:* died in 1849 
 |xref:petzen:PET-M-1790c.adoc[]
 
 |Birth
