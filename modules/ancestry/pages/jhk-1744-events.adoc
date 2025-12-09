@@ -2,6 +2,23 @@
 :page-role: very-wide
 :sectnums!:
 
+== Introduction
+
+On 21 March 1822, a Johann Heinrich Krückeberg died who was a Leibzüchter, a retired farmer who:
+
+* has handed the farm over to his heir,
+
+* but still has a lifetime right to housing, support, and use of part of the property.
+
+His age is given as 78 years, 2 months and 3 weeks. Subtracting this precise age from 21 March 1822
+places his birth on 31 December 1743. But no birth for a Johann Heinrich Krückeberg was recorded on
+this date; however, a Johann Heinrich Krückeberg was born on 19 January 1744, which is 
+78 years, 2 months and 3 days.... 
+
+
+
+died a "78 years, 3 months and 3 weeks." This would place his birth on 19 January
+1744 which is the precise date the precise birthday of the Johann Heinrich cracker Barrel born in 1744
 *Under Development*
 // See: https://chatgpt.com/share/691fa228-7674-8004-91a5-1bf305719fb1/
 
