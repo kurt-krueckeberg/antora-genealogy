@@ -6,13 +6,12 @@
 == Introduction
 
 The Immanuel Lutheran biography of xref:jhk-1806-events.adoc#event-table[Johann Heinrich Krückeberg] serves
-as a cross reference to the Petzen church records. It directs to the xref:petzen:PET-B-1806a.adoc[] record,
-which confirms his birth date, his parents names (which are further clarified), his baptismal sponsors, and the
-family's residence. The biography also guides us us to the xref:petzen:PET-C-1820a.adoc[] record. Then using
-the details in these two records--the parent's names, their residence, the father's occupation, and any other
-family attributes--as a guide, we look for other children born to this couple.
+as a cross reference to the Petzen church records. It directed us to the xref:petzen:PET-B-1806a.adoc[] record,
+which confirmed his birth date, his parents names (which were further clarified), his baptismal sponsors, and the
+family's residence. Then using the details in this record--his parent's names, their residence, the father's occupation
+--as our guide, we look for other children born to this couple.
 
-Jobst Heinrich Krückeberg (1806-1879) had four children. His xref:petzen:PET-D-1822b.adoc[death and
+We find Jobst Heinrich Krückeberg (1806-1879) had four children. His xref:petzen:PET-D-1822b.adoc[death and
 burial record] of Oct. 1822 states that his survivors were: *"a widow and four children, namely three daughters and
 one son".* The birth record of his last child and first son, Johann Heinrich, states that he is the *"fourth child
 and the first son"*. The four children documented children of Jobst Heinrich according to the Petzen church
