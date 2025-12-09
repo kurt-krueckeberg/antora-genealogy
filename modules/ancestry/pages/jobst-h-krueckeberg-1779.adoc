@@ -195,7 +195,8 @@ from Meinsen
 |#10
 |not given
 |
-|*Bride:* +
+|*Bride:* 
+
 * 21 years old
 * born 1 Feb. 1792
 * 2^nd^ marriage: 11 May 1834
