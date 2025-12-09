@@ -1,0 +1,100 @@
+= Johann Heinrich Krückeberg (1767-1805) Family Event Table
+:page-role: very-wide
+:sectnums!:
+
+[.narrow]
+== Introduction
+
+The death record for Johann Heinrich Krückeberg (1767-1805) tells us he was survived by a *widow and 3 children*. 
+The Petzen church registers "Verzeichnis der Getauften und Konfirmierten 1641-1784" and "Verzeichnis der Getauften,
+Konfirmierten, Getrauten und Gestorbenen 1785-1827"
+describe these children of Johann Heinrich Krückeberg:
+
+. Friderich Wilhelm Krückeberg, xref:petzen:PET-B-1791a.adoc[baptized 25 Apr. 1791]
+. 
+
+== Petzen Original Records Event Table for Jobst Heinrich Krückeberg Family
+
+*Question:* In the birth record of the first child, Philippine Caroline Christine, her Krückeberg grandmother is a baptismal
+sponsor. She is still alive! Who would this be?
+
+.Events based on Petzen Church Records
+[cols="1,2,3,3,3,2,1,2,3a,4a,3a",options="header"]
+|===
+| Event Type
+| Event Date
+| Name of Subject
+| Father
+| Mother
+| Residence / Village
+| House Number
+| Occupation
+| Sponsors
+| Notes
+| Record Page
+
+|Marriage
+|2 Aug. 1790
+|Johann Heinrich Krückeberg, #10 Berenbusch & Anna Catharine Sophia Krömer, #19 Evesen
+|
+|
+|Residence at time of marriage: +
+groom: Berenbusch +
+bride: Evesen
+|
+groom: #10 +
+bride: #19 
+|
+|
+|*Note:* Krömer is also spelled Crömer
+|xref:petzen:PET-M-1790a.adoc[]
+
+|Baptism
+|25 Apr. 1791
+|Friderich Wilhelm Krückeberg
+|Johann Heinrich Krückeberg
+|Catherine Margaretha née Crömer
+|Evesen
+|
+|
+|
+. Johann Heinrich Krückeberg from Berenbusch
+|The residence #er was omitted
+|xref:petzen:PET-B-1791a.adoc[]
+
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|===
