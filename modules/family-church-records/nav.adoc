@@ -125,6 +125,7 @@
 ** xref:petzen:PET-D-1822b.adoc[]
 ** xref:petzen:PET-M-1822a.adoc[]
 ** xref:petzen:PET-M-1826a.adoc[]
+** xref:frille:FRI-M-1833a.adoc[]
 * Söest Krückeberg
 ** xref:wallensen:WAL-B-1822a.adoc[]
 * Schwier

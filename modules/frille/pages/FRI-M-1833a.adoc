@@ -1,0 +1,127 @@
+= 1833 Sophie Luise Kruckeberg Marriage 
+:page-role: very-wide
+
+This record is from the
+link:https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_0248b6a4-ed8c-41ef-8e2b-f61ac1448763&mandant=10003[Landesarchiv NRW Abteilung Ostwestfalen-Lippe
+P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks Minden, Nr. B 168 Jg. 1831-1845]
+
+TODO: Change all; this  from other record:
+
+image::FRI-M-1833a.png[title="Click to Enlarge",link=self]
+
+.Transliteration of 1833 Marriage of .....??????
+[cols="1l,4l,3l,2l,3l,3l,4l,4l,2l,3l,3l,3l,4l"]
+|===
+13+^s|Aufgebotene und Getraute (die bei einer Kirche bloß aufgebotenen und anderwärts kopulirten Paare müssen ohne
+Nummer eingetragen werden.) im Jahr 1826.
+
+s|Nro.
+s|Vor- und Zunamen 
+des
+Bräutigum.
+s|Stand
+und Wohnort des Vaters
+s|Alter des Bräuti-
+gams.
+s|Ob Eltern oder
+Vormund die Einwilligung gegeben,
+und wie solches geschehen.
+s|Ob er schon
+verehelicht gewesen
+und wie die Ehe getrennt
+worden.
+s|Vor- und Zuname
+der
+Braut.
+s|Namen,
+Stand und Wohnort
+des
+Vaters der Braut.
+s|Alter
+der
+Braut.
+s|Ob Eltern oder
+Vormund die Ein-
+willingung gegeben,
+und wie solches
+geschehen.
+s|Ob sie schon
+verehelicht gewesen
+und wie 
+die Ehe getrennt
+worden.
+s|Tag der Kopulation
+mit
+Buchstaben und Ziffern.
+s|Name des Predigers,
+der
+die Kopulation verrichtet.
+
+|7
+|Christian Friede-
+rich Bleeke, Ein-
+lieger in Leeteln
+|Christian
+Friederich Blee-
+ke Col[o]n No. 1[3]
+in Leeteln
+|25 Ja.
+|Mündig
+|Unvereh-
+licht
+|Luise Eleonore
+Krückeberg
+|Jobst Heinrich
+Krückeberg colonist (farmstead holder) No.
+10 in Bärenbusch
+|30 Ja.
+|Mündig
+|Unvereh-
+licht
+|Sechs und zwan-
+zigsten (26) 
+Novemb.
+|v. z. Pr. Schütz
+|===
+
+.Translation of 1826 Marriage of Christian Friedrich Bleeke to Luise Leonore Krückeberg
+[cols="1,4,3,2,3,3,4,4,2,3,3,3,4"]
+|===
+13+^s|Proclaimed (banns) and Married in the year 1820
+
+s|No.
+s|Groom's first and last name.
+s|Father's social status and place of residence
+s|Groom's age.
+s|Whether parents or guardians gave their consent, and how this happened.
+s|Whether he was already married and how the marriage was dissolved.
+s|Bride's first and last name.
+s|Name, social status, and place of residence of the bride's father.
+s|Bride's age.
+s|Whether parents or guardians gave their consent, and how this happened.
+s|Whether they were already married and how the marriage was dissolved.
+s|Date of marriage (in words and numbers).
+s|Name of the preacher performing the marriage.
+
+|7
+|Christian Friederich Bleeke, Einlieger in Leeteln
+|Christian Friederich Bleeke colonist (farmstead holder) No. 1[3] in Leeteln
+|25 years
+|verbally
+|unmarried
+|Luise Eleonore Krückeberg
+|Jobst Heinrich Krückeberg colonist (farmstead holder) No. 10 in Bärenbusch
+|30 years
+|verbaly
+|unmarried
+|twenty six (26) Nov.
+|v. z. Pr. Schütz
+|===
+
+== Citation
+
+Evangelische Gemeinde Frille, Kreis Minden, “Aufgebotene und Getraute im Jahr 1826, Kirchspiel Frille,” 
+entry for Christian Friederich Bleeke and Luise Eleonore Krückeberg, 26 Nov. 1826,
+Kirchenbuchduplikat, B 168 (GHT 1815–1830), Personenstandsarchiv Westfalen-Lippe, 
+Landesarchiv Nordrhein-Westfalen, Abteilung Ostwestfalen-Lippe, Detmold. 
+Digital images: Landesarchiv NRW, https://www.archive.nrw.de (accessed 6 December 2025).
