@@ -3,7 +3,7 @@
 * xref:cfk-branch.adoc[]
 ** xref:cfk-family-events.adoc[]
 ** xref:cf-gottlieb-family-events.adoc[]
-* Branch II: Johann Heinrich Krückeberg (1806-1879) Ancestry
+* xref:jhk-branch.adoc[]
 ** xref:jhk-1806-events.adoc[]
 ** xref:jobst-h-krueckeberg-1779.adoc[]
 * xref:proof-arg-philippine-eleonore-werkmeister.adoc[]
