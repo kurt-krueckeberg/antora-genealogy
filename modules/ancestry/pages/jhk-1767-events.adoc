@@ -154,6 +154,37 @@ bride: Evesen #19
 
 *mother:* from Evesen #19
 |xref:petzen:PET-C-1806a.adoc[]
+
+|Confirmation
+|6 Apr. 1817
+|Sophie Caroline Krückeberg
+|not given
+|not given
+|Evesen
+|#19
+|
+|
+|*groom:* Taglöhner, age 42
+*bride:* age 19
+|xref:petzen:PET-C-1811b.adoc[]
+
+|Marriage
+|12 May 1822
+|Philippine Louise Eleonore Krückeberg & widower Friedrich Wilhelm
+Drifftmeier
+|Heinrich Krückeberg +
+(deceased)
+|not given
+2+|groom: Berenbusch #19
+
+bride: Evesen #19
+|
+|
+|
+|
+|*Bride's address:* not explicitly given. +
+The address of her late father is given.
+|xref:petzen:PET-M-1822a.adoc[]
 |===
 
 == Nachträge
