@@ -140,6 +140,17 @@ bride: Evesen #19
 . Sophie Ernestine Wilharm, Evesen
 |*Father:* Hausherr
 |xref:petzen:PET-B-1803b.adoc[]
+
+|Confirmation
+|20 Mar. 1806
+|Philippine Louise Leonore Krückeberg
+|Johann HeinrAnne Cathrine nee Crömer
+|Evesen
+|#19
+|
+|
+|*Birthdate:* 21 Apr. 1793
+|xref:petzen:PET-C-1806a.adoc[]
 |===
 
 == Nachträge
