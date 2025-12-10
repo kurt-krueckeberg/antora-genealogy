@@ -4,17 +4,16 @@
 == Family Relationship and Other Facts
 
 .Family Relationship 
-[%header,width="65%"]
+[%header,width="75%"]
 |===
-|||Birthdate|Baptism Date
+|Child|Father|Mother|Birthdate|Baptism Date|Residence
 
-|*Father* 3+|Johann Heinrich Krückeberg
-
-|*Mother* 3+|Kathar[ine] Sophie Krömer
-
-|*Infant*|Christine Louise|26 Apr. 1798|29 Apr. 1798
-
-|*Residence* 3+|No. 19 Evesen
+|Christine Louise
+|Johann Heinrich Krückeberg
+|Katharine Sophie Krömer
+|26 Apr. 1798
+|29 Apr. 1798
+|#19 Evesen
 |===
 
 .Nachtrag for Christine Louise
