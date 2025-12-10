@@ -209,7 +209,7 @@ The address of her late father is given.
 
 |Christine Louise Krückeberg
 |xref:petzen:PET-B-1798b.adoc[]
-|xref:petzen:PET=M-1916a.adoc[married 1 Dec. 1816]
+|xref:petzen:PET-M-1916a.adoc[married 1 Dec. 1816]
 
 Died Sep 11, 1878
 |===
