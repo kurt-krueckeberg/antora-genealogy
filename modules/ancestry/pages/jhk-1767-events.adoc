@@ -186,7 +186,7 @@ Drifftmeier
 |Heinrich Krückeberg +
 (deceased)
 |not given
-2+|groom: Berenbusch #19
+3+|groom: Berenbusch #19
 
 bride: Evesen #19
 |
@@ -201,3 +201,12 @@ The address of her late father is given.
 |===
 
 == Nachträge
+
+.Nachträge
+|===
+|Name of Subject|Source Record|Referenced Ceremony
+
+|Name
+|xrefpetzen:source record
+|xref:petzen:ceremony record with Nachtrag as link text, or, if no ceremony record, just text
+|===
