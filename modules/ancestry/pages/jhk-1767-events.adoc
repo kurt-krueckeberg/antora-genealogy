@@ -156,16 +156,28 @@ bride: Evesen #19
 |xref:petzen:PET-C-1806a.adoc[]
 
 |Confirmation
-|6 Apr. 1817
+|7 Apr. 1811
 |Christine Louise Krückeberg
+|Johann Heinrich Krückeberg
+|Anne Sophie née Crömer
+|Evesen
+|#19
+|
+|
+|*Birth:* 26 Apr. 1798
+|xref:petzen:PET-C-1811b.adoc[]
+
+|Confirmation
+|6 April 1817
+|Sophie Carolone Krückeberg
 |not given
 |not given
 |Evesen
 |#19
 |
 |
-|
-|xref:petzen:PET-C-1811b.adoc[]
+|Confirmed on Sunday Quadimodogeniti 1817
+|xref:petzen:PET-C-1817c.adoc[]
 
 |Marriage
 |12 May 1822
@@ -186,18 +198,6 @@ bride: Evesen #19
 *Bride's address:* not explicitly given. +
 The address of her late father is given.
 |xref:petzen:PET-M-1822a.adoc[]
-
-|Confirmation
-|6 April 1817
-|Sophie Carolone Krückeberg
-|TODO: FINISH
-|
-|
-|
-|
-|
-|
-|xref:petzen:PET-C-1817c.adoc[]
 |===
 
 == Nachträge
