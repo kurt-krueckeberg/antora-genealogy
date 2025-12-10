@@ -6,24 +6,32 @@
 == Introduction
 
 The Immanuel Lutheran biography of xref:jhk-1806-events.adoc#event-table[Johann Heinrich Krückeberg] serves
-as a cross reference to the origianl Petzen church records. It directed us to the xref:petzen:PET-B-1806a.adoc[]
-and xref:petzen/PET-C-1820a.adoc[] records, which confirmed his birth date, his parents names (which his
+as a cross reference to the origianl Petzen church records for the xref:petzen:PET-B-1806a.adoc[]
+and xref:petzen:PET-C-1820a.adoc[] records, which confirmed his birth date, his parents names (which his
 baptism record further clarified), his baptismal sponsors, his father's occupation and status, and Johann
 Heinrich's birth order. 
 
+[.very-wide]
+== Baptism and Confirmation Results
+
 |===
-|Father|Mother|Occupation|Status|Residence|John Heinrich's birth order
+|Father|Mother|Occupation|Status|Residence|John Heinrich's birth order|Sponsors
 
 |Jobst Heinrich Krückeberg
 |Christine Phlippine Lenore nee Tegtmeier
 |Schoemaker Guild Master
 |Einlieger
 |#10 Bärenbusch
-|4^th^ chilc, 1^st^ son
+|
+4^th^ child, 1^st^ son
+|
 . Carl Friedrich Gottlieb Krückeberg, Einlieger in Bärenbusch
 
 . C Friedrich Tegtmeier, from Meinsen
 |===
+
+[.narrow]
+== Constructing the Jobst Heinrich Krückeberg Family
 
 Using these details as our guide, we look for all records of Johann Heinrich Krückeberg's family of origin.
 
