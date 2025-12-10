@@ -79,6 +79,19 @@ bride: #19
 |1^st^ daughter
 |xref:petzen:PET-B-1793a.adoc[]
 
+|Death/Burial
+|29 May 1794 +
+(burial)
+|Friderich Wilhelm Krückeberg
+|Johann Krückeberg
+|Anne Catherine Crömer
+|Evesen
+|#19
+|
+|
+|*illness:* coughing
+|xref:petzen:PET-D-17994a.adoc[]
+
 |Birth
 |26 Apr. 1798
 |Christine Louise Krückeberg
