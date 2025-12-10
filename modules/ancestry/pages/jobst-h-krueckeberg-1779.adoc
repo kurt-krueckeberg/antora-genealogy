@@ -6,7 +6,7 @@
 == Introduction
 
 The Immanuel Lutheran biography of xref:jhk-1806-events.adoc#event-table[Johann Heinrich Krückeberg] serves
-as a cross reference to the Petzen church records. It directed us to the xref:petzen:PET-B-1806a.adoc[] record,
+as a cross reference to the origianl Petzen church records. It directed us to the xref:petzen:PET-B-1806a.adoc[] record,
 which confirmed his birth date, his parents names (which it further clarified), his baptismal sponsors, and the
 family's residence. Then using these details as our guide, we look for other records of Johann Heinrich
 Krückeberg's family of origin.
