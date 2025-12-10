@@ -157,7 +157,7 @@ bride: Evesen #19
 
 |Confirmation
 |6 Apr. 1817
-|Sophie Caroline Krückeberg
+|Christine Louise Krückeberg
 |not given
 |not given
 |Evesen
@@ -186,6 +186,18 @@ bride: Evesen #19
 *Bride's address:* not explicitly given. +
 The address of her late father is given.
 |xref:petzen:PET-M-1822a.adoc[]
+
+|Confirmation
+|6 April 1817
+|Sophie Carolone Krückeberg
+|TODO: FINISH
+|
+|
+|
+|
+|
+|
+|xref:petzen:PET-C-1817c.adoc[]
 |===
 
 == Nachträge
