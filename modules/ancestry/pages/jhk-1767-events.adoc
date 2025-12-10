@@ -8,7 +8,7 @@
 The 1805 xref:petzen:PET-D-1805a.adoc[death record for Johann Heinrich Krückeberg] (1767-1805) tells us he was survived by a
 *"widow and 3 children"*. The Petzen church registers "Verzeichnis der Getauften und Konfirmierten 1641-1784" and
 "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827" record these three children of Johann
-Heinrich Krückeberg as:
+Heinrich Krückeberg:
 
 . xref:petzen:PET-B-1791a.adoc[]
 . xref:petzen:PET-B-1793a.adoc[]
