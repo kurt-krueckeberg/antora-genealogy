@@ -64,17 +64,20 @@ bride: #19
 |The residence number was omitted
 |xref:petzen:PET-B-1791a.adoc[]
 
+|Baptism
+|21 April 1793
+|Philippina Eleonore Krückeberg
+|Johann Heinrich Krückeberg
+|Katherina Sophie nee Krömer
+|Evesen
+|#19
 |
 |
-|
-|
-|
-|
-|
-|
-|
-|
-|
+. Christina Margaretha Krückeberg, Berenbusch
+. Sophie Margaretha Nerge, Meinsen
+. Catharina Margaretha Rinne, Evesen
+|1^st^ daughter
+|xref:petzen:PET-B-1793a.adoc[]
 
 |
 |
