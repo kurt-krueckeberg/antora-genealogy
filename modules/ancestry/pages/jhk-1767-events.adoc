@@ -41,13 +41,10 @@ sponsor. She is still alive! Who would this be?
 |
 |
 2+|
-At marriage:
+Residence at marriage:
 
-groom: #10 Berenbusch +
-bride: #19 Evesen +
-//|
-//groom: #10 +
-//bride: #19 
+groom: Berenbusch #10 +
+bride: Evesen #19
 |
 |
 |*Note:* Krömer is also spelled Crömer
