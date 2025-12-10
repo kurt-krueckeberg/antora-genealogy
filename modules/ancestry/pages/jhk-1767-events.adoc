@@ -90,7 +90,7 @@ bride: #19
 |
 |
 |*illness:* coughing
-|xref:petzen:PET-D-17994a.adoc[]
+|xref:petzen:PET-D-1794a.adoc[]
 
 |Birth
 |26 Apr. 1798
