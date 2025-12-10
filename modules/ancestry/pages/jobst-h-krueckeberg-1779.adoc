@@ -6,10 +6,26 @@
 == Introduction
 
 The Immanuel Lutheran biography of xref:jhk-1806-events.adoc#event-table[Johann Heinrich Krückeberg] serves
-as a cross reference to the origianl Petzen church records. It directed us to the xref:petzen:PET-B-1806a.adoc[] record,
-which confirmed his birth date, his parents names (which it further clarified), his baptismal sponsors, and the
-family's residence. Then using these details as our guide, we look for other records of Johann Heinrich
-Krückeberg's family of origin.
+as a cross reference to the origianl Petzen church records. It directed us to the xref:petzen:PET-B-1806a.adoc[]
+and xref:petzen/PET-C-1820a.adoc[] records, which confirmed his birth date, his parents names (which his
+baptism record further clarified), his baptismal sponsors, his father's occupation and status, and Johann
+Heinrich's birth order. 
+
+|===
+|Father|Mother|Occupation|Status|Residence|John Heinrich's birth order
+
+|Jobst Heinrich Krückeberg
+|Christine Phlippine Lenore nee Tegtmeier
+|Schoemaker Guild Master
+|Einlieger
+|#10 Bärenbusch
+|4^th^ chilc, 1^st^ son
+. Carl Friedrich Gottlieb Krückeberg, Einlieger in Bärenbusch
+
+. C Friedrich Tegtmeier, from Meinsen
+|===
+
+Using these details as our guide, we look for all records of Johann Heinrich Krückeberg's family of origin.
 
 We find that his father, Jobst Heinrich Krückeberg (1806-1879), had four children. His xref:petzen:PET-D-1822b.adoc[death and
 burial record] of Oct. 1822 states that his survivors were: *"a widow and four children, namely three daughters and
