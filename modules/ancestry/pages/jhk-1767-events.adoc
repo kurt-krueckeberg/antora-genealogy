@@ -10,7 +10,8 @@ The Petzen church registers "Verzeichnis der Getauften und Konfirmierten 1641-17
 Konfirmierten, Getrauten und Gestorbenen 1785-1827"
 describe these children of Johann Heinrich Krückeberg:
 
-. Friderich Wilhelm Krückeberg, xref:petzen:PET-B-1791a.adoc[baptized 25 Apr. 1791]
+. xref:petzen:PET-B-1791a.adoc[baptized 25 Apr. 1791]
+. xref:petzen:PET-B-1793a.adoc[]
 . TODO: Complete
 
 == Petzen Original Records Event Table for Jobst Heinrich Krückeberg Family
