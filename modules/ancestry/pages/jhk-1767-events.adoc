@@ -88,7 +88,7 @@ bride: Evesen #19
 |#19
 |
 |
-|*illness:* coughing
+|*illness:* coughing & continual weakness
 |xref:petzen:PET-D-1794a.adoc[]
 
 |Birth
