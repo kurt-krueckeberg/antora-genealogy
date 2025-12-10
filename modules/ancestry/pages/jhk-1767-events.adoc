@@ -34,7 +34,6 @@ sponsor. She is still alive! Who would this be?
 | Sponsors
 | Notes
 | Record Page
-|xref:petzen:PET-C-1806a.adoc[]
 
 |Marriage
 |2 Aug. 1790
@@ -153,6 +152,7 @@ bride: Evesen #19
 |
 |*Birthdate:* 21 Apr. 1793
 *wife:* from Evesen #19
+|xref:petzen:PET-C-1806a.adoc[]
 |===
 
 == Nachträge
