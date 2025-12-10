@@ -116,17 +116,30 @@ bride: Evesen #19
 |
 |xref:petzen:PET-B-1798b.adoc[]
 
+|Birth
+|21 July 1803
+|Sophie Caroline Krückeberg
+|Johann Heinrich Krückeberg
+|Catharine Sophie Krömer
+|Evesen
+|#19
 |
 |
+|*Father:* Hausherr
+|xref:petzen:PET-B-1803b.adoc[]
+
+|Baptism
+|31 July 1803
+|Sophie Caroline Krückeberg
+|Johann Heinrich Krückeberg
+|Catharine Sophie Krömer
+|Evesen
+|#19
 |
 |
-|
-|
-|
-|
-|
-|
-|
+. Sophie Ernestine Wilharm, Evesen
+|*Father:* Hausherr
+|xref:petzen:PET-B-1803b.adoc[]
 |===
 
 == Nachträge
