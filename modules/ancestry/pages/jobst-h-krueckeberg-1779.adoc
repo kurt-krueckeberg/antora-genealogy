@@ -7,15 +7,14 @@
 
 The Immanuel Lutheran biography of xref:jhk-1806-events.adoc#event-table[Johann Heinrich Krückeberg] serves
 as a cross reference to the Petzen church records. It directed us to the xref:petzen:PET-B-1806a.adoc[] record,
-which confirmed his birth date, his parents names (which were further clarified), his baptismal sponsors, and the
-family's residence. Then using the details in this record--his parent's names, their residence, the father's
-occupation--as our guide, we look for other records concerning this couple.
+which confirmed his birth date, his parents names (which it further clarified), his baptismal sponsors, and the
+family's residence. Then using these details as our guide, we look for other records of Johann Heinrich
+Krückeberg's family of origin.
 
-We find Jobst Heinrich Krückeberg (1806-1879) had four children. His xref:petzen:PET-D-1822b.adoc[death and
+We find that his father, Jobst Heinrich Krückeberg (1806-1879), had four children. His xref:petzen:PET-D-1822b.adoc[death and
 burial record] of Oct. 1822 states that his survivors were: *"a widow and four children, namely three daughters and
 one son".* The birth record of his last child and first son, Johann Heinrich, states that he is the *"fourth child
-and the first son"*. The four children documented children of Jobst Heinrich according to the Petzen church
-records are:
+and the first son"*. The four children documented children of Jobst Heinrich in the Petzen church records are:
 
 . xref:petzen:PET-B-1792a.adoc[Philippine Carolina Christine, born 1 Feb. 1792]
 . xref:petzen:PET-B-1798a.adoc[Anne Christina Eleonore, born 14 Feb. 1798]
