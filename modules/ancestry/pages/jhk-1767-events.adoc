@@ -164,8 +164,7 @@ bride: Evesen #19
 |#19
 |
 |
-|*groom:* Taglöhner, age 42
-*bride:* age 19
+|
 |xref:petzen:PET-C-1811b.adoc[]
 
 |Marriage
@@ -182,7 +181,11 @@ bride: Evesen #19
 |
 |
 |
-|*Bride's address:* not explicitly given. +
+|*groom:* Taglöhner, age 42
+
+*bride:* age 19
+
+*Bride's address:* not explicitly given. +
 The address of her late father is given.
 |xref:petzen:PET-M-1822a.adoc[]
 |===
