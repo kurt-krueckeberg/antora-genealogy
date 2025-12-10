@@ -15,9 +15,8 @@ It goes on to explain that Carl Friedrich's father, Carl Friedrich Gottlieb, was
 son and 2^nd^ child.  His mother was from the village of Evensen [sic] (or Evesen) located immediately south of
 Berenbusch. Evesen and Berenbusch are also the villages of his baptismal sponsors.
 
-We know from link:https://www.meyersgaz.org/place/10466052[Meyer's Gazetteer] the closest Lutheran Church to Evesen
-and Berenbusch was Petzen. Furthermore the bottom of the xref:derived-church-records:FS-CFK.adoc[] mentions the
-family's parish and its acting pastor:
+The bottom of the xref:derived-church-records:FS-CFK.adoc[] mentions the
+family's parish of Petzen and its acting pastor:
 
 [quote]
 ____ 
@@ -46,7 +45,8 @@ ____
 
 The acting pastor for Petzen was L. Schwerdtmann of Bergkirchen, and *Petzen* was the parish where the Krückeberg
 were members, and it is where their and their ancestor's original birth, baptism, confirmation, marriage and death and
-burial records are to be found.
+burial records are to be found. link:https://www.meyersgaz.org/place/10466052[Meyer's Gazetteer] also confirms that
+the closest Lutheran Church to Evesen and Berenbusch was Petzen.
 
 As of November 30, 2025, we only have online access to the Petzen church registers prior to 1827. Those after 1827
 are only available at the Lower Saxony State Archive in Bückeburg. Until those have been researched, we
