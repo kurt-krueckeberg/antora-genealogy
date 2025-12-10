@@ -40,12 +40,14 @@ sponsor. She is still alive! Who would this be?
 |Johann Heinrich Krückeberg, #10 Berenbusch & Anna Catharine Sophia Krömer, #19 Evesen
 |
 |
-|Residence at time of marriage: +
+|
 groom: Berenbusch +
-bride: Evesen
+bride: Evesen +
+(at marriage)
 |
 groom: #10 +
 bride: #19 
+(at marriage)
 |
 |
 |*Note:* Krömer is also spelled Crömer
