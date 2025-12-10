@@ -6,13 +6,12 @@
 == Introduction
 
 The Immanuel Lutheran biography of xref:immanuel:ROOT:DEC-BIO-Krueckeberg-01.adoc[Johann Heinrich Krückeberg] serves
-as a cross reference to the origianl Petzen church records for his xref:petzen:PET-B-1806a.adoc[]
-and xref:petzen:PET-C-1820a.adoc[], which confirmed his birth date, his parents names (which his
-baptism record further clarified), his baptismal sponsors, his father's occupation and status, and Johann
-Heinrich's birth order. 
+as a cross reference to his origianl Petzen xref:petzen:PET-B-1806a.adoc[] record, which confirm his 12 August 1806
+birthdate and further clarifies the full names of his parents, his baptism sponsors and the family's residence, as well
+as supplying is father's occupation and status as Einlieger:
 
 [.very-wide]
-== Baptism and Confirmation Results
+== Details of Petzen Baptism Record for Johann Heinrich Krückeberg 
 
 [cols="3,3,3,2,2,2,4a"width="80%"]
 |===
@@ -29,6 +28,8 @@ Heinrich's birth order.
 
 . C Friedrich Tegtmeier, from Meinsen
 |===
+
+His origianl Petzen xref:petzen:PET-C-1820a.adoc[] record shows the family still resides in Bärenbusch.
 
 [.narrow]
 == Constructing the Jobst Heinrich Krückeberg Family
