@@ -7,7 +7,7 @@
 
 The Immanuel Lutheran biography of xref:immanuel:ROOT:DEC-BIO-Krueckeberg-01.adoc[Johann Heinrich Krückeberg] serves
 as a cross reference to his origianl Petzen xref:petzen:PET-B-1806a.adoc[] record, which confirms his 12 August 1806
-birthdate and further clarifies the complete names of his parents and his baptism sponsors, supplies the family's residence
+birthdate and further clarifies the complete names of his parents and baptism sponsors, supplies the family's residence
 number as well as his father's occupation and status as Einlieger:
 
 [.very-wide]
