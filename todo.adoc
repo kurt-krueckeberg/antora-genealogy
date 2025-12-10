@@ -1,5 +1,9 @@
 = TODO
 
+== Foor Jobst-h-krueckeberg-1779.adoc...
+
+Mention that Jobst' wife was his only wife. Cite the case file in support and Nachtraege and custom of rare
+divorce.
 == Add Nachtra'eg to jhk-1767-events.adoc
 
 Go through the family records and add the nachtra'ge.
