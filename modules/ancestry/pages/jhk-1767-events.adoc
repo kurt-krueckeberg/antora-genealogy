@@ -144,13 +144,13 @@ bride: Evesen #19
 |Confirmation
 |20 Mar. 1806
 |Philippine Louise Leonore Krückeberg
-|Johann HeinrAnne Cathrine nee Crömer
+|Johann Heinrich Krückeberg
+|Anne Cathrine nee Krömer
 |Evesen
 |#19
 |
-|
-|
 |*Birthdate:* 21 Apr. 1793
+*wife:* from Evesen #19
 |xref:petzen:PET-C-1806a.adoc[]
 |===
 
