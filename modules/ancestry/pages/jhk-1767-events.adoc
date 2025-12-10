@@ -177,7 +177,7 @@ bride: Evesen #19
 |
 |
 |Confirmed on Sunday Quadimodogeniti 1817
-|xref:petzen:PET-C-1817c.adoc[]
+|xref:petzen:PET-C-1817b.adoc[]
 
 |Marriage
 |12 May 1822
