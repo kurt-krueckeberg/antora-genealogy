@@ -149,6 +149,7 @@ bride: Evesen #19
 |#19
 |
 |
+|
 |*Birthdate:* 21 Apr. 1793
 |xref:petzen:PET-C-1806a.adoc[]
 |===
