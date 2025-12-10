@@ -4,17 +4,12 @@
 == Family Relationship and Other Facts
 
 .1793 Philippina Eleonora Kruckebergen Baptism
-[%header,cols="1,2,1,1",width="60%"]
+[%header,cols="3,3,3,2,2,2"]
 |===
-|||Baptism Date|Sex Birth Order
+|Child|Father|Mother|Baptism Date|Sex Birth Order|Residence
 
-|*Father* 3+|Johann Heinrich Krückeberg
-
-|*Mother* 3+|Katherina Sophienée Krömer
-
-|*Child*|Philippina Eleonora Krückeberg|21 April 1793|1^st^ daughter +
-
-|*Residence* 3+|no. 19 Evesen
+|Philippina Eleonora Krückeberg|Johann Heinrich Krückeberg|Katherina Sophienée Krömer|21 April 1793|1^st^
+daughter|#19 Evesen 
 |===
 
 .Baptism Sponsors
