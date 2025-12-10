@@ -180,7 +180,6 @@ bride: Evesen #19
 |
 |
 |
-|
 |*groom:* Taglöhner, age 42
 
 *bride:* age 19
