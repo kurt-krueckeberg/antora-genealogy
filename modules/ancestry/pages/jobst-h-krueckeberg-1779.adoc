@@ -14,7 +14,7 @@ Heinrich's birth order.
 [.very-wide]
 == Baptism and Confirmation Results
 
-[cols="3,3,3,1,1,2,4a"]
+[cols="3,3,3,1,1,2,4a"width="85%"]
 |===
 |Father|Mother|Occupation|Status|Residence|John Heinrich's birth order|Sponsors
 
