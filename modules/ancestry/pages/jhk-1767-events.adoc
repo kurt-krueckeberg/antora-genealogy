@@ -202,11 +202,14 @@ The address of her late father is given.
 
 == Nachträge
 
+[.narrow]
 .Nachträge
 |===
 |Name of Subject|Source Record|Referenced Ceremony
 
-|Name
-|xrefpetzen:source record
-|xref:petzen:ceremony record with Nachtrag as link text, or, if no ceremony record, just text
+|Christine Louise Krückeberg
+|xref:petzen:PET-B-1798b.adoc[]
+|xref:petzen:PET=M-1916a.adoc[married 1 Dec. 1816]
+
+Died Sep 11, 1878
 |===

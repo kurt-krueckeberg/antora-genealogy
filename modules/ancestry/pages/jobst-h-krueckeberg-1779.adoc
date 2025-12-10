@@ -252,6 +252,9 @@ from Meinsen
 |xref:petzen:PET-C-1820a.adoc[]
 |===
 
+== Nachträge
+
+[.narrow]
 .Nachträge
 |===
 |Name of Subject|Source Record|Referenced Ceremony
