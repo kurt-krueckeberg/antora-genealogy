@@ -1,9 +1,21 @@
 = TODO
 
-== Foor Jobst-h-krueckeberg-1779.adoc...
+== Research Question'
 
-Mention that Jobst' wife was his only wife. Cite the case file in support and Nachtraege and custom of rare
-divorce.
+=== Add to Jobst-h-krueckeberg-1779.adoc...
+
+Mention that Jobst Heinrich had only one wife. Cite the case file in support and any Nachtraege and mention that
+rarety of divorce.
+
+=== Did Johann Heinrich born in 1744 Marry at age 17 in 1761?
+
+That is what is one family search.
+
+=== Who is the Johann Heinrich Who Died in 1759?
+
+He died at age 55? See xref:petzen:PET-D-1759a.adoc[].
+Answer: The Johann Heinrich who married in 1727.
+
 == Add Nachtra'eg to jhk-1767-events.adoc
 
 Go through the family records and add the nachtra'ge.
