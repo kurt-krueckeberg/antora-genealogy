@@ -11,17 +11,45 @@ On 21 March 1822, a Johann Heinrich Krückeberg died who was a Leibzüchter, a r
 * but still has a lifetime right to housing, support, and use of part of the property.
 
 His age is given as 78 years, 2 months and 3 weeks. Subtracting this precise age from 21 March 1822
-places his birth on 31 December 1743. No births in the Petzen parish were recorded on this date; however,
-a Johann Heinrich Krückeberg was born on 19 January 1744, which is 78 years, 2 months and 3 days earlier. 
-Perhaps the scribe wrote "weeks" by accident. If we assume this is the case, do the other recorded church events
-involving him coorabate this hypothesis of a scribal error?
+places his birth on 31 December 1743; however, no births in the Petzen parish were recorded on this date.
+A Johann Heinrich Krückeberg was born on 19 January 1744, which is 78 years, 2 months and 3 days earlier. 
+Perhaps the scribe wrote "weeks" instead of "days" by accident? Can we further establish that the Johann
+Heinrich who was born 19 January 1744 is the Johann Heinrich who died on 21 March 1822?
 
-His birth, confirmation, and marriage tells us about his parentage, his wife's name, their children, his 
-occupation? .... We also know that the JHK who died 21 March 1822 was survived by just two sons.
+Let's begin with the "Leibzüchter" fact.  We will use the table below that when filled out should reveal:
+
+1. **Jobst Heinrich remained all his adult life at No. 10 Berenbusch**
+2. **Johann Heinrich relocated permanently to No. 19 Evesen through marriage**
+3. **The father died at the ancestral Hof (No. 10)**
+4. **Jobst Heinrich died at the same Hof**, confirming succession
+5. Their children were raised on **two separate household lines**
+
+This is provide proof that **Jobst Heinrich was the inheriting son**
+* **Johann Heinrich founded a cadet branch in Evesen**
 
 
-died a "78 years, 3 months and 3 weeks." This would place his birth on 19 January
-1744 which is the precise date the precise birthday of the Johann Heinrich cracker Barrel born in 1744
+
+[cols="3,3,3,3,3", options="header"]
+|===
+| Date | Event | Source | Residence / House No. | Notes (Status, Relations)
+
+| 1765 | Birth of Jobst Heinrich | Petzen Baptism | (not yet applicable) | Son of Johann Heinrich Krückeberg of Berenbusch
+| 1767 | Birth of Johann Heinrich | Petzen Baptism | (not yet applicable) | Younger brother
+
+| 1790s? | Marriage of Jobst Heinrich | Marriage Record | No. 10 Berenbusch | Already established on the Hof?
+| 1790s? | Marriage of Johann Heinrich | Marriage Record | No. 19 Evesen | Married into Evesen; not heir
+
+| 1803 | Baptism of Jobst H.’s child | Berenbusch Baptism | No. 10 Berenbusch | Listed as Hausherr
+| 1803 | Baptism of Johann H.’s child | Evesen Baptism | No. 19 Evesen | Listed as Hausherr
+
+| 1800–1820 | Confirmations of their children | Petzen Confirmations | No. 10 Berenbusch / No. 19 Evesen | Confirms stable residence pattern
+
+| 1822 Mar | Death of Father | Petzen Burial | No. 10 Berenbusch | Father living as Leibzüchter with heir
+| 1822 Oct | Death of Jobst Heinrich | Petzen Burial | No. 10 Berenbusch | Confirms he is the Hofholder
+| (later) | Death of Johann Heinrich | Petzen or Evesen Burial | No. 19 Evesen | Confirms separate household
+
+|===
+
 *Under Development*
 // See: https://chatgpt.com/share/691fa228-7674-8004-91a5-1bf305719fb1/
 
