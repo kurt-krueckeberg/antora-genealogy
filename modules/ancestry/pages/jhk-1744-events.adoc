@@ -18,6 +18,8 @@ Heinrich who was born 19 January 1744 is the Johann Heinrich who died on 21 Marc
 
 Let's begin with the "Leibzüchter" fact.  We will use the table below that when filled out should reveal:
 
+== Research Trace #1
+
 1. **Jobst Heinrich remained all his adult life at No. 10 Berenbusch**
 2. **Johann Heinrich relocated permanently to No. 19 Evesen through marriage**
 3. **The father died at the ancestral Hof (No. 10)**
@@ -26,8 +28,6 @@ Let's begin with the "Leibzüchter" fact.  We will use the table below that when
 
 This is provide proof that **Jobst Heinrich was the inheriting son**
 * **Johann Heinrich founded a cadet branch in Evesen**
-
-
 
 [cols="3,3,3,3,3", options="header"]
 |===
@@ -49,6 +49,9 @@ This is provide proof that **Jobst Heinrich was the inheriting son**
 | (later) | Death of Johann Heinrich | Petzen or Evesen Burial | No. 19 Evesen | Confirms separate household
 
 |===
+
+== Other Clues
+
 
 *Under Development*
 // See: https://chatgpt.com/share/691fa228-7674-8004-91a5-1bf305719fb1/
