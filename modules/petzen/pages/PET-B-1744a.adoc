@@ -58,9 +58,9 @@ Anno 1744
 [First three entries from 1744 ommitted...]
 
 d. 19 dito Krückeberg ein Söhnlein taufen laßen
-[See note below: benahmset = benamset = benennt = to name] Johann Heinrich, Gevatter sind G[eorg?]
-[Frerking/Frerkung] Ahldags.  Weiland in Behrenbusch. Watermanns
-Soh[n?] von Nordholtz.
+benamset Johann Heinrich. Gevatter sind G[eorg] 
+Frerkingsᵛ Ahldags. Weiland in Behrenbusch. Watermanns
+Sohn von Nordholtz.
 ....
 
 [NOTE]
@@ -74,10 +74,10 @@ that begin before the word 'Sohn'
 .Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
-the 19th January a Krückeberg son was baptized
-named Johann Heinrich, Godfathers are G[eorg?]
-[Frerking/Frerkung]  Ahldag. [small and written between the lines: 'son'] Weiland in Behrenbusch. Watermann's
-son from Nordholtz.
+On the 19th of the same month [January], Krückeberg had a little son baptized,
+named Johann Heinrich. The sponsors were Georg
+Frerking Ahldag, Weiland in Berenbusch, and Watermann’s
+son from Nordholz
 ....
 
 [bibliography]
