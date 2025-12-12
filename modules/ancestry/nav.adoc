@@ -8,6 +8,7 @@
 ** xref:jobst-h-krueckeberg-1779.adoc[]
 ** xref:jhk-1767-events.adoc[]
 * xref:merging-the-two-lines.adoc[]
+** xref:jhk-1744-events.adoc[]
 * xref:proof-arg-philippine-eleonore-werkmeister.adoc[]
 
 
