@@ -157,6 +157,19 @@ died from childbirth complication
 |xref:petzen:PET-B-1775b.adoc[]
 
 |Baptism
+|18 Apr. 1779
+|Carl Friedrich Gottlieb
+|Johann Heinrich Krückeberg
+|Anna Maria née Schekel
+|Berenbusch
+|
+|
+. Otto Rösener, estate administrator +
+on the Höckersau (Höcker's estate).
+|
+|xref:petzen:PET-B-1779.adoc[]
+
+|Baptism
 |13 Jan. 1782
 |Johann Sophie Charlotte Krückeberg
 |Johann Heinrich Krückeberg
@@ -170,6 +183,13 @@ died from childbirth complication
 |
 |xref:petzen:PET-B-1775b.adoc[]
 |===
+
+== Nachträge
+
+//|===
+
+
+//|===
 
 == Other Clues
 
