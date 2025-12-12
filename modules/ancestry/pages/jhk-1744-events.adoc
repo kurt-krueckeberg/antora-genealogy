@@ -132,15 +132,30 @@ died from childbirth complication
 
 |Marriage
 |7 Nov. 1773
+|Johann Heinrich Krückeberg, widower
+|Ilse Anna Maria Elisebeth Schakel
+|
+|
+|
+*groom:* Berenbusch
+
+*bride:* Päpinghausen
+|
+|
+|groom is widower
+|xref:petzen:PET-M-1773a.adco[]
+
+|Baptism
+|10 Sep. 1775
+|Anna Christina Maria Krückeberg
 |Johann Heinrich Krückeberg
-|Ilse Anna Maria Elisebeth 
+|Marie E
 |
 |
 |
 |
 |
-|groom is widower née Schakel
-|
+|xref:petzen:PET-B-1775b.adoc[]
 |===
 
 == Other Clues
