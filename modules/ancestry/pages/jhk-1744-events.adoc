@@ -57,6 +57,7 @@ After 1782 for Johann Heinrich Krückeberg and Anna Marie Schakel. Start here: h
 Reviewed: Thru 1784  = All of 1641-1784 volume.
 
 .Baptisms Reviews
+[width="75%"]
 |===
 |Volume|Progress|New Records Found
 
@@ -70,6 +71,7 @@ Reviewed: Thru 1784  = All of 1641-1784 volume.
 Find the burial/death record of Anna Maria Elisabeth nee Schäkel/Schekel/Schakel Krückeberg. 
 
 .Deaths/Burials Reviews
+[width="75%"]
 |===
 |Volume|Progress|New Records Found
 
