@@ -29,34 +29,8 @@ Let's begin with the "Leibzüchter" fact.  We will use the table below that when
 This is provide proof that **Jobst Heinrich was the inheriting son**
 * **Johann Heinrich founded a cadet branch in Evesen**
 
-[cols="3,3,3,3,3", options="header"]
-|===
-| Date | Event | Source | Residence / House No. | Notes (Status, Relations)
-
-| 1765 | Birth of Jobst Heinrich | Petzen Baptism | (not yet applicable) | Son of Johann Heinrich Krückeberg of Berenbusch
-| 1767 | Birth of Johann Heinrich | Petzen Baptism | (not yet applicable) | Younger brother
-
-| 1790s? | Marriage of Jobst Heinrich | Marriage Record | No. 10 Berenbusch | Already established on the Hof?
-| 1790s? | Marriage of Johann Heinrich | Marriage Record | No. 19 Evesen | Married into Evesen; not heir
-
-| 1803 | Baptism of Jobst H.’s child | Berenbusch Baptism | No. 10 Berenbusch | Listed as Hausherr
-| 1803 | Baptism of Johann H.’s child | Evesen Baptism | No. 19 Evesen | Listed as Hausherr
-
-| 1800–1820 | Confirmations of their children | Petzen Confirmations | No. 10 Berenbusch / No. 19 Evesen | Confirms stable residence pattern
-
-| 1822 Mar | Death of Father | Petzen Burial | No. 10 Berenbusch | Father living as Leibzüchter with heir
-| 1822 Oct | Death of Jobst Heinrich | Petzen Burial | No. 10 Berenbusch | Confirms he is the Hofholder
-| (later) | Death of Johann Heinrich | Petzen or Evesen Burial | No. 19 Evesen | Confirms separate household
-
-|===
-
-== Other Clues
-
-
-*Under Development*
-// See: https://chatgpt.com/share/691fa228-7674-8004-91a5-1bf305719fb1/
-
-[cols="1,1,2,2,2,2,1,1,2,3,2",options="header"]
+.Events based on Petzen Church Records
+[cols="1,2,3,3,3,2,1,2,3a,4a,3a",options="header"]
 |===
 | Event Type
 | Event Date
@@ -66,22 +40,59 @@ This is provide proof that **Jobst Heinrich was the inheriting son**
 | Residence / Village
 | House Number
 | Occupation
-| Sponsors / Witnesses
+| Sponsors
 | Notes
 | Record Page
 
-| Marriage
-| 14  June 1761
-| Johann Heinrich Krückeberg &
-Anne Chritine Elisabeth Seeger
-| not given
-| not given
-|Groom: Berenbusch +
-Bride: Evesen
-| not given
+| Baptism
+| 24 Mar. 1765
+| Jobst Heinrich Krückeberg
+| Johann Heinrich Krückeberg 
+| 
+| Berenbusch
 | 
 | 
-|If the groom is the Johann Heinrich Krückeberg born in 1744, he would be only 17
-at the time of marrage, while his bride would have been 25.
-| xref:petzen:PET-M-1761a.adoc[]
+|
+. Rösener, from Evesen im kurzen Bruche
+|xref:petzen:PET-B-1767a.adoc[]
+
+| Baptism
+| 5 Jul. 1767
+| Johann Heinrich Wilhelm Krückeberg 
+| Johann Heinrich Krückeberg
+| Anne Christine Elisabeth née Seeger
+| Berenbusch
+|
+| 
+|
+. Jobst Wilhelm Weiland, Berenbusch
+|
+|xref:petzen:PET-B-1767a.adoc[]
+
+|Burial
+|23 June 1771
+|stillborn son
+|Johann Heinrich Krückeberg
+|
+|Berenbusch
+|
+|
+|
+|
+|xref:petzen:PET-D-1771a.adoc[]
+
+|Burial
+|27 Aug. 1773
+|stillborn son
+|Johann Heinrich Krückeberg
+|
+|Berenbusch
+|no. 10
+|
+|
+|No. 10 appears for the first time
+|xref:petzen:PET-D-1771a.adoc[]
 |===
+
+== Other Clues
+
