@@ -48,8 +48,13 @@ who also married in 1727?
 
 *Answer:* No because he apparently was dead: xref:petzen:PET-D-1759a.adoc[].
 
-== TODO
+== To Find
 
+=== Baptism/Birth Records
+
+After 1782 for Johann Heinrich Krückeberg and Anna Marie Schakel. Start here: https://www.archion.de/p/4f686bb923/
+
+=== Burial/Death Records
 Find the burial/death record of Anna Maria Elisabeth nee Schäkel/Schekel/Schakel Krückeberg. 
 
 Years reviewed: Jan 1782-1788, to end of " Verzeichnis der Getrauten und Gestorbenen 1641-1784".
