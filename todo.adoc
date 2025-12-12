@@ -1,6 +1,18 @@
 = TODO
 
-== Research Question'
+== Research Question
+
+=== Baptism Records to Find
+
+* The 3rd wife of Johann Hein`rich Krückeberg, Philippine Doroth[ea] Beucken, was an Einliegerin from Evesen.
+Find her birth record from circa 1765.
+
+* On FamilySearch, Anne Marie Philippine Krückeberg, born 1795, shown to be the child of Johann Heinrich Krückeberg
+(from Berenbusch) and Philippine Dorothea Beucken. The citation given is: https://familysearch.org/ark:/61903/1:1:VH7C-TCF
+
+Yet that record's spelling of the mother's surname is: Boecker.
+
+TODO: Look for the Kirchenbuchduplikant for the parish of Dankersen 
 
 === Add to Jobst-h-krueckeberg-1779.adoc...
 
