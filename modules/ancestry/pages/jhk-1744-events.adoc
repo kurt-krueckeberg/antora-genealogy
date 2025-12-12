@@ -56,11 +56,28 @@ After 1782 for Johann Heinrich Krückeberg and Anna Marie Schakel. Start here: h
 
 Reviewed: Thru 1784  = All of 1641-1784 volume.
 
+.Baptisms Reviews
+|===
+|Volume|Progress|New Records Found
+
+|Verzeichnis der Getauften und Konfirmierten 1641-1784|Reviewed all|None
+
+|Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827|Start at image 31 to start|
+|===
+
 === Burial/Death Records
 
 Find the burial/death record of Anna Maria Elisabeth nee Schäkel/Schekel/Schakel Krückeberg. 
 
-Reviewed:
+.Deaths/Burials Reviews
+|===
+|Volume|Progress|New Records Found
+
+|Verzeichnis der Getauften und Konfirmierten 1641-1784|Reviewed all|None
+
+|Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827|yet to start|
+|===
+
 
 . All of " Verzeichnis der Getrauten und Gestorbenen 1641-1784".
 . Resume image 221 from "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
