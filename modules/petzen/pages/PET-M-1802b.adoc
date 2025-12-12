@@ -40,7 +40,7 @@ s| Zahl s| Nahmen des Bräutigams  s| Ortschaft s| Sh s| Nahmen der Braut s| Ort
 |Berenb[usch]
 |10
 |Phillippine Doroth: Beucken +
-   von ihm vor einigen Jahren [geschwächt?]
+   von ihm vor einigen Jahren [?]
 |Meinsen
 |Einliegerin
 |===
@@ -58,7 +58,7 @@ s| Zahl s| Nahmen des Bräutigams  s| Ortschaft s| Sh s| Nahmen der Braut s| Ort
 |Berenb[usch]
 |10
 |Philippine Doroth Beucke +
- [weakened?] by him several years ago| Meinsen
+ [?] by him several years ago| Meinsen
 |lodger/tenant
 |===
 
