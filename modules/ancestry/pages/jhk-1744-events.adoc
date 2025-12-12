@@ -152,8 +152,8 @@ died from childbirth complication
 |
 |
 |
-|
 . the young Mostin from Berenbusch
+|
 |xref:petzen:PET-B-1775b.adoc[]
 
 |Baptism
@@ -164,11 +164,11 @@ died from childbirth complication
 |
 |
 |
+|
 . Johanna Sophie Margdelena Wilkening, Hockers Aue
 . Sophie Charlotte Rösener, Petzen
 |
 |xref:petzen:PET-B-1775b.adoc[]
-
 |===
 
 == Other Clues
