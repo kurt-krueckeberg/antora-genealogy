@@ -141,8 +141,7 @@ died from childbirth complication
 
 *bride:* Päpinghausen
 |
-|
-|groom is widower
+2+|groom is widower
 |xref:petzen:PET-M-1773a.adoc[]
 
 |Baptism
