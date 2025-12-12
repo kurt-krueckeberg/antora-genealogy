@@ -10,7 +10,7 @@ NOTE: The *"n"* on "Schäkeln" may be a inflected ending appended to the actual 
 |===
 |Baptism Date|Infant|Father|Mother
 
-|Jan. 13, 1782|Johanna Sophie Charlotte|Johann Heinrich Krückeberg|Anna Maria Elisabeth née Schäkeln
+|Jan. 13, 1782|Johanna Sophie Charlotte|Johann Heinrich Krückeberg|Anna Maria Elisabeth née Schäkel
 |===
 
 .Sponsors
@@ -18,7 +18,7 @@ NOTE: The *"n"* on "Schäkeln" may be a inflected ending appended to the actual 
 |===
 |Name|Residence
 
-|Johanna Sophie Margdelena Wilkeningen| Hockers Aue
+|Johanna Sophie Margdelena Wilkening| Hockers Aue
 
 |Sophie Charlotte Rösener|Petzen 
 |===
@@ -70,8 +70,8 @@ xref:PET-B-1779b.adoc[1779 Carl Friderich Gottlieb Krückeberg] baptism record i
 2) on Jan 13th [of 1782] Johanna Sophie Charlotte
 Krückenberg was baptized, the begotten daughter of 
 Johann Heinrich Krückeberg, by his wife Anna Maria
-Elisabeth born Schäkeln. The godmothers were
-Johanna Sophie Margdelena Wilkeningen from the
+Elisabeth born Schäkel. The godmothers were
+Johanna Sophie Margdelena Wilkening from the
 Hockers Aue and Sophie Charlotte Rösener
 from Petzen 
 ....
