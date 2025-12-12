@@ -45,8 +45,12 @@ This is provide proof that **Jobst Heinrich was the inheriting son**
 *Questions:* 
 . Could the Johann Heinrich Krückeberg who married in 1761 be the Johann Heinrich Krückeberg
 who also married in 1727? 
-+
-Answer: No because he apparently was dead: xref:petzen:PET-D-1759a.adoc[].
+
+*Answer:* No because he apparently was dead: xref:petzen:PET-D-1759a.adoc[].
+
+== TODO
+
+Find the burial/death record of Anna Maria Elisabeth nee Schäkel/Schekel/Schakel Krückeberg. 
 
 == Event Table
 
