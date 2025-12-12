@@ -12,7 +12,7 @@ of marriage)
 
 |*Groom*|Johann Heinrich Kruckkeberg, widower|Nov. 7 1773|Berenbusch
 
-|*Bride*|Ilse Anna Marie Elisabeth née Schakeln|Nov. 7 1773|Päpinghausen
+|*Bride*|Ilse Anna Marie Elisabeth née Schakel|Nov. 7 1773|Päpinghausen
 |===
 
 .Other Facts
@@ -26,7 +26,7 @@ of marriage)
 == Citation
 
 The November 7, 1773, marriage of Johann Heinrich Krükkeberg from Bernbusch to Ilse Anna Maria Elisabeth
-née Schakeln from Päpinghausen is on <<PET-M-1773a, image 61>>, the last entry on the left-hand page (the pages
+née Schakel from Päpinghausen is on <<PET-M-1773a, image 61>>, the last entry on the left-hand page (the pages
 are unnumbered), of the Petzen "Verzeichnis der Getrauten und Gestorbenen, 1641-1784".
 
 == Marriage Record
@@ -45,6 +45,13 @@ image::petzen-band1b-img61.jpg[title="Johann Heinrich Krückeberg Marriage(Click
           Elisabeth geb. Schakeln aus Päpinghausen
 ....
 
+[IMPORTANT]
+====
+The *"n"* ending on Schakeln in the marriage record apparently serves merely to indicate
+this is a female's surname. In the marriage records for this time period all the bride's surname
+end with either *"n"* or *"s"*, which is appended to the actual surname. 
+====
+
 .Translation
 [literal.bordered,subs="verbatim,quotes"]
 .... 
@@ -54,7 +61,7 @@ image::petzen-band1b-img61.jpg[title="Johann Heinrich Krückeberg Marriage(Click
 
 2) The 7th Nov. Johann Heinrich Kruckeberg
           a widower from Berenbusch married Ilse Anna Maria
-          Elisabeth née Schakeln from Päpinghausen
+          Elisabeth née Schakel from Päpinghausen
 ....
 
 
