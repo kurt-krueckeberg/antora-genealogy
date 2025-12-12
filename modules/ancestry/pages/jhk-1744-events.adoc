@@ -12,16 +12,27 @@ On 21 March 1822, a Johann Heinrich Krückeberg died who was a Leibzüchter, a r
 
 His age is given as 78 years, 2 months and 3 weeks. Subtracting this precise age from 21 March 1822
 places his birth on 31 December 1743; however, no births in the Petzen parish were recorded on this date.
-But a Johann Heinrich Krückeberg was born on 19 January 1744, which is 78 years, 2 months and 3 days earlier. 
-Perhaps the scribe wrote "weeks" instead of "days" by accident? Can we further establish that the Johann
-Heinrich who was born 19 January 1744 is the Johann Heinrich who died on 21 March 1822?
+But a Johann Heinrich Krückeberg was born on 19 January 1744, which is 78 years, 2 months and 3 days (not
+weeks) from 21 March 1822. Did the scribe accidently write "weeks" instead of "days"? Can we in any way
+further establish that the Johann Heinrich Krückeberg who was born 19 January 1744 is the Johann Heinrich
+Krückeberg who died on 21 March 1822?
+
+== Facts
+
+* His age of 78 years, 2 months and 3 days
+* He was a Leibzüchter and his heir is revealed indirectly in the records of his children.
+* The Johann Heinrich Krückeberg who married ?? Schakele in 17?? was a 1.) widower and 2.) from
+Berenbusch
+* Is the first born son named after the paternal grandfather?
+* The Johann Heinrich Krückeberg who married Beucken in 1802 was a 1.) widower 2.) Leibzüchter and
+3.) lived a #10 Berenbusch
+  
+=== The Leibzüchter Fact
 
 Let's begin with the "Leibzüchter" fact.  We will use the table below that when filled out should reveal:
 
-== Research Trace #1
-
-1. **Jobst Heinrich remained all his adult life at No. 10 Berenbusch**
-2. **Johann Heinrich relocated permanently to No. 19 Evesen through marriage**
+1. His son **Jobst Heinrich remained all his adult life at No. 10 Berenbusch**
+2. His son **Johann Heinrich relocated permanently to No. 19 Evesen through marriage**
 3. **The father died at the ancestral Hof (No. 10)**
 4. **Jobst Heinrich died at the same Hof**, confirming succession
 5. Their children were raised on **two separate household lines**
