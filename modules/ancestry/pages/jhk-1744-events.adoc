@@ -101,6 +101,20 @@ Find the burial/death record of Anna Maria Elisabeth nee Schäkel/Schekel/Schake
 | Notes
 | Record Page
 
+|Marriage
+|14 June 1761
+|Johann Heinrich Krückeberg & Anne Christine Elisabet Seeger
+|not given
+|not given
+2+|
+*groom:* Berenbusch
+
+*bride:* Evesen
+|
+|
+|
+|xref:petzen:PET-M-1761a.adoc[]
+
 | Baptism
 | 24 Mar. 1765
 | Jobst Heinrich Krückeberg
