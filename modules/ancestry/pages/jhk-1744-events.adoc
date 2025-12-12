@@ -143,7 +143,7 @@ died from childbirth complication
 |
 |
 |groom is widower
-|xref:petzen:PET-M-1773a.adco[]
+|xref:petzen:PET-M-1773a.adoc[]
 
 |Baptism
 |10 Sep. 1775
