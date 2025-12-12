@@ -10,9 +10,9 @@ Find her birth record from circa 1765.
 * On FamilySearch, Anne Marie Philippine Krückeberg, born 1795, shown to be the child of Johann Heinrich Krückeberg
 (from Berenbusch) and Philippine Dorothea Beucken. The citation given is: https://familysearch.org/ark:/61903/1:1:VH7C-TCF
 
-Yet that record's spelling of the mother's surname is: Boecker.
+Yet that record's spelling of the mother's surname is different; it is *Boecker*.
 
-TODO: Look for the Kirchenbuchduplikant for the parish of Dankersen 
+The original Dankersen, Kreis Minden, parish Kirchenbücher are on Archion.de: https://www.archion.de/p/fe0c680d5c/
 
 === Add to Jobst-h-krueckeberg-1779.adoc...
 
