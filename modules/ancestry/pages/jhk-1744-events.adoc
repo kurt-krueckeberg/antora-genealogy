@@ -137,7 +137,7 @@ Find the burial/death record of Anna Maria Elisabeth nee Schäkel/Schekel/Schake
 | 
 . Rösener, from Evesen im kurzen Bruche
 |
-|xref:petzen:PET-B-1767a.adoc[]
+|xref:petzen:PET-B-1765a.adoc[]
 
 | Baptism
 | 5 Jul. 1767
