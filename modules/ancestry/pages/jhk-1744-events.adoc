@@ -268,16 +268,26 @@ on the Höckersau (Höcker's estate).
 |xref:petzen:PET-M-1802b.adoc[]
 
 |Burial
+|9 Jan. 1819
+|Philippine Dorothee nee Beucke Krückeberg
+|not given
+|not given
+|Berenbusch
+|#13
+|Einlieger
 |
 |
-|
-|
-|
-|
-|
-|
-|
-|
+*Age:* 54
+
+*Cause of Death:* penumonia/consumption
+
+*Husband's Status:* Einlieger at no. 13 Bärenbusch
+
+*Husband’s former Occupation:* Hofmeisters auf dem Reinen-
+Neelhof
+
+*Survivors:* Husband and a daughter
+|xref:petzen:PET-D-1819a.adoc[]
 |===
 
 == Nachträge
