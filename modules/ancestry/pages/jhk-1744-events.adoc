@@ -201,7 +201,7 @@ wife of Johann Heinrich Krückeberg
 2+|
 *groom:* Berenbusch
 
-*bride:* Päpinghausen
+*bride:* Päpinghausen, whose parish is Frille
 |
 2+|groom is widower
 |xref:petzen:PET-M-1773a.adoc[]
