@@ -5,15 +5,15 @@
 
 [caption="Family Relationship of: "]
 .late Philippine Dorothee Krückeberg
-[%header,width="60%"]
+[%header,width="90%"]
 |===
-||Name|Death Date|Burial Date
+|Decedent|Husband|Residence|Daughter|Death Date|Burial Date
 
-|*Husband* (living)|Johann Heinrich Krückeberg||
-
-|*Wife*|Philippine Dorothee Krückeberg, nee Beuke|Jan. 6, 1819|Jan. 9, 1819
-
-|*Residence*|no. 13 Bärenbusch|| 
+|Philippine Dorothee nee Beuke Krückeberg
+|Johann Heinrich Krückeberg
+|no. 13 Bärenbusch
+|Jan. 6, 1819
+|Jan. 9, 1819
 |===
 
 .Facts
@@ -30,7 +30,12 @@
 |*Status*|Einlieger (tenant)
 
 |*Husband's Occupation*|former Hofmeisters
+
+|*Survivors*|Husband and a daughter
 |===
+
+NOTE: Philippine Dorothee nee Beuke Krückeberg was survived by a daughter, but it is not clear that Johann Heinrich Krückeberg
+was her daugher's father. We don't have a baptism record yet.
 
 == Citation
 
