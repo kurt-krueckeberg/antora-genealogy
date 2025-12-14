@@ -264,6 +264,8 @@ on the Höckersau (Höcker's estate).
 
 *bride:* Einliegerin
 
+*bride's age:* approximately 38 (based on age at death)
+
 *Comment under bride's name:* [?] by him several years ago
 |xref:petzen:PET-M-1802b.adoc[]
 
@@ -289,7 +291,7 @@ Neelhof
 *Survivors:* Husband and a daughter
 
 The decedent was not baptized in Petzen. There is no Beucke
-baptism between 1764-1766 in the Petzen Kirchenbuch.
+baptism between 1764-1765 in the Petzen Kirchenbuch.
 |xref:petzen:PET-D-1819a.adoc[]
 |===
 
