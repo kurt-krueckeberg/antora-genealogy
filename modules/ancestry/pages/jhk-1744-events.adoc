@@ -263,6 +263,8 @@ on the Höckersau (Höcker's estate).
 |*groom:* widower
 
 *bride:* Einliegerin
+
+*Comment under bride's name:* [?] by him several years ago
 |xref:petzen:PET-M-1802b.adoc[]
 |===
 
@@ -272,6 +274,3 @@ on the Höckersau (Höcker's estate).
 
 
 //|===
-
-== Other Clues
-
