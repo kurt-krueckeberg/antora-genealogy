@@ -169,7 +169,8 @@ from n. 11 Evesen
 |xref:petzen:PET-C-1821a.adoc[]
 |===
 
-*†* -- The *Bleeken* surname for Phlippine Leonore is in error.
+*†* -- The *Bleeken* surname for Phlippine Leonore is in error. See
+xref:ancestry:proof-arg-philippine-eleonore-werkmeister.adoc[].
 
 [NOTE]
 ====
