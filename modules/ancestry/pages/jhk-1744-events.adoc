@@ -248,6 +248,22 @@ on the Höckersau (Höcker's estate).
 . Sophie Charlotte Rösener, Petzen
 |
 |xref:petzen:PET-B-1782a.adoc[]
+
+|Marriage
+|11 Apr. 1802
+|Johann Heinrich Krückeberg Dorothea Beucke
+|not given
+|not given
+2+|
+*groom:* #10 Berenbusch
+
+*bride:* Evesen
+|Leibzüchter
+|
+|*groom:* widower
+
+*bride:* Einliegerin
+|xref:petzen:PET-M-1802b.adoc[]
 |===
 
 == Nachträge
