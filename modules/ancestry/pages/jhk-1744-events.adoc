@@ -176,7 +176,7 @@ Find the burial/death record of Anna Maria Elisabeth nee Schäkel/Schekel/Schake
 |
 |
 |No. 10 appears for the first time
-|xref:petzen:PET-D-1771a.adoc[]
+|xref:petzen:PET-D-1773a.adoc[]
 
 |Burial
 |29 Aug 1773
