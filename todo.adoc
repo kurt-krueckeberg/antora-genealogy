@@ -1,5 +1,9 @@
 = TODO
 
+== DO Next
+
+Work on this: 
+https://chatgpt.com/share/693f6e47-3fa8-8004-894a-e24d72903d8c
 
 == Add Nachtraege for jhk-1744-events.adoc
 
