@@ -180,8 +180,8 @@ Find the burial/death record of Anna Maria Elisabeth nee Schäkel/Schekel/Schake
 
 |Burial
 |29 Aug 1773
-|Anna Christina  Seeger
-|
+|Anna Christina Seeger
+| 
 |Berenbusch
 |
 |
@@ -189,6 +189,8 @@ Find the burial/death record of Anna Maria Elisabeth nee Schäkel/Schekel/Schake
 |
 |
 died from childbirth complication
+
+died at #10 Berenbusch
 
 wife of Johann Heinrich Krückeberg
 
