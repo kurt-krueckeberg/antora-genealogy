@@ -76,7 +76,18 @@ For Death / Burial events:
 * Place and time of death and burial are recorded in Notes
 * Residence / Village and No. columns remain blank unless the record explicitly states residence
 
-The table is chronologically ordered by Event Date.
+The table is chronologically ordered by Event Date. The following codes are used for the Event 
+Tyep:
+
+[cols=",,",options="header",]
+|===
+|Event |Code |Rationale
+|*Birth* |*B* |Universally intuitive
+|*Baptism* |*Ba* |Avoids confusion with Birth
+|*Confirmation* |*C* |Standard ecclesiastical shorthand
+|*Marriage* |*M* |Universally intuitive
+|*Death / Burial* |*D* |Covers combined event
+|===
 
 === Optional advanced columns:
 

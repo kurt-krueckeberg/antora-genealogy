@@ -2,12 +2,12 @@
 
 == DO Next
 
-Rename the Residence/Village column to:
-
-Residence / Village
+1. Rename the Residence/Village column to: Residence / Village +
 (Bap./Conf.)
 
-Rework all the event tables to follow the Usage Notes in `event-tables.adoc#usage-notes`.
+2. Rework all the event tables to follow the Usage Notes in `event-tables.adoc#usage-notes`.
+
+3. Use Event Code
 
 == Add Nachtraege for jhk-1744-events.adoc
 

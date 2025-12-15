@@ -86,12 +86,24 @@ For Death / Burial events:
 * Place and time of death and burial are recorded in Notes
 * Residence / Village and No. columns remain blank unless the record explicitly states residence
 
-The table is chronologically ordered by Event Date.
+The table is chronologically ordered by Event Date. The following codes are used for each type of
+event:
+
+[cols="2,1,4",options="header",width="40%"]
+|===
+|Event |Code |Rationale
+
+|*Birth* |*B* |Universally intuitive
+|*Baptism* |*Ba* |Avoids confusion with Birth
+|*Confirmation* |*C* |Standard ecclesiastical shorthand
+|*Marriage* |*M* |Universally intuitive
+|*Death / Burial* |*D* |Covers combined event
+|===
 
 === Derived Record Event Table for Carl Friedrich Krückeberg Family
 
 .Derived Record Event Table for Carl Friedrich Krückeberg Family
-[cols="1,2,3,3,3,2,1,2,3a,4a",options="header"]
+[cols="1,3,4,4,4,3,1,3,4a,5a",options="header"]
 |===
 | Event Type
 | Event Date
@@ -105,7 +117,7 @@ The table is chronologically ordered by Event Date.
 | Sponsors
 | Notes
 
-|Birth
+|B
 |21 May 1807
 |Carl Friedrich Krückeberg
 |Carl Friedrich Gottlieb Krückeberg
@@ -116,7 +128,7 @@ The table is chronologically ordered by Event Date.
 |
 |2^nd^ child, 1^st^ son
 
-|Baptism
+|Bp
 |24 May 1807
 |Carl Friedrich Krückeberg
 |Carl Friedrich Gottlieb Krückeberg
@@ -133,7 +145,7 @@ The table is chronologically ordered by Event Date.
 Beerenbusch.
 |
 
-|Birth
+|B
 |2 Jan. 1811
 |Luise Dorothea Weiland
 |Friedrich Wilhelm Weiland
@@ -146,7 +158,7 @@ Beerenbusch.
 
 *Father:* Kolon
 
-|Baptism
+|Bp
 |2 Jan. 1811
 |Luise Dorothea Weiland
 |Friedrich Wilhelm Weiland
@@ -159,7 +171,7 @@ Beerenbusch.
 . Katharine Leonore Kuhlmann, #3 Evensen.
 |
 
-| Marriage
+| M
 | 16 Nov 1834
 | Carl Friedrich Krückeberg & Luise Dorothea Weiland
 | same as birth 
@@ -170,7 +182,7 @@ Beerenbusch.
 | todo 
 | todo 
 
-| Birth
+| B
 | 4 Feb 1835
 | Carl Heinrich Wilhelm Krückeberg
 | Carl Friedrich Krückeberg
@@ -181,7 +193,7 @@ Beerenbusch.
 | 
 | 
 
-| Confirmation
+| C
 | 15 Apr 1849
 | Carl Heinrich Wilhelm Krückeberg
 | Carl Friedrich Krückeberg
@@ -192,7 +204,7 @@ Beerenbusch.
 | 
 | Confirmed on Quasimodogeniti Sunday 
 
-| Birth
+| B
 | 15 Oct 1837
 | Caroline Philippine Krückeberg
 | Carl Friedrich Krückeberg
@@ -203,7 +215,7 @@ Beerenbusch.
 | 
 | 
 
-| Birth
+| B
 | 8 Sep 1840
 | Caroline Philippine Sophie Krückeberg
 | Carl Friedrich Krückeberg
@@ -214,7 +226,7 @@ Beerenbusch.
 | 
 | 
 
-| Birth
+| B
 | 6 Sep 1843
 | Wilhelmine Christine Krückeberg
 | Carl Friedrich Krückeberg
@@ -225,7 +237,7 @@ Beerenbusch.
 | 
 | 
 
-| Birth
+| B
 | 23 Jul 1846
 | Friederich Wilhelm Krückeberg
 | Carl Friedrich Krückeberg
@@ -236,7 +248,7 @@ Beerenbusch.
 | 
 | 
 
-| Birth
+| B
 | 6 Feb 1850
 | Ernst Heinrich Krückeberg
 | Carl Friedrich Krückeberg
