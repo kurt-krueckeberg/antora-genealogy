@@ -23,30 +23,9 @@ including:
 
 Each row corresponds to *one recorded event*, not one person.
 
-== ✅ Why the Event Table Matters for Our Case
-
-We have *two Krückeberg immigrants*:
-
-=== 1. *Johann Heinrich Krückeberg*
-
-— emigrated *1849* to Adams County, Indiana
-
-=== 2. *Carl Heinrich Krückeberg*
-
-— emigrated *1850* to Adams County, Indiana
-
-The Schaumburg-Lippe parish registers (Petzen, Frille, nearby) contain
-*multiple Krückeberg families*, often:
-
-* with the same given names
-* living in the *same village* (Berenbusch, Petzen, etc.)
-* without house numbers in early records
-* without occupations in early records
-
-So identities can sometimes easily get confused.
+== ✅ Why the Event Table Matters
 
 The *Event Table solves this* by letting us:
-
 
 * ✅ cluster events belonging to the same nuclear family 
 * ✅ distinguish same-name individuals 
@@ -65,7 +44,9 @@ These are the columns the event tables will contain:
 | Name of subject
 | Father (as written; normalized in parentheses)
 | Mother (as written; normalized in parentheses)
-| Residence / village (as written)
+| Residence / village
+  (Bap./Conf.)
+  (as written)
 | House number (when available)
 | Occupation (if present)
 | Sponsors / witnesses (as written)
@@ -73,65 +54,35 @@ These are the columns the event tables will contain:
 | Record Page
 ....
 
-Optional advanced columns:
+=== Usage Notes (for reference, not part of the table)
+
+Residence is only truly applicable for Births/Baptisms and Confirmation since infants
+and adolescents reside with their family. In the case of marriage, the "residence" of
+the bride or groom is their residence at the time of marriage not their future residence,
+although the groom's residence often is the future residence. In the case of death/burial,
+a residence is not necessarily given but rather "place of death". Therefore, "Residence /
+ Village" and "No." are populated only for:
+
+. Baptism events
+. Confirmation events
+
+For Marriage events:
+
+* Pre-marriage residence(s) of bride and groom are recorded in the Notes column
+* Residence / Village and No. columns remain blank
+
+For Death / Burial events:
+
+* Place and time of death and burial are recorded in Notes
+* Residence / Village and No. columns remain blank unless the record explicitly states residence
+
+The table is chronologically ordered by Event Date.
+
+=== Optional advanced columns:
 
 * ✅ inferred identity 
 * ✅ confidence level 
 * ✅ link to other event rows
-
-== ✅ How the Event Table Connects to Building the Pedigree
-
-For *each of the two immigrants*, the Event Table allows you to:
-
-=== Step 1 — Identify the correct baptism record
-
-(eliminating others with same name)
-
-=== Step 2 — Confirm parents through:
-
-* marriage entries
-* siblings’ baptisms
-* death records
-* sponsor networks
-
-=== Step 3 — Tie family to:
-
-* a specific house number (later records)
-* village cluster (Berenbusch, etc.)
-
-=== Step 4 — Link to Indiana arrivals
-
-* matching given names of children
-* matching ages in US census
-* matching Lutheran confirmation ages
-
-=== Step 5 — Produce BCG-compliant proof
-
-* negative evidence documented
-* conflicting evidence resolved
-* citations for every assertion
-
-== ✅ Why This Helps Our German Research
-
-The Event Table becomes:
-
-* ✅ the *research brief* 
-* ✅ the *working hypothesis map* 
-* ✅ the *evidence correlation tool*
-
-So instead of thinking:
-
-____
-“Please help me figure out which Krückeberg belongs to which family…”
-____
-
-We will think:
-
-____
-“Rows 22–41 appear to be the family of the 1849 emigrant, but rows 33
-and 36 conflict due to residence wording. Please verify in archival
-material A12–K2.”
-____
 
 == ✅ Nachträge Tables
 

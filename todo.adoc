@@ -2,8 +2,12 @@
 
 == DO Next
 
-Work on this: 
-https://chatgpt.com/share/693f6e47-3fa8-8004-894a-e24d72903d8c
+Rename the Residence/Village column to:
+
+Residence / Village
+(Bap./Conf.)
+
+Rework all the event tables to follow the Usage Notes in `event-tables.adoc#usage-notes`.
 
 == Add Nachtraege for jhk-1744-events.adoc
 
