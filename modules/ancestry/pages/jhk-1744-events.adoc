@@ -22,7 +22,7 @@ Can we in any other way further establish that the Johann Heinrich Krückeberg w
 == Facts
 
 * He dies at age of 78 years, 2 months and 3 weeks (maybe 3 days).
-* He is mentioned as a Leibzüchter when he xref:petzen:PET-M-1802v.adoc[marries on 11 April 1802] and when he
+* He is mentioned as a Leibzüchter when he xref:petzen:PET-M-1802b.adoc[marries on 11 April 1802] and when he
 xref:petzen:PET-D-1822a.adoc[dies on 21 March 1822]. For both events, his address is #10 Berenbusch.
 However, when his wife is xref:petzen:PET-D-1819a.adoc[buried on 6 January 1819] "he" is described as  
 [quote]
@@ -329,7 +329,7 @@ baptism between 1764-1765 in the Petzen Kirchenbuch.
 *Survivors:* 2 sons
 
 *Question:* Why not survived by and daughters?
-|xref:PET-D-1822a.adoc[]
+|xref:petzen:PET-D-1822a.adoc[]
 |===
 
 == Nachträge
