@@ -61,7 +61,7 @@ and adolescents reside with their family. In the case of marriage, the "residenc
 the bride or groom is their residence at the time of marriage not their future residence,
 although the groom's residence often is the future residence. In the case of death/burial,
 a residence is not necessarily given but rather "place of death". Therefore, "Residence /
- Village" and "No." are populated only for:
+Village" and "No." are populated only for:
 
 . Baptism events
 . Confirmation events
