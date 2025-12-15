@@ -125,9 +125,12 @@ The table is chronologically ordered by Event Date.
 |#11
 |tailor
 |
-. Hans Heinrich Wilharm, #11 Evesen 
-. Johann Heinrich Deerberg, #6 Evensen,
-. Jobst Heinrich Krückeberg, Beerenbusch.
+. Hans Heinrich Wilharm, +
+#11 Evesen 
+. Johann Heinrich Deerberg, +
+#6 Evensen,
+. Jobst Heinrich Krückeberg, +
+Beerenbusch.
 |
 
 |Birth
