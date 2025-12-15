@@ -91,7 +91,7 @@ The table is chronologically ordered by Event Date.
 === Derived Record Event Table for Carl Friedrich Krückeberg Family
 
 .Derived Record Event Table for Carl Friedrich Krückeberg Family
-[cols="1,2,3,3,3,2,1,2,3a,4a,3a",options="header"]
+[cols="1,2,3,3,3,2,1,2,3a,4a",options="header"]
 |===
 | Event Type
 | Event Date
@@ -104,7 +104,6 @@ The table is chronologically ordered by Event Date.
 | Occupation
 | Sponsors
 | Notes
-| Record Page(s)
 
 |Birth
 |2 Jan. 1811
@@ -116,11 +115,10 @@ The table is chronologically ordered by Event Date.
 |
 |
 |3^rd^ child, 3^rd^ daughter
-|xref:derived-church-records:FS-CFK.adoc[]
 
 |Baptism
 |2 Jan. 1811
-|Luise Dorothea Weilan
+|Luise Dorothea Weiland
 |Friedrich Wilhelm Weiland
 |Anna Katharine Drinckuth
 |Evesen
@@ -129,8 +127,7 @@ The table is chronologically ordered by Event Date.
 |
 . Dorothea Deerberg, #6 Evesen 
 . Katharine Leonore Kuhlmann, #3 Evensen.
-|3^rd^ child, 3^rd^ daughter
-|xref:derived-church-records:FS-CFK.adoc[]
+|
 
 | Marriage
 | 16 Nov 1834
@@ -142,7 +139,6 @@ The table is chronologically ordered by Event Date.
 | todo 
 | todo 
 | todo 
-|xref:derived-church-records:FS-CFK.adoc[]
 
 | Birth
 | 4 Feb 1835
@@ -154,7 +150,6 @@ The table is chronologically ordered by Event Date.
 | 
 | 
 | 
-|xref:derived-church-records:FS-CFK.adoc[]
 
 | Confirmation
 | 15 Apr 1849
@@ -166,7 +161,6 @@ The table is chronologically ordered by Event Date.
 | 
 | 
 | Confirmed on Quasimodogeniti Sunday 
-|xref:derived-church-records:FS-CFK.adoc[]
 
 | Birth
 | 15 Oct 1837
@@ -178,7 +172,6 @@ The table is chronologically ordered by Event Date.
 | 
 | 
 | 
-|xref:derived-church-records:FS-CFK.adoc[]
 
 | Birth
 | 8 Sep 1840
@@ -190,7 +183,6 @@ The table is chronologically ordered by Event Date.
 | 
 | 
 | 
-|xref:derived-church-records:FS-CFK.adoc[]
 
 | Birth
 | 6 Sep 1843
@@ -202,7 +194,6 @@ The table is chronologically ordered by Event Date.
 | 
 | 
 | 
-|xref:derived-church-records:FS-CFK.adoc[]
 
 | Birth
 | 23 Jul 1846
@@ -214,7 +205,6 @@ The table is chronologically ordered by Event Date.
 | 
 | 
 | 
-|xref:derived-church-records:FS-CFK.adoc[]
 
 | Birth
 | 6 Feb 1850
@@ -226,7 +216,6 @@ The table is chronologically ordered by Event Date.
 | 
 | 
 | 
-|xref:derived-church-records:FS-CFK.adoc[]
 |===
 
 *†* -- The *Bleeken* surname for Phlippine Leonore is in error.
