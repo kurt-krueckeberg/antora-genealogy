@@ -30,7 +30,7 @@ der vikarirende Prediger
 
 Fürstentum Schaumburg Lippe.
 
-L.\ Schwerdtmann von Bergkirchen.
+{empty}L. Schwerdtmann von Bergkirchen.
 
 *English translation:*  
 
@@ -43,5 +43,5 @@ the acting pastor.
 
 Principality of Schaumburg-Lippe.  
 
-L.\ Schwerdtmann of Bergkirchen.
+{empty}L. Schwerdtmann of Bergkirchen.
 ____
