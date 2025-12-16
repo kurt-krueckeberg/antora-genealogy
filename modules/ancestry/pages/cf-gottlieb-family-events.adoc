@@ -37,7 +37,7 @@ table].
 | Notes
 | Record Page(s)
 
-|Marriage
+|M
 |13 Mar. 1803
 |Carl Friedrich Gottlieb Krüceberg &
 Philippine Eleonore Werkmeister
@@ -54,7 +54,7 @@ Bride: Evesen
 xref:#nachtraege[Nachträge exists for the bride and groom]
 |xref:petzen:PET-M-1803a.adoc[]
 
-| Birth
+| B
 | 7 Dec. 1803
 | Christine Philippine Krückeberg
 | Carl Friedrich Krückeberg
@@ -66,7 +66,7 @@ xref:#nachtraege[Nachträge exists for the bride and groom]
 | Father: Einlieger 
 | xref:petzen:PET-B-1803c.adoc[]
 
-| Baptism
+| Bp
 | 11 Dec. 1803
 | Christine Philippine Krückeberg
 | Carl Friedrich Krückeberg
@@ -80,7 +80,7 @@ Weyland from Berenbusch
 | Father: Einlieger 
 | xref:petzen:PET-B-1803c.adoc[]
 
-| Birth
+| B
 | 21 May 1807
 | Carl Friedrich Krückeberg
 | Carl Friedrich Gottlieb Krückeberg
@@ -98,7 +98,7 @@ Father is *Einlieger*
 Mother from # 11 Evesen
 |xref:petzen:PET-B-1807a.adoc[]
 
-| Baptism 
+| Bp 
 | 24 May 1807
 | Carl Friedrich Krückeberg 
 | Carl Friedrich Gottlieb Krückeberg
@@ -117,7 +117,7 @@ Father is *Einlieger*
 Mother from # 11 Evesen
 |xref:petzen:PET-B-1807a.adoc[]
 
-|Birth
+|B
 |2 Dec. 1812
 |Caroline Dorothee Krückeberg
 |Carl Friedrich Gottlieb Krückeberg
@@ -130,7 +130,7 @@ from n. 11 Evesen
 |xref:#nachtraege[Nachträge exists for her and her father]
 |xref:petzen:PET-B-1812a.adoc[]
 
-|Baptism
+|Bp
 |6 Dec. 1812
 |Caroline Dorothee Krückeberg
 |Carl Friedrich Gottlieb Krückeberg
@@ -145,7 +145,7 @@ from n. 11 Evesen
 |xref:#nachtraege[Nachträge exists for her and her father]
 |xref:petzen:PET-B-1812a.adoc[]
 
-| Confirmation
+| C
 | 6 April 1817
 | Christine Philippine Krückeberg
 |
@@ -157,7 +157,7 @@ from n. 11 Evesen
 |Confirmed: Quasimodogeniti Sunday, 1817 
 |xref:petzen:PET-C-1817a.adoc[]
 
-| Confirmation
+| C
 | 8 April 1821
 | Carl Friedrich Krückeberg 
 | 
@@ -210,7 +210,7 @@ where they lived--not to mention other details his baptism record might have. It
 link to the prior generation, the proof of who his parent's are.
 
 .Nachträge table for xref:#event-table-petzen-cfg-krueckeberg-family[]
-[cols="4,4,2,4a",options="header"]
+[cols="4,4,1,4a",options="header"]
 |===
 | Name of Subject
 | Source Record
@@ -219,22 +219,22 @@ link to the prior generation, the proof of who his parent's are.
 
 | Carl Friedrich Gottlieb Krückeberg
 | xref:petzen:PET-M-1803a.adoc[]
-| Baptism
+| Bp
 | "Baptized 18 Mar. 1779"
 
 | Carl Friedrich Gottlieb Krückeberg
 | xref:petzen:PET-M-1803a.adoc[]
-| Death
+| D
 | "Died 13 May 1838"
 
 | Caroline Dorothee Krückeberg
 | xref:petzen:PET-B-1812a.adoc[]
-| Marriage
+| M
 | "Married 15 Oct. 1835"
 
 | Caroline Dorothee Krückeberg
 | xref:petzen:PET-B-1812a.adoc[]
-| Death
+| D
 | "Died 14 Dec. 1869"
 |===
 

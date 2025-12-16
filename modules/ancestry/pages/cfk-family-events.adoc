@@ -371,7 +371,7 @@ The event table shows that for each of the three children born to Carl Friedrich
 Leonore Werkmeister (or to Philippine Leonore Bleeke as her name is recorded baptism records of her 2nd and 3rd
 children, a contradication that will be explained later), we find:
 
-*  village of Berenbush is the same.
+*  the village of *Berenbush* is the same.
 *  the father's status as Einlieger is the same in the first two baptism records
 *  the father’s occupation of tailor is the same in the 2^nd^ and 3^rd^ baptism records.
 
@@ -385,15 +385,6 @@ further births to this couples were found recorded, we have the entire family.
 [.narrow]
 [[nachtraege]]
 == Nachträge Table
-
-*TODO* Add the information above and the information in this paragraph below
-into a conclusions section below.
-
-The baptism record for Caroline Dorothee Krückeberg contains Nachträge, mariginal addenda, that lists
-her future marriage and burial and death dates as well as her father's exact baptism date. Having her 
-father's baptism dates allows us to immediately locate his birth record and determine who his parents are,
-where they lived--not to mention other details his baptism record might have. It provides the connecting
-link to the prior generation, the proof of who his parent's are.
 
 .Nachträge table for xref:#event-table-petzen-cfg-krueckeberg-family[]
 [cols="3,3,2,4a",options="header"]
