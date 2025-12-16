@@ -407,19 +407,19 @@ link to the prior generation, the proof of who his parent's are.
 | xref:petzen:PET-B-1812a.adoc[]
 | xref:#event-table-petzen-cfg-krueckeberg-family[Marriage]
 | „cop. 25.10.35“ +
-married 15 Oct. 1835
+(married 15 Oct. 1835)
 
 | Caroline Dorothee Krückeberg
 | xref:petzen:PET-B-1812a.adoc[]
 | xref:#event-table-petzen-cfg-krueckeberg-family[Death]
 | „gest.14.12.69“ +
-died 14 Dec. 1869
+(died 14 Dec. 1869)
 
 | Carl Friedrich Gottlieb Krückeberg
 | xref:petzen:PET-B-1779b.adoc[]
 | xref:#event-table-petzen-cfg-krueckeberg-family[Baptism]
 | „get. 18.4.1779“ +
-baptized 18 Mar. 1779
+(baptized 18 Mar. 1779)
 
 | Carl Friedrich Gottlieb Krückeberg
 | xref:petzen:PET-B-1779b.adoc[]
