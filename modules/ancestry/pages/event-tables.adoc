@@ -8,7 +8,7 @@ Furthermore, some church register records have very helpful addendum that refere
 and/or later church ceremonies. The xref:petzen:PET-M-1812b.adoc[], for example, contains the date of her
 earlier baptism, her later 2^nd^ marriage and the date of her death:
 
-.Addenda to marriage record xref:petzen:PET-M-1812b.adoc[]
+.Addenda to marriage record of xref:petzen:PET-M-1812b.adoc[]
 [literal.bordered,subs="verbatim,quotes"]
 ....
 geb. 1.2.92; 2. Cop. 11.5.34 
