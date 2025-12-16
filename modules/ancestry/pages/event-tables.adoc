@@ -9,15 +9,23 @@ family.
 The *Event Table* is a structured list of *all genealogically relevant
 events* found in the Petzen Lutheran church records, including:
 
+* *Births*
 * *Baptisms*
 * *Confirmations*
 * *Marriages*
 * *Deaths/Burials*
+
+And it contains information concerning the:
+
+* *Church ceremony*
+* *Principal Subject of the ceremony*
+* *Parents (when given)*
 * *Residence indicators*
 * *House numbers (when they begin appearing)*
 * *Occupations (when given)*
-* *Status (when given)*
-* *Patronymic/sponsor relationships*
+* *Status of the Head of Household (when given)*
+* *Baptism Sponsor relationships*
+* *Notes to capture important details*
 
 == ✅ Why the Event Table Matters
 
@@ -52,12 +60,11 @@ These are the columns the event tables will contain:
 
 === Usage Notes (for reference, not part of the table)
 
-Residence is only truly applicable for Births/Baptisms and Confirmation since infants
-and adolescents reside with their family. In the case of marriage, the "residence" of
-the bride or groom is their residence at the time of marriage not their future residence,
-although the groom's residence often is the future residence. In the case of death/burial,
-a residence is not necessarily given but rather "place of death". Therefore, "Residence /
-Village" and "No." are populated only for:
+Residence is only truly applicable for Births/Baptisms and Confirmation since both infants and adolescents reside
+with their family. In the case of marriages, the *"residence"* of the bride or groom is their residence prior to
+their marriage not necessarily their future residence (although the groom's residence often is the couple's future
+residence). In the case of death/burial, a residence is not necessarily given but rather "place of death" and
+"place of burial". Therefore, "Residence / Village" and "No." are populated only for:
 
 . Baptism events
 . Confirmation events
