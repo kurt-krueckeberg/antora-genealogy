@@ -11,8 +11,12 @@ baptism, her later 2^nd^ marriage and the date of her death:
 .Addenda to marriage record
 [literal.bordered,subs="verbatim,quotes"]
 ....
-geb. xref:PET-B-1792a.adoc[1.2.92]; 2. Cop. 11.5.34 
+geb. 1.2.92; 2. Cop. 11.5.34 
 gest. 26.10.70 
+
+*Translation:*
+born 2/1/1792; 2nd marriage 5/11/1834 
+died 10/26/1870 
 ....
 
 These addenda thus serve as cross references identifying the same individual in other records. 
