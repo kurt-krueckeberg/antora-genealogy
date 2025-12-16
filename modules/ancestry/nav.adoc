@@ -1,9 +1,10 @@
 .xref:index.adoc[]
 * xref:event-tables.adoc[]
-* xref:cfk-branch.adoc[]
+//* xref:cfk-branch.adoc[]
+* Branch I: Carl Friedrich Krückeberg (b. 1807) Branch
 ** xref:cfk-family-events.adoc[]
 ** xref:cf-gottlieb-family-events.adoc[]
-* Branch I: Carl Friedrich Krückeberg (b. 1807) Branch
+* xref:jhk-branch.adoc[]
 ** xref:jhk-1806-events.adoc[]
 ** xref:jobst-h-krueckeberg-1779.adoc[]
 ** xref:jhk-1767-events.adoc[]
