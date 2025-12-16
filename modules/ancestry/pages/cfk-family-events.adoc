@@ -89,15 +89,15 @@ For Death / Burial events:
 The table is chronologically ordered by Event Date. The following codes are used for each type of
 event:
 
-[cols="2,1,4",options="header",width="40%"]
+[cols="2,1,4",options="header",width="30%"]
 |===
-|Event |Code |Rationale
+|Event |Code
 
-|*Birth* |*B* |Universally intuitive
-|*Baptism* |*Ba* |Avoids confusion with Birth
-|*Confirmation* |*C* |Standard ecclesiastical shorthand
-|*Marriage* |*M* |Universally intuitive
-|*Death / Burial* |*D* |Covers combined event
+|*Birth* |*B* 
+|*Baptism* |*Ba*
+|*Confirmation* |*C*
+|*Marriage* |*M*
+|*Death / Burial* |*D*
 |===
 
 === Derived Record Event Table for Carl Friedrich Krückeberg Family
