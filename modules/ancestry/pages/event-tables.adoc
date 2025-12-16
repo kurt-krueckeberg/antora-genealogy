@@ -1,8 +1,21 @@
 = Research Strategy
 
-To help identify and document the ancestry of the two Krückeberg immigrants from Schaumburg-Lippe, an
-event table is used to synthesize the Petzen parish records involving each generation of a Krückeberg
-family.
+To help identify and document the ancestry of the two Krückeberg immigrants from Schaumburg-Lippe,
+Johann Heinrich Krückeberg (1806-1879) and Carl Friedrich Krückeberg (born 1807), a event table is
+used to synthesize the Petzen parish records involving each generation of a particulair Krückeberg family.
+
+Some church register records have addendum that reference the dates of earlier and/or later church ceremonies.
+The xref:petzen:PET-M-1812b.adoc[], for example, contains the date of her baptism, her later 2^nd^
+marriage and the date of her death:
+
+.Addenda to marriage record
+[literal.bordered,subs="verbatim,quotes"]
+....
+geb. xref:PET-B-1792a.adoc[1.2.92]; 2. Cop. 11.5.34 
+gest. 26.10.70 
+....
+
+ 
 
 == ✅ What the Event Table Is
 
