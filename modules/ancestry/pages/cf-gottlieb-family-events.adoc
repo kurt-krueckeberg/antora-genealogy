@@ -10,7 +10,7 @@ This greatly aids finding the prior generation to Johann Heinrich and Carl Fried
 doesn't eliminate the requirement of examining every page of the church register, which is unindexed.
 
 We can immediately look for those Krückebergs that lived at the same address, had the same parents, whose father
-has the same occupation and the same status (Stand in German), had the network of sponsors, etc.
+has the same occupation and the same status (Stand in German), had the same network of sponsors, etc.
 We can use the same technique to find the prior generation.
 
 Especially helpful in confirming the individual in different records is the Nachträge (addenda) that is sometime
