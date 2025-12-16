@@ -168,8 +168,10 @@ Beerenbusch.
 |#20
 |
 |
-. Dorothea Deerberg, #6 Evesen 
-. Katharine Leonore Kuhlmann, #3 Evensen.
+. Dorothea Deerberg, +
+#6 Evesen 
+. Katharine Leonore Kuhlmann, +
+#3 Evensen.
 |
 
 | M
@@ -177,11 +179,11 @@ Beerenbusch.
 | Carl Friedrich Krückeberg & Luise Dorothea Weiland
 | same as birth 
 | same as birth
-| todo 
-| todo 
-| todo 
-| todo 
-| todo 
+| TODO 
+| TODO 
+| TODO 
+| TODO 
+| TODO 
 
 | B
 | 4 Feb 1835
