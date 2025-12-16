@@ -2,15 +2,24 @@
 
 == DO Next
 
+=== Event Table Changes
+
 1. Rename the Residence/Village column to: Residence / Village +
 (Bap./Conf.)
 
 2. Rework all the event tables to follow the Usage Notes in `event-tables.adoc#usage-notes`.
 
-3. Use Event Code
+3. Use Event Codes
+
+=== Rewrite Ancestry
+
+
+=== Carl Friedrich Family orf Origin
+
+Add his wife's baptism and confirmation records.
+
 
 == Add Nachtraege for jhk-1744-events.adoc
-
 
 == Research Questions
 
