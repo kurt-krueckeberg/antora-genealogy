@@ -89,12 +89,6 @@ Type:
 |*Death / Burial* |*D* 
 |===
 
-=== Optional advanced columns:
-
-* ✅ inferred identity 
-* ✅ confidence level 
-* ✅ link to other event rows
-
 == ✅ Nachträge Tables
 
 === What is Nachträge?
