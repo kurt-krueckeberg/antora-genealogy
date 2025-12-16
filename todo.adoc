@@ -2,6 +2,25 @@
 
 == DO Next
 
+The trail of documentary evidence that reveals the place of origin of the two Krückeberg families who settled
+in Adams County, Indiana, in 1849 and 1850, leads backs to two documents:
+
+* the xref:derived-church-records:FS-CFK.adoc[family certificate of the immigrant Carl Friedrich Krückeberg] and
+* the Immanuel Lutheran Church, Decatur, Indiana, xref:immanuel:DEC-BIO-Krueckeberg-01.adoc[biography of Johann Heinrich
+Krückeberg], who was one of the church's founders.
+
+The first tells us its information derives from the original <<cit1, local church register>> of the Petzen parish in Schaumburg-Lippe,
+a small principality about the size of three townships. GIVES ITS HISTORY HERE. It further tells us that the Carl
+Friedrich Krückeberg family emigrated in 1850 from the village of <<cit2, Berenbusch>>.
+
+The second document does not give its provenance but likewise explains that Johann Heinrich Krückeberg was born in
+1806 in <<cit3, Berenbusch>> 
+
+The second document,
+Lutheran biography of his second cousin johann Heinrich Krueger bear. Both give the details of the parents
+baptims, confirmation and marriage, as well as the bapti... The provide a direct link to the original Petzen
+church registers.
+
 === Event Table Changes
 
 1. Rename the Residence/Village column to: Residence / Village +
