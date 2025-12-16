@@ -202,50 +202,21 @@ link to the prior generation, the proof of who his parent's are.
 
 | Carl Friedrich Gottlieb Krückeberg
 | xref:petzen:PET-M-1803a.adoc[]
-| Bp
+| Baptism
 | "Baptized 18 Mar. 1779"
 
 | Carl Friedrich Gottlieb Krückeberg
 | xref:petzen:PET-M-1803a.adoc[]
-| D
+| Death
 | "Died 13 May 1838"
 
 | Caroline Dorothee Krückeberg
 | xref:petzen:PET-B-1812a.adoc[]
-| M
+| Marriage
 | "Married 15 Oct. 1835"
 
 | Caroline Dorothee Krückeberg
 | xref:petzen:PET-B-1812a.adoc[]
-| D
+| Death
 | "Died 14 Dec. 1869"
 |===
-
-[.narrow]
-== Notes on Event Interpretation
-
-* Explain abbreviations (e.g., hÿ, eod., do.)
-* Note variant spellings
-* Note ditto marks or marginalia
-* Note uncertain readings
-* Note conflicting entries
-* Note cases requiring lookup in original scans
-
-[.narrow]
-== Source and Citation Information
-
-* Full citation to source (BCG-style)
-* Provenance notes if derivative
-* Link or xref to image/document page
-* Repository or archive reference
-* Access date (if online database)
-
-[.narrow]
-== Analytical Observations (optional)
-
-* Identity hypotheses
-* Cluster groupings (family units)
-* Sponsor network implications
-* Residence movement
-* Relationship to emigrants
-
