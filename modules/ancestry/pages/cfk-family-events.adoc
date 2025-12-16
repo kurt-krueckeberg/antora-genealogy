@@ -396,7 +396,7 @@ where they lived--not to mention other details his baptism record might have. It
 link to the prior generation, the proof of who his parent's are.
 
 .Nachträge table for xref:#event-table-petzen-cfg-krueckeberg-family[]
-[cols="3,3,2,4a,3a",options="header"]
+[cols="3,3,2,4a",options="header"]
 |===
 | Name of Subject
 | Source Record
