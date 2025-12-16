@@ -64,6 +64,7 @@ father's name as *"Carl Gottlieb"* not *"Carl Friedrich"*, making it further sus
 
 == Event Table for Family of Carl Friedrich Krückeberg (1807-185?)
 
+[.narrow]
 === Note on Residence/Village Column
  
 Residence is only truly applicable for Births/Baptisms and Confirmation since infants
