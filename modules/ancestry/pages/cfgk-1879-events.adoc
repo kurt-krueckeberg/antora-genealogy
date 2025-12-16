@@ -109,8 +109,10 @@ from n. 11 Evesen
 |Berenbusch
 |18
 |
+|
 |3^rd^ child, 2^nd^ daughter
-|xref:#nachtraege[Nachträge exists for her and her father]
+
+xref:#nachtraege[Nachträge exists for her and her father]
 |xref:petzen:PET-B-1812a.adoc[]
 
 |Bp
