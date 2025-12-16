@@ -166,7 +166,7 @@ Parents s|Baptism Witnesses
 |31
 |Caroline Dorothee +
 Krückeberg +
-marriage:. 10/25/35 +
+marriage: 10/25/35 +
 death: 12/14/69
 |the 3^rd^ child +
 and 2^nd^ daughter
