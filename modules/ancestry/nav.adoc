@@ -2,7 +2,7 @@
 * xref:event-tables.adoc[]
 //* xref:cfk-branch.adoc[]
 * Branch I: Carl Friedrich Krückeberg (b. 1807) Branch
-** xref:cfk-family-events.adoc[]
+** xref:cfk-1807-events.adoc[]
 ** xref:cf-gottlieb-family-events.adoc[]
 * Branch II: Johann Heinrich Krückeberg (1806-1879) Branch
 ** xref:jhk-1806-events.adoc[]
