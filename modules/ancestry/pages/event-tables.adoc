@@ -16,6 +16,7 @@ events* found in the Petzen Lutheran church records, including:
 * *Residence indicators*
 * *House numbers (when they begin appearing)*
 * *Occupations (when given)*
+* *Status (when given)*
 * *Patronymic/sponsor relationships*
 
 == ✅ Why the Event Table Matters
