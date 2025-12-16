@@ -1,10 +1,12 @@
 = Research Strategy
 
+== Event and Nachträge Tables
+
 To help identify and document the ancestry of the two Krückeberg immigrants from Schaumburg-Lippe,
-Johann Heinrich Krückeberg (1806-1879) and Carl Friedrich Krückeberg (born 1807), a event table is
+Johann Heinrich Krückeberg (1806-1879) and Carl Friedrich Krückeberg (born 1807), a *event table* is
 used to synthesize the Petzen parish records involving each preceding generation of a Krückeberg family.
 
-Furthermore, some church register records have very helpful addendum that reference the dates of earlier
+Furthermore, some church register records have very helpful *Nachträge* (addenda) that reference the dates of earlier
 and/or later church ceremonies. The xref:petzen:PET-M-1812b.adoc[], for example, contains the date of her
 earlier baptism, her later 2^nd^ marriage and the date of her death:
 
@@ -19,7 +21,7 @@ born 2/1/1792; 2nd marriage 5/11/1834
 died 10/26/1870 
 ....
 
-These addenda cross reference the same individual in earlier and later church records. They can immediately eliminate
+These Nacträge (addenda) cross reference the same individual in earlier and later church records. They can immediately eliminate
 some of the page-by-page look up time needed to locate these other records. By confirming an individual's identity
 in earlier and later church records, the mental effort of confirming an individual's identity over their lifetime
 is also eliminated.
