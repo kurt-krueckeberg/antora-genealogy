@@ -1,6 +1,6 @@
 = Research Strategy
 
-== Event and Nachträge Tables
+== ✅ Event and Nachträge Tables
 
 To help identify and document the ancestry of the two Krückeberg immigrants from Schaumburg-Lippe,
 Johann Heinrich Krückeberg (1806-1879) and Carl Friedrich Krückeberg (born 1807), a *event table* is
