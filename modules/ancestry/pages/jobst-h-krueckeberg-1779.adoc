@@ -68,14 +68,14 @@ sponsor. She is still alive! Who would this be?
 
 |Marriage
 |12 Oct. 1790
-|Jobst Heinrich Krückeberg & Christine Philippine Eleonore Tegtmeyer from Menssen (Meinsen) no. 41 
+|Jobst Heinrich Krückeberg & Christine Philippine Eleonore Tegtmeyer from Menssen (Meinsen) # 41 
 |
 |
 |Berenbusch
-|no. 10
+|# 10
 |cobbler/shoemaker
 |
-|*Wife:* from Menssen (Meinsen) no. 41
+|*Wife:* from Menssen (Meinsen) # 41
 
 *Wife:* died in 1849 
 |xref:petzen:PET-M-1790c.adoc[]
@@ -112,7 +112,7 @@ sponsor. She is still alive! Who would this be?
 |Jobst Heinrich Krückeberg
 |Anne Christine Philippine Eleonore Tegtmeÿer
 |Bärenbusch
-|no. 10
+|# 10
 |
 |
 |
@@ -124,7 +124,7 @@ sponsor. She is still alive! Who would this be?
 |Jobst Heinrich Krückeberg
 |Anne Christine Philippine Eleonore Tegtmeÿer
 |Bärenbusch
-|no. 10
+|# 10
 |
 |
 |
@@ -204,7 +204,7 @@ from Meinsen
 |Jobst Heinrch Kruckeberg
 |Anna Christine Philippine nee Tegtmeier
 |Bärenbusch
-|no. 10
+|# 10
 |
 |
 |Birthdate: 14 Jan. 1798
@@ -233,7 +233,7 @@ from Meinsen
 |not given
 |not given
 |Bärenbusch
-|no. 10
+|# 10
 |
 |
 |Confimed on Quasimodigeniti

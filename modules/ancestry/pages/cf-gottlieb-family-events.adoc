@@ -85,7 +85,7 @@ Weyland from Berenbusch
 | Carl Friedrich Krückeberg
 | Carl Friedrich Gottlieb Krückeberg
 | Philippine Lenore née Bleeken *†* +
-from no. 11 Evesen
+from # 11 Evesen
 | Berenbusch
 | 14
 | tailor
@@ -95,7 +95,7 @@ from no. 11 Evesen
 
 Father is *Einlieger* 
 
-Mother from no. 11 Evesen
+Mother from # 11 Evesen
 |xref:petzen:PET-B-1807a.adoc[]
 
 | Baptism 
@@ -103,7 +103,7 @@ Mother from no. 11 Evesen
 | Carl Friedrich Krückeberg 
 | Carl Friedrich Gottlieb Krückeberg
 | Philippine Lenore née Bleeken *†* +
-from no. 11 Evesen
+from # 11 Evesen
 | Berenbusch 
 | 14
 | tailor
@@ -114,7 +114,7 @@ from no. 11 Evesen
 |
 Father is *Einlieger* 
 
-Mother from no. 11 Evesen
+Mother from # 11 Evesen
 |xref:petzen:PET-B-1807a.adoc[]
 
 |Birth

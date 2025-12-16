@@ -48,9 +48,9 @@ was a
 . lived a #10 Berenbusch.
 * But when Philippine Dorothee née Beucke Krückeberg dies, her burial record states her husband, Johann
 Heinrich Krückeberg is an *Einlieger beÿ n.13 in Bärenbusch*. Most of the records involving Johann
-Heinrich refer to *no. 10 Berenbusch* not *no. 13 Berenbusch*.
+Heinrich refer to *# 10 Berenbusch* not *# 13 Berenbusch*.
 +
-*NOTE*: The Bückeburg archive has: Stätte no. 13 Berenbusch.
+*NOTE*: The Bückeburg archive has: Stätte # 13 Berenbusch.
 * At his death in 1822, he is only survived by two sons. Yet the Johann Heinrich Krückeberg, who married
 Ilse Anna Marie Elisabeth Schekel, had apparently three children. 
   
@@ -184,7 +184,7 @@ Find the burial/death record of Anna Maria Elisabeth nee Schäkel/Schekel/Schake
 |Johann Heinrich Krückeberg
 |
 |Berenbusch
-|no. 10
+|# 10
 |
 |
 |No. 10 appears for the first time
@@ -299,7 +299,7 @@ on the Höckersau (Höcker's estate).
 
 *Cause of Death:* penumonia/consumption
 
-*Husband's Status:* Einlieger at no. 13 Bärenbusch.
+*Husband's Status:* Einlieger at # 13 Bärenbusch.
 
 *Husband’s former Occupation:* Hofmeisters auf dem Reinen-
 Neelhof

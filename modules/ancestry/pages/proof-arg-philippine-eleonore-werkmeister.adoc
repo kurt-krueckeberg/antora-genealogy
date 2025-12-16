@@ -39,9 +39,9 @@ tells us:
 ||Name|Marriage Date|Residence +
 (at time of marriage)
 
-|*Groom*|Carl Friedrich Gottlieb Krückeberg|13 Mar. 1803|no. 10 Berenbusch
+|*Groom*|Carl Friedrich Gottlieb Krückeberg|13 Mar. 1803|# 10 Berenbusch
 
-|*Bride*|Philippine Eleonore Werkmeister|13 Mar. 1803|no. 11 Evesen
+|*Bride*|Philippine Eleonore Werkmeister|13 Mar. 1803|# 11 Evesen
 |===
 
 +
@@ -92,7 +92,7 @@ tells us:
 |===
 |Father|Mother|Child|Residence
 
-|Carl Friedrich Gottlieb Krückeberg|Philippine Lenore née Bleeken|Carl Friedrich Krückeberg|no. 14 Bärenbusch
+|Carl Friedrich Gottlieb Krückeberg|Philippine Lenore née Bleeken|Carl Friedrich Krückeberg|# 14 Bärenbusch
 |===
 +
 .Child Facts
@@ -117,7 +117,7 @@ tells us:
 |===
 |Name|Birth Place|Religion
 
-|Philippine Lenore née Bleeken|no. 11 Evesen|Lutheran
+|Philippine Lenore née Bleeken|# 11 Evesen|Lutheran
 |===
 +
 [.underline]#Key finding#: Carl Friedrich Krückeberg’s baptism lists the mother as *Philippine Lenore geb. Blecken aus N. 11 in Evesen*.
@@ -138,9 +138,9 @@ While the mother's maiden is now *Blecken*, her given name and residence prior t
 |===
 ||Name|Residence|Birth Origin|Religion
 
-|*Father*|Carl Friedrich Gottlieb Krückeberg|no. 18 Bärebusch|no. 18 Bärebusch|Lutheran
+|*Father*|Carl Friedrich Gottlieb Krückeberg|# 18 Bärebusch|# 18 Bärebusch|Lutheran
 
-|*Mother*|Philippine Leonore née Bleeke|no. 18 Bärebusch|no. 11 Evesen|Lutheran
+|*Mother*|Philippine Leonore née Bleeke|# 18 Bärebusch|# 11 Evesen|Lutheran
 |===
 +
 .Nachträge for Carloline Dorothee Krückeberg   
