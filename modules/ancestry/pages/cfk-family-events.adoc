@@ -202,7 +202,8 @@ Beerenbusch.
 | 
 |===
 
-*†* -- The *Bleeken* surname for Phlippine Leonore is in error. See xref:ancestry:
+*†* -- The *Bleeken* surname for Phlippine Leonore is in error. See
+xref:ancestry:proof-arg-philippine-eleonore-werkmeister.adoc[].
 
 == Original Petzen Records Event Table for the Carl Friedrich Gottlieb Krückeberg Family
 
