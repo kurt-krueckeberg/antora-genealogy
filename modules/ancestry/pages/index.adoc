@@ -1,10 +1,10 @@
 = The Ancestry of the Krückebergs of Union Township, Adams County, Indiana
 
 In 1849 the family of Johann Heinrich Krückeberg emigrated from the village of Berenbusch, Schaumburg-Lippe,
-and settled in Union township, Adams County, Indiana, and the following year, the family of Carl Friedrich Krückeberg likewise
-emigrated from Berenbusch and joined them in Union township.
+and settled in Union township, Adams County, Indiana. The following year the family of Carl Friedrich Krückeberg
+also emigrated from Berenbusch and joined them.
 
-The trail of documentary evidence that reveals the village of Berenbusch as the place of origin of these two Krückeberg families
+The trail of documentary evidence that reveals Berenbusch as the place of origin of these two Krückeberg families
 leads backs to two documents:
 
 * the xref:derived-church-records:FS-CFK.adoc[family certificate of the immigrant Carl Friedrich
@@ -15,11 +15,15 @@ his (and my late father’s) first cousin, Harry Frederick Krueckeberg, who beli
 Lutheran Church (Decatur, Indiana), church register, 1850–1905, biographical entry for Johann Heinrich
 Krückeberg. The register was obtained on DVD directly from the church.]
 
-The first document's provenance is given in its first sentence: "Laut Angabe des hiesigen Kirchenbuchs..." (according to the local
-church register). The parish's name was Petzen, which appears this block of text at the bottom of the document: 
+The first document's provenance is given in opening sentence: "Laut Angabe des hiesigen Kirchenbuchs..." (according to the local
+church register). The parish's name, Petzen, appears in the final block of text at the bottom of the document: 
 
 [quote, translation of the _family record of the emigrant Carl Friedrich Krückeberg_]
 ____
+Die Übereinstimmung vorstehender Angaben mit den hiesigen
+Kirchenbüchern bescheinigt den Auswanderern unter Anwuenschung
+des göttlichen Segens — sub fide pastorali
+
 Petzen d. 23sten September 1850
 Pede vacanti
 der vikarirende Prediger
@@ -27,4 +31,16 @@ der vikarirende Prediger
 Fürstentum Schaumburg Lippe.
 
 L. Schwerdtmann von Bergkirchen.
+
+
+_English translation:_  
+_The foregoing statements are hereby certified as conforming to the local church registers and are issued to the emigrants with best wishes for God’s blessing, under pastoral authority._  
+
+_Petzen, 23 September 1850._  
+_The parish being vacant,_  
+_the acting pastor._  
+
+_Principality of Schaumburg-Lippe._  
+
+_L. Schwerdtmann of Bergkirchen._
 ____
