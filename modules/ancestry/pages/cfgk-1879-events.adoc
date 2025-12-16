@@ -28,8 +28,8 @@ Philippine Eleonore Werkmeister
 |not given
 |Groom: Berenbusch +
 Bride: Evesen
-|#10 +
-#11
+|10 +
+11
 |not given
 |
 |*Note:* The groom's residence is his residence at the time of marraige, not necessarily were the couple will live.
@@ -68,7 +68,7 @@ Weyland from Berenbusch
 | Carl Friedrich Krückeberg
 | Carl Friedrich Gottlieb Krückeberg
 | Philippine Lenore née Bleeken *†* +
-from #11 Evesen
+from no. 11 Evesen
 | Berenbusch
 | 14
 | tailor
@@ -78,7 +78,7 @@ from #11 Evesen
 
 Father is *Einlieger* 
 
-Mother from #11 Evesen
+Mother from no. 11 Evesen
 |xref:petzen:PET-B-1807a.adoc[]
 
 | Bp 
@@ -86,7 +86,7 @@ Mother from #11 Evesen
 | Carl Friedrich Krückeberg 
 | Carl Friedrich Gottlieb Krückeberg
 | Philippine Lenore née Bleeken *†* +
-from #11 Evesen
+from no. 11 Evesen
 | Berenbusch 
 | 14
 | tailor
@@ -97,7 +97,7 @@ from #11 Evesen
 |
 Father is *Einlieger* 
 
-Mother from #11 Evesen
+Mother from no. 11 Evesen
 |xref:petzen:PET-B-1807a.adoc[]
 
 |B
