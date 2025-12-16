@@ -4,7 +4,7 @@
 * Branch I: Carl Friedrich Krückeberg (b. 1807) Branch
 ** xref:cfk-family-events.adoc[]
 ** xref:cf-gottlieb-family-events.adoc[]
-* xref:jhk-branch.adoc[]
+* Branch II: Johann Heinrich Krückeberg (1806-1879) Branch
 ** xref:jhk-1806-events.adoc[]
 ** xref:jobst-h-krueckeberg-1779.adoc[]
 ** xref:jhk-1767-events.adoc[]
