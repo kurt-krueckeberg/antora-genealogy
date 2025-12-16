@@ -50,7 +50,7 @@ event:
 | Name of Subject
 | Father
 | Mother
-| Residence / Village
+| Residence/Village +
 (Bp/C only)
 | No.
 | Occupation

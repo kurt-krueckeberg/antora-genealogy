@@ -12,7 +12,7 @@
 | Name of Subject
 | Father
 | Mother
-| Residence
+| Residence +
   (Bap./Conf.)
 | No.
 | Occupation
