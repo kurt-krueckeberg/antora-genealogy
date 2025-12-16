@@ -116,7 +116,7 @@ Type:
 
 === What is Nachträge?
 
-Nachträge are later marginal notes added to entries in German church books (Kirchenbücher) that record additional
+Nachträge are later marginal addenda added to entries in German church registers (Kirchenbücher) that record additional
 life events—such as a person’s confirmation, marriage, death, or migration—made months or even decades after the
 original entry.
 
