@@ -1,27 +1,22 @@
 = Research Strategy
 
-== Event and Nachträge Tables 
-
-*What the Event Table is; why we are building it; how it helps identify and document the
-two Krückeberg immigrants from Schaumburg-Lippe?*
+To help identify and document the ancestry of the two Krückeberg immigrants from Schaumburg-Lippe, an
+event table is used to synthesize the Petzen parish records involving each generation of a Krückeberg
+family.
 
 == ✅ What the Event Table Is
 
 The *Event Table* is a structured list of *all genealogically relevant
-events* found in the Schaumburg-Lippe Lutheran church records,
-including:
+events* found in the Petzen Lutheran church records, including:
 
 * *Baptisms*
 * *Confirmations*
 * *Marriages*
 * *Deaths/Burials*
-* *Communicant lists (if needed)*
 * *Residence indicators*
 * *House numbers (when they begin appearing)*
 * *Occupations (when given)*
 * *Patronymic/sponsor relationships*
-
-Each row corresponds to *one recorded event*, not one person.
 
 == ✅ Why the Event Table Matters
 
