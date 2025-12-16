@@ -77,16 +77,16 @@ For Death / Burial events:
 * Residence / Village and No. columns remain blank unless the record explicitly states residence
 
 The table is chronologically ordered by Event Date. The following codes are used for the Event 
-Tyep:
+Type:
 
-[cols=",,",options="header",]
+[cols="4,1",options="header",]
 |===
-|Event |Code |Rationale
-|*Birth* |*B* |Universally intuitive
-|*Baptism* |*Ba* |Avoids confusion with Birth
-|*Confirmation* |*C* |Standard ecclesiastical shorthand
-|*Marriage* |*M* |Universally intuitive
-|*Death / Burial* |*D* |Covers combined event
+|Event |Code 
+|*Birth* |*B* 
+|*Baptism* |*Ba*
+|*Confirmation* |*C* 
+|*Marriage* |*M* 
+|*Death / Burial* |*D* 
 |===
 
 === Optional advanced columns:
