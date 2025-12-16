@@ -102,7 +102,7 @@ For Death / Burial events:
 The table is chronologically ordered by Event Date. The following codes are used for the Event 
 Type:
 
-[cols="4,1",options="header",]
+[cols="4,1",options="header",width="40%"]
 |===
 |Event |Code 
 |*Birth* |*B* 
