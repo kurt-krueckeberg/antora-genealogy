@@ -68,7 +68,7 @@ Weyland from Berenbusch
 | Carl Friedrich Krückeberg
 | Carl Friedrich Gottlieb Krückeberg
 | Philippine Lenore née Bleeken *†* +
-from # 11 Evesen
+from #11 Evesen
 | Berenbusch
 | 14
 | tailor
@@ -78,7 +78,7 @@ from # 11 Evesen
 
 Father is *Einlieger* 
 
-Mother from # 11 Evesen
+Mother from #11 Evesen
 |xref:petzen:PET-B-1807a.adoc[]
 
 | Bp 
@@ -86,7 +86,7 @@ Mother from # 11 Evesen
 | Carl Friedrich Krückeberg 
 | Carl Friedrich Gottlieb Krückeberg
 | Philippine Lenore née Bleeken *†* +
-from # 11 Evesen
+from #11 Evesen
 | Berenbusch 
 | 14
 | tailor
@@ -97,7 +97,7 @@ from # 11 Evesen
 |
 Father is *Einlieger* 
 
-Mother from # 11 Evesen
+Mother from #11 Evesen
 |xref:petzen:PET-B-1807a.adoc[]
 
 |B
@@ -173,7 +173,7 @@ children, a contradication that will be explained later), we find:
 
 *  village of Berenbush is the same.
 *  the father's status as Einlieger is the same in the first two baptism records
-*  the father’s occupation oftailor is the same in the 2^nd^ and #^rd^ baptism records.
+*  the father’s occupation oftailor is the same in the 2^nd^ and 3^rd^ baptism records.
 
 Since the baptism records for Carl Friedrich and Caroline Dorothee Krückeberg give their birth order and their
 birth order among the sons or daughters, we know that between 1803, when their first child was born, and 1812,
