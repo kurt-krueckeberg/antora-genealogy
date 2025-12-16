@@ -418,32 +418,3 @@ further births to this couples were found recorded, we have the entire family.
 | „cop. 13.3.03“ +
 (married 13 Mar. 1803)
 |===
-
-[.narrow]
-== Notes on Event Interpretation
-
-* Explain abbreviations (e.g., hÿ, eod., do.)
-* Note variant spellings
-* Note ditto marks or marginalia
-* Note uncertain readings
-* Note conflicting entries
-* Note cases requiring lookup in original scans
-
-[.narrow]
-== Source and Citation Information
-
-* Full citation to source (BCG-style)
-* Provenance notes if derivative
-* Link or xref to image/document page
-* Repository or archive reference
-* Access date (if online database)
-
-[.narrow]
-== Analytical Observations (optional)
-
-* Identity hypotheses
-* Cluster groupings (family units)
-* Sponsor network implications
-* Residence movement
-* Relationship to emigrants
-
