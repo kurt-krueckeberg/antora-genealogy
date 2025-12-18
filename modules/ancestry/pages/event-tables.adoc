@@ -4,11 +4,11 @@
 
 To help identify and document the ancestry of the two Krückeberg immigrants from Schaumburg-Lippe,
 Johann Heinrich Krückeberg (1806-1879) and Carl Friedrich Krückeberg (born 1807), a *event table* is
-used to synthesize the Petzen parish records involving each preceding generation of a Krückeberg family.
+used to synthesize the Petzen parish records involving each generation of a Krückeberg family.
 
-Furthermore, some church register records have very helpful *Nachträge* (addenda) that reference the dates of earlier
-and/or later church ceremonies. The xref:petzen:PET-M-1812b.adoc[], for example, contains the date of her
-earlier baptism, her later 2^nd^ marriage and the date of her death:
+Furthermore, some church register entires have very helpful *Nachträge* (addenda) that provide the
+dates of earlier and/or later church ceremonies involving the person. The xref:petzen:PET-M-1812b.adoc[],
+for example, contains the date of her baptism, her future 2^nd^ marriage and the date of her death:
 
 .Addenda to marriage record of xref:petzen:PET-M-1812b.adoc[]
 [literal.bordered,subs="verbatim,quotes"]
@@ -21,11 +21,11 @@ born 2/1/1792; 2nd marriage 5/11/1834
 died 10/26/1870 
 ....
 
-These Nacträge (addenda) cross reference earlier and later church records of the same individual. 
-Thus they can immediately eliminate some of the manually page-by-page look up time needed to locate
-these other records. Furthermoe, by confirming an individual's identity in earlier and later church
-records, the mental effort of confirming the individual's common identity across these records is
-also eliminated.
+These Nacträge (addenda) reference earlier and later church record entries of the same individual. 
+Thus they can immediately eliminate the manually page-by-page research time consumed locating
+these other records. Furthermore, by confirming an individual's identity in earlier and later church
+records, the mental effort of separately confirming the individual's common identity across these
+drecords is also eliminated.
 
 == ✅ What the Event Table Is
 
@@ -72,7 +72,7 @@ These are the columns the event tables will contain:
 | Father (as written; normalized in parentheses)
 | Mother (as written; normalized in parentheses)
 | Residence / village
-  (Bap./Conf.)
+  (Baptism & Confirmation only)
   (as written)
 | House number (when available)
 | Occupation (if present)
@@ -119,18 +119,10 @@ Type:
 
 === What is Nachträge?
 
-Nachträge are later marginal addenda added to entries in German church registers (Kirchenbücher) that record additional
-life events—such as a person’s confirmation, marriage, death, or migration—made months or even decades after the
-original entry.
+Nachträge are later marginal addenda added to entries in German church registers that record additional
+life events such as a person’s confirmation, marriage, death, or migration.
 
-They serve to link multiple church records to the same individual and are essential for confirming identity across
-a person’s lifetime.
-
-===  Purpose of the Nachträge Table
-
-The Nachträge table records the marginal notes (Nachträge) found in baptism, marriage, and burial registers. These
-notes were added years—sometimes decades—after the original entry and often record later life events such as
-confirmations, marriages, deaths, or emigration.
+They link multiple church records to the same individual and confirm their identity over their lifetime.
 
 === Why the Nachträge is Important
 
