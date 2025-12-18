@@ -6,29 +6,6 @@
 [.narrow]
 === Note on Residence/Village Column
 
-Residence is only truly applicable for Births/Baptisms and Confirmation since infants
-and adolescents reside with their family. In the case of marriage, the "residence" of
-the bride or groom is their residence at the time of marriage not their future residence,
-although the groom's residence often is the future residence. In the case of death/burial,
-a residence is not necessarily given but rather "place of death". Therefore, "Residence /
-Village" and "No." are populated only for:
-
-. Baptism events
-. Confirmation events
-
-For Marriage events:
-
-* Pre-marriage residence(s) of bride and groom are recorded in the Notes column
-* Residence / Village and No. columns remain blank
-
-For Death / Burial events:
-
-* Place and time of death and burial are recorded in Notes
-* Residence / Village and No. columns remain blank unless the record explicitly states residence
-
-The table is chronologically ordered by Event Date. The following codes are used for each type of
-event:
-
 [cols="4,1",options="header",width="30%"]
 |===
 |Event |Code

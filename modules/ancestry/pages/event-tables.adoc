@@ -83,11 +83,12 @@ These are the columns the event tables will contain:
 
 === Usage Notes (for reference, not part of the table)
 
-Residence is only truly applicable for Births/Baptisms and Confirmation since both infants and adolescents reside
-with their family. In the case of marriages, the *"residence"* of the bride or groom is their residence prior to
-their marriage not necessarily their future residence (although the groom's residence often is the couple's future
-residence). In the case of death/burial, a residence is not necessarily given but rather "place of death" and
-"place of burial". Therefore, "Residence / Village" and "No." are populated only for:
+Residence information in a church record is most meaningful for Births/Baptisms and Confirmations but
+not for marriages or deaths. Infants who are baptized and adolescents who are confirmed reside with
+their family. In the case of marriages, the "residence" give for the bride or groom is their residence
+at the time of marriage not necessarily their future residence (although the groom's residence often is
+the couple's future residence). In the case of death/burial, a residence is not alwaysy given but rather
+a "place of death". Therefore, "Residence / Village" and "No." are populated only for:
 
 . Baptism events
 . Confirmation events
@@ -102,8 +103,8 @@ For Death / Burial events:
 * Place and time of death and burial are recorded in Notes
 * Residence / Village and No. columns remain blank unless the record explicitly states residence
 
-The table is chronologically ordered by Event Date. The following codes are used for the Event 
-Type:
+The table is chronologically ordered by Event Date. The following codes are used for each type of
+event:
 
 [cols="4,1",options="header",width="40%"]
 |===
