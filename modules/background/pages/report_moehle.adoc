@@ -2,35 +2,35 @@
 
 == Explanations of the following terms:
 
-* Einlieger---tenants, without a house of their own, in rural areas mostly farmhands,
+* Einlieger--tenants, without a house of their own, in rural areas mostly farmhands,
 workers, and craftsmen with their families. They lived in seperate rooms on someone
-else’s farm, or – where there were estates (owned by monasteries/church or nobility)
+else’s farm, or--where there were estates (owned by monasteries/church or nobility)
 – in cottages built for workers. The most important difference between a farmer or
 property owner and an ‚Einlieger‘ was that the latter were not allowed to use the
 common assets (forrests/wood, pastures) while they also had to bear community
 burdens. Only if they had been born in the village, they were entitled to receive poor
 relief.
-* Anerbe – principal heir, one heir gets the whole property so that it remains intact,
+* Anerbe--principal heir, one heir gets the whole property so that it remains intact,
 while the rest of the possessions is given to all the entitled heirs. The principal heir
 often had to pay a compensation to the other heirs.
-* Hausherr – head of the household (not necessarily owner of a house), householder
-* Knecht – farmhand, servant. Before the industrial revolution (which in Germany
+* Hausherr--head of the household (not necessarily owner of a house), householder
+* Knecht--farmhand, servant. Before the industrial revolution (which in Germany
 happened much later than in England, mostly in the 2nd half of the 19th century)
 almost every son of a farmer became a ‚Knecht‘ before either inheriting the farm, or
 marrying into another farm. Many remained farmhands all of their lives, and not all of
 them were allowed or enabled by their employers, local authorities and the local
 living conditions to marry and have a household of their own. (The same applies for
 the female servants, the ‚Mägde‘.) This was a common incentive for emigration.
-* Reuter – military expression based of an old word for ‚Reiter‘ (rider, equestrian) in the
+* Reuter--military expression based of an old word for ‚Reiter‘ (rider, equestrian) in the
 17th-19th century, cavalryman.
-* Caribinier – Karabinier, old expression for soldier armed with a carbine
+* Caribinier--Karabinier, old expression for soldier armed with a carbine
 
 The _Familienschein_ for Carl Friederich Krueckeberg was compiled by the local vicar
 especially for the purpose of emigration. He extracted all the information on the family
 from the church records of Petzen on 23 Sep 1850. If there is an original of this
 document, we need to look in the parish archive of Petzen.
 
-image::
+image::schaumburg-lippe-overview-map.jpg[title=TODO,link=self]
 
 Principality Schaumburg-Lippe (Source: Von Ziegelbrenner - own drawing/Source of Information: Putzger –
 Historischer Weltatlas, 89. Auflage, 1965; Westermanns Großer Atlas zuur Weltgeschichte, 1969; Haacks
