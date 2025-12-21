@@ -1,5 +1,14 @@
 = TODO
 
+== Convert Moehle Report to AsciiDoc
+
+The report is in `~/gen/m/background/pages/report_moehle.adoc`. Convert its em dashes to AsciiDoc '--'.
+
+Use "--" for em dashesm and for en dashes, follow these steps:
+
+. Put this at the top of the file: `:ndash: –`.
+. Use it like this: `1798{ndash}1800`.
+
 == DO Next
 
 When did Stätte numbering begin in Berenbusch? What were the numbers? Who owned these Stätte?
