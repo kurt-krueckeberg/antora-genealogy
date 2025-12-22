@@ -23,7 +23,7 @@ asciidoc:
 antora:
   extensions:
 # Uncomment the pdf extension once 'Download" has been added to th title.
-#   - '@antora/pdf-extension'
+# - '@antora/pdf-extension'
   - '@antora/lunr-extension'
 ui:
   bundle:
