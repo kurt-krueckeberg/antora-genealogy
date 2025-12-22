@@ -12,7 +12,7 @@ shown in the event table below.
 [[event-table]]
 == Event Table for Johann Heinrich Krückeberg
 
-This information is from the xref:immanuel:ROOT:DEC-BIO-Krueckeberg-01.adoc[founder's biography] for
+This information is taken from the xref:immanuel:ROOT:DEC-BIO-Krueckeberg-01.adoc[founder's biography] for
 Johann Heinrich Krückeberg.
 
 .Events based on xref:immanuel:ROOT:DEC-BIO-Krueckeberg-01.adoc[]
