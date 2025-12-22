@@ -9,6 +9,11 @@ Use "--" for em dashesm and for en dashes, follow these steps:
 . Put this at the top of the file: `:ndash: –`.
 . Use it like this: `1798{ndash}1800`.
 
+Also:
+* correct grammar.
+
+USe Gemini or Chatgpt to rewrite it.
+
 == DO Next
 
 When did Stätte numbering begin in Berenbusch? What were the numbers? Who owned these Stätte?

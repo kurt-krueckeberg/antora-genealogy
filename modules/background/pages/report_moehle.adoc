@@ -1,10 +1,12 @@
 = Essay on the history of Schaumburg-Lippe from 1750-1850, the administration, and rural society
+:ndash: &#8211;
+:mdash: &#8212;
 
 == Explanations of the following terms:
 
 * Einlieger--tenants, without a house of their own, in rural areas mostly farmhands,
 workers, and craftsmen with their families. They lived in seperate rooms on someone
-else’s farm, or--where there were estates (owned by monasteries/church or nobility)--in
+else’s farm, or--where there were estates (owned by monasteries/church or nobility){mdash}in
 cottages built for workers. The most important difference between a farmer or
 property owner and an ‚Einlieger‘ was that the latter were not allowed to use the
 common assets (forrests/wood, pastures) while they also had to bear community
@@ -41,39 +43,52 @@ ISBN 3-423-03002-X;, CC BY 2.5, https://commons.wikimedia.org/w/index.php?curid=
 == Schaumburg-Lippe
 
 The county, then principality (1807) Schaumburg-Lippe since 1647 was one of the many
-independent states in the German Empire, and among the smallest states. The Schaumburg
-districts of Blomberg, Bückeburg, Stadthagen, Arensburg, Hagenburg, Schieder, Steinhude,
-and parts of Sachsenhagen were merged with the Lippe districts of Lipperode and
-Alverdissen to form the new county. In 1748, the district of Blomberg was ceded to the
-county of Lippe-Detmold. In 1777, the district of Schieder also went to Lippe-Detmold
-(Köbler, p 620). The county had abt. 25.000 inhabitants in 1788, more than 6.000 of whom
-lived in the small towns (Sauer, p 50). The capitol was Bückeburg with its residential castle,
-and there was a military academy, Wilhelmstein, on an island in the Steinhuder Meer, a lake
-at the territory’s northern border (in general on the state Schaumburg-Lippe: Hauptmeyer).
-Schaumburg-Lippe was mainly a rural society, with local towns serving as markets where the
-villagers could sell their produce. The border to Westfalia (Prussia), the large episcopal town
-Minden and the river Weser, an important trade street, in the west, as well as Hannover, the
-capitol of the Duchy, then Kingdom (1815) of Hannover, in the east, and the County
-Schaumburg, part of Hesse, in the south-east, offered opportunities for crafts and
-merchants. As the residency of the Counts and Princes of Schaumburg-Lippe, Bückeburg
-attracted some trade and business (on Schaumburg-Lippe’s trade Kaufhold, p 17-20).
-From the middle ages onwards we find proof of mining in the area. Mining in SchaumburgLippe concentrated mainly on hard coal. Very old mines are at the Bückeberg (a hill south
-east of Stadthagen) and in the region of Obernkirchen, east of Bückeburg. Glassmaking was
-another early industrial activity. In the late 18th and 19th century, linnen weaving as ‘home
-industry’ became important (Schneider, p 131-139).
-After the Congress at Vienna 1815 which laid the foundation for the post Napoleonic era in
-Europe, the old order was restored in the north German territories though they were now
-obliged to install a basic parlamentary representation. This, though, was based entirely on
-ggthe old feudal hierarchy. Only very wealthy and mostly noble men were members of this
-‘Ständeversammlung’, even farmers with large properties were not really represented, nor
-were women of all social classes.
-A constitution was enacted in Schaumburg-Lippe in 1816 (valid up to 1868), that decreed:
-„§ 4. All our dear and loyal subjects of our Schaumburg lands are entitled to representation
-in the state parliament, such that:
-a) the actual owners of noble estates,
-b) deputies of the towns and villages,
-c) deputies of the subjects of the districts,
-shall be authorized to appear at the state parliament.“ (Costitution of 1816)
+independent states in the German Empire, and among the smallest states. The
+Schaumburg districts of Blomberg, Bückeburg, Stadthagen, Arensburg, Hagenburg,
+Schieder, Steinhude, and parts of Sachsenhagen were merged with the Lippe districts
+of Lipperode and Alverdissen to form the new county. In 1748, the district of
+Blomberg was ceded to the county of Lippe-Detmold. In 1777, the district of Schieder
+also went to Lippe-Detmold (Köbler, p 620). The county had abt. 25.000 inhabitants in
+1788, more than 6.000 of whom lived in the small towns (Sauer, p 50). The capitol was
+Bückeburg with its residential castle, and there was a military academy,
+Wilhelmstein, on an island in the Steinhuder Meer, a lake at the territory’s northern
+border (in general on the state Schaumburg-Lippe: Hauptmeyer).
+
+Schaumburg-Lippe was mainly a rural society, with local towns serving as markets
+where the villagers could sell their produce. The border to Westfalia (Prussia), the
+large episcopal town Minden and the river Weser, an important trade street, in the
+west, as well as Hannover, the capitol of the Duchy, then Kingdom (1815) of Hannover,
+in the east, and the County Schaumburg, part of Hesse, in the south-east, offered
+opportunities for crafts and merchants. As the residency of the Counts and Princes of
+Schaumburg-Lippe, Bückeburg attracted some trade and business (on Schaumburg-Lippe’s
+trade Kaufhold, p 17-20).  From the middle ages onwards we find proof of mining in
+the area. Mining in Schaumburg-Lippe concentrated mainly on hard coal. Very old mines
+are at the Bückeberg (a hill south east of Stadthagen) and in the region of
+Obernkirchen, east of Bückeburg. Glassmaking was another early industrial activity.
+In the late 18th and 19th century, linnen weaving as ‘home industry’ became important
+(Schneider, p 131-139).
+
+After the Congress at Vienna 1815 which laid the foundation for the post Napoleonic
+era in Europe, the old order was restored in the north German territories though they
+were now obliged to install a basic parlamentary representation. This, though, was
+based entirely on ggthe old feudal hierarchy. Only very wealthy and mostly noble men
+were members of this ‘Ständeversammlung’, even farmers with large properties were not
+really represented, nor were women of all social classes.
+
+A constitution was enacted in Schaumburg-Lippe in 1816 (valid up to 1868), that
+decreed:
+
+[quote, Constitution of 1816]
+____
+§ 4. All our dear and loyal subjects of our Schaumburg lands are entitled
+to representation in the state parliament, such that:
+
+[loweralpha]
+. the actual owners of noble estates,
+. deputies of the towns and villages,
+. deputies of the subjects of the districts,
+
+shall be authorized to appear at the state parliament.
 
 The new constitution, though granting nobility, rural and urban inhabitants a limited indirect
 influence on the country’s political course, did not change its feudal nature.
