@@ -109,18 +109,23 @@ organized at the district level (Ämter, see above). In each district, an offici
 belonging to the district. These taxes and dues were then forwarded to the Rentkammer
 in Bückeburg.
 
-TODO: Resume here!
+image::amtshaus-stadthagen.jpg[title=Amtshaus Stadhagen,link=self]
 TODO: image here?
 Amtshaus Stadthagen
 
-The Amt / Amtmann in every district was the local authority that had to assess and mediate
-conflicts or – as in your family’s case – debts and loans, and had to report back to the central
-authorities in Bückeburg; in financial affairs to the Rentkammer. The inhabitants of the
-district needed to appear before the Amtmann for land and property purchases and
-marriages to get the authority’s permits, as well as to have these acts documented in the
-district protocols (contract books; in general on Amt/Amtmänner: Klingebiel). Also, people
-could not leave without applying for a permit, men being obliged to serve in the army first
-before receiving it.
+In each district, the Amt and its head official, the Amtmann, constituted the local
+authority responsible for assessing and mediating conflicts or—-as in the case of
+Johann Heinrich Krückeberg TODO add year--matters involving debts and loans. The
+Amtmann was required to report to the central authorities in Bückeburg, and in
+financial matters specifically to the Rentkammer. Inhabitants of the district were
+required to appear before the Amtmann to obtain official permission for land and
+property transactions and for marriages, and to have these acts formally recorded in
+the district protocols (contract books). In addition, individuals were not permitted
+to leave the territory without applying for authorization; men, in particular, were
+required to complete military service before such permission would be granted (for
+general information on Ämter and Amtmänner, see Klingebiel).
+
+TODO: Resume here!
 
 Life in the villages was dominated by ancient dependencies and obligations. Farmers had to
 work on the Prince’s or noble estate owner’s land several days per year, and pay various
@@ -140,18 +145,20 @@ Schaumburg-Lippe had been made reluctantly and included almost unmanageable
 conditions for the farmers, so that the whole process did take a long time, while neighboring
 states were going through this step of modernisation much faster (Behr, p 48, also State
 Archive file NLA BU K 2 D Nr. 233).
+
 The change also included the ‘Verkoppelung’ – a more rational distribution of the land
 between all farmers, which also included the dissolution of the common meadows and land.
 This deprived some of the poorer inhabitants of their share. In addition, means of
 intensifying the cultivation and increasing the crop were introduced, leading to a decrease of
 labor needed in agriculture.
+
 In a typical north German village of the late 18th and early 19th century we find farmers
 (Meier, Halbmeier, Viertelmeier, Ackermann, Bauer), tenant farmers who have a house and
 some land, but not enough to live on, so often perform a craft (Koeter/Koethner), inhabitants
 who own a house and garden but no land at all and usually work as farmhands or craftsmen
 or as seasonal workers (Brinksitzer), inhabitants who do not own land or a house but rent a
 house or room, work as craftsmen or farmhands (Häuslinge, Einlieger, Heuerlinge, Einwohner
-= tenants). The craftsmen found in villages were shoemakers, blacksmiths, carpenters,
+ = tenants). The craftsmen found in villages were shoemakers, blacksmiths, carpenters,
 painters, joiners and tailors.
 
 A first change of the strict rural social bonds had been brought about by home industries, like
