@@ -130,11 +130,11 @@ Farmers were required to work on the prince’s or a noble landowner’s estate 
 several days each year and to pay various taxes, both in kind (for example, eggs or
 chickens) and in money, the most important of which was the Zehnte (the tithe). These
 obligations arose from the fact that the farmland did not belong to the farmers
-themselves but formed part of feudal property.  Some of these dues had their origins
-in peonage, elements of which remained in force, requiring subjects to obtain their
-lord’s permission to marry or to leave the territory. Fees were also payable in the
-event of marriage or death, since such occasions involved the transfer of property
-rights.
+themselves but formed part of feudal property.  Some of these dues originated in
+older forms of feudal dependence, elements of which remained in force: subjects
+still needed their lord’s permission to marry or to leave the territory. Fees were
+also payable in the event of marriage or death, since such occasions involved the
+transfer of property rights.
 
 TODO: Resume here!
 Though a farmer passed on the property to his heirs, theoretically the landlord could have
