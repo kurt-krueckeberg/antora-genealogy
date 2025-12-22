@@ -109,9 +109,9 @@ organized at the district level (Ämter, see above). In each district, an offici
 belonging to the district. These taxes and dues were then forwarded to the Rentkammer
 in Bückeburg.
 
+== Amtshaus Stadthagen
+
 image::amtshaus-stadthagen.jpg[title=Amtshaus Stadhagen,link=self]
-TODO: image here?
-Amtshaus Stadthagen
 
 In each district, the Amt and its head official, the Amtmann, constituted the local
 authority responsible for assessing and mediating conflicts or—-as in the case of
@@ -125,17 +125,18 @@ to leave the territory without applying for authorization; men, in particular, w
 required to complete military service before such permission would be granted (for
 general information on Ämter and Amtmänner, see Klingebiel).
 
+Life in the villages was shaped by long-standing dependencies and obligations.
+Farmers were required to work on the prince’s or a noble landowner’s estate for
+several days each year and to pay various taxes, both in kind (for example, eggs or
+chickens) and in money, the most important of which was the Zehnte (the tithe). These
+obligations arose from the fact that the farmland did not belong to the farmers
+themselves but formed part of feudal property.  Some of these dues had their origins
+in peonage, elements of which remained in force, requiring subjects to obtain their
+lord’s permission to marry or to leave the territory. Fees were also payable in the
+event of marriage or death, since such occasions involved the transfer of property
+rights.
+
 TODO: Resume here!
-
-Life in the villages was dominated by ancient dependencies and obligations. Farmers had to
-work on the Prince’s or noble estate owner’s land several days per year, and pay various
-taxes, both in produce (e.g. eggs, chicken) and money (the most important being the
-‘Zehnte’, the Tenth). These taxes originated in the fact that the farmland did not belong to
-the farmer, but was part of the feudal property. Some of these taxes had their origin in
-peonage, elements of which were still valid, with the subjects having to obtain their
-landlords’ permission for marriage, or for leaving. They had to pay a fee in case of marriage
-or death, because then a property changed hands.
-
 Though a farmer passed on the property to his heirs, theoretically the landlord could have
 taken it away from the family (which happened when someone was seen as unfit). This
 ancient system was finally abolished in Schaumburg-Lippe after a law passed on 24 January
