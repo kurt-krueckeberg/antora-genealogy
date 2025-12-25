@@ -1,8 +1,15 @@
 = TODO
 
-== View Guild Video on GGS
+== Research Items
+
+=== View Guild Video on GGS
 
 And add this to the research todo list.
+
+=== Carl Friedrich Bleeke Military Service
+
+Use his tombstone and his residence documented on the research .adoc page, and specify we would like
+any of his military records.
 
 == Background Sources to Read
 
