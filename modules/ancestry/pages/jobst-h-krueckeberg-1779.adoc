@@ -46,13 +46,12 @@ and the first son"*. The four children documented children of Jobst Heinrich in 
 . xref:petzen:PET-B-1803a.adoc[Sophie Wilhelmine, born 24 Jan 1803]
 . xref:petzen:PET-B-1806a.adoc[Johann Heinrich, born 12 Aug 1806]
 
-We know from the xref:nla:146:doc2.adoc#summary[second document] in the NLA archive
-document
+We know from the xref:nla:146:doc2.adoc#summary[second document] in the case file
 link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4979522[NLA
-BU K 2 B Nr. 146] that that Jobst Heinrich was an Ackervogt, an *Ackervogt* was a
-*local agricultural supervisory official* appointed by the territorial
-administration or manor to *oversee the use and management of arable land* within a
-village or district.
+BU K 2 B Nr. 146], found in the Bückeburg regional archive, that that Jobst Heinrich
+was an Ackervoge an *Ackervogt* was a *local agricultural supervisory official*
+appointed by the territorial administration or manor to *oversee the use and
+management of arable land* within a village or district.
 
 He was the official who made sure that *fields were used correctly, agricultural
 rules were followed, and land-related obligations were met* by those who held or
