@@ -12,8 +12,12 @@ Use "--" for em dashesm and for en dashes, follow these steps:
 Also:
 * correct grammar.
 
-USe Gemini or Chatgpt to rewrite it.
+Use Gemini or Chatgpt to rewrite it.
 
+== German Emigration: Summary of Part I
+
+url:
+https://members.germangenealogycollective.com/courses/products/86a4a680-fcb7-463c-93c1-d9db7bda624e/categories/5bb1eb4a-bf08-4436-adf7-fdfb55326aef/posts/7bbc8283-f8c8-4a67-9554-2c7f6d9735c0?courses=my&source=courses
 == DO Next
 
 When did Stätte numbering begin in Berenbusch? What were the numbers? Who owned these Stätte?

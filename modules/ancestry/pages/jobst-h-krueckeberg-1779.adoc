@@ -46,6 +46,10 @@ and the first son"*. The four children documented children of Jobst Heinrich in 
 . xref:petzen:PET-B-1803a.adoc[Sophie Wilhelmine, born 24 Jan 1803]
 . xref:petzen:PET-B-1806a.adoc[Johann Heinrich, born 12 Aug 1806]
 
+We know from the xref:nla:146:doc2.adoc#summary[second document] in the NLA archive document
+link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4979522[NLA BU K 2 B Nr. 146] that
+that Jobst Heinrich was an Ackervogt, an .. TODO...
+
 == Petzen Original Records Event Table for Jobst Heinrich Krückeberg Family
 
 *Question:* In the birth record of the first child, Philippine Caroline Christine, her Krückeberg grandmother is a baptismal
