@@ -4,6 +4,9 @@ We know Josbt Heinrich Kückeberg was a Schusteramtmeister from these records:
 
 * xref:petzen:PET-B-1806a.adoc[]
 
+When his son Johann Heinrich Krückeberg was xref:petzen:PET-B-1806a.adoc[born on 12 August 1807], his father's
+*Stand* is given as *Schuster Amtsmeister*. 
+
 When Jobst Heinrich xref:petzen:PET-D-1822b.adoc[died on 21 October 1822], his occupation was listed as Schusteramtsmeister
 (Guild Master of the Shoemakers).
 
