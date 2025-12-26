@@ -46,7 +46,6 @@ Jobst Heinrich's occupation was a **Schusteramtsmeiter**. This is a compound Ger
 
 Thus, “Schusteramtsmeister” translates to “Master of the Shoemakers' Guild” or more precisely,
 “Guild Master of the Shoemakers”.
-====
 
 In the 19th-century German context, especially in regions like
 Schaumburg-Lippe, craftsmen were organized into guilds (Zünfte or Ämter). These
@@ -55,6 +54,24 @@ quality standards, and trade practices. The Amtsmeister was a senior figure
 within the guild, often elected by fellow members, responsible for
 administrative duties, overseeing apprenticeships, ensuring quality control,
 and representing the guild in municipal matters.
+
+* Crafts were organized under an **Amt (district)**.
+* Each Amt had one **Schusteramt** (shoemakers’ craft office).
+* That Amt covered:
+** the town (if any), **and**
+** the surrounding villages.
+
+The **Amtsmeister** was typically:
+
+* the **head officer** of that craft body for the district,
+* elected from among master shoemakers,
+* responsible for:
+** supervision of masters,
+** apprenticeships,
+** enforcement of craft ordinances,
+** representation of the craft before authorities.
+
+In territories like Schaumburg-Lippe, small villages such as Berenbusch did not have independent guilds. Instead:
 ****
 
 == Citation
