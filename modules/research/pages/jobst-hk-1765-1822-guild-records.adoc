@@ -1,0 +1,64 @@
+=  Guild Records for Jobst Heinrich Krückeberg (1785-1822)
+
+We know Josbt Heinrich Kückeberg was a Schusteramtmeister from these records:
+
+* xref:petzen:PET-B-1806a.adoc[]
+* xref:petzen:PET-D-1822b.adoc[]
+
+Are there guild records for him in the Bückeburg archive_
+
+When his son Johann Heinrich Krückeberg was xref:petzen:PET-B-1806a.adoc[born on 12 August 1807], his father's
+*Stand* is given as *Schuster Amtsmeister*. 
+
+When Jobst Heinrich xref:petzen:PET-D-1822b.adoc[died on 21 October 1822], his occupation was listed as Schusteramtsmeister
+(Guild Master of the Shoemakers).
+
+In the 19th-century German context, especially in regions like Schaumburg-Lippe, craftsmen were organized into
+guilds (Zünfte or Ämter). These guilds regulated the practice of their respective crafts, overseeing training,
+quality standards, and trade practices. The Amtsmeister was a senior figure within the guild, often elected by
+fellow members, responsible for administrative duties, overseeing apprenticeships, ensuring quality control, and
+representing the guild in municipal matters.
+
+Jobst Heinrich's occupation was a **Schusteramtsmeiter**. This is a compound German word:
+
+* **Schuster:** Shoemaker or cobbler
+
+* **Amt:** Office, guild, or administrative authority
+
+* **Meister:** Master
+
+Thus, “Schusteramtsmeister” translates to “Master of the Shoemakers' Guild” or more precisely,
+“Guild Master of the Shoemakers”.
+
+In the 19th-century German context, especially in regions like
+Schaumburg-Lippe, craftsmen were organized into guilds (Zünfte or Ämter). These
+guilds regulated the practice of their respective crafts, overseeing training,
+quality standards, and trade practices. The Amtsmeister was a senior figure
+within the guild, often elected by fellow members, responsible for
+administrative duties, overseeing apprenticeships, ensuring quality control,
+and representing the guild in municipal matters.
+
+* Crafts were organized under an **Amt (district)**.
+* Each Amt had one **Schusteramt** (shoemakers’ craft office).
+* That Amt covered:
+** the town (if any), **and**
+** the surrounding villages.
+
+The **Amtsmeister** was typically:
+
+* the **head officer** of that craft body for the district,
+* elected from among master shoemakers,
+* responsible for:
+** supervision of masters,
+** apprenticeships,
+** enforcement of craft ordinances,
+** representation of the craft before authorities.
+
+In territories like Schaumburg-Lippe, small villages such as Berenbusch did not have independent guilds. Instead:
+
+The pastor could have written simply “Schuster”. The fact that he did not, in both 1806 and 1822, tells us:
+
+* the title was *current and recognized* over at least 16 years (when his son's baptism record 1^st^ mentions this),
+* it mattered for *status classification* (Stand),
+* Jobst Heinrich Krückeberg was likely one of the *leading rural craftsmen* of his district.
+

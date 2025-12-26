@@ -15,7 +15,7 @@
 //** xref:bueckeburg-bleeke-research.adoc[]
 ** xref:familienschein-original.adoc[]
 ** xref:anne-margarethe-volkening.adoc[]
-* xref:guild-records.adoc[]
+* xref:obst-hk-1765-1822-guild-records.adoc[]
 //** xref:OrtsFamilienBücher.adoc[]   <-- The Petzen Ortsfamilienbuch does not mention Krückebergs
 //** xref:friedrich-wilhelm-weiland-evesen-questions.adoc[]
 * U.S. and Indiana-related Resarch Questions
