@@ -2,7 +2,13 @@
 
 We know Josbt Heinrich Kückeberg was a Schusteramtmeister from these records:
 
-* xref:petzen:PET-D-1822b.adoc[]
 * xref:petzen:PET-B-1806a.adoc[]
 
+When Jobst Heinrich xref:petzen:PET-D-1822b.adoc[died on 21 October 1822], his occupation was listed as Schusteramtsmeister
+(Guild Master of the Shoemakers).
 
+In the 19th-century German context, especially in regions like Schaumburg-Lippe, craftsmen were organized into
+guilds (Zünfte or Ämter). These guilds regulated the practice of their respective crafts, overseeing training,
+quality standards, and trade practices. The Amtsmeister was a senior figure within the guild, often elected by
+fellow members, responsible for administrative duties, overseeing apprenticeships, ensuring quality control, and
+representing the guild in municipal matters.
