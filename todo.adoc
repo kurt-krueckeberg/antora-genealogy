@@ -6,12 +6,12 @@
 
 And add this to the research todo list.
 
-=== Carl Friedrich Bleeke Military Service
+=== Also Add Carl Friedrich Bleeke Military Service
 
-Use his tombstone and his residence documented on the research .adoc page, and specify we would like
-any of his military records.
+Create background information using his Iowa tombstone and his known residence in LEteln/Frill area. Add this to
+the research page, stating we would like any of his military records.
 
-== Background Sources to Read
+== Background Sources to Read to Better
 
 [arabic,start=1]
 . link:https://de.wikipedia.org/wiki/Anerbenrecht[Anerbenrecht]
@@ -21,7 +21,11 @@ any of his military records.
 von Karl Heinz Schneider.]
 . https://www.ekomp.digihist.de/Dokumentation_Datensaetze/Multimedia/Staaten/Schaumburg-Lippe.pdf
 
-== Convert Moehle Report to AsciiDoc
+=== Scan Book: "Die landwirtschaftlichen Verhältnisse und die Agrarreformen in Schaumburg-Lippe im 18. und 19.  Jahrhundert / von Karl Heinz Schneider."
+
+So that I can have it translated by Deepl.
+
+== Finish Converting Dr Moehle's Report to AsciiDoc
 
 The report is in `~/gen/m/background/pages/report_moehle.adoc`. Convert its em dashes to AsciiDoc '--'.
 
