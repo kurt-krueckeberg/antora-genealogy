@@ -1,0 +1,8 @@
+=  Guild Records
+
+We know Josbt Heinrich Kückeberg was a Schusteramtmeister from these records:
+
+* xref:petzen:PET-D-1822b.adoc[]
+* xref:petzen:PET-B-1806a.adoc[]
+
+

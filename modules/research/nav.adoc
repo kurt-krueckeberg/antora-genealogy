@@ -12,6 +12,8 @@
 ** xref:schaumburg-lippe-censuses.adoc[]
 ** xref:stand-meaning.adoc[]
 ** xref:carl-f-bleeke-military-service.adoc[]
+* Guild Records
+** xref:guild-records.adoc[]
 //** xref:bueckeburg-bleeke-research.adoc[]
 ** xref:familienschein-original.adoc[]
 ** xref:anne-margarethe-volkening.adoc[]
