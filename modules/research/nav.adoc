@@ -4,6 +4,7 @@
 * Bückeberg Archive Research
 ** xref:RR-Krueckeberg-MasterResearch-1700-1850.adoc[]
 ** xref:RR-Krueckeberg-1700-1760-TargetRecords.adoc[]
+** xref:obst-hk-1765-1822-guild-records.adoc[]
 * German Records-related Research Questions
 ** xref:did-jhk-1744-marry-at-17.adoc[] 
 ** xref:johann-hinrich-krueckeberg-1704-children.adoc[]
@@ -15,7 +16,6 @@
 //** xref:bueckeburg-bleeke-research.adoc[]
 ** xref:familienschein-original.adoc[]
 ** xref:anne-margarethe-volkening.adoc[]
-* xref:obst-hk-1765-1822-guild-records.adoc[]
 //** xref:OrtsFamilienBücher.adoc[]   <-- The Petzen Ortsfamilienbuch does not mention Krückebergs
 //** xref:friedrich-wilhelm-weiland-evesen-questions.adoc[]
 * U.S. and Indiana-related Resarch Questions
