@@ -356,7 +356,8 @@ know if the original version exists. It may have not been an official document. 
 
 image::families:Familienschein-des-Auswanderers.jpg[align=left,width=800,title='Familienschein des Auswanderers(Click to Enlarge)',link=self]
 
-== Bleeke Record in Frille Kirchenbücher
+[.narrow]
+== Bleeke Records in Original Frille Kirchenbücher
 
 I would like the original Frille Kirchenbücher searched for the marriage record
 of Chrisitian Friedrich Bleeke (1800-1889) to Christine Luise Eleonore
