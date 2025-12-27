@@ -248,23 +248,27 @@ names tenants, describes holdings, and sometimes states who held them
 before/after — mainly for later continuity, not for the 1700–1760 window.
 |===
 
-== Other Krückeberg Kirchenbuch Records
+== Krückeberg Records in Petzen Kirchenbücher
 
-I would like to have the event, dates and facts for any Petzen post-1828 church records for any Krückebergs who appear. 
+I would like to have the event, dates and facts for any Petzen post-1828 church
+records for any Krückebergs who appear. 
 
 [.narrow]
 === Accompanying Citations
 
-I also need an accompanying *citations* for each record. What is the name of the microfiche volume (or roll, etc)
-and where on the microfiche is it found, which film number or image number? We need enough information so that
-anyone else could go to the Bückeburg archive and find the record source easily and verify it.
+I also need an accompanying *citations* for each record. What is the name of the
+microfiche volume (or roll, etc) and where on the microfiche is it found, which
+film number or image number? We need enough information so that anyone else
+could go to the Bückeburg archive and find the record source easily and verify
+it.
 
-I would also like transcription for the records below, which are approximate dates.
+I would also like transcription for the records below, which are approximate
+dates.
 
 
-=== Marriage Records to Confirm
+=== Petzen Marriage Records to Confirm
 
-.Krückeberg Marriages Approximate Dates
+.Krückeberg Petzen Marriages Approximate Dates
 [width="75%"]
 |===
 |Bräutigam|Braut|Heiratsdatum|Kirchspiel
@@ -322,6 +326,7 @@ I would also like transcription for the records below, which are approximate dat
 === Krückeberg Deaths to Confirm and Transliterate
 
 [width="75%"]
+Krückeberg Petzen Deaths
 |===
 |Name|ungefähr Sterbedatum
 
@@ -335,11 +340,13 @@ I would also like transcription for the records below, which are approximate dat
 |===
 
 [.narrow]
-=== Emigration Dates to Look for
+=== Krückeberg Emigration Dates to Look for
 
-The Petzen church register for the years 1849 and 1850 may indicate the dates Johann Heinrich Krückeberg (born
-1806) and Carl Friedrich Krückeberg (born 1807) emigrated. Johann Heinrich Krückeberg arrived November 5, 1849, in
-NYC, and Carl Friedrich Krückeberg arrived November 19, 1850.
+The Petzen church register for the years 1849 and 1850 may indicate the dates
+xref:petzen:PET-B-1806a.adoc[Johann Heinrich Krückeberg, born 1806], and 
+xref:petzen:PET-B-1807a.adoc[Carl Friedrich Krückeberg, born 1807], emigrated.
+Johann Heinrich Krückeberg arrived November 5, 1849, in New York City, and Carl
+Friedrich Krückeberg arrived November 19, 1850.
 
 [.narrow]
 === Familienschein des Auswanderers Carl Friedrich Krückeberg
@@ -349,3 +356,10 @@ know if the original version exists. It may have not been an official document. 
 
 image::families:Familienschein-des-Auswanderers.jpg[align=left,width=800,title='Familienschein des Auswanderers(Click to Enlarge)',link=self]
 
+== Bleeke Record in Frille Kirchenbücher
+
+I would like the original Frille Kirchenbücher searched for the marriage record
+of Chrisitian Friedrich Bleeke (1800-1889) to Christine Luise Eleonore
+Krückeberg. This marriage occurred 26 November 1826 in the Frille Gemeinde.
+We have the Fille Kirchenbuchduplikat record of the
+xref:frille:FRI-M-1826a.adoc[], but I would the original Frille record, too.
