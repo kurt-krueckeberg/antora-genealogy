@@ -1,15 +1,13 @@
 = TODO
 
-== Research Items
-
-=== View Guild Video on GGS
+== Research Items to Add
 
 === Also Add Carl Friedrich Bleeke Military Service
 
 Create background information using his Iowa tombstone and his known residence in LEteln/Frill area. Add this to
 the research page, stating we would like any of his military records.
 
-== Background Sources to Read to Better
+== Background Sources to Read to Better Understand Schaumburg-Lippe
 
 [arabic,start=1]
 . link:https://de.wikipedia.org/wiki/Anerbenrecht[Anerbenrecht]
