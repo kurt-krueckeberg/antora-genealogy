@@ -21,6 +21,13 @@
 (in the small marshy area of Evesen)
 |===
 
+[IMPORTANT]
+====
+While the mother's name is not given on the baptism record, the male baptismal sponsor is *Rösener*. On 29 Sep. 1758, Johann
+Heinrich Krückeberg from Berenbusch married Ilse Margarethe Rösener from Evesen as their
+xref:petzen:PET-M-1758a.adoc[] record shows.
+====
+
 == Citation
 
 The March 24, 1765 baptism of Jobst Heinrich Krückeberg is on <<PET-B-1765a, image 211>>, left page, fourth entry from the top, of
