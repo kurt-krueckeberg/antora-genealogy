@@ -2,7 +2,7 @@
 
 == Image
 
-image::Widensahl-1670-img47.png[title=Heinrich Arands Vahlsing baptism,link=self]
+image::wiedensahl-1670-img47.png[title=Heinrich Arands Vahlsing baptism,link=self]
 
 == Transliteration and Translation 
 
