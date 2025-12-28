@@ -2,6 +2,9 @@
 
 == Research to Do
 
+Look for NLA case file for a Berenbusch site that has a map showing a Krückeberg property
+borders the indivudal at this site.
+
 === Other Petzen Records to Review
 
 See manilla folder
@@ -9,11 +12,11 @@ See manilla folder
 === Follow FamilySearch Leads
 
 The parents of Anne Maria Margarethe Vahlsing, who married Johann Heinrich Krückeberg on 28 Sep. 1727 in
-Petzen (see xref:petzen:PET-M-1727a.adoc[]) are given on FamilySearch along when they were baptized and
+Petzen (see xref:petzen:PET-M-1727a.adoc[]) are given on FamilySearch along with they were baptized and
 into which parish. Their death dates are also given.
 
 Following these other families may help uncover more information like aid in identifying the exact baptism
-sponsors.
+sponsors....but the Vahlsing's only appear once as baptism sponsors?
 
 === Summary
 
