@@ -62,8 +62,19 @@ responsibilities over farming activities. While this does not establish the scal
 his own holdings, it strongly suggests long-term practical experience in agriculture
 and local land management. 
 
-TODO: There is a problem. According to the xref:nla:146:doc1.adoc[], Jobst Heinrich is an
-*Einlieger bei Wilharms no. 11"
+*TODO: There is a problem.* According to the xref:nla:146:doc1.adoc[], *Schneider Krückeberg*
+has "bisher als Einlieger beÿ Wilharm No 11 in Evesen gewohnt". His given name of *Jobst
+Heinrich* is mentioned in the same case file's documents numbered 2, 6, 7, 10 and 11:
+
+* xref:nla:146:doc2.adoc[]
+* xref:nla:146:doc6.adoc[]
+* xref:nla:146:doc7.adoc[]
+* xref:nla:146:doc10.adoc[]
+* xref:nla:146:doc11.adoc[]
+
+If the first document in the case file, xref:nla:146:doc1.adoc[document 1], states he has
+"bisher als Einlieger beÿ Wilharm No 11 in Evesen gewohnt", then why do all the baptism
+and confirmation records continue to reference *No. 10 Berenbusch*?
 
 == Petzen Original Records Event Table for Jobst Heinrich Krückeberg Family
 
