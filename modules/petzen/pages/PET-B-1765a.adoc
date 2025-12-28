@@ -23,9 +23,9 @@
 
 [IMPORTANT]
 ====
-While the mother's name is not given on the baptism record, the male baptismal sponsor is *Rösener*. On 29 Sep. 1758, Johann
-Heinrich Krückeberg from Berenbusch married Ilse Margarethe Rösener from Evesen as their
-xref:petzen:PET-M-1758a.adoc[] record shows.
+While the mother's name is not given on the baptism record, the male baptismal sponsor is *Rösener*, and a
+*Ilse Margarethe Rösener* from Evesen, on 29 Sep. 1758, married Johann Heinrich Krückeberg from Berenbusch,
+as their xref:petzen:PET-M-1758a.adoc[] record shows.
 ====
 
 == Citation
