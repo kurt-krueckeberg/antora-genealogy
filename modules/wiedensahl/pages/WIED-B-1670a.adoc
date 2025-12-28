@@ -1,6 +1,9 @@
-= 1670 Heinrich Arends Vahlsing Baptim
+= 1670 Heinrich Arends Vahlsing Baptism
 
 == Image
+
+The 1670 baptism entry is found on <<WIED-B-1670a, image 47>>, the first entry of the Wiedensahl "Kirchenbuch
+1666-1703". 
 
 image::wiedensahl-1670-img47.png[title=Heinrich Arands Vahlsing baptism,link=self]
 
@@ -15,5 +18,24 @@ so Heinrich Arends genant
 dieser Gefatter ist gewesen 
 Heinrich [Pa.?] Harm ⟨terminal flourish⟩
 ....
+
+NOTE: In *„ein Kind getauft“* -> *“baptized a child”*, the pastor is implied as the subject.
+ 
+.Translation
+[literal.bordered,subs="verbatim,quotes"]
+....
+Johann Vahlsing, on the 6th of February, baptized a child,
+named Heinrich Arend;
+the godfather was
+Heinrich P[a.?] Harm.
+....
+
+[bibliography]
+== Citations
+
+* [[[WIED-B-1670a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_
+(https://www.archion.de/p/520e17591e/ : 28 December 2025), path:  Niedersachsen > Landeskirchliches Archiv der
+Evangelisch-lutherischen Landeskirche Hannovers > Kirchenkreis Stolzenau-Loccum > Wiedensahl > Kirchenbuch
+1666-1703, image 47 of 577
 
 
