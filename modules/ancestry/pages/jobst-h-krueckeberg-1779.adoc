@@ -217,14 +217,15 @@ from Meinsen
 |Residence
 |Sep. 1808
 |Entire Family
+|Jobst Heinrich Krückeberg
+|Anna Christine Philippine nee Tegtmeier
 |
 |
 |
 |
 |
-|
-|
-|He is an Einlieger and family are tenants at xref:nla:146:doc1.adoc[Wilharms #11 in Evesen]. For how long?
+|According to [Jobst Heinrich's Rentkammer Petition, 30 Sep. 1801], he is an Einlieger his family are tenants at
+Wilharms, #11 in Evesen. We don't know how long?
 
 |Confirmation
 |7 Apr. 1811
