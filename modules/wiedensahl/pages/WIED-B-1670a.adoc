@@ -6,6 +6,8 @@ image::wiedensahl-1670-img47.png[title=Heinrich Arands Vahlsing baptism,link=sel
 
 == Transliteration and Translation 
 
+.Transliteration
+[literal.bordered,subs="verbatim,quotes"]
 ....
 Johan Vahlsing den 6 Fe-
 bruar, ein Kind getauft
