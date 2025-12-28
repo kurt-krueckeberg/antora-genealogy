@@ -73,9 +73,13 @@ Heinrich* is mentioned in the same case file's documents numbered 2, 6, 7, 10 an
 * xref:nla:146:doc10.adoc[]
 * xref:nla:146:doc11.adoc[]
 
-*ISSUE:* If the first document in the case file, xref:nla:146:doc1.adoc[document 1], states he has
+*PROBLEM:* If the first document in the case file, xref:nla:146:doc1.adoc[document 1], states he has
 "bisher als Einlieger beÿ Wilharm No 11 in Evesen gewohnt", then why do all the baptism
 and confirmation records continue to reference *No. 10 Berenbusch*?
+
+*PROBLEM:* No. 18 Berenbusch is first mentioned starting in 1812 in conjunction with Carl
+Friedrich Gottlieb Krückeberg? Search `~/gen/m/petzen/p` for `rg "18.*busch" *.adoc` and for
+`rg ".*busch.*18" *.adoc`.
 
 == Petzen Original Records Event Table for Jobst Heinrich Krückeberg Family
 
