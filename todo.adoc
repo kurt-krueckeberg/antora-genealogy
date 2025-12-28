@@ -2,10 +2,12 @@
 
 == Research to Do
 
+=== Map
 Look for NLA case file for a Berenbusch site that has a map showing a Krückeberg property
 borders the indivudal at this site.
 
 
+=== Gioven Name not Used
 Also note this NOTE on xref:petzen:PET-B-1744a.adoc[]:
 
 [NOTE]
@@ -17,6 +19,16 @@ father's given name, at least one other baptsim record on the same page likewise
 mentions the surname. There are records on the prior page where only the surname is
 mentioned, too.
 ====
+
+=== rg "Wilharm"
+
+Do: `rg 'Wilharm; *.adoc. Note the results show that both branches of the Krückebergs seem
+to have Wilharms as baptism sponsors. We know from NLA 146, doc #1, that Jobst Heinrich
+Krückeberg and his family lived at the Wilharms as tenants.
+
+=== Key
+
+Work from known to unknow, from most recent to prior generation methodically.
 
 === Other Petzen Records to Review
 
