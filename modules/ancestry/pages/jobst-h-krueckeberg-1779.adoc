@@ -62,6 +62,9 @@ responsibilities over farming activities. While this does not establish the scal
 his own holdings, it strongly suggests long-term practical experience in agriculture
 and local land management. 
 
+TODO: There is a problem. According to the xref:nla:146:doc1.adoc[], Jobst Heinrich is an
+*Einlieger bei Wilharms no. 11"
+
 == Petzen Original Records Event Table for Jobst Heinrich Krückeberg Family
 
 *Question:* In the birth record of the first child, Philippine Caroline Christine, her Krückeberg grandmother is a baptismal
@@ -214,17 +217,17 @@ from Meinsen
 |
 |xref:petzen:PET-B-1806a.adoc[]
 
-|Residence
+|Residence????
 |Sep. 1808
 |Entire Family
 |Jobst Heinrich Krückeberg
 |Anna Christine Philippine nee Tegtmeier
 |
 |
+|Evesen
+|11
 |
-|
-|
-|According to [Jobst Heinrich's Rentkammer Petition, 30 Sep. 1801], he is an Einlieger his family are tenants at
+|According to xref:nla:146:doc1.adoc[Jobst Heinrich's Rentkammer Petition, 30 Sep. 1801], he is an Einlieger his family are tenants at
 Wilharms, #11 in Evesen. We don't know how long?
 
 |Confirmation
