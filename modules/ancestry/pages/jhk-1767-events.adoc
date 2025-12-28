@@ -155,6 +155,18 @@ bride: Evesen #19
 *mother:* from Evesen #19
 |xref:petzen:PET-C-1806a.adoc[]
 
+|Residence
+|XX XX 1808
+|Entire Family
+|
+|
+|
+|
+|
+|
+|
+|xref:nla:146:doc1.adoc[Family are tenants at Wilharms]
+
 |Confirmation
 |7 Apr. 1811
 |Christine Louise Krückeberg
