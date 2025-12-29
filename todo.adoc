@@ -2,10 +2,16 @@
 
 == TODO Next
 
-Create a document of one or more pages using xref:nla:146:doc6.adoc[] along with the `.adoc`
-files in `m/background/p/underdevelopment` that uses actual church register records of the
-Krückebergs as examples. Also use the Jobst Heinrich Krückeberg petition to purchase an erhebliches
-Kolonat as the main example.
+Using xref:nla:146:doc6.adoc[] along with the `.adoc`
+files in `m/background/p/underdevelopment` thoroughly explain of what "Stand" informationmeans,
+what the terms Einlieger, Kolon, etc. mean. Use actual Krückeberg church register records as
+examplesexamples to make this crystal clear. Uses the Jobst Heinrich Krückeberg petition of 30 September 1808
+as a thorough example of what I will explain and then explain what the case file tells us or
+might tell us. 
+
+== Rewrite Dr. Moehle's Work
+
+Should this material be merge with Dr. Moehle's work.
 
 == Research to Do
 
