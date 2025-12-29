@@ -2,8 +2,8 @@
 
 == Image
 
-The 1670 baptism entry is found on <<WIED-B-1670a, image 47>>, the first entry of the Wiedensahl "Kirchenbuch
-1666-1703". 
+The 1670 baptism entry is found on <<WIED-B-1670a, image 47>>, the first entry of the Wiedensahl parish _Kirchenbuch
+1666-1703_. 
 
 image::wiedensahl-1670-img47.png[title=Heinrich Arands Vahlsing baptism,link=self]
 
