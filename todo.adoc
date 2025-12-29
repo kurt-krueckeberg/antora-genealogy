@@ -2,10 +2,12 @@
 
 == TODO Next
 
-Using xref:nla:146:doc6.adoc[] along with the `.adoc`
-files in `m/background/p/underdevelopment` thoroughly explain of what "Stand" informationmeans,
-what the terms Einlieger, Kolon, etc. mean. Use actual Krückeberg church register records as
-examplesexamples to make this crystal clear. Uses the Jobst Heinrich Krückeberg petition of 30 September 1808
+After transliterating and translating doc11 in module 146....
+
+Using xref:nla:146:doc6.adoc[] along with the `.adoc` files in `m/background/p/underdevelopment`
+explain of what "Stand" means in the church records and why understanding this is significant.
+Explain what Einlieger and Kolon mean. Use actual Krückeberg church register records as
+examples to make this crystal clear. Use the Jobst Heinrich Krückeberg petition of 30 September 1808
 as a thorough example of what I will explain and then explain what the case file tells us or
 might tell us. 
 
