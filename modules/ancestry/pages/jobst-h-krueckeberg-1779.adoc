@@ -62,10 +62,13 @@ responsibilities over farming activities. While this does not establish the scal
 his own holdings, it strongly suggests long-term practical experience in agriculture
 and local land management. 
 
-*TODO: There is a problem.* According to the xref:nla:146:doc1.adoc[], *Schneider Krückeberg*
+=== Contradictions Involving no. 18 Berenbusch?
+
+There is a problem. Who ultimately will live at no. 18 Berenbusch, the new homesite that 
+the Rentkammer has allocated for Jobst Heinrich to purchase tenancy rights, who is    According to the xref:nla:146:doc1.adoc[], *Schneider Krückeberg*
 has "bisher als Einlieger beÿ Wilharm No 11 in Evesen gewohnt ('up to now resided as a 
-tenant with Wilharms, no. 11 Evesen')". The *Schneider*'s given name of *Jobst
-Heinrich* is mentioned in the same case file's documents numbered 2, 6, 7, 10 and 11:
+tenant with Wilharms, no. 11 Evesen')". Who is *Schneider Krückeberg*?  It is *Jobst
+Heinrich*, who is mentioned by name in these documents from the case file:
 
 * xref:nla:146:doc2.adoc[]
 * xref:nla:146:doc6.adoc[]
@@ -73,11 +76,14 @@ Heinrich* is mentioned in the same case file's documents numbered 2, 6, 7, 10 an
 * xref:nla:146:doc10.adoc[]
 * xref:nla:146:doc11.adoc[]
 
-*PROBLEM:* If the first document in the case file, xref:nla:146:doc1.adoc[document 1], states he has
+Again, if the first document in the case file, xref:nla:146:doc1.adoc[document 1], states he has
 "bisher als Einlieger beÿ Wilharm No 11 in Evesen gewohnt", then why do all the baptism
-and confirmation records continue to reference *No. 10 Berenbusch*?
+and confirmation records for Jobst Heinrich's family continue to reference *No. 10 Berenbusch*?
 
-*PROBLEM:* No. 18 Berenbusch is first mentioned starting in 1812 in conjunction with Carl
+He would have continued to live elsewhere until he had built a house at no. 18 Berenbusch
+and move in. *TODO:* When did this occur?
+
+Why *PROBLEM:* No. 18 Berenbusch is first mentioned starting in 1812 in conjunction with Carl
 Friedrich Gottlieb Krückeberg? Search `~/gen/m/petzen/p` for `rg "18.*busch" *.adoc` and for
 `rg ".*busch.*18" *.adoc`.
 

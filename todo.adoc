@@ -1,5 +1,12 @@
 = TODO
 
+== TODO Next
+
+Create a document of one or more pages using xref:nla:146:doc6.adoc[] along with the `.adoc`
+files in `m/background/p/underdevelopment` that uses actual church register records of the
+Krückebergs as examples. Also use the Jobst Heinrich Krückeberg petition to purchase an erhebliches
+Kolonat as the main example.
+
 == Research to Do
 
 === Map
@@ -7,8 +14,8 @@
 Look for NLA case file for a Berenbusch site that belongs to a non-Krueckeberg that contains a
 map showing a Krückeberg property borders the indivudal at this site.
 
+=== Given Name not Used
 
-=== Gioven Name not Used
 Also note this NOTE on xref:petzen:PET-B-1744a.adoc[]:
 
 [NOTE]

@@ -1,0 +1,81 @@
+= Einlieger to Kolon
+
+== What "Stand" Means in Lutheran Kirchenbücher (church registers)
+
+TODO: Add examples here
+
+In German Lutheran _Kirchenbücher_, the term *Stand* denotes a person’s
+legally and socially recognized position within the rural or urban
+order, not his occupation in the modern sense. It describes status
+categories that determined rights, obligations, and how an individual
+was recorded by church and secular authorities. An *Einlieger* was a
+landless resident—typically living in another household or in rented
+lodging—without an independent holding of his own, even though he might
+practice a skilled trade such as tailoring. A *Kolon (Colon)*, by
+contrast, was an independent householder holding an *erbliches Colonat*,
+that is, a hereditary tenancy to land and a dwelling, which conferred a
+higher and more stable _Stand_. Importantly, a change in _Stand_
+(Einlieger → Kolon) reflected a change in legal-social position and
+tenure, not necessarily a change in occupation or profession.
+
+== Exlanation
+
+In Schaumburg-Lippe around 1800–1810, the grant of an _erbliches
+Colonat_ (hereditary tenant holding or right), to an Einlieger (landless resident) did not by
+itself immediately confer the status of _Colon_ (hereditary
+tenant-farmer). Approval by the Rentkammer created a legally protected
+expectancy (_Anwartschaft_)—a right to establish a hereditary holding
+under cameral supervision—but the individual remained an Einlieger until
+the settlement conditions were fulfilled, above all the construction of
+a house and the physical occupation of the holding.footnote:[Heinrich
+Rüthing, _Ländliche Gesellschaft und Agrarverfassung im nordwestlichen
+Deutschland_, esp. chapters on Einlieger and landless rural classes.
+Rüthing treats Einlieger status as legally distinct from holding-based
+agrarian estates and emphasizes the absence of independent fiscal
+standing prior to settlement.]footnote:[Wilhelm Abel, _Agrarkrisen und
+Agrarkonjunktur in Mitteleuropa_, esp. discussion of _Anwartschaften_
+and conditional settlement rights under early modern agrarian regimes.]
+
+Prior to settlement, the Rentkammer’s _Ausweisung_ fixed the land
+spatially and juridically, yet the recipient was still landless in terms
+of legal _Stand_. Only once the house was built and occupied did the
+holding become fiscally and administratively operative: it entered the
+Rentkammer and Rentmeister accounts as a distinct unit, regular dues
+became payable, and the holder appeared in official and parish records
+as a _Colon_, often initially styled
+_Neubauer_.footnote:[*Handwörterbuch zur deutschen Rechtsgeschichte*,
+s.v. _Colonat_, _Neubauer_, _Ausweisung_. These entries explicitly
+distinguish administrative allocation from ownership transfer and note
+the activation of rights upon settlement.]footnote:[Hans Medick, _Weben
+und Überleben in Laichingen 1650–1900_, methodological sections on
+household formation and the legal meaning of house construction for
+rural status transitions; while regional, the principles apply directly
+to Schaumburg-Lippe cameral practice.]
+
+This transition constituted a formal _Standeswechsel_. The former
+Einlieger became an independent household head with a heritable right of
+use in land. That right was durable and inheritable but not equivalent
+to ownership in fee simple; the land remained Kammergut. The Colon’s
+position was defined by public agrarian law and cameral administration
+rather than by private property law, and it carried both rights and
+obligations—annual dues, services, and subjection to manorial and
+territorial regulation.footnote:[*Geschichte der Agrarverfassung*,
+esp. sections on Erbzins, Kammergut, and non-allodial hereditary
+holdings in small German territories.]footnote:[Schaumburg-Lippe
+Rentkammer practice as reflected in archival formulae (_Ausweisung_,
+_Kammer-Anweisung_, first-payment clauses) in NLA BU holdings (e.g., K 2
+B series), which consistently distinguish _Colonat_ grants from land
+sales (_Verkauf_).]
+
+In short, the legal sequence was: Einlieger → approved Colonatsanwärter
+→ Colon upon house construction and settlement. The grant of the
+_erbliches Colonat_ made the status change possible, but the actual
+change in _Stand_ occurred only when the holding was realized on the
+ground and entered into use.footnote:[Wilhelm Abel, _Agrarkrisen und
+Agrarkonjunktur in Mitteleuropa_, esp. discussion of _Anwartschaften_
+and conditional settlement rights under early modern agrarian
+regimes.]footnote:[Hans Medick, _Weben und Überleben in Laichingen
+1650–1900_, methodological sections on household formation and the legal
+meaning of house construction for rural status transitions; while
+regional, the principles apply directly to Schaumburg-Lippe cameral
+practice.]
