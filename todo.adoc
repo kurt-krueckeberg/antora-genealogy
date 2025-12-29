@@ -11,6 +11,8 @@ examples to make this crystal clear. Use the Jobst Heinrich Krückeberg petition
 as a thorough example of what I will explain and then explain what the case file tells us or
 might tell us. 
 
+=== Read the Zotero Links in Schaumburg-Lippe
+
 == Rewrite Dr. Moehle's Work
 
 Should this material be merge with Dr. Moehle's work.
