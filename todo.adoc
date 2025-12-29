@@ -3,8 +3,9 @@
 == Research to Do
 
 === Map
-Look for NLA case file for a Berenbusch site that has a map showing a Krückeberg property
-borders the indivudal at this site.
+
+Look for NLA case file for a Berenbusch site that belongs to a non-Krueckeberg that contains a
+map showing a Krückeberg property borders the indivudal at this site.
 
 
 === Gioven Name not Used
