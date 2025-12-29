@@ -1,22 +1,59 @@
 = Einlieger to Kolon
 
-== What "Stand" Means in Lutheran Kirchenbücher (church registers)
+== What "Stand" in Lutheran Kirchenbücher (church registers) Tells Us
 
-TODO: Add examples here
+In the Lutheran church registers of Schaumburg-Lippe, the term *Stand*
+(status) offen appears in column headers. It refers to a person’s
+recognized legal and economic position within the territorial society.
+*Stand* does not mean social prominence, wealth, fame, or prestige. This
+classification mattered because it determined concrete matters such as
+taxes and dues owed, labor obligations, inheritance rights, and, in some
+cases, whether official permission was required to marry or establish a
+household. Pastors recorded Stand not to describe wealth, reputation, or
+social prestige, but to identify a person’s formal place in the legal and
+agrarian order.
 
-In German Lutheran _Kirchenbücher_, the term *Stand* denotes a person’s
-legally and socially recognized position within the rural or urban
-order, not his occupation in the modern sense. It describes status
-categories that determined rights, obligations, and how an individual
-was recorded by church and secular authorities. An *Einlieger* was a
-landless resident—typically living in another household or in rented
-lodging—without an independent holding of his own, even though he might
-practice a skilled trade such as tailoring. A *Kolon (Colon)*, by
-contrast, was an independent householder holding an *erbliches Colonat*,
-that is, a hereditary tenancy to land and a dwelling, which conferred a
-higher and more stable _Stand_. Importantly, a change in _Stand_
-(Einlieger → Kolon) reflected a change in legal-social position and
-tenure, not necessarily a change in occupation or profession.
+Krückeberg examples go here <---
+
+
+Typical Stand entries (examples):
+
+* *Kolon* – a prospective or newly admitted settler who has been granted land (or a house site) but has not yet completed all conditions (payment, house construction, formal admission into the holding).
+
+* *Neubauer* – a prospective or newly admitted settler who has been granted land (or a house site) but has not yet completed all conditions (payment, house construction, formal admission into the holding).
+
+* *Einlieger* – lodger without land, living in someone else’s house.
+
+* *Heuerling* –  contracted smallholder, renting a cottage (often with a tiny plot) under a yearly agreement
+
+* *Kötter* – holder of an established smallholding (Kotte/Kate) with recognized, inheritable use rights.
+
+* *Brinkitzer* – holder of a marginal cottage site (“Brink”), usually later created, with weaker and more precarious rights.
+
+* *Ackermann / Vollmeier* – full farmer (larger holding)
+
+* *Handwerker (e.g., Schneider, Schmied)* – artisan by recognized trade
+
+* *Tagelöhner* – day laborer
+
+* *Soldat* – serviceman
+
+* *Witwe* – widow (a legal status with implications)
+
+* *Junggesell* – unmarried man
+
+* *Knecht* – farmhand 
+
+== Einlieger versus Kolon
+
+An *Einlieger* was a landless resident—typically living in another
+household or in rented lodging—without an independent holding of his own,
+even though he might practice a skilled trade such as tailoring. A *Kolon
+(Colon)*, by contrast, was an independent householder holding an
+*erbliches Colonat*, that is, a hereditary tenancy to land and a dwelling,
+which conferred a higher and more stable _Stand_. Importantly, a change in
+_Stand_ (Einlieger → Kolon) reflected a change in legal-social position
+and tenure, not necessarily a change in occupation or profession.
 
 == Exlanation
 
