@@ -2,14 +2,23 @@
 
 == TODO Next
 
-After transliterating and translating doc11 in module 146....
+Finish what I began in m/background/stand-meaning.adoc and the other .adoc files
+in m/background/p/underdevelopment.
 
-Using xref:nla:146:doc6.adoc[] along with the `.adoc` files in `m/background/p/underdevelopment`
-explain of what "Stand" means in the church records and why understanding this is significant.
-Explain what Einlieger and Kolon mean. Use actual Krückeberg church register records as
-examples to make this crystal clear. Use the Jobst Heinrich Krückeberg petition of 30 September 1808
-as a thorough example of what I will explain and then explain what the case file tells us or
-might tell us. 
+== What 146 Tells Us
+
+I tells us that Jobst Heinrich's father was an Ackervogt in Arensburg, which was the 
+area in Steinbergen as ChatGPT explained:
+
+____
+1. Arensburg was not originally a town name but referred to a local castle and administrative area
+In the territory of the historical County/Principality of Schaumburg-Lippe, Arensburg referred primarily to a
+castle (Schloss/Arensburg) and the surrounding Amt (administrative district) near the village of Steinbergen in
+what is now the district of Schaumburg in Lower Saxony, Germany. This “Amt Arensburg” formed part of the
+territorial structure of Schaumburg-Lippe along with other Ämter such as Bückeburg, Hagenburg, and Stadthagen
+____
+
+Would there be records for a Ackervogt in Steinbergen?
 
 === Read the Zotero Links in Schaumburg-Lippe
 
