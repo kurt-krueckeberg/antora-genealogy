@@ -2,19 +2,18 @@
 
 == What "Stand" in Lutheran Kirchenbücher (church registers) Tells Us
 
-In the Lutheran church registers of Schaumburg-Lippe, the term *Stand*
-(status) offen appears in column headers. It refers to a person’s
-recognized legal and economic position within the territorial society.
-*Stand* does not mean social prominence, wealth, fame, or prestige. This
-classification mattered because it determined concrete matters such as
-taxes and dues owed, labor obligations, inheritance rights, and, in some
-cases, whether official permission was required to marry or establish a
-household. Pastors recorded Stand not to describe wealth, reputation, or
-social prestige, but to identify a person’s formal place in the legal and
-agrarian order.
+The term *Stand* often appears in column headings of the Lutheran church
+registers of Schaumburg-Lippe. While *Stand* translates as "status", it
+does not mean social prominence, wealth, fame, or prestige. It refers to
+a person’s recognized legal and economic position within the territorial
+society. This classification mattered because it determined concrete
+matters such as taxes and dues owed, labor obligations, inheritance
+rights, and, in some cases, whether official permission was required to
+marry or establish a household. Pastors recorded Stand not to describe
+wealth, reputation, or social prestige, but to identify a person’s formal
+place in the legal and agrarian order.
 
-Krückeberg examples go here <---
-
+Krückeberg Church Register examples go here <---
 
 Typical Stand entries (examples):
 
@@ -44,8 +43,16 @@ Typical Stand entries (examples):
 
 * *Knecht* – farmhand 
 
-== Einlieger versus Kolon
+Weiland Köter example goes here <--
 
+== Wohnort does not imply ownership
+
+Explain that the addresses given in church records do not imply house
+owner ship <---
+
+Use other examples of Krückebergs <--- 
+
+== Einlieger versus Kolon
 An *Einlieger* was a landless resident—typically living in another
 household or in rented lodging—without an independent holding of his own,
 even though he might practice a skilled trade such as tailoring. A *Kolon
