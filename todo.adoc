@@ -5,6 +5,26 @@
 Finish what I began in m/background/stand-meaning.adoc and the other .adoc files
 in m/background/p/underdevelopment.
 
+== Baptism Birthplace Records Wrong?
+
+Are some baptism's birthplaces wrong?
+
+In baptism entries for two of the children of Carl Friedrich Gottlieb
+Krückeberg we have two different birthplaces given--or are these no
+birthplaces but current residences?  The birthplace for Carl Friedrich
+born in 1807 and the daughter born the next year is given only as
+"Berenbusch". In these records, there is a column for the "Name, Stand,
+Religion and Birthplace of the Father". However, for the 1807 birth of
+Carl Friedrich, this column contains "Carl Friedrich Gottlieb Krückeberg.
+Schneider u. Einlieger in n. 14 in Bärenbusch. Luth. Conf.", while for the
+the 1812 birth of daughter Carloline Dorothee Krückeberg it has "Carl
+Friedrich Gottlieb Krückeberg n. 18 in Bärenbusch Luth. Conf.".
+
+So is "n. 14 Berenbsuch" and "n. 18 Berenbusch" the address at the time
+the child was born despite the column stating it is the "birthplace of the
+father"? The actual birth record of Carl Friedrich Gottlieb is of no help
+in answering this question since it only mentions Berenbusch.  
+
 == What 146 Tells Us
 
 I tells us that Jobst Heinrich's father was an Ackervogt in Arensburg, which was the 
