@@ -25,6 +25,9 @@ the child was born despite the column stating it is the "birthplace of the
 father"? The actual birth record of Carl Friedrich Gottlieb is of no help
 in answering this question since it only mentions Berenbusch.  
 
+Answer: The answer is given in the column "Wohnort der Eltern", which
+has the same address as that of the father.
+
 == What 146 Tells Us
 
 I tells us that Jobst Heinrich's father was an Ackervogt in Arensburg, which was the 
@@ -36,7 +39,7 @@ In the territory of the historical County/Principality of Schaumburg-Lippe, Aren
 castle (Schloss/Arensburg) and the surrounding Amt (administrative district) near the village of Steinbergen in
 what is now the district of Schaumburg in Lower Saxony, Germany. This “Amt Arensburg” formed part of the
 territorial structure of Schaumburg-Lippe along with other Ämter such as Bückeburg, Hagenburg, and Stadthagen
-____
+___
 
 Would there be records for a Ackervogt in Steinbergen?
 
