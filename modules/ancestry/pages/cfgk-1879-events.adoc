@@ -72,7 +72,8 @@ from Berenbusch
 | Philippine Lenore née Bleeken *†* +
 from no. 11 Evesen
 | Berenbusch
-| 14 <-- *THIS IS MAYBE WHERE THE FATHER WAS BORN*
+| 14 <-- THIS IS MAYBE WHERE THE FATHER WAS BORN*
+*No: the column "Wohnort der Eltern" has this address, too!
 | tailor
 | 
 |
