@@ -34,7 +34,7 @@ Lutheran Confession".
 clear where in Berenbusch the family lived, we do know, since their father was an Einlieger, they did not own the
 dwelling they lived in. They were lodgers, renters, living in a dwelling owned by someone else.
 
-* xref:petzen:1806a.adoc[]
+* xref:petzen:PET-B-1806a.adoc[]
 * xref:petzen:PET-B-1807a.adoc[]
 
 Use and explain other examples from the 146 case file where Einlieger, later Neubauer, also Kolon and Kolonat are
