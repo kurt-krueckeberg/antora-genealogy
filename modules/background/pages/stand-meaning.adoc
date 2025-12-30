@@ -9,24 +9,34 @@ It refers to a person’s recognized legal and economic position within the
 territorial society. This classification mattered because it determined
 concrete matters such as taxes and dues owed, labor obligations,
 inheritance rights, and, in some cases, whether official permission was
-required to marry or establish a household. Pastors recorded Stand not to
+required to marry or establish a household. Pastors recorded *Stand* not to
 describe wealth, reputation, or social prestige, but to identify a
 person’s formal place in the legal and agrarian order.
+
+== Stand and Inheritance Rights
+
+Introduce *Anerbe*
 
 === Actual Examples
 
 Here are some examples of *Stand* in church register entries of our Krückeberg
 ancestors 
 
-include here <---
+include and explain them here: Einlieger, Leibzüchter <---
 
-Examples from 146 case file <---
+Distinguish between Handwerk and Stand. 
 
-Anaylze them
+Use and explain other examples from the 146 case file where Einlieger, later Neubauer, also Kolon and Kolonat are used <---
+
+Use and explain the other 120 case file uses of Einlieger <--
+
+Use the example of Köter from case file 1237 <-- 
+
+
 
 Typical Stand entries (examples):
 
-* *Anerbe* 
+* *Anerbe* -- Get from .de 
 
 * *Leibzüchter* 
 
@@ -58,7 +68,7 @@ Typical Stand entries (examples):
 
 Weiland Köter example goes here <--
 
-== Wohnort does not imply ownership
+== Stand and Wohnort does not imply ownership
 
 Explain that the addresses given in church records do not imply house
 owner ship <---
