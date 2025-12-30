@@ -15,18 +15,27 @@ person’s formal place in the legal and agrarian order.
 
 == Stand and Inheritance Rights
 
-Introduce *Anerbe*
+Introduce *Anerbe* and *Leibzüchter*
 
-=== Actual Examples
+== Krückeberg Examples
 
 Here are some examples of *Stand* in church register entries of our Krückeberg
 ancestors 
 
-include and explain them here: Einlieger, Leibzüchter <---
+=== Krückeberg Einlieger Examples 
+The fatther's of both Johann Heinrich Krückeberg (born 1806) and Carl Friedrich Krückeberg
+were Einliegers, landless resident who did not own a home but whose family lodged with another.
+Their "Stand" is Einlieger, and the residence given for them on the baptism records of their
+sons is that of the family with whom they lodged.
+
+* xref:petzen:1806a.adoc[]
+* xref:petzen:1807a.adoc[]
+
+Use and explain other examples from the 146 case file where Einlieger, later Neubauer, also Kolon and Kolonat are
+used <---
 
 Distinguish between Handwerk and Stand. 
 
-Use and explain other examples from the 146 case file where Einlieger, later Neubauer, also Kolon and Kolonat are used <---
 
 Use and explain the other 120 case file uses of Einlieger <--
 
