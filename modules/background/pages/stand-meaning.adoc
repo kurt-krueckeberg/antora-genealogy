@@ -2,7 +2,7 @@
 
 == What "Stand" in Lutheran Kirchenbücher (church registers) Tells Us
 
-The term *Stand* (pronounced SHT'ONT) often shows up in the column headings of the Lutheran
+The term *Stand* (pronounced SHTONT) often shows up in the column headings of the Lutheran
 church registers in Schaumburg-Lippe. While *Stand* translates as
 "status", it does not mean social prominence, wealth, fame, or prestige.
 It refers to a person’s recognized legal and economic position within the
@@ -22,14 +22,20 @@ Introduce *Anerbe* and *Leibzüchter*
 Here are some examples of *Stand* in church register entries of our Krückeberg
 ancestors 
 
-=== Krückeberg Einlieger Examples 
-The fatther's of both Johann Heinrich Krückeberg (born 1806) and Carl Friedrich Krückeberg
-were Einliegers, landless resident who did not own a home but whose family lodged with another.
-Their "Stand" is Einlieger, and the residence given for them on the baptism records of their
-sons is that of the family with whom they lodged.
+=== Krückeberg Einlieger Examples
+ 
+Carl Friedrich Gottlieb Krückeberg (??-??) was the father of Carl Friedrich Krückeberg, who was born May 21, 1807.
+The birth and baptism entry in the "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827"
+(Register of the baptims, confirmation, marriages and deaths 1785-1827) gives the "Name, Stand, Religion 
+and Birthplace of the Father" as "Carl Friedrich Gottlieb Krückeberg. Tailor and *Einlieger* in n. 14  in Berenbusch,
+Lutheran Confession".
+
+"in n. 14 Berenbusch" is recorded in the column that gives the birthplace of the father. While it isn't therefore
+clear where in Berenbusch the family lived, we do know, since their father was an Einlieger, they did not own the
+dwelling they lived in. They were lodgers, renters, living in a dwelling owned by someone else.
 
 * xref:petzen:1806a.adoc[]
-* xref:petzen:1807a.adoc[]
+* xref:petzen:PET-B-1807a.adoc[]
 
 Use and explain other examples from the 146 case file where Einlieger, later Neubauer, also Kolon and Kolonat are
 used <---
