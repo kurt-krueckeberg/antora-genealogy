@@ -5,6 +5,12 @@
 Finish what I began in m/background/stand-meaning.adoc and the other .adoc files
 in m/background/p/underdevelopment.
 
+== Examine Berenbusch numbers
+
+Use this:
+
+> rg 'B.[hr][er]nbusch' *.adoc | sort -t: -k1.7,1.11 -k1.12,1.12|less
+
 == Baptism Birthplace Records Wrong?
 
 Are some baptism's birthplaces wrong?
