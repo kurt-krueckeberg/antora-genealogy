@@ -1,5 +1,7 @@
 = The Ancestry of the Krückebergs of Union Township, Adams County, Indiana
 
+== Where the Documentary Evidence Begins
+
 In 1849 the family of Johann Heinrich Krückeberg emigrated from the village of Berenbusch, Schaumburg-Lippe,
 and settled in Union township, Adams County, Indiana. The following year the family of Carl Friedrich Krückeberg
 also left Berenbusch and joined them.
@@ -34,8 +36,9 @@ Fürstentum Schaumburg Lippe.
 
 *English translation:*  
 
-The foregoing statements are hereby certified as conforming to the local church registers and are issued to the
-emigrants with best wishes for God’s blessing, under pastoral authority.  
+The foregoing statements are hereby certified as conforming to the local
+church registers and are issued to the emigrants with best wishes for
+God’s blessing, under pastoral authority.  
 
 *Petzen*, 23 September 1850.  
 The parish being vacant,  
@@ -46,7 +49,29 @@ Principality of Schaumburg-Lippe.
 {empty}L. Schwerdtmann of Bergkirchen.
 ____
 
-While the provenance of the biography is not given, both documents are strictly religous profiles composed soley from the
-contents of the Petzen church register records involving the family members. They serve as an unofficial index of the Petzen
-parish records they reference. This is extremely helpful because the Petzen parish registers contain neither an index nor a
-table of contents. 
+While the provenance of the biography is not given, both documents are
+strictly religous profiles composed soley from the contents of the Petzen
+church register records involving the family members. They serve as an
+unofficial index of the Petzen parish records they reference. This is
+extremely helpful because the Petzen parish registers contain neither an
+index nor a table of contents. 
+
+== They were Verwandte (Relatives)
+
+We know that Johann Heinrich Krückeberg, who immigrated to Adams CO
+Indiana in 1849, was related to Carl Friedrich Krückeberg, who arrived
+there the next year. While there are many clues to their familial
+relationship in the Petzen church records, we can quote Carl Friedrich
+Krückeberg himself on this topic. When he petitioned the Schaumburg-Lippe
+Rentkammer requesting to
+xref:nla:146:/146/carl-fried-supplication-to-sell.adoc#transliteration-and-translation[sell
+his holding at no. 18 Berenbusch], he wrote:
+
+
+[quote, Carl Friedrich request of Rentkammer to approval sale of his holding]
+____
+As I intend to emigrate to America with my entire family, *where several
+relatives of mine already reside* and are doing quite well, I have sold my
+small new-settler holding, No. 18 in Berenbusch, to the shoemaker Wilhelm
+Meier, a native of Evesen, presently residing in Röcke.
+____
