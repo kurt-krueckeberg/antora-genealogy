@@ -183,7 +183,7 @@ from Meinsen
 |No. 10
 |
 |
-|*Father:* Hausherr
+|*Father:* Stand is Hausherr
 |xref:petzen:PET-B-1803a.adoc[]
 
 |Baptism
