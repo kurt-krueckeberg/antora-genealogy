@@ -183,7 +183,7 @@ from Meinsen
 |No. 10
 |
 |
-|*Father:* Stand is Hausherr
+|*Father's Stand is Hausherr*
 |xref:petzen:PET-B-1803a.adoc[]
 
 |Baptism
@@ -197,7 +197,7 @@ from Meinsen
 |
 |
 . Ms. Caroline Aldag, n. 4 Evesen
-|*Father:* Hausherr
+|*Father's Stand is Hausherr*
 |xref:petzen:PET-B-1803a.adoc[]
 
 |Confirmation
