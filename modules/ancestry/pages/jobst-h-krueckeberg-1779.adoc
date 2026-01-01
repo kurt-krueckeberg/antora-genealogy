@@ -15,12 +15,11 @@ number of #10 in Berenbusch, as well as his father's occupation.
 
 [cols="3,3,3,2,2,2,4a"width="80%"]
 |===
-|Father|Mother|Occupation|Status|Residence|John Heinrich's birth order|Sponsors
+|Father|Mother|Occupation|Residence|John Heinrich's birth order|Sponsors
 
 |Jobst Heinrich Krückeberg
 |Christine Phlippine Lenore nee Tegtmeier
 |Schoemaker Guild Master
-|Einlieger
 |#10 Bärenbusch
 |4^th^ child, 1^st^ son
 |
