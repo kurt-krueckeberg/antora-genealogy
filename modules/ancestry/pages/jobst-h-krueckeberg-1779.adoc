@@ -13,7 +13,7 @@ number of #10 in Berenbusch, as well as his father's occupation.
 [.very-wide]
 == Details of Petzen Baptism Record for Johann Heinrich Krückeberg 
 
-[cols="3,3,3,2,2,2,4a"width="80%"]
+[cols="3,3,3,2,2,4a"width="80%"]
 |===
 |Father|Mother|Occupation|Residence|John Heinrich's birth order|Sponsors
 
