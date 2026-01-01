@@ -22,7 +22,7 @@
 .Derived Record Event Table for Carl Friedrich Krückeberg Family
 [cols="1,3,4,4,4,3,1,3,4a,5a",options="header"]
 |===
-| Event Type
+| Event
 | Event Date
 | Name of Subject
 | Father

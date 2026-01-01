@@ -119,7 +119,7 @@ Find the burial/death record of Anna Maria Elisabeth nee Schäkel/Schekel/Schake
 .Events based on Petzen Church Records
 [cols="1,2,3,3,3,2,1,2,3a,4a,3a",options="header"]
 |===
-| Event Type
+| Event
 | Event Date
 | Name of Subject
 | Father

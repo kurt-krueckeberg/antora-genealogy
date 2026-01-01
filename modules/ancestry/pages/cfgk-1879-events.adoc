@@ -7,7 +7,7 @@
 .Petzen Parish Records Event Table for Carl Friedrich Krückeberg Family
 [cols="1,2,3,3,3,2,1,2,3a,4a,3a",options="header"]
 |===
-| Event Type
+| Event
 | Event Date
 | Name of Subject
 | Father
