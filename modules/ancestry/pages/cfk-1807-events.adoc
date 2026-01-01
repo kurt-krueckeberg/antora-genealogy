@@ -4,7 +4,7 @@
 == Event Table for Family of Carl Friedrich Krückeberg (1807-185?)
 
 [.narrow]
-=== Note on Residence/Village Column
+=== Event Codes
 
 [cols="4,1",options="header",width="30%"]
 |===
@@ -28,7 +28,7 @@
 | Father
 | Mother
 | Residence/Village +
-(Bp/C only)
+(Ba/C only)
 | No.
 | Occupation
 | Sponsors
@@ -45,7 +45,7 @@
 |
 |2^nd^ child, 1^st^ son
 
-|Bp
+|Ba
 |24 May 1807
 |Carl Friedrich Krückeberg
 |Carl Friedrich Gottlieb Krückeberg
@@ -75,7 +75,7 @@ Beerenbusch.
 
 *Father:* Kolon
 
-|Bp
+|Ba
 |2 Jan. 1811
 |Luise Dorothea Weiland
 |Friedrich Wilhelm Weiland
@@ -234,7 +234,7 @@ Carl Friedrich Gottlieb Krückeberg was the father of Carl Friedrich Krückeberg
 | Father: Einlieger 
 | xref:petzen:PET-B-1803c.adoc[]
 
-| Bp
+| Ba
 | 11 Dec. 1803
 | Christine Philippine Krückeberg
 | Carl Friedrich Krückeberg
@@ -266,7 +266,7 @@ Father is *Einlieger*
 Mother from # 11 Evesen
 |xref:petzen:PET-B-1807a.adoc[]
 
-| Bp
+| Ba
 | 24 May 1807
 | Carl Friedrich Krückeberg 
 | Carl Friedrich Gottlieb Krückeberg
@@ -298,7 +298,7 @@ from n. 11 Evesen
 |xref:#nachtraege[Nachträge exists for her and her father]
 |xref:petzen:PET-B-1812a.adoc[]
 
-|Bp
+|Ba
 |6 Dec. 1812
 |Caroline Dorothee Krückeberg
 |Carl Friedrich Gottlieb Krückeberg

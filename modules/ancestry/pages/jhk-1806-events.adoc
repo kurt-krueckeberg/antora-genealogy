@@ -8,6 +8,24 @@
 This information is taken from the Immanuel Lutheran xref:immanuel:ROOT:DEC-BIO-Krueckeberg-01.adoc[founder's biography] for
 Johann Heinrich Krückeberg.
 
+[.narrow]
+=== Event Codes
+
+[cols="4,1",options="header",width="30%"]
+|===
+|Event |Code
+
+|*Arrival* |*A* 
+|*Birth* |*B* 
+|*Baptism* |*Ba*
+|*Confirmation* |*C*
+|*Emigration* |*E*
+|*Marriage* |*M*
+|*Death / Burial* |*D*
+|===
+
+=== Event Table
+
 .Events based on xref:immanuel:ROOT:DEC-BIO-Krueckeberg-01.adoc[]
 [cols="1,2,3,3,3,2,1,2,3a,4a",options="header"]
 |===
@@ -22,7 +40,7 @@ Johann Heinrich Krückeberg.
 | Sponsors / Witnesses
 | Notes
 
-|Birth
+|B
 |12 Aug. 1806
 |Johann Heinrich Krückeberg
 |Jobst Krückeberg
@@ -33,7 +51,7 @@ Johann Heinrich Krückeberg.
 |
 |
 
-|Baptism
+|Ba
 |1806
 |Johann Heinrich Krückeberg
 |Jobst Krückeberg
@@ -46,7 +64,7 @@ Johann Heinrich Krückeberg.
 . Christian Tägtmeier
 |Baptized by Stille in Petzen church.
 
-|Birth
+|B
 |23 Jan. 1808
 |Caroline Sophie Weiland
 |Fridrich Wilhelm Weiland
@@ -56,8 +74,7 @@ Johann Heinrich Krückeberg.
 |
 |xref:nla:146:doc1.adoc[Family are tenants at Wilharms]
 
-|
-|Baptized
+|Ba
 |29 Jan. 1808
 |Caroline Sophie Weiland
 |Fridrich Wilhelm Weiland
@@ -70,7 +87,7 @@ Johann Heinrich Krückeberg.
 * Baptized by Stille
 * xref:nla:146:doc1.adoc[Family lives by Wilharms]
 
-|Confirmed
+|C
 |Around Easter 1820
 |Johann Heinrich Krückeberg
 |Jobst Krückeberg
@@ -81,7 +98,7 @@ Johann Heinrich Krückeberg.
 |
 |Confirmed by Stille
 
-|Confirmed
+|C
 |Around Easter 1822
 |Caroline Sophie Weiland
 |Fridrich Wilhelm Weiland
@@ -93,7 +110,7 @@ Johann Heinrich Krückeberg.
 |Confirmed Pastor Stille
 
 
-|Marriage
+|M
 |not given
 |Johann Heinrich Krückeberg & Caroline Sophie Weiland
 |Jobst Krückeberg
@@ -104,7 +121,7 @@ Johann Heinrich Krückeberg.
 |
 |Married by Stille
 
-|Birth
+|B
 |27 Feb. 1834
 |Caroline Philippine Dorathee
 |Johann Heinrich Krückeberg
@@ -115,7 +132,7 @@ Johann Heinrich Krückeberg.
 |
 |
 
-|Baptism
+|Ba
 |9 Mar. 1834
 |Caroline Philippine Dorathee
 |Johann Heinrich Krückeberg
@@ -129,7 +146,7 @@ Johann Heinrich Krückeberg.
 . Caroline Krückeberg
 |Baptized in Petzen
 
-|Birth
+|B
 |22 Aug. 1835
 |Christine Sophie Eleonore
 |Johann Heinrich Krückeberg
@@ -140,7 +157,7 @@ Johann Heinrich Krückeberg.
 |
 |
 
-|Baptism
+|Ba
 |28 Aug. 1835
 |Christine Sophie Eleonore
 |Johann Heinrich Krückeberg
@@ -151,7 +168,7 @@ Johann Heinrich Krückeberg.
 |. Christine Bleeke
 |Baptized in Petzen
 
-|Birth
+|B
 |18 June 1837
 |Phlippine Christine
 |Johann Heinrich Krückeberg
@@ -162,7 +179,7 @@ Johann Heinrich Krückeberg.
 |
 |
 
-|Baptism
+|Ba
 |18 June 1837
 |Phlippine Christine
 |Johann Heinrich Krückeberg

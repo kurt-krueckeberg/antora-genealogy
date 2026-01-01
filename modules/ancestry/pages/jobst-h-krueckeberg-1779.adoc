@@ -1,4 +1,4 @@
-= Jobst Heinrich Krückeberg (1779-1822) Family Event Table
+= Jobst Heinrich Krückeberg (1765-1822) Family Event Table
 :page-role: very-wide
 :sectnums!:
 
@@ -91,6 +91,22 @@ Friedrich Gottlieb Krückeberg? Search `~/gen/m/petzen/p` for `rg "18.*busch" *.
 *Question:* In the birth record of the first child, Philippine Caroline Christine, her Krückeberg grandmother is a baptismal
 sponsor. She is still alive! Who would this be?
 
+[.narrow]
+=== Event Codes
+
+[cols="4,1",options="header",width="30%"]
+|===
+|Event |Code
+
+|*Birth* |*B* 
+|*Baptism* |*Ba*
+|*Confirmation* |*C*
+|*Marriage* |*M*
+|*Death / Burial* |*D*
+|===
+
+=== Event Table
+
 .Events based on Petzen Church Records
 [cols="1,2,3,3,3,2,1,2,3a,4a,3a",options="header"]
 |===
@@ -106,7 +122,7 @@ sponsor. She is still alive! Who would this be?
 | Notes
 | Record Page
 
-|Marriage
+|M
 |12 Oct. 1790
 |Jobst Heinrich Krückeberg & Christine Philippine Eleonore Tegtmeyer from Menssen (Meinsen) # 41 
 |
@@ -120,7 +136,7 @@ sponsor. She is still alive! Who would this be?
 *Wife:* died in 1849 
 |xref:petzen:PET-M-1790c.adoc[]
 
-|Birth
+|B
 |1 Feb. 1792
 |Philippine Caroline Christine
 |Jobst Heinrich Krückeberg
@@ -132,7 +148,7 @@ sponsor. She is still alive! Who would this be?
 |We are not told if they are tenants.
 |xref:petzen:PET-B-1792a.adoc[]
 
-|Baptism
+|Ba
 |3 Feb. 1792
 |Philippine Caroline Christine
 |Jobst Heinrich Krückeberg
@@ -146,7 +162,7 @@ sponsor. She is still alive! Who would this be?
 |We are not told if they are tenants.
 |xref:petzen:PET-B-1792a.adoc[]
 
-|Birth
+|B
 |14 Jan. 1798
 |Anne Christine Eleonore Krückeberg
 |Jobst Heinrich Krückeberg
@@ -158,7 +174,7 @@ sponsor. She is still alive! Who would this be?
 |
 |xref:petzen:PET-B-1798a.adoc[]
 
-|Baptism
+|Ba
 |18 Jan. 1798
 |Anne Christine Eleonore Krückeberg
 |Jobst Heinrich Krückeberg
@@ -173,7 +189,7 @@ sponsor. She is still alive! Who would this be?
 . Katharine Margharethe Kuhlmann, No. 3 Evesen
 |xref:petzen:PET-B-1798a.adoc[]
 
-|Birth
+|B
 |24 Jan 1803
 |Sophie Wilhelmine Krückeberg
 |Jobst Heinrich Krückeberg
@@ -186,7 +202,7 @@ from Meinsen
 |*Father's Stand is Hausherr*
 |xref:petzen:PET-B-1803a.adoc[]
 
-|Baptism
+|Ba
 |30 Jan 1803
 |Sophie Wilhelmine Krückeberg
 |Jobst Heinrich Krückeberg
@@ -200,7 +216,7 @@ from Meinsen
 |*Father's Stand is Hausherr*
 |xref:petzen:PET-B-1803a.adoc[]
 
-|Confirmation
+|C
 |21 Apr 1805
 |Philippine Caroline Christine
 |Jobst Heinrich Krückeberg
@@ -212,7 +228,7 @@ from Meinsen
 |The birthdate given of 9 Sep. 1791 is incorrect
 |xref:petzen:PET-C-1805a.adoc[]
 
-|Birth
+|B
 |4 Aug. 1806
 |Johann Heinrich Krückeberg
 |Jobst Heinrich Krückeberg
@@ -227,7 +243,7 @@ from Meinsen
 Father is a Guild Master
 |xref:petzen:PET-B-1806a.adoc[]
 
-|Baptism
+|Ba
 |17 Aug. 1806
 |Johann Heinrich Krückeberg
 |Jobst Heinrich Krückeberg
@@ -254,7 +270,7 @@ Father is a Guild Master
 |According to xref:nla:146:doc1.adoc[Jobst Heinrich's Rentkammer Petition, 30 Sep. 1808], he is an Einlieger his family are tenants at
 Wilharms, #11 in Evesen. We don't know how long?
 
-|Confirmation
+|C
 |7 Apr. 1811
 |Anne Christine Lenore Krückeberg
 |Jobst Heinrch Kruckeberg
@@ -266,7 +282,7 @@ Wilharms, #11 in Evesen. We don't know how long?
 |Birthdate: 14 Jan. 1798
 |xref:petzen:PET-C-1811a.adoc[]
 
-|Marriage
+|M
 |23 Feb. 1812
 |Philippine Caroline Krückeberg & Friedrich Wilhelm Watermann, #11 Nordholz
 |Jobst Heinrich Kruckeberg, n. 10 in Bärenbusch
@@ -283,7 +299,7 @@ Wilharms, #11 in Evesen. We don't know how long?
 * died 26 Oct. 1870
 |xref:petzen:PET-M-1812b.adoc[]
 
-|Confirmation
+|C
 |31 March 1816 
 |Sophie Wilhelmine Krückeberg
 |not given
@@ -295,7 +311,7 @@ Wilharms, #11 in Evesen. We don't know how long?
 |Confimed on Quasimodigeniti
 |xref:petzen:PET-C-1811a.adoc[]
 
-|Confirmation
+|C
 |2 April 1820
 |Johann Heinrich Krückeberg
 |not given
@@ -306,6 +322,21 @@ Wilharms, #11 in Evesen. We don't know how long?
 |
 |Quasimodigeniti win 1818 was 2 Apr. 1818
 |xref:petzen:PET-C-1820a.adoc[]
+
+|D
+|21 Oct. 1822
+|Jobst Heinrich Krückeberg
+|
+|
+|Berenbusch
+|10
+|Schusteramtsmeister
+|
+|
+age 58
+
+Occupation: Schusteramtsmeister
+|xref:petzen:PET-D-1822b.adoc[]
 |===
 
 == Nachträge
