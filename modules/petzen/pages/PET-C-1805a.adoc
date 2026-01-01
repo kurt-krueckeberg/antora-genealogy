@@ -7,7 +7,8 @@
 [%header,cols="3,4,2,3,2,2,2"]
 |===
 |Father|Mother|Family +
-Residence|Confirmand|Date Confirmed|Date Born|Child's Birthplace   
+Residence|Confirmand|Date Confirmed|Date Born +
+(in error)|Child's Birthplace   
                                                     
 |Jobst Heinrich Krückeberg
 |Christine Philippine Eleonore née Tegtmeier
