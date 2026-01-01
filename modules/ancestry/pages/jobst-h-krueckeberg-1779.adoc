@@ -221,7 +221,10 @@ from Meinsen
 |10
 |Schuster Amtsmeister (Shoemaker Guild Master)
 |
-|4^th^ child, 1^st^ son
+|
+4^th^ child, 1^st^ son
+
+Father is a Guild Master
 |xref:petzen:PET-B-1806a.adoc[]
 
 |Baptism
