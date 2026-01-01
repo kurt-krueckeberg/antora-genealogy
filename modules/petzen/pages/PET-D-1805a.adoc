@@ -1,20 +1,17 @@
 = 1805 Johann Henrich Krickeberg Death
 :page-role: wide
 
-[.narrow]
+//[.narrow]
 == Family Relationship and Other Facts
 
 .Family Relationship  and Other Facts
 [%header,cols="1,3,3"]
 |===
-|Relationship|Details|Residence +
+|Deceased|Residence|Parents
 (For mother: Place or Origin)
 
-|*Father*|Joh[ann] Hen[rich] Kruckeberg |N . 10 Berenbusch
-
-|*Mother*|Christine Rösener |Evesen (place of origin)
-
-|*late Son*|Johann Henrich Krückeberg(deceased)|N. 19 Evesen
+|Johann Henrich Krückeberg(deceased)|N. 19 Evesen |Joh[ann] Hen[rich] Kruckeberg, N. 10 Berenbusch +
+Christine Rösener, from Evesen
 |===
 
 .Decedent Facts
@@ -24,7 +21,7 @@
 
 |*Decedent's Name*|Johann Henrich Krickberg
 
-|*Occupation*| colonist (hereditary tenant farmer)
+|*Occupation*| Colon 
 
 |*Residence*|no. 19 Evesen
 
