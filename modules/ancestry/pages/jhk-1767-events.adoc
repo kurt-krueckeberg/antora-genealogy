@@ -20,6 +20,25 @@ Heinrich Krückeberg:
 *Question:* In the birth record of the first child, Philippine Caroline Christine, her Krückeberg grandmother is a baptismal
 sponsor. She is still alive! Who would this be?
 
+[.narrow]
+=== Event Codes
+
+[cols="4,1",options="header",width="30%"]
+|===
+|Event |Code
+
+|*Arrival* |*A* 
+|*Birth* |*B* 
+|*Baptism* |*Ba*
+|*Confirmation* |*C*
+|*Emigration* |*E*
+|*Marriage* |*M*
+|*Death / Burial* |*D*
+|===
+
+=== Event Table
+
+
 .Events based on Petzen Church Records
 [cols="1,2,3,3,3,2,1,2,3a,4a,3a",options="header"]
 |===
@@ -35,7 +54,7 @@ sponsor. She is still alive! Who would this be?
 | Notes
 | Record Page
 
-|Marriage
+|M
 |2 Aug. 1790
 |Johann Heinrich Krückeberg, #10 Berenbusch & Anna Catharine Sophia Krömer, #19 Evesen
 |
@@ -50,7 +69,7 @@ bride: Evesen #19
 |*Note:* Krömer is also spelled Crömer
 |xref:petzen:PET-M-1790a.adoc[]
 
-|Baptism
+|Ba
 |25 Apr. 1791
 |Friderich Wilhelm Krückeberg
 |Johann Heinrich Krückeberg
@@ -63,7 +82,7 @@ bride: Evesen #19
 |The residence number was omitted
 |xref:petzen:PET-B-1791a.adoc[]
 
-|Baptism
+|Ba
 |21 April 1793
 |Philippina Eleonore Krückeberg
 |Johann Heinrich Krückeberg
@@ -91,7 +110,7 @@ bride: Evesen #19
 |*illness:* coughing & continual weakness
 |xref:petzen:PET-D-1794a.adoc[]
 
-|Birth
+|B
 |26 Apr. 1798
 |Christine Louise Krückeberg
 |Johann Heinrich Krückeberg
@@ -103,7 +122,7 @@ bride: Evesen #19
 |
 |xref:petzen:PET-B-1798b.adoc[]
 
-|Baptism
+|Ba
 |29 Apr. 1798
 |Christine Louise Krückeberg
 |Johann Heinrich Krückeberg
@@ -116,7 +135,7 @@ bride: Evesen #19
 |
 |xref:petzen:PET-B-1798b.adoc[]
 
-|Birth
+|B
 |21 July 1803
 |Sophie Caroline Krückeberg
 |Johann Heinrich Krückeberg
@@ -128,7 +147,7 @@ bride: Evesen #19
 |*Father:* Hausherr
 |xref:petzen:PET-B-1803b.adoc[]
 
-|Baptism
+|Ba
 |31 July 1803
 |Sophie Caroline Krückeberg
 |Johann Heinrich Krückeberg
@@ -141,7 +160,7 @@ bride: Evesen #19
 |*Father:* Hausherr
 |xref:petzen:PET-B-1803b.adoc[]
 
-|Confirmation
+|C
 |20 Mar. 1806
 |Philippine Louise Leonore Krückeberg
 |Johann Heinrich Krückeberg
@@ -155,7 +174,7 @@ bride: Evesen #19
 *mother:* from Evesen #19
 |xref:petzen:PET-C-1806a.adoc[]
 
-|Confirmation
+|C
 |7 Apr. 1811
 |Christine Louise Krückeberg
 |Johann Heinrich Krückeberg
@@ -167,7 +186,7 @@ bride: Evesen #19
 |*Birth:* 26 Apr. 1798
 |xref:petzen:PET-C-1811b.adoc[]
 
-|Confirmation
+|C
 |6 April 1817
 |Sophie Carolone Krückeberg
 |not given
@@ -179,7 +198,7 @@ bride: Evesen #19
 |Confirmed on Sunday Quadimodogeniti 1817
 |xref:petzen:PET-C-1817b.adoc[]
 
-|Marriage
+|M
 |12 May 1822
 |Philippine Louise Eleonore Krückeberg & widower Friedrich Wilhelm
 Drifftmeier
