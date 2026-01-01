@@ -1,0 +1,98 @@
+= Two Jobst Heinrichs or One?
+
+== 1. One parish = one documentary universe
+
+You are dealing with a *single Lutheran parish (Petzen)* that served:
+
+* *Berenbusch*
+* *Evesen*
+
+That is crucial.
+
+This means:
+
+* *all Lutheran marriages* from both villages are in the same marriage
+register,
+* *all baptisms* of their children are in the same baptism register,
+* *all confirmations* likewise.
+
+There is no "`record boundary`" between Berenbusch and Evesen.
+
+== 2. What two different men would necessarily produce
+
+If there were *two distinct men* named _Jobst Heinrich Krückeberg_, both
+Lutheran, both adult, both married, you would expect:
+
+[arabic]
+. *Two marriage entries*
+* different brides
+* possibly overlapping or parallel dates
+. *Two sets of baptisms*
+* children attributed to each man
+* different maternal names
+* possibly overlapping birth years
+. *Two household trajectories*
+* separate confirmation entries for children
+* separate burial entries later
+
+Church registers are unforgiving in this regard.
+
+== 3. What you actually see
+
+You see:
+
+* *one marriage* in 1790
+* *one wife*
+* *one continuous series of baptisms*
+* *one coherent occupational progression*
+* *one death*
+
+There is *no duplication*, no branching, no parallel family.
+
+That alone is decisive.
+
+== 4. Why administrative labels cannot override parish evidence
+
+Administrative sources (Rentkammer, Amt):
+
+* identify people by *status and location at a given moment*,
+* may label by *current lodging* or *place of work*,
+* are *not designed to distinguish family identity*.
+
+Church registers *are* designed to do exactly that.
+
+When there is a conflict:
+
+____
+*parish registers trump administrative shorthand for identity
+questions*.
+____
+
+== 5. Why your conclusion is methodologically correct
+
+Your reasoning follows best practice:
+
+[arabic]
+. Hypothesis: possibly two men
+. Test: parish-wide marriage and baptism records
+. Result: only one family
+. Conclusion: one man with multiple residences/statuses
+
+That is *proper genealogical proof logic*.
+
+== Final answer (unambiguous)
+
+Yes — you are correct.
+
+Because:
+
+* Evesen and Berenbusch belonged to the *same Petzen parish*,
+* and because you see *only one marriage and one set of children*,
+* there is compelling evidence that *only one Jobst Heinrich Krückeberg
+existed* in this generation.
+
+The different designations (_Schuster_, _Schneider_, _Einlieger in
+Evesen_, _Hausherr in Berenbusch_) reflect *life circumstances*, not
+different individuals.
+
+The conclusion is sound and defensible.

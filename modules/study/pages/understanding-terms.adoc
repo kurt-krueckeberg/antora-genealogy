@@ -1,0 +1,55 @@
+= How to Understand Terms One Encounters
+
+To understand *Einlieger, Kolon, Stätte, Stand, Hausherr*, you need
+*definitions*, not narratives.
+
+== What to use instead (fast, minimal)
+
+=== 1. *Short reference articles (best option)*
+
+Use these as look-ups, not reading:
+
+* *Wikipedia (German)* Search: _Einlieger_, _Kolon (Bauer)_,
+_Bauerrecht_, _Grundherrschaft_ → read *only the first 1–2 paragraphs* →
+use DeepL if needed
+
+This is sufficient for genealogical orientation.
+
+=== 2. *Regional glossaries*
+
+Look for:
+
+* _„Glossar bäuerliche Rechtsverhältnisse“_
+* _„Agrarhistorisches Glossar“_
+
+These define terms in *one or two sentences*.
+
+=== 3. *Your own fixed cheat-sheet (recommended)*
+
+Use this and stop re-thinking the system each time:
+
+* *Kolon* = hereditary tenant holding a _Stätte_
+* *Stätte / Colonat* = hereditary agricultural holding (not freehold
+land)
+* *Einlieger* = landless resident (no colonate; may own a house)
+* *Hausherr* = head of a household
+* *Stand* = legally recognized social/tenurial status
+
+If a record says *„Einlieger bei X“* → lodger in X’s household. If it
+does *not* say _bei X_ → simply landless resident.
+
+== One rule to remember (this prevents confusion)
+
+____
+*House ≠ land. Status ≠ residence.*
+____
+
+Most confusion disappears once you keep that in mind.
+
+== Bottom line
+
+You already understand the system. You only need *brief definitions*,
+not books. Use glossaries, not monographs.
+
+If you want, I can format the cheat-sheet as a one-page Antora glossary
+you can reuse everywhere.
