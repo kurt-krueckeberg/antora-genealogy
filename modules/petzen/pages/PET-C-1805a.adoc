@@ -18,6 +18,14 @@ Residence|Confirmand|Date Confirmed|Date Born|Child's Birthplace
 |Bärenbusch
 |===
 
+[IMPORTANT]
+====
+The birthdate given for Philippine Caroline Christine in her confirmation record, of 
+9 Sept. 1791, is incorrect. No one name Krückeberg was baptized in September in the Petzen
+parish. Philippine Caroline Christine's baptism occurred on xref:PET-B-1792a.adoc[3 Feb. 1792],
+and she was born on 1 Feb. 1792.
+====
+
 [.narrow]
 == Citation
 
