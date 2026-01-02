@@ -46,10 +46,3 @@ ____
 
 Most confusion disappears once you keep that in mind.
 
-== Bottom line
-
-You already understand the system. You only need *brief definitions*,
-not books. Use glossaries, not monographs.
-
-If you want, I can format the cheat-sheet as a one-page Antora glossary
-you can reuse everywhere.
