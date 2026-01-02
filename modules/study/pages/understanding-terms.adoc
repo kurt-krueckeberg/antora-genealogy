@@ -3,15 +3,14 @@
 To understand *Einlieger, Kolon, Stätte, Stand, Hausherr*, you need
 *definitions*, not narratives.
 
-== What to use instead (fast, minimal)
+== What to use 
 
 === 1. *Short reference articles (best option)*
 
 Use these as look-ups, not reading:
 
 * *Wikipedia (German)* Search: _Einlieger_, _Kolon (Bauer)_,
-_Bauerrecht_, _Grundherrschaft_ → read *only the first 1–2 paragraphs* →
-use DeepL if needed
+_Bauerrecht_, _Grundherrschaft_ → read *only the first 1–2 paragraphs*
 
 This is sufficient for genealogical orientation.
 
