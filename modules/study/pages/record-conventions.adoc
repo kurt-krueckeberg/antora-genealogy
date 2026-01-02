@@ -1,4 +1,4 @@
-= Record Conventions: Parish vs Rentkammer
+= Record Conventions: Parish and Rentkammer
 
 Parish records conventions and adminstrative Rentkammer conventions can
 make it look like there are two men with the same name when in fact *one

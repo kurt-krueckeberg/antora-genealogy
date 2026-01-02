@@ -1,8 +1,9 @@
-= Two Jobst Heinrichs or One?
+= One or Two Individuals
+// One or Two Jobst Heinrichs?
 
 == 1. One parish = one documentary universe
 
-You are dealing with a *single Lutheran parish (Petzen)* that served:
+We are dealing with a *single Lutheran parish (Petzen)* that served:
 
 * *Berenbusch*
 * *Evesen*
