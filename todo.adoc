@@ -1,6 +1,8 @@
 = TODO
 
 == TODO Next
+ 
+Convert Dr. Möhle work to .adoc pages.
 
 Finish what I began in m/background/stand-meaning.adoc and the other .adoc files
 in m/background/p/underdevelopment.
