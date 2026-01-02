@@ -1,110 +1,155 @@
-= One or Two Individuals
-// One or Two Jobst Heinrichs?
+= Were There Two Jobst Heinrich Krückebergs in September 1808?
 
-Is the Jobst Heinrich Krückeberg who said on September 29^th^ 1808
+Were there two Jobst Heinrich Krückebergs in September 1808 living in the
+area of Berenbusch and nearby Evesen, one who lived at no. 10 Berenbusch, who
+was a Schusteramtsmeister (Shoemaker's Guild Master) and a Hausherr, and
+another who was a Schneider (tailor) who lodged with the Wilharms at no. 11
+Evesen?
 
-[quote, petition for buying a tenancy holding in Berenbusch]
+All the xref:ancestry:jobst-h-krueckeberg-1779.adoc[Petzen records that we
+have for the Jobst Heinrich Krückeberg], who married on 12 Oct. 1790, and who
+had children born to him and his wife beginning in 1792 up until the birth of
+his last child, his son Johann Heinrich Krückeberg, who was born 17 Aug.
+1806--all these records list the "Wohnort", "Ortschaft", "Dortschaften" as
+"no. 10 Berenbusch". The birth record for their first child, Philippine
+Caroline Christine, is free-form and says she was born "in Berenbusch" (no
+number is given). 
+
+This Jobst Heinrich and his wife live a no. 10 Berenbusch. In 1803, he his
+listed in the baptism record of his daughter as a "Hausherr". His occupation
+is mentioned consistently in these records as a "Schuster". In 1806, when his
+son is born, he is described as a "Schuster Amtsmeister". 
+
+Can these facts be resolved with the Jobst Heinrich Krückeberg who wrote on
+September 29, 1808, when he petitioned the Rentkammer, that he was an
+Einlieger at the Wilharms at no. 11 iun Evesen:
+
+[quote, petition to Rentkammer date 29 September 1808]
+____
+Ich habe bisher als *Einlieger beÿ Wilharm No 11 in Evesen gewohnt*, wünschte
+aber jetzt mich selbst anzubauen.
+
+Up to now I have lived as a lodger with Wilharm at No. 11 in Evesen, but I
+now wish to establish myself independently by building on my own.
 ____
 
-Ich habe bisher als *Einlieger beÿ Wilharm No 11 in Evesen* gewohnt, wünschte
-aber jetzt mich selbst anzubauen. 
-____
+== 1. What the church records establish (firm ground)
 
-the same Jobst Heinrich
+From the Petzen parish records:
 
-== 1. One parish = one documentary universe
+* *1790–1806*: Jobst Heinrich Krückeberg is consistently associated with
+*No. 10 Berenbusch*.
+* He is described as:
+** *Schuster* (shoemaker),
+** later *Schuster Amtsmeister* (1806),
+** once explicitly as *Hausherr* (1803).
 
-We are dealing with a *single Lutheran parish (Petzen)* that served:
+*What this means:*
 
-* *Berenbusch*
-* *Evesen*
+* He had an *established family household* at No. 10 Berenbusch.
+* _Hausherr_ here means *head of a household*, not a legal landholder.
+* Church records track *family residence*, not tenure security.
 
-That is crucial.
+Up to 1806, there is *no contradiction at all*.
 
-This means:
+== 2. What the 1808 petition actually says (and what it does NOT say)
 
-* *all Lutheran marriages* from both villages are in the same marriage
-register,
-* *all baptisms* of their children are in the same baptism register,
-* *all confirmations* likewise.
-
-There is no "`record boundary`" between Berenbusch and Evesen.
-
-== 2. What two different men would necessarily produce
-
-If there were *two distinct men* named _Jobst Heinrich Krückeberg_, both
-Lutheran, both adult, both married, you would expect:
-
-[arabic]
-. *Two marriage entries*
-* different brides
-* possibly overlapping or parallel dates
-. *Two sets of baptisms*
-* children attributed to each man
-* different maternal names
-* possibly overlapping birth years
-. *Two household trajectories*
-* separate confirmation entries for children
-* separate burial entries later
-
-Church registers are unforgiving in this regard.
-
-== 3. What you actually see
-
-You see:
-
-* *one marriage* in 1790
-* *one wife*
-* *one continuous series of baptisms*
-* *one coherent occupational progression*
-* *one death*
-
-There is *no duplication*, no branching, no parallel family.
-
-That alone is decisive.
-
-== 4. Why administrative labels cannot override parish evidence
-
-Administrative sources (Rentkammer, Amt):
-
-* identify people by *status and location at a given moment*,
-* may label by *current lodging* or *place of work*,
-* are *not designed to distinguish family identity*.
-
-Church registers *are* designed to do exactly that.
-
-When there is a conflict:
+In September 1808 he writes:
 
 ____
-*parish registers trump administrative shorthand for identity
-questions*.
+_Ich habe bisher als Einlieger beÿ Wilharm No 11 in Evesen gewohnt …_
 ____
 
-== 5. Why your conclusion is methodologically correct
+Key points:
 
-Your reasoning follows best practice:
+* *Einlieger bei Wilharm in Evesen* describes:
+** where he *lodged*, and
+** under what *tenurial status* (no independent holding).
+* It does *not* say:
+** that he never had a household elsewhere,
+** that his family lived in Evesen,
+** that he was unmarried or unattached.
 
-[arabic]
-. Hypothesis: possibly two men
-. Test: parish-wide marriage and baptism records
-. Result: only one family
-. Conclusion: one man with multiple residences/statuses
+The petition is written *from the perspective of Rentkammer law*, not
+parish life.
 
-That is *proper genealogical proof logic*.
+== 3. The crucial reconciliation: household ≠ legal residence ≠ lodging
 
-== Final answer (unambiguous)
+These records describe *different things*:
 
-Yes — you are correct.
+=== Church registers (Petzen)
 
-Because:
+* Track:
+** marital unit,
+** children,
+** *where the family household is anchored*.
+* "`Wohnort No. 10 Berenbusch`" = the place where his *wife and children
+belonged*.
 
-* Evesen and Berenbusch belonged to the *same Petzen parish*,
-* and because you see *only one marriage and one set of children*,
-* there is compelling evidence that *only one Jobst Heinrich Krückeberg
-existed* in this generation.
+=== Rentkammer petition (1808)
 
-The different designations (_Schuster_, _Schneider_, _Einlieger in
-Evesen_, _Hausherr in Berenbusch_) reflect *life circumstances*, not
-different individuals.
+* Tracks:
+** *legal-economic status at the moment of petition*,
+** eligibility to receive a building place / holding.
+* "`Einlieger bei Wilharm in Evesen`" = the place where he *lodged while
+working*, without independent tenure.
 
-The conclusion is sound and defensible.
+There is *no rule* that a craftsman could not:
+
+* maintain a *family household* in one village, and
+* *lodge near his work* in another.
+
+In fact, this was *common for craftsmen*.
+
+== 4. Why this timing makes sense (1806 → 1808)
+
+Consider the sequence:
+
+* *1806*: last child is born; he is *Schuster Amtsmeister*.
+* Shortly after:
+** children are no longer infants,
+** his economic situation changes,
+** he seeks *independent settlement rights*.
+* *1808*: he petitions to "`sich selbst anbauen`":
+** to stop being an *Einlieger*,
+** to obtain a *building place* and create a new holding.
+
+This fits a man *transitioning* from:
+
+____
+craftsman + household → craftsman + independent tenant-holder
+____
+
+== 5. Why this does NOT imply two Jobst Heinrich Krückebergs
+
+If there were two men, you would expect:
+
+* two marriages in Petzen,
+* overlapping baptisms,
+* competing death records,
+* contradictory family structures.
+
+You have *none of that*.
+
+Instead you have:
+
+* one marriage,
+* one continuous set of children,
+* one occupational trajectory,
+* one coherent petition explaining his status.
+
+== Final conclusion (clear and defensible)
+
+____
+*Yes — all the facts are reconcilable and point to a single individual.*
+____
+
+* *Household location (church records):* No. 10 Berenbusch
+* *Economic/legal status (Rentkammer, 1808):* Einlieger lodging in
+Evesen
+* *Intent (petition):* to cease lodging and become independently settled
+
+This is *not a contradiction*. It is a *transition*, recorded by
+*different authorities for different purposes*.
+
+This reading of the evidence is sound.
