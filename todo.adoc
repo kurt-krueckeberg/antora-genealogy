@@ -1,5 +1,10 @@
 = TODO
 
+== Add Links to study=Understanding Terms
+
+* Add links in the first paragraph
+* Summarize each page of m/146 and write a overall summary
+
 == TODO Next
  
 Convert Dr. Möhle work to .adoc pages.
