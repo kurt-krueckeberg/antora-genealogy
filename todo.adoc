@@ -1,11 +1,15 @@
 = TODO
 
+== Use a new Event Table...
+
+Merge what is in `~/gen/m/ancestry/p/new.adoc` and `~/gen/m/ancesty/p/event-tables.adoc`.
+
 == Add Links to m/study/Understanding Terms adoc page
 
 * Add links in the first paragraph
 * Summarize each page of m/146 and write a overall summary
 
-== Wilharm qusstion
+== Wilharm question
 
 Note Wilharm it's not only where Jobst Heinrich lodged in Evesen, but Wilharms were also
 sponsors in his family tree--right?
