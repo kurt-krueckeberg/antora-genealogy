@@ -1,6 +1,7 @@
 = Jobst Heinrich Krückeberg (1765-1822) Family Event Table
 :page-role: very-wide
 :sectnums!:
+::page-toclevels: 0
 
 [.narrow]
 == What was the Family of Origin of Johann Heinrich Krückeberg (1807-1879)?

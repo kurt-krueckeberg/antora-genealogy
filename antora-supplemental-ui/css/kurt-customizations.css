@@ -19,6 +19,14 @@ body.very-wide .doc
       max-width: none; /* Changing this to 'none' widens the page */
    }
 }
+
+/* Use :page-role: notoc in order to hide the "Contents" right-most
+ * navigation.
+ */  
+.doc.notoc .toc.sidebar {
+  display: none;
+}
+
 /* === Make top nav text visible on dark header background === */
 .navbar,
 .navbar .navbar-item,
