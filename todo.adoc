@@ -1,9 +1,14 @@
 = TODO
 
-== Add Links to study=Understanding Terms
+== Add Links to m/study/Understanding Terms adoc page
 
 * Add links in the first paragraph
 * Summarize each page of m/146 and write a overall summary
+
+== Wilharm qusstion
+
+Note Wilharm it's not only where Jobst Heinrich lodged in Evesen, but Wilharms were also
+sponsors in his family tree--right?
 
 == TODO Next
  
