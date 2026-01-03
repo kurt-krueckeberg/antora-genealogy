@@ -23,9 +23,10 @@ body.very-wide .doc
 /* Use :page-role: notoc in order to hide the "Contents" right-most
  * navigation.
  */  
-.doc.notoc .toc.sidebar {
+body.notoc > div > main > div.content > aside {
   display: none;
 }
+
 
 /* === Make top nav text visible on dark header background === */
 .navbar,

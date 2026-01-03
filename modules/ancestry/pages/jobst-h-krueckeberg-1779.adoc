@@ -1,5 +1,5 @@
 = Jobst Heinrich Krückeberg (1765-1822) Family Event Table
-:page-role: very-wide
+:page-role: very-wide notoc
 :sectnums!:
 ::page-toclevels: 0
 

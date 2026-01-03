@@ -1,5 +1,5 @@
 = Johann Heinrich Krückeberg (1744-1822) Event Table
-:page-role: very-wide
+:page-role: very-wide notoc
 :sectnums!:
 
 [.narrow]

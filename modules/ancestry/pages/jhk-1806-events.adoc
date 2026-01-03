@@ -1,5 +1,5 @@
 = Johann Heinrich Krückeberg (1806-1879) Family Event Table
-:page-role: very-wide
+:page-role: very-wide notoc
 :sectnums!:
 
 [[event-table]]

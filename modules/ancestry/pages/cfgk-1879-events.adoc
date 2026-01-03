@@ -1,5 +1,5 @@
 = Carl Friedrich Gottlieb Krückeberg (1879-1838) Family Events 
-:page-role: very-wide
+:page-role: very-wide notoc
 
 [[event-table-petzen-cfg-krueckeberg-family]]
 == Original Petzen Records Event Table for the Carl Friedrich Gottlieb Krückeberg Family
