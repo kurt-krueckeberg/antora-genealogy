@@ -16,6 +16,31 @@ Heinrich Wilhelm], who was 15 when he arrived in the U.S.
 Using these document we can construct the family of origin of both Johann Heinrich
 and Carl Friedrich Krückebergusing the Petzen church records.
 
+== No. 10 Berenbusch Home of Johann Heinrich Krückeberg
+
+This is where the Jobst Heinrich Krückeberg family resided as shown by the
+xref:genealogy:ancestry:josbst-hk-1765.adoc[records of its family members].
+
+It is also where the Colon Krückeberg lived who petitioned the Rentkammer 
+in to xref:nla:139:krueckeberg-petition-to-sell.adoc[sell his holding
+at no. 10 Berenbusch] explaining
+
+[quote, TODO add source]
+____
+Ich bin willens, meine Kolonie zu verkaufen und nach Amerika auszuwandern...
+
+I have decided to sell my farmstead and to emigrate to America...
+____
+
+Although his given names are not mentioned and he is only identified as "Colon
+Krückeberg", we know this is Johann Heinrich because it is he and his family who
+emigrated from Berenbusch in this same year and xref:immanuel:DEC-BIO-Krueckeberg-01[settle
+in Union township, Adams CO, Indiana].
+
+TODO: quote information for the other 139 documents that add more details that also help
+to confirm the identity of Johann Heinrich like the xref:nla:139:doc1.adoc[petition of his mother],
+the widow of Jobst Heinrich, as well as add other important details.
+
 == How no. 18 Berenbusch Connects Johann Heinrich and Carl Friedrich
 
 The father of Johann Heinrich Krückeberg, Jobst Heinrich,
