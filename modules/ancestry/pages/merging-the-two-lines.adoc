@@ -46,7 +46,8 @@ TODO: quote information for the other 139 documents that add more details that a
 to confirm the identity of Johann Heinrich like the xref:nla:139:doc1.adoc[petition of his mother],
 the widow of Jobst Heinrich, as well as add other important details.
 
-TODO: We know his full name is given repeatedly in xref:nla:689:index[case file 689].
+TODO: We know his full name is not given in xref:nla:689:index[case file 689], but his late
+father is described as owning money to Hempel and Sons, a leather goods store....
 
 TODO: We know in another case file for a Berenbsuch Stätte there is a map showing that
 a Krückeberg Stätte borders the individual the case file is about.
