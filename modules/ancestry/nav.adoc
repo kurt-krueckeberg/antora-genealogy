@@ -6,7 +6,7 @@
 ** xref:cfgk-1879-events.adoc[]
 * Branch II: Johann Heinrich Krückeberg (1806-1879) Branch
 ** xref:jhk-1806-events.adoc[]
-** xref:jobst-h-krueckeberg-1779.adoc[]
+** xref:jobst-hk-1779-events.adoc[]
 ** xref:jhk-1767-events.adoc[]
 * xref:merging-the-two-lines.adoc[]
 ** xref:jhk-1744-events.adoc[]
