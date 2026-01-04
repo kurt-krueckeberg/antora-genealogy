@@ -23,7 +23,6 @@ xref:derived-church-records:FS-CFK.adoc[family record of the emigrant Carl Fried
 === Derived Record Event Table for Carl Friedrich Krückeberg Family
 
 .Derived Record Event Table for Carl Friedrich Krückeberg Family
-//[width="100%",cols="3%,8%,13%,11%,11%,9%,3%,9%,10%a,20%a,12%",options="header",]
 [width="100%",cols="5%,10%,10%,10%,10%,10%,5%,10%,10%a,20%a",options="header",]
 |===
 | Event

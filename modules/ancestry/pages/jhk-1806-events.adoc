@@ -27,7 +27,8 @@ Johann Heinrich Krückeberg.
 === Event Table
 
 .Events based on xref:immanuel:ROOT:DEC-BIO-Krueckeberg-01.adoc[]
-[width="100%",cols="3%,8%,13%,11%,11%,9%,3%,9%,10%a,20%a,12%",options="header",]
+//[width="100%",cols="3%,8%,13%,11%,11%,9%,3%,9%,10%a,20%a,12%",options="header",]
+[width="100%",cols="5%,10%,10%,10%,10%,10%,5%,10%,10%a,20%a",options="header",]
 |===
 | Event
 | Event Date
