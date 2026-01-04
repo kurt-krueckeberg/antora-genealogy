@@ -18,8 +18,13 @@ and Carl Friedrich Krückebergusing the Petzen church records.
 
 == No. 10 Berenbusch Home of Johann Heinrich Krückeberg
 
-This is where the Jobst Heinrich Krückeberg family resided as shown by the
-xref:genealogy:ancestry:josbst-hk-1765.adoc[records of its family members].
+No. 10 Berenbusch is where the Jobst Heinrich Krückeberg family resided as
+shown by the numerous Petzen church register xref:genealogy:ancestry:josbst-hk-1765.adoc[records
+of its family members], all exclusively listing no. 10 Berenbusch as the - TODO: list all
+of the village/ort references here: Wohnorot, Dortschaften.
+
+We know from case file link:[NLA BU, K 2, A Nr. 689] denotated "200 Reichtsthaler.. "
+No. 10 Be
 
 It is also where the Colon Krückeberg lived who petitioned the Rentkammer 
 in to xref:nla:139:krueckeberg-petition-to-sell.adoc[sell his holding
@@ -40,6 +45,11 @@ in Union township, Adams CO, Indiana].
 TODO: quote information for the other 139 documents that add more details that also help
 to confirm the identity of Johann Heinrich like the xref:nla:139:doc1.adoc[petition of his mother],
 the widow of Jobst Heinrich, as well as add other important details.
+
+TODO: We know his full name is given repeatedly in xref:nla:689:index[case file 689].
+
+TODO: We know in another case file for a Berenbsuch Stätte there is a map showing that
+a Krückeberg Stätte borders the individual the case file is about.
 
 == How no. 18 Berenbusch Connects Johann Heinrich and Carl Friedrich
 
