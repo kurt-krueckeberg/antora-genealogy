@@ -4,7 +4,7 @@
 == Event Table for Family of Carl Friedrich Krückeberg (1807-185?)
 
 This event table is based exclusively on the information found in the 
-xref:derived-church-records:FS_CFK.adoc[family record of the emigrant Carl Friedrich Krückeberg].
+xref:derived-church-records:FS-CFK.adoc[family record of the emigrant Carl Friedrich Krückeberg].
 
 [.narrow]
 === Event Codes
