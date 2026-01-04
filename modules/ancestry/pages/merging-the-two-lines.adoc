@@ -10,8 +10,8 @@ provided the name of the parish, Petzen.
 We likewise know the same information about Carl Friedrichm Krückeberg
 from the xref:derived-church-records:FS-CFK.adoc["family record of the
 emigrant Carl Friedrich Krückeberg"]. We also have the Immanuel Lutheran
-xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[biography of his son], Carl
-Heinrich Wilhelm, who was 15 when he arrived in the U.S.
+xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[biography of his son, Carl
+Heinrich Wilhelm], who was 15 when he arrived in the U.S.
 
 Using these document we can construct the family of origin of both Johann Heinrich
 and Carl Friedrich Krückebergusing the Petzen church records.
