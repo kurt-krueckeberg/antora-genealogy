@@ -27,16 +27,34 @@ link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v49795
 K 2 B Nr. 146] located in the Bückeburg department of the Niedersächishces Landesarchiv
 and denotated *Die Stätte Nr. 18 zu Berenbusch (the Holding no. 18 at Berenbusch)*.
 
-From this case file and from the case file xref:NLA:120:[NLA BU, L 120a, D Nr. 188] denotated *Verkauf der
-Krückebergschen Stätte Nr. 18 in Berenbusch an den Schuster Wilhelm Meyer zu
-Röcke*
+From this case file and from the case file
+link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v11398990[NLA BU,
+L 120a, D Nr. 188] denotated *Verkauf der Krückebergschen Stätte Nr. 18 in Berenbusch an
+den Schuster Wilhelm Meyer zu Röcke (Sale of the Krückeberg holding no. 18
+Berenbusch to shoemaker Wilhelm Meyer of Röcke)*, we know that Carl Friedrich
+Krückeberg came to own no. 18 Berenbusch. We know this because in 1850 he
+petitioned the Rentkammer to accept its sale to the buyer he had found, Wilhelm
+Meyer. See these documents:
 
+* xref:NLA:146:carl-fried-supplication-to-sell.adoc[]
+* xref:NLA:120:abschrift-4386.adoc[].
 
- XXX that Carl Friedrich came to own Stätte no. 18 at Berenbusch which was
-first created and granted to Johann Heinrich's father in 180?.
+Furthermore, in these documents Carl Friedrich the reason for the sale: he
+wants to emigrated in order to join "his relatives who are doing well":
 
+[quote, TODO add citation here]
+____
+Da ich beabsichtige, mit meiner ganzen Familie nach Amerika auszuwandern,
+woselbst sich schon *mehre Anverwandte von mir befinden, denen es recht
+gut geht*, so habe ich meine kleine Neubauer-Colonie No. 18 in Berenbusch
+an den Schuhmacher Wilhelm Meier, gebürtig aus Evesen, derzeitß in Röcke
+verkauft. 
 
-TODO: Quote the archival documents 
-Furthermore, the Bückeburg case files XXXX and XXX tell us that Carl Friedrich and Johann Heinrich were related and
-thus share a common ancestor.  
+Since I intend to emigrate with my entire family to America, *where several
+relatives of mine are already living and are doing quite well*, I have
+therefore sold my small Neubauer holding, No. 18 in Berenbusch, to the
+shoemaker Wilhelm Meier, a native of Evesen, presently residing in Röcke
+____
 
+We know now for certain the Johann Heinrich and Carl Friedrich, who are only
+a year apart in age, share a common ancestor because they are related.
