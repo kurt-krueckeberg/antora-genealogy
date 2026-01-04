@@ -21,7 +21,7 @@ and Carl Friedrich Krückebergusing the Petzen church records.
 The father of Johann Heinrich Krückeberg, Jobst Heinrich,
 xref:nla:146:doc1.adoc[petitioned the Schauburg-Lippe Rentkammer] in September
 of 1808 to be granted a new holding in Berenbusch. They granted his request and
-created the xref:NLA:146:doc6.adoc[new holding no. 18 at Berenbusch].
+created the xref:nla:146:doc6.adoc[new holding no. 18 at Berenbusch].
 
 This information comes xref:nla:146:doc6.adoc[document #6] from the case file
 link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4979522[NLA BU
@@ -37,8 +37,8 @@ Krückeberg came to own no. 18 Berenbusch. We know this because in 1850 he
 petitioned the Rentkammer to accept its sale to the buyer he had found, Wilhelm
 Meyer. See these documents:
 
-* xref:NLA:146:carl-fried-supplication-to-sell.adoc[]
-* xref:NLA:120:abschrift-4386.adoc[].
+* xref:nla:146:carl-fried-supplication-to-sell.adoc[]
+* xref:nla:120:abschrift-4386.adoc[].
 
 Furthermore, in these documents Carl Friedrich the reason for the sale: he
 wants to emigrated in order to join "his relatives who are doing well":
