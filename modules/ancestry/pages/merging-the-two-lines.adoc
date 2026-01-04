@@ -1,16 +1,17 @@
 = Merging the Two Krückeberg Lines
 
-From his xref:immanuel:ROOT:DEC-BIO-Krueckeberg-01.adoc[Immanuel Lutheran
-biography], we are given the names of the parents of Johann Heinrich Krüceberg, who
-immigrated to Union, Adams CO IN in 1849, and we are provided the information
-of all church ceremonies involving him, his wife and his children. We are
-also provided the name of the parish, Petzen.
+From Johann Heinrich Krueckeberg's
+xref:immanuel:ROOT:DEC-BIO-Krueckeberg-01.adoc[Immanuel Lutheran
+biography], we are given the names of his parents, who immigrated to
+Union, Adams CO IN in 1849, and we are provided the information of all
+church ceremonies involving him, his wife and his children. We are also
+provided the name of the parish, Petzen.
 
-We likewise know the same information about Carl Friedrichm Krückeberg from
-his xref:derived-church-records:FS-CSK.adoc["family record"]. We also have
-the Immanuel Lutheran
-xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[biography of his son],
-Carl Heinrich Wilhelm, who was 15 when he arrived in the U.S.
+We likewise know the same information about Carl Friedrichm Krückeberg
+from the xref:derived-church-records:FS-CSK.adoc["family record of the
+emigrant Carl Friedrich Krückeberg"]. We also have the Immanuel Lutheran
+xref:immanuel:ROOT:DEC-BIO-Krueckeberg-02.adoc[biography of his son], Carl
+Heinrich Wilhelm, who was 15 when he arrived in the U.S.
 
 Using these document we can construct the family of origin of both Johann Heinrich
 and Carl Friedrich Krückebergusing the Petzen church records.
