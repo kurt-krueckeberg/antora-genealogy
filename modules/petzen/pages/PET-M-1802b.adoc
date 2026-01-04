@@ -27,8 +27,15 @@ the marriage is actually given on the page 18 above entry 6 as **Am 11 April
 
 image::petzen-band2-img12-right1.jpg[align=left,title="Click to enlarge",link=self]
 
+[NOTE]
+====
+The date of the marriage, 11 April 1802, is written above the three marriages that
+occurred on that date, the first of which is at the bottom of the prior page in
+the church regsiter.
+====
+
 [caption="Transliteration: "]
-.Johann Heinrich Krückeberg Marriage entry number 10, page 19:
+.Johann Heinrich Krückeberg Marriage, on 11 April 1802, entry number 10, page 19:
 [%autowidth,frame="none"]
 |===
 7+l|18                Getraute im Jahre 1801.1802 
@@ -46,7 +53,7 @@ s| Zahl s| Nahmen des Bräutigams  s| Ortschaft s| Sh s| Nahmen der Braut s| Ort
 |===
 
 [caption="Translation: "]
-.Johann Heinrich Krückeberg Marriage entry number 10, page 19:
+.Johann Heinrich Krückeberg Marriage, on 11 April 1802, entry number 10, page 19:
 [%autowidth,frame="none"]
 |===
 7+l|18                Marriages in the Years 1801,1802 

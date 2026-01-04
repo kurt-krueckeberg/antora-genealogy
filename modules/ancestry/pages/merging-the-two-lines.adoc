@@ -49,9 +49,6 @@ the widow of Jobst Heinrich, as well as add other important details.
 TODO: We know his full name is not given in xref:nla:689:index[case file 689], but his late
 father is described as owning money to Hempel and Sons, a leather goods store....
 
-TODO: We know in another case file for a Berenbsuch Stätte there is a map showing that
-a Krückeberg Stätte borders the individual the case file is about.
-
 == How no. 18 Berenbusch Connects Johann Heinrich and Carl Friedrich
 
 The father of Johann Heinrich Krückeberg, Jobst Heinrich,
