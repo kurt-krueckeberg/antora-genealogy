@@ -39,7 +39,7 @@ sponsor. She is still alive! Who would this be?
 === Event Table
 
 .Events based on Petzen Church Records
-[cols="1,2,3,3,3,2,1,2,3a,4a,3a",options="header"]
+[width="100%",cols="3%,8%,13%,11%,11%,9%,3%,9%,10%a,20%a,12%",options="header",]
 |===
 | Event
 | Event Date
