@@ -1,0 +1,5 @@
+report_moehle.adoc is--I believe--a long .adoc file containing the text extracted from 
+her `~/gen/m/background/attachements/Moehle_Report_onHistory_of_Schaumburg-Lippe.pdf`
+report.
+
+Convert the long moehle.adoc into a set of readable .adoc pages.

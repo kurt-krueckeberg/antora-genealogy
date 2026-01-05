@@ -17,17 +17,24 @@ Krückeberg Church Register examples go here <---
 
 Typical Stand entries (examples):
 
-* *Kolon* – a prospective or newly admitted settler who has been granted land (or a house site) but has not yet completed all conditions (payment, house construction, formal admission into the holding).
+* *Kolon* – a prospective or newly admitted settler who has been granted
+  land (or a house site) but has not yet completed all conditions (payment,
+house construction, formal admission into the holding).
 
-* *Neubauer* – a prospective or newly admitted settler who has been granted land (or a house site) but has not yet completed all conditions (payment, house construction, formal admission into the holding).
+* *Neubauer* – a prospective or newly admitted settler who has been granted
+  land (or a house site) but has not yet completed all conditions (payment,
+house construction, formal admission into the holding).
 
 * *Einlieger* – lodger without land, living in someone else’s house.
 
-* *Heuerling* –  contracted smallholder, renting a cottage (often with a tiny plot) under a yearly agreement
+* *Heuerling* –  contracted smallholder, renting a cottage (often with a
+  tiny plot) under a yearly agreement
 
-* *Kötter* – holder of an established smallholding (Kotte/Kate) with recognized, inheritable use rights.
+* *Kötter* – holder of an established smallholding (Kotte/Kate) with
+  recognized, inheritable use rights.
 
-* *Brinkitzer* – holder of a marginal cottage site (“Brink”), usually later created, with weaker and more precarious rights.
+* *Brinkitzer* – holder of a marginal cottage site (“Brink”), usually later
+  created, with weaker and more precarious rights.
 
 * *Ackermann / Vollmeier* – full farmer (larger holding)
 
@@ -53,6 +60,7 @@ owner ship <---
 Use other examples of Krückebergs <--- 
 
 == Einlieger versus Kolon
+
 An *Einlieger* was a landless resident—typically living in another
 household or in rented lodging—without an independent holding of his own,
 even though he might practice a skilled trade such as tailoring. A *Kolon
@@ -64,21 +72,21 @@ and tenure, not necessarily a change in occupation or profession.
 
 == Exlanation
 
-In Schaumburg-Lippe around 1800–1810, the grant of an _erbliches
-Colonat_ (hereditary tenant holding or right), to an Einlieger (landless resident) did not by
-itself immediately confer the status of _Colon_ (hereditary
+In Schaumburg-Lippe around 1800–1810, the grant of an _erbliches Colonat_
+(hereditary tenant holding or right), to an Einlieger (landless resident)
+did not by itself immediately confer the status of _Colon_ (hereditary
 tenant-farmer). Approval by the Rentkammer created a legally protected
-expectancy (_Anwartschaft_)—a right to establish a hereditary holding
-under cameral supervision—but the individual remained an Einlieger until
-the settlement conditions were fulfilled, above all the construction of
-a house and the physical occupation of the holding.footnote:[Heinrich
-Rüthing, _Ländliche Gesellschaft und Agrarverfassung im nordwestlichen
-Deutschland_, esp. chapters on Einlieger and landless rural classes.
-Rüthing treats Einlieger status as legally distinct from holding-based
-agrarian estates and emphasizes the absence of independent fiscal
-standing prior to settlement.]footnote:[Wilhelm Abel, _Agrarkrisen und
-Agrarkonjunktur in Mitteleuropa_, esp. discussion of _Anwartschaften_
-and conditional settlement rights under early modern agrarian regimes.]
+expectancy (_Anwartschaft_)—a right to establish a hereditary holding under
+cameral supervision—but the individual remained an Einlieger until the
+settlement conditions were fulfilled, above all the construction of a house
+and the physical occupation of the holding.footnote:[Heinrich Rüthing,
+_Ländliche Gesellschaft und Agrarverfassung im nordwestlichen Deutschland_,
+esp. chapters on Einlieger and landless rural classes.  Rüthing treats
+Einlieger status as legally distinct from holding-based agrarian estates
+and emphasizes the absence of independent fiscal standing prior to
+settlement.]footnote:[Wilhelm Abel, _Agrarkrisen und Agrarkonjunktur in
+Mitteleuropa_, esp. discussion of _Anwartschaften_ and conditional
+settlement rights under early modern agrarian regimes.]
 
 Prior to settlement, the Rentkammer’s _Ausweisung_ fixed the land
 spatially and juridically, yet the recipient was still landless in terms
