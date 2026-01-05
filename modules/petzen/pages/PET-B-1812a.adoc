@@ -77,10 +77,11 @@ Page 245:
 image::petzen-band2-img125-245.jpg[title="Entry 31, page 245 portion(Click to enlarge)",link=self]
 
 [IMPORTANT]
-.Ambiguous Date at the End of the Father's Information
 ====
-The date following the name of the father, his address and religion is apparently **18.4.79** (March 18, 1879)
-This seems to be the date of his death, and it is likely prefixed with **ges** for _getstorben(deceased)_.
+The column *Name, Stand Religion u. Geburtsort des Vaters* (Name, Status, Religion and Birthplace of the Father)
+obviously has the current residence of the family. The family could not have been born at no. 18 Berenbusch
+because it did not exist until circa 1810, when Jobst Heinrich Krückeberg was granted tenancy rights to the
+new Stätte no. 18 Berenbusch. See xref:nla:146:doc1.adoc[]. 
 ====
 
 [caption="Transliteration: "]
@@ -103,8 +104,8 @@ Eltern s|Taufzeugen
 |31
 |Caroline Dorothee +
 Krückebergs +
-cop. 25.10.35 +
-gest 14.12.69
+cop[uliert]. 25.10.35 +
+gest[orben] 14.12.69
 |das 3ten Kind +
 u. 2ten Tochter
 |ist geboren d. +
