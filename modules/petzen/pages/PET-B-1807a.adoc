@@ -116,7 +116,7 @@ image::petzen-band2-img96-187.jpg[title="Entry 20, page 187 portion(Click to enl
 |N.|Name des Kindes |Zahl |Geburtzeit +
 u. Geburtsort |Taufzeit und +
 Taufort des Kindes |Name, Stand Religion +
-u. Geburts ort des Vaters  |Name, Religion +
+u. Geburtsort des Vaters  |Name, Religion +
 u. Geburtsort der +
 Mutter |Wohnort +
 der +
