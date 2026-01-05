@@ -19,7 +19,7 @@ and Carl Friedrich Krückebergusing the Petzen church records.
 == No. 10 Berenbusch Home of Johann Heinrich Krückeberg
 
 No. 10 Berenbusch is where the Jobst Heinrich Krückeberg family resided as
-shown by the numerous Petzen church register xref:genealogy:ancestry:josbst-hk-1765.adoc[records
+shown by the numerous Petzen church register xref:ancestry:josbst-hk-1765-events.adoc[records
 of its family members], all exclusively listing no. 10 Berenbusch as the - TODO: list all
 of the village/ort references here: Wohnorot, Dortschaften.
 
