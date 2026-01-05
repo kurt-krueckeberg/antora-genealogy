@@ -1,5 +1,10 @@
 = TODO
 
+== Find Burial Record for Ilse Anna Marie Elisabeth Schakel
+
+She was the 2^nd^ wife of Johann Heinrich (1744-1822), with whom they
+had three children.
+
 == Work on the .adoc files in m/background/underdevelopment
 
 See `~/gen/m/background/underdevelopment/todo.adoc` and `~/gen/m/background/todo.adoc`.
