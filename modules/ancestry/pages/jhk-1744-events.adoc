@@ -82,7 +82,7 @@ who also married in 1727?
 
 === Jobst Heinrich's Parents
 
-We know Jobst Heinrich was born to xref:petzen:PET-b-1765a.adoc["Johann Heinrich Krückebergs aus
+We know Jobst Heinrich was born to xref:petzen:PET-B-1765a.adoc["Johann Heinrich Krückebergs aus
 Berenbusch"]. Do we know that other children born to the Johann Heinrich were
 born to xref:petzen:PET-B-1767a.adoc[Johann Heinrich Kruckebergs aus Berenbusch
 mit seiner Ehefrau Anne Christine Elisabeth Seegers]. 
