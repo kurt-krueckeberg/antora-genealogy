@@ -11,15 +11,17 @@ On 21 March 1822, a Johann Heinrich Krückeberg died who was a Leibzüchter, a r
 
 * but still has a lifetime right to housing, support, and use of part of the property.
 
-His age is given as 78 years, 2 months and 3 weeks. Subtracting this precise age from 21 March 1822
-places his birth on 31 December 1743, a date on which no births occurred in the Petzen parish.
-However, on 19 January 1744, a Johann Heinrich Krückeberg was born, which is 78 years, 2 months and
-3 days (not 3 weeks) from 21 March 1822. Did the scribe accidently write "weeks" instead of "days"?
-Can we in any other way further establish that the Johann Heinrich Krückeberg who was born 19 January
-1744 is the same Johann Heinrich Krückeberg who died on 21 March 1822?
+His age is given as 78 years, 2 months and 3 weeks. Subtracting this precise
+age from 21 March 1822 places his birth on 31 December 1743, a date on which
+no births occurred in the Petzen parish. However, on 19 January 1744, a
+Johann Heinrich Krückeberg was born, which is 78 years, 2 months and 3 days
+(not 3 weeks) from 21 March 1822. Did the scribe accidently write "weeks"
+instead of "days"?  Can we in any other way further establish that the Johann
+Heinrich Krückeberg who was born 19 January 1744 is the same Johann Heinrich
+Krückeberg who died on 21 March 1822?
 
-Further points about Johann Heinrich are, on xref:petzen:PET-M-1773a.adoc[7 November 1773 the widower Johann Heinrich Krückeberg
-from Berenbusch marries marries Ilse Anna Marie Elisabeth née Schakel]. The odds of there being two
+Further points about Johann Heinrich are, on xref:petzen:PET-M-1773a.adoc[7 November 1773 the widower
+Johann Heinrich Krückeberg from Berenbusch marries marries Ilse Anna Marie Elisabeth née Schakel]. The odds of there being two
 Johann Heinrich Krückebergs from Berenbusch who are both widowers is negligible.
 
 [.narrow]
@@ -77,6 +79,17 @@ This is provide proof that **Jobst Heinrich was the inheriting son**
 who also married in 1727? 
 
 *Answer:* No because he apparently was dead: xref:petzen:PET-D-1759a.adoc[].
+
+=== Jobst Heinrich's Parents
+
+We know Jobst Heinrich was born to xref:petzen:PET-b-1765a.adoc["Johann Heinrich Krückebergs aus
+Berenbusch"]. Do we know that other children born to the Johann Heinrich were
+born to xref:petzen:PET-B-1767a.adoc[Johann Heinrich Kruckebergs aus Berenbusch
+mit seiner Ehefrau Anne Christine Elisabeth Seegers]. 
+
+=== Rösener as Sponsor
+
+Did Johann Heinrich(1744-1822)'s father married a Rösener at some point? 
 
 == To Find
 
