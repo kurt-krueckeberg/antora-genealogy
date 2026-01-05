@@ -91,7 +91,7 @@ s|Zahl s|Name des Kindes s|Zahl s|Geburtzeit +
 u. Geburtsort s|Taufzeit +
 u. +
 Taufort s|Name, Stand Religion +
-u. Geburts ort des Vaters s|Name, Religion +
+u. Geburtsort des Vaters s|Name, Religion +
 u. Geburtsort der +
 Mutter s|Wohnort + 
 der +
