@@ -15,6 +15,14 @@
 |*Residence*|no. 10 Berenbusch|
 |===
 
+[IMPORTANT]
+====
+This is the first time that *no. 10* Berenbusch occurs. Johann Heinrich was very likely
+the active Stätte holder of no. 10 Berenbusch. By 1802, when Johann Heinrich, who is then
+a widower, remarries, his *Stand* in the xref:petzen:PET-M-1802b.adoc[1802 marriage record]
+is *Leibzüchter*  
+====
+
 == Citation
 
 The August 27, 1773, burial of the stillborn sone of Johann Heinrich Krückeberg from No. 10 Berenbusch, 
@@ -40,7 +48,7 @@ d 27ten Aug ist des Johann Heinrich Krückebergs aus Beren-
         Burial                                                                     1773
 
 On  Aug[ust] 27 the stillborn son of Johann Heinrich Krückeberg from Berenbush
-        was buried
+    no. 10 was buried
 ....
 
 
