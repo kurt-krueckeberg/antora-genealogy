@@ -1,5 +1,13 @@
 = TODO
 
+== Work on the .adoc files in m/background/underdevelopment
+
+See `~/gen/m/background/underdevelopment/todo.adoc` and `~/gen/m/background/todo.adoc`.
+
+== Watch
+
+https://www.youtube.com/watch?v=rHfbVYAru7s
+ 
 == Records to help identify Johann Heinrich (1744-1822)
 
 From https://chatgpt.com/share/695aff31-7adc-8004-b9f0-cd0a5bb5c4fa

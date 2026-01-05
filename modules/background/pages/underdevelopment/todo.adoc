@@ -1,3 +1,6 @@
-Make the pages in this folder (/uderdevelopment) into a set of .adoc
+. Make the pages in this folder `./uderdevelopment` into a set of .adoc
 pages that exlain what a erhebliches Kolonat was and what the terms
 Kolon and other related terms mean.
+. Compare the final product with the file `land-holding.adoc` in the folder
+above.
+
