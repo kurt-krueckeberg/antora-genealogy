@@ -1,4 +1,2 @@
-* Understanding Terms 
-** xref:one-or-two-jobst-heinrichs.adoc[]
+* xref:one-or-two-jobst-heinrichs.adoc[]
 ** xref:record-conventions.adoc[]
-** xref:understanding-terms.adoc[]
