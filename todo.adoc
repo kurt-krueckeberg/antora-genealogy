@@ -3,7 +3,14 @@
 == Find Burial Record for Ilse Anna Marie Elisabeth Schakel
 
 She was the 2^nd^ wife of Johann Heinrich (1744-1822), with whom they
-had three children.
+had three children. I searched the 1st volum,ee from 1782-1784.
+
+Start at image 216 in 2nd volumne.
+
+== Find Rösener Birth Record
+
+Ilse Margaretha Rösener married Johann Heinirch in 1758. Her father was
+a sponsor? I am trying to confirm if the sponsor was her father.
 
 == Work on the .adoc files in m/background/underdevelopment
 
