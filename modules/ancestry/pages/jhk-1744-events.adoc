@@ -29,7 +29,7 @@ Johann Heinrich Krückebergs from Berenbusch who are both widowers is negligible
 
 * He dies at age of 78 years, 2 months and 3 weeks (maybe 3 days).
 * He is mentioned as a Leibzüchter when he xref:petzen:PET-M-1802b.adoc[marries on 11 April 1802] and when he
-xref:petzen:PET-D-1822a.adoc[dies on 21 March 1822]. For both events, his address is #10 Berenbusch.
+xref:petzen:PET-D-1822a.adoc[dies on 21 March 1822]. For both events, his address is no. 10 Berenbusch.
 However, when his wife is xref:petzen:PET-D-1819a.adoc[buried on 6 January 1819] "he" is described as  
 
 [quote]
@@ -44,7 +44,7 @@ xref:petzen:PET-M-1812a.adoc[wedding ceremony on 10 May 1812] shows. It is
 the "Place" where his wife, Philippine Dorothea nee Beucke died. This was
 the "most recent residence of the deceased". So if Johann Heinrich was
 staying there, too, at no. 13 Berenbusch.  Maybe that is why he is called an
-"Einlieger bei (at) #13 Berenbusch". He was a "tenant" there temporarily? 
+"Einlieger bei (at) no. 13 Berenbusch". He was a "tenant" there temporarily? 
 * The Johann Heinrich Krückeberg who married Ilse Anna Marie Elisabeth Schäkeln Schakele 7 Nov. 1773
 was a
 . widower and 
@@ -55,12 +55,12 @@ paternal grandson being named after his patern grandfather) evident?
 was a
 . widower
 . Leibzüchter
-. lived a #10 Berenbusch.
+. lived a no. 10 Berenbusch.
 * But when Philippine Dorothee née Beucke Krückeberg dies, her burial record states her husband, Johann
 Heinrich Krückeberg is an *Einlieger beÿ n.13 in Bärenbusch*. Most of the records involving Johann
-Heinrich refer to *# 10 Berenbusch* not *# 13 Berenbusch*.
+Heinrich refer to *no. 10 Berenbusch* not *no.13 Berenbusch*.
 +
-*NOTE*: The Bückeburg archive has: Stätte # 13 Berenbusch.
+*NOTE*: The Bückeburg archive has: Stätte no. 13 Berenbusch.
 * At his death in 1822, he is only survived by two sons. Yet the Johann Heinrich Krückeberg, who married
 Ilse Anna Marie Elisabeth Schekel, had apparently three children. 
   
@@ -223,7 +223,7 @@ Find the burial/death record of Anna Maria Elisabeth nee Schäkel/Schekel/Schake
 |
 died from childbirth complication
 
-died at #10 Berenbusch
+died at no. 10 Berenbusch
 
 wife of Johann Heinrich Krückeberg
 
