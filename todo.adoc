@@ -1,5 +1,11 @@
 = TODO
 
+== Proof Key: Case File Cover for NLA 689
+
+The case file cover explicitly mentions "J. Henr. Krückeberg no. 18 Berenbsuch" as a 
+Neubauer. This thus shows he was the eventual heir--I believe. Not sure why he is
+mentioned as a Neubauer?
+
 == Find Burial Record for Ilse Anna Marie Elisabeth Schakel
 
 She was the 2^nd^ wife of Johann Heinrich (1744-1822), with whom they
