@@ -2,7 +2,7 @@
 :page-role: very-wide notoc
 
 [[event-table-petzen-cfg-krueckeberg-family]]
-== Original Petzen Records Event Table for the Carl Friedrich Gottlieb Krückeberg Family
+== Event Table for the Carl Friedrich Gottlieb Krückeberg Family
 
 .Petzen Parish Records Event Table for Carl Friedrich Krückeberg Family
 [width="100%",cols="3%,8%,13%,11%,11%,9%,3%,9%,10%a,20%a,12%",options="header",]
