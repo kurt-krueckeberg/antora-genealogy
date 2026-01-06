@@ -1,8 +1,27 @@
 = TODO
 
-== Add NLA information to Event Tables
+== Add NLA Information to Event Tables
 
-Somewhere there is a chatgpt thread that discussses the best way to do this.
+Somewhere there is a chatgpt thread that discussses the best way to do structure
+the table to do this?
+
+Add Information such as:
+
+. We know that Johann Heinrich (1806-1879) owned no. 10 Berenbusch because
+the Colon who sold it in the fall of 1849 said he was doing so because he
+was emigrating soon to the U.S.
+. Carl Friedrich (born 1807) petitions to sell no. 18 Berenbusch in the fall
+of 1850 because he has relatives in America who are doing well, and he wants
+to join them in America.
+. Debt Johann Heinrich inherits....
+. His father's poor health...
+. Its financial impact.
+. Jobst Heinrich's father was an Ackervogt
+
+== Make the Presentation of the NLA component consistent in all modules
+
+Get rid of the anchors. Use separate documents liike modules 680 and 146.
+
 
 == Find Burial Record for Ilse Anna Marie Elisabeth Schakel
 
