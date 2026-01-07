@@ -20,14 +20,16 @@ and Carl Friedrich Krückebergusing the Petzen church records.
 
 No. 10 Berenbusch is where the Jobst Heinrich Krückeberg family resided as
 shown by the numerous Petzen church register xref:ancestry:jobst-hk-1765-events.adoc[records
-of its family members], all exclusively listing no. 10 Berenbusch as the - TODO: list all
-of the village/ort references here: Wohnorot, Dortschaften.
+of his family members], all exclusively listing no. 10 Berenbusch as place where 
+they live.
+
+TODO: list all of the village/ort references here: Wohnorot, Dortschaften.
 
 We know from case file link:[NLA BU, K 2, A Nr. 689] denotated "200 Reichtsthaler.. "
 No. 10 Be
 
 It is also where the Colon Krückeberg lived who petitioned the Rentkammer 
-in to xref:nla:139:krueckeberg-petition-to-sell.adoc[sell his holding
+to accept the xref:nla:139:krueckeberg-petition-to-sell.adoc[sell his holding
 at no. 10 Berenbusch] explaining
 
 [quote, TODO add source]
@@ -37,17 +39,28 @@ Ich bin willens, meine Kolonie zu verkaufen und nach Amerika auszuwandern...
 I have decided to sell my farmstead and to emigrate to America...
 ____
 
-Although his given names are not mentioned and he is only identified as "Colon
-Krückeberg", we know this is Johann Heinrich because it is he and his family who
-emigrated from Berenbusch in this same year and xref:immanuel:DEC-BIO-Krueckeberg-01[settle
+Although his given names are not mentioned, and he is only identified as "Colon
+Krückeberg" on the case file cover and throughout its documents, we know this is
+Johann Heinrich because it was he and his family who emigrated from Berenbusch
+in the fall of 1849 and xref:immanuel:DEC-BIO-Krueckeberg-01[settle
 in Union township, Adams CO, Indiana].
 
-TODO: quote information for the other 139 documents that add more details that also help
-to confirm the identity of Johann Heinrich like the xref:nla:139:doc1-1.adoc[petition of his mother],
-the widow of Jobst Heinrich, as well as add other important details.
+TODO: Is this redundant? Should it be mentioned--or was it already--above?
+The Immanuel Lutheran biography gives his correct birth date, parents and baptismal
+sponsors. The Petzen church registers confirm this. Thus Johann Heinrich was the
+Colon at no. 10 Berenbusch in 1849.
 
-TODO: We know his full name is not given in xref:nla:689:index[case file 689], but his late
-father is described as owning money to Hempel and Sons, a leather goods store....
+TODO: Johann Heinrich is described as a Neubauer at no. 18 Berenbusch...See
+xref:nla:146:ROOT:index.adoc[].
+
+TODO: quote information for the other 139 documents that add more details
+that also help to confirm the identity of Johann Heinrich like the
+xref:nla:139:doc1-1.adoc[petition of his mother], the widow of Jobst
+Heinrich, as well as add other important details.
+
+TODO: We know his full name is not given in xref:nla:689:index[case file
+689], but his late father is described as owning money to Hempel and Sons,
+a leather goods store....
 
 == How no. 18 Berenbusch Connects Johann Heinrich and Carl Friedrich
 
