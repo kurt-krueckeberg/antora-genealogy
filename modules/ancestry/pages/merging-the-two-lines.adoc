@@ -43,7 +43,7 @@ emigrated from Berenbusch in this same year and xref:immanuel:DEC-BIO-Krueckeber
 in Union township, Adams CO, Indiana].
 
 TODO: quote information for the other 139 documents that add more details that also help
-to confirm the identity of Johann Heinrich like the xref:nla:139:doc1.adoc[petition of his mother],
+to confirm the identity of Johann Heinrich like the xref:nla:139:doc1-1.adoc[petition of his mother],
 the widow of Jobst Heinrich, as well as add other important details.
 
 TODO: We know his full name is not given in xref:nla:689:index[case file 689], but his late
