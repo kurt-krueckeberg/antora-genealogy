@@ -1,5 +1,9 @@
 = TODO
 
+== Jobst Heinrich Krückeberg born 1733
+
+Why are there no other records of him?
+
 == Add NLA Information to Event Tables
 
 Somewhere there is a chatgpt thread that discussses the best way to do structure
