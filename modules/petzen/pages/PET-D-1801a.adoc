@@ -25,14 +25,17 @@
 
 |*Age at Death*| 60
 
-|*Father deceased*|
-
 |*Residence*| no. 10 Berenbusch
 |===
 
 [IMPORTANT]
 ====
 It is very possible that *Jobst* is incorrect, a scribal error, and her father was *Johann Heinrich*. 
+No. 10 Berenbusch was the home of Johann Heinrich Krückeberg. The first mention of Johann Heinrich
+living at no. 10 Berenbusch was on 27 August 1773 when a xref:petzen:PET-D-1773a.adoc[stillborn son
+of Johann Heinrich Krückeberg "aus Berenbusch no. 10" was buried].
+
+A Jobst Heinrich??????????
 ====
 
 == Citation
