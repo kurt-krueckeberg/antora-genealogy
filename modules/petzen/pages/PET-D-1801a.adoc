@@ -30,12 +30,16 @@
 
 [IMPORTANT]
 ====
-It is very possible that *Jobst* is incorrect, a scribal error, and her father was *Johann Heinrich*. 
-No. 10 Berenbusch was the home of Johann Heinrich Krückeberg. The first mention of Johann Heinrich
-living at no. 10 Berenbusch was on 27 August 1773 when a xref:petzen:PET-D-1773a.adoc[stillborn son
-of Johann Heinrich Krückeberg "aus Berenbusch no. 10" was buried].
+It is very probable that *Jobst* is incorrect, a scribal error, or the use of *Tochter (daughter)*
+meant "family daughter” in the social sense.
 
-A Jobst Heinrich??????????
+Jobst Heinrich Krückeberg did live at no. 10 Berenbusch, but he was born in 1765, and thus 
+was only around age 36. No. 10 Berenbusch was also the home of Johann Heinrich Krückeberg his
+father. 
+
+Burial entry names Jobst Heinrich Krückeberg as household reference (nachgelassen); Sophie
+Marie was a dependent resident of his household. Her biological father was almost certainly
+Johann Heinrich Krückeberg (†1759).
 ====
 
 == Citation
@@ -82,10 +86,18 @@ Auszehrung|60||März 17|März 19
 Years|Age +
 Weeks|died|buried
 
-|9|Sophie Marie Krückeberg, the blind-born daughter of the late Jobst Heinrich Krückeberg|Bärenbusch|10|Debility of Age +
+|9
+|Sophie Marie Krückeberg, born blind, a daughter belonging to the household of Jobst Heinrich Krückeberg.
+|Bärenbusch
+|10
+|Debility of Age +
 and +
 (lung) consumption/ +
-tuberculosis|60||March 17|March 19
+tuberculosis
+|60
+|
+|March 17
+|March 19
 |===
 
 
