@@ -51,7 +51,7 @@ sponsors. The Petzen church registers confirm this. Thus Johann Heinrich was the
 Colon at no. 10 Berenbusch in 1849.
 
 TODO: Johann Heinrich is described as a Neubauer at no. 18 Berenbusch...See
-xref:nla:146:ROOT:index.adoc[].
+xref:nla:146:index.adoc[].
 
 TODO: quote information for the other 139 documents that add more details
 that also help to confirm the identity of Johann Heinrich like the
