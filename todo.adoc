@@ -1,5 +1,12 @@
 = TODO
 
+== Examione use of "Krueckeberg aus Berenbusch"
+
+This use in the early birth records may reflect the use that when there is only one
+family of a given surname, say, Krueckeberg, then it is not necessary to mention the
+father's given name. Compare adjacent records to those using "Krueckeberg aus/in
+Berenbusch" for similiar usage.
+
 == Record for Death of Ilse Anna Marie Elisabeth née Schakel
 
 She married Johann Heinrich Krückeberg on 7 Nov. 1773. 
