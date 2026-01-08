@@ -1,0 +1,72 @@
+= 1730 Heinrich Arend Vahlsing Death
+:page-role: wide
+
+[.narrow]
+== Citation
+
+The 3 Jan. 1730 Burial record of Heinrich (Arends) Vahlsing is found on <<PET-D-1730a, image 147>> of the 
+Petzen Kirchenbuch "Verzeichnis der Getrauten und Gestorbenen 1641-1784".
+ 
+== Image 
+
+image::petzen-band1b-img147.png[title=Burial record for Heinrich Arends Vahlsing,link=self]
+
+[.narrow]
+== Transliteration and Translation
+
+.Transliteration
+[literal.bordered,subs="verbatim,quotes"]
+....
+Anno 1731
+
+den 3t. Januarÿ ist Henrich Vahlsing gewesener
+32 jähriger Schäfer auß dem Hochgr[äflichen]
+Vorwerde Höckersau begraben seines alters 63 Jahr
+....
+
+.Translation
+[literal.bordered,subs="verbatim,quotes"]
+....
+In the year 1731,
+on the 3rd of January, Henrich Vahlsing, formerly a shepherd,
+32 years of age, from the high-comital Vorwerk of Höckersau,
+was buried, being 63 years old.
+....
+
+=== Explanation of Vorwerk of Höckersau
+
+In the early-eighteenth-century territorial structure of Schaumburg-Lippe,
+a *Vorwerk* was an outlying agricultural estate that formed part of a
+larger lordly domain rather than an independent village holding. Such
+estates were owned directly by the territorial lord, in this case the Count
+of Schaumburg-Lippe, which is why the record describes it as *hochgräflich*
+(“high-comital”). A Vorwerk functioned as a productive extension of the
+comital economy, typically devoted to grain cultivation, sheep husbandry,
+or other estate-managed agriculture, and its output was intended to supply
+the lord’s household, administration, or revenues rather than to support a
+hereditary peasant family.
+
+The designation “Vorwerk of Höckersau” therefore does not identify a free
+village or a numbered peasant holding but names a specific estate unit
+administered as part of the comital lands. People associated with a
+Vorwerk, such as shepherds, farmhands, or overseers, lived and worked there
+by virtue of employment or assignment, not hereditary tenure. Their
+residence was administrative rather than civic, and they would not appear
+in land registers as holders of a *Stätte*, *Bauerngut*, or *Colonie*. In
+this burial entry, the phrase indicates that Henrich Vahlsing belonged to
+the workforce of the comital estate at Höckersau and that his social and
+legal position was tied to comital service rather than to ownership or
+tenancy of peasant land.
+
+Translated into English, “high-comital Vorwerk of Höckersau” is therefore
+best understood as “the outlying estate of Höckersau belonging to the
+count,” with *Vorwerk* left untranslated to preserve its specific
+administrative meaning.
+
+
+[bibliography]
+== Citations
+
+* [[[PET-D-1730a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/1ebf0fad1a/
+: 8 Jan. 2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche
+Schaumburg-Lippe > Petzen >  Verzeichnis der Getrauten und Gestorbenen 1641-1784, image 147 of 239

@@ -10,6 +10,8 @@ The 17 December 1730 baptism of Sophia Margarthe Bleeck is found on <<PET-B-1730
 
 image::petzen-band1a-img144-bleeck.png[align=left,title='Sophia Margarthe Bleeck baptism (Click to enlarge)',link=self]
 
+== Transliteration and Translation
+
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
