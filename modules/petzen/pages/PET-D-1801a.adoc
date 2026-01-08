@@ -7,10 +7,11 @@
 .Sophie Marie Krückeberg
 [%header,width=60%]
 |===
-|Name|late Father|Residence
+|Name|"Father"|Residence
 
 |Sophie Marie Krückeberg
-|Jobst Heinrich Krückeberg
+|Jobst Heinrich Krückeberg +
+(see comments below)
 |no. 10 Berenbusch
 |===
 
