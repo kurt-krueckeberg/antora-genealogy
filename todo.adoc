@@ -1,17 +1,24 @@
 = TODO
 
-== Add NLA Facts to Event Tables
+== Add NLA Facts to the Event Tables
 
-== Examione use of "Krueckeberg aus Berenbusch"
+== Examine use of "Krueckeberg aus Berenbusch"
 
-This use in the early birth records may reflect the use that when there is only one
-family of a given surname, say, Krueckeberg, then it is not necessary to mention the
-father's given name. Compare adjacent records to those using "Krueckeberg aus/in
-Berenbusch" for similiar usage.
+The use of only the surname and the omission of the given names of the
+father in the early birth records may mean there was only one Krückeberg
+couple-family name Krückeberg in Berenbusch, so it was not necessary to
+mention the father's full name. 
+
+*Plan:* Compare adjacent records to those using "Krueckeberg aus/in
+Berenbusch" for similiar surname-only usage and assess how many records
+use the father's fullname versus those than only use the surname.
 
 == Record for Death of Ilse Anna Marie Elisabeth née Schakel
 
-She married Johann Heinrich Krückeberg on 7 Nov. 1773. 
+She married Johann Heinrich Krückeberg on 7 Nov. 1773. She must be the
+"alte Krüeckeberg als Großmutter" in the 1792 baptism record of Jobst
+Heinrich Krückeberg's daughter. She would be Jobst step-mother since he
+was eight years old. 
 
 Perhaps her burial record is under her *maiden name* written in this manner:
 
