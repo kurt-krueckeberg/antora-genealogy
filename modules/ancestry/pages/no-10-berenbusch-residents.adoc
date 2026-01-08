@@ -15,7 +15,7 @@ Naturally, others may have dwelt at no. 10 Berenbusch but this table highlights 
 |===
 |Date|Person/Family|Event|Text Excerpt
 
-|27 Aug. 1773|Johann Heinrich Krückeberg|stillbirth son buried|On Aug. 27 the stillborn son of Johann Heinrich Krückeberg from Berenbush no. 10 was buried
+|27 Aug. 1773|Johann Heinrich Krückeberg|xref:petzen:PET-D-1773a.adoc[stillborn son buried]|On Aug. 27 the stillborn son of Johann Heinrich Krückeberg from Berenbush no. 10 was buried
 
 |2 Aug. 1790|Johann Heinrich Krückeberg|xref:petzen:PET-M-1790a.adoc[marriage]| Johann Heinrich Kruckeberg aus Berenbusch No 10 
 
