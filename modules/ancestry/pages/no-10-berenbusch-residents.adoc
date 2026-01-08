@@ -11,6 +11,11 @@ lists the Petzen records that explicitly mention "no. 10 Berenbusch" and not mer
 Naturally, others may have dwelt at no. 10 Berenbusch but this table highlights those instances were
 "no. 10 Berenbusch (or Bärenbusch or Behrenbusch)" is explicitly stated.
 
+=== Analysis
+
+Carl Friedrich Gottlieb was the son of Johann Heinrich Krückeberg and his wife Anna Maria née Schekel, so
+he lived at no. 10 Berenbusch. TODO: Finissh 
+
 == Residents Explicitly Mentioned as Living at no. 10 Berenbusch
 
 [cols="10%,25%a,25%,40%a",options="header"]
