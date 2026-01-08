@@ -49,8 +49,9 @@ In the baptism record the *“die alte Krückebergen als Großmutter (the old
 Krückeberg, as grandmother)”* most plausibly refers to *Ilse Anna Maria
 Elisabeth née Schakeln*, the second wife of Johann Heinrich Krückeberg,
 Jobst Heinrich Kruückeberg's father. She was the stepmother of Jobst
-Heinrich Krückeberg, and therefore the social (step-)grandmother of his
-daughter baptized in 1792.
+Heinrich Krückeberg (whose mother, Anna Christine Elisabeth Seeger, 
+xref:PET-D-1773b.adoc[died] when he was eight), and therefore the social
+(step-)grandmother of his daughter baptized in 1792.
 ====
 
 == Citations
