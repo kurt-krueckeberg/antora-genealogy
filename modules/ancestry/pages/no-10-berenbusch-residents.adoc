@@ -1,0 +1,29 @@
+= Residents of no. 10 Berenbusch
+
+These Petzen records explicitly mention "no. 10 Berenbusch" and not merely Berenbusch:
+
+[cols="10%,25%,25%,40%",options="header"]
+|===
+|Date|Person/Family|Event|Text Excerpt
+
+|27 Aug. 1773|Johann Heinrich Krückeberg|stillbirth son buried|On Aug. 27 the stillborn son of Johann Heinrich Krückeberg from Berenbush no. 10 was buried
+
+|2 Aug. 1790|Johann Heinrich Krückeberg|xref:petzen:PET-M-1790a.adoc[marriage]| Johann Heinrich Kruckeberg aus Berenbusch No 10 
+
+|1 Feb. 1792|Philippine Caroline Christine Krückeberg|xref:petzen:PET-B-1792a.adoc[birth]|des Jobst Heinrich Krückeberg Schusters in Berenbusch No 10
+
+|17 Mar. 1801|Sophie Marie Krückeberg|xref:petzen:PET-D-1801a.adoc[death]|Ortschaft and N: Bärenbusch 10
+
+|13 Mar. 1803|Carl Friedrich Gottlieb Krückeberg|xref:petzen:PET-M-1803a.adoc[groom at his wedding]| Ortschaft of groom: Berenbusch no. 10
+
+|12 Aug. 1806|Johann Heinrich Krückeberg|xref:petzen:PET-B-1806a.adoc[birth]|Wohnort des Eltern: no. 10 in Berenbusch
+
+|1811| Anne Christine Leonore Krückeberg|xref:petzen:PET-C-1811a.adoc[confirmation]|Wohort der Vaters u. der
+Mutter: Bärenbusch n. 10
+
+|23 Feb. 1812|Philippine Caroline Christine Krückeberg|xref:petzen:PET-M-1812b.adoc[marriage]|Tochter des Jobst Heinr. Kruckeberg n. 10 in Bärenbusch. 
+
+|21 Apr. 1816|Sophie Wilhelmine Krückeberg|xref:petzen:PET-C-1816a.adoc[Confirmation]| Sophie Wilhelmine Krückebergs. Bärenbusch n. 10
+
+|21 Mar. 1822|Johann Heinrich Krückeberg|xref:petzen:PET-C-1822a.adoc[death]|Johann Heinrich Krückeberg, Leibzüchter auf no. 10 in Bärenbusch.
+|===

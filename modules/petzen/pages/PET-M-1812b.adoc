@@ -45,12 +45,15 @@
 ====
 In 19th-century German church records:
 
-* Individuals were often identified by village and house number associated with the head of household — usually the father.
+* Individuals were often identified by village and house number associated
+  with the head of household — usually the father.
 
-* This applied to both deceased and living fathers, and often included professions.
+* This applied to both deceased and living fathers, and often included
+  professions.
 
-* Even if the son or daughter still lived at that house, the address (when it immediately follows the father's
-name) is still formally associated with the father in these records.
+* Even if the son or daughter still lived at that house, the address (when
+  it immediately follows the father's name) is still formally associated
+with the father in these records.
 ====
 
 
@@ -82,7 +85,7 @@ image::petzen-band2-img27-right-1.jpg[align=left,title="Click to enlarge",link=s
 |Zahl |Name, Stand, Religion u. Eltern des Bräutigams |Name, Religion Geburt u. Wohnort der Brat |Zeit u. Ort  der Proclamation |Zeit u. Ort der Kopulation |der kopulirende Prädiger |Kopulations Zeugen |Bemerkungen
 
 |1 
-|Junggeselle Friedrich  Wilhelm Watermann, Colonus aus n. 11 in Nordhotz. Luth.  Conf. und jetzt 21. Jarhe alt +
+|Junggeselle Friedrich Wilhelm Watermann, Colonus aus n. 11 in Nordhotz. Luth.  Conf. und jetzt 21. Jarhe alt +
 geb. 29.2.1792 
 |Jungfrau Philippine Caroline Krückeberg, Tochter des Jobst Heinr. Kruckeberg n. 10 in Bärenbusch. Luth. Conf.  und
 jetzt 21. Jahr alt +

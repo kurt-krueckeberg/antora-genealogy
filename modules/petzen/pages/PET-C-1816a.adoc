@@ -3,7 +3,7 @@
 
 == Family Relationship and Other Facts
 
-.Confirmand Facts
+.21 April 1816 Confirmant Facts
 [%header,cols="4,4,3,1,2",width="80%"]
 |===
 |Name|Date|Address|Approx Age| Approx. Birth Year
@@ -13,9 +13,10 @@
 
 == Citation
 
-The confirmation of Sophie Wilhelmine Krückeberg in 1816, on Sonntag Quadsimodogeniti (the 1^st^ Sunday After Easter), 
-appears on <<PET-C-1816a, image 211>>, on page 446, entry 16, of the "Verzeichnis der Getauften, Konfirmierten,
-Getrauten und Gestorbenen 1785-1827"
+The confirmation of Sophie Wilhelmine Krückeberg on 21 April 1816, on Sonntag
+Quadsimodogeniti (the 1^st^ Sunday After Easter), appears on <<PET-C-1816a,
+image 211>>, on page 446, entry 16, of the "Verzeichnis der Getauften,
+Konfirmierten, Getrauten und Gestorbenen 1785-1827"
 
 == Page 446, Header Transliteration and Translation
 
@@ -62,7 +63,8 @@ image::petzen-band2-img211-446.jpg[align=left,title="Click to enlarge",link=self
 [bibliography]
 == Citations
 
-* [[[PET-C-1816a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/1922294e60/ : 30 April 2025),
-path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
-Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 211 of 357
+* [[[PET-C-1816a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_
+  (https://www.archion.de/p/1922294e60/ : 30 April 2025), path: Niedersachsen > Niedersächsisches Landesarchiv >
+Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften,
+Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 211 of 357
 

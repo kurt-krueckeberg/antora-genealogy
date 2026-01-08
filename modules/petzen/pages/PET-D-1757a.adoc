@@ -21,9 +21,10 @@ This is almost certainly the xref:petzen:PET-B-1746a.adoc[Anna Louisa Eleonore K
 [.narrow]
 == Citation
 
-The January 16, 1757, burial of the born-blind Louisa Eleonore Krückeberg of the "Krückebergs at Berenbusch"
-appears on <<PET-D-1757a, image 178>>, on the left-hand page, of the Petzen "Verzeichnis der Getrauten und Gestorbenen,
-1641-1784".
+The January 16, 1757, burial of the born-blind Louisa Eleonore Krückeberg
+of the "Krückebergs at Berenbusch" appears on <<PET-D-1757a, image 178>>,
+on the left-hand page, of the Petzen "Verzeichnis der Getrauten und
+Gestorbenen, 1641-1784".
 
 == Image
 
@@ -36,7 +37,7 @@ image::petzen-band1b-img178-left.jpg[title="Burial of Louisa Eleonore Krückeber
 ....
 1757             Begraben                                                                 
 d 28t Jan. Louisa Eleonore Krückebergs
-      des Krückebergs zu Berenbusch blind geb. Tochter begr. 10 [Ja?]
+      des Krückebergs zu Berenbusch blind geb. Tochter begr. 10 [Jahre]
 ....
 
 .Translation

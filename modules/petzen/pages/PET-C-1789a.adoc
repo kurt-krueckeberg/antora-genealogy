@@ -14,13 +14,15 @@ Church|Berenbusch
 
 == Citation
 
-The confirmation of Christina Krückeberg, on 19 April 1789, on Quasimodogeniti (the 1^st^ Sunday After Easter),
-is found on <<PET-C-1789a, page 415 entry 10>> of Petzen Kirchenbuch volume Verzeichnis der Getauften, Konfirmierten,
-Getrauten und Gestorbenden 1785-1827.
+The confirmation of Christina Krückeberg, on 19 April 1789, on
+Quasimodogeniti (the 1^st^ Sunday After Easter), is found on <<PET-C-1789a,
+page 415 entry 10>> of Petzen Kirchenbuch volume Verzeichnis der Getauften,
+Konfirmierten, Getrauten und Gestorbenden 1785-1827.
 
 == Page 405
 
-Image 190 shows the recorded name of Christina Krückebergen of Berenbusch listed as entry 10 among those confirmed in 1789:
+Image 190 shows the recorded name of Christina Krückebergen of Berenbusch
+listed as entry 10 among those confirmed in 1789:
 
 image::petzen-band2-img190-405.jpg[title="Confirmati Dominica Quasimodogeniti 1789, on page 405 (Click to enlarge)",link=self]
 

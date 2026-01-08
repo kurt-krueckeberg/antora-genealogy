@@ -3,7 +3,7 @@
 
 == Family Relationship and Other Facts
 
-.Confirmant's Family Group
+.14 April 1811 Confirmant's Family Group
 [cols="2,4,2,2",width="55%"]
 |===
 ||Name or Address|Child's Birthdate|Date of Confirmation
@@ -19,9 +19,10 @@
 
 == Citation
 
-The confirmation of Chrisinte Louise Krückeberg in 1811 on the 2^nd^ Sunday
-after Easter(Qadsimodogeniti) is entry 20, on <<PET-C-1811a, pages 438 and 439>>, on entry #20,
-of Petzen Kirchenbuch "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
+The confirmation of Chrisinte Louise Krückeberg, on 14 April 1811, on the
+2^nd^ Sunday after Easter(Qadsimodogeniti) is entry 20, on <<PET-C-1811a,
+pages 438 and 439>>, on entry #20, of Petzen Kirchenbuch "Verzeichnis der
+Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
 === Header Pages 438 Header
 

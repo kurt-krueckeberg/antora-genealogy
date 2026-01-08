@@ -32,10 +32,11 @@
 ****
 [NOTE]
 ====
-The term **„Leibzüchter“** is an old and regionally specific German term, particularly used in areas
-like Schaumburg-Lippe, that refers to a retired farmer who retains a life estate on a farm--someone
-who has passed the working operation of the farm to a successor (usually a son) but continues to
-live on the farm with guaranteed rights.
+The term **„Leibzüchter“** is an old and regionally specific German term,
+particularly used in areas like Schaumburg-Lippe, that refers to a retired
+farmer who retains a life estate on a farm--someone who has passed the
+working operation of the farm to a successor (usually a son) but continues
+to live on the farm with guaranteed rights.
 
 **Precise English Translations**
 
@@ -108,7 +109,7 @@ Leibzüchter(in):: life-annuitant (H); person living on a Leibzucht or life esta
 |Zahl |Name, Stand, Religion, Gewerbe, Geburts u. bisheriger Wohnort des Vestorbene |Zeit u. Ort des Todes u. des Begräbenises |Ursaches Todes |Alter |Ledig oder verheÿrathet |Hinterbliebende |Bemerkerungen
 
 |5
-|Johann Heinrich Krückeberg, Leibzüchter auf no. 10 in Bärenbusch. Uth. Conf. 
+|Johann Heinrich Krückeberg, Leibzüchter auf no. 10 in Bärenbusch. Luth. Conf. 
 |starb d. 21ten März morgens 10 Uhr in Bärenbusch, u. wurde begraben d. 24tne März in Petzen
 |Altersschwäche
 |in einem Alter von 78 Jahren 2 Monten 3 Wochen
