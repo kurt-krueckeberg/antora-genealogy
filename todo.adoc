@@ -2,36 +2,10 @@
 
 == Add NLA Facts to the Event Tables
 
-== Examine use of "Krueckeberg aus Berenbusch"
+Use the new event table design shown in `m/ancestry/p/new-event-table-design.adoc`.
 
-The use of only the surname and the omission of the given names of the
-father in the early birth records may mean there was only one Krückeberg
-couple-family name Krückeberg in Berenbusch, so it was not necessary to
-mention the father's full name. 
-
-*Plan:* Compare adjacent records to those using "Krueckeberg aus/in
-Berenbusch" for similiar surname-only usage and assess how many records
-use the father's fullname versus those than only use the surname.
-
-== Record for Death of Ilse Anna Marie Elisabeth née Schakel
-
-She married Johann Heinrich Krückeberg on 7 Nov. 1773. She must be the
-"alte Krüeckeberg als Großmutter" in the 1792 baptism record of Jobst
-Heinrich Krückeberg's daughter. She would be Jobst step-mother since he
-was eight years old. 
-
-Perhaps her burial record is under her *maiden name* written in this manner:
-
-Ilse Anna Marie Elisabeth Schakel .... des Johann Heinrich Krückebergs Ehehfrau.
-
-== Jobst Heinrich Krückeberg born 1733
-
-Why are there no other records of him?
-
-== Add NLA Information to Event Tables
-
-Somewhere there is a chatgpt thread that discussses the best way to do structure
-the table to do this?
+Read through the NLA documents looking for the evidence they contain, direct
+or indirect. Get as much genealogical value out of them as possible.
 
 Add Information such as:
 
@@ -46,30 +20,16 @@ to join them in America.
 . Its financial impact.
 . Jobst Heinrich's father was an Ackervogt
 
-== Make the Presentation of the NLA component consistent in all modules
+== Examine use of "Krueckeberg aus Berenbusch"
 
-Get rid of the anchors. Use separate documents liike modules 680 and 146.
+The use of only the surname and the omission of the given names of the
+father in the early birth records may mean there was only one Krückeberg
+couple-family name Krückeberg in Berenbusch, so it was not necessary to
+mention the father's full name. 
 
-
-== Find Burial Record for Ilse Anna Marie Elisabeth Schakel
-
-She was the 2^nd^ wife of Johann Heinrich (1744-1822), with whom they
-had three children. I searched the 1st volum,ee from 1782-1784.
-
-Start at image 216 in 2nd volumne.
-
-== Find Rösener Birth Record
-
-Ilse Margaretha Rösener married Johann Heinirch in 1758. Her father was
-a sponsor? I am trying to confirm if the sponsor was her father.
-
-== Work on the .adoc files in m/background/underdevelopment
-
-See `~/gen/m/background/underdevelopment/todo.adoc` and `~/gen/m/background/todo.adoc`.
-
-== Watch
-
-https://www.youtube.com/watch?v=rHfbVYAru7s
+*Plan:* Compare adjacent records to those using "Krueckeberg aus/in
+Berenbusch" for similiar surname-only usage and assess how many records
+use the father's fullname versus those than only use the surname.
  
 == Records to help identify Johann Heinrich (1744-1822)
 
@@ -83,19 +43,46 @@ identified as father of Jobst Heinrich Krückeberg. I only need the earliest
 occurrence or confirmation that none exists.
 ____
 
+
+== Look Record for Death of Ilse Anna Marie Elisabeth née Schakel
+
+She married Johann Heinrich Krückeberg on 7 Nov. 1773. She must be the
+"alte Krüeckeberg als Großmutter" in the 1792 baptism record of Jobst
+Heinrich Krückeberg's daughter. She would be Jobst step-mother since he
+was eight years old. 
+
+So her death would have occurred between the 1792 baptisam an 1802 when
+Johann Heinrich married for the third time.
+
+*Note:* Perhaps her burial record is under her *maiden name* written in this manner:
+
+Ilse Anna Marie Elisabeth Schakel .... des Johann Heinrich Krückebergs Ehehfrau.
+== Find Burial Record for Ilse Anna Marie Elisabeth Schakel
+
+She was the 2^nd^ wife of Johann Heinrich (1744-1822), with whom they
+had three children. I searched the 1st volum,ee from 1782-1784.
+
+Start at image 216 in 2nd volumne.
+
+== Jobst Heinrich Krückeberg born 1733
+
+Why are there no other records of him?
+
+== Find Rösener Birth Record
+
+Ilse Margaretha Rösener married Johann Heinirch in 1758. Her father was
+a sponsor? I am trying to confirm if the sponsor was her father.
+
+== Work on the .adoc files in m/background/underdevelopment
+
+See `~/gen/m/background/underdevelopment/todo.adoc` and `~/gen/m/background/todo.adoc`.
+
+== Watch
+
+https://www.youtube.com/watch?v=rHfbVYAru7s
 == Schamerloh Records in Buchholz
 
 Find them.
-
-== Find Purchase of no. 10 Berenbusch by Jobst Heinrich
-
-Ask Chatgpt this the question of how to find the purchase or inheritance
-of this holding, after explaining what documents I have already found
-and what they tell us.
-
-== Use a new Event Table...
-
-Merge what is in `~/gen/m/ancestry/p/new.adoc` and `~/gen/m/ancesty/p/event-tables.adoc`.
 
 == Add Links to m/study/Understanding Terms adoc page
 
