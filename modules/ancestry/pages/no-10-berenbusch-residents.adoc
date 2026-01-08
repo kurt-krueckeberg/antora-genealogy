@@ -1,6 +1,9 @@
 = Residents of no. 10 Berenbusch
 
-These Petzen records explicitly mention "no. 10 Berenbusch" and not merely Berenbusch:
+To get an idea of who is explicitly mentioned as living at *no. 10 Berenbusch* and when, this table
+lists the Petzen records that explicitly mention "no. 10 Berenbusch" and not merely *Berenbusch*.
+Naturally, others may have dwelt at no. 10 Berenbusch but this table highlights those instances were
+"no. 10 Berenbusch (or Bärenbusch or Behrenbusch)" is explicitly stated.
 
 [cols="10%,25%,25%,40%",options="header"]
 |===
@@ -11,6 +14,8 @@ These Petzen records explicitly mention "no. 10 Berenbusch" and not merely Beren
 |2 Aug. 1790|Johann Heinrich Krückeberg|xref:petzen:PET-M-1790a.adoc[marriage]| Johann Heinrich Kruckeberg aus Berenbusch No 10 
 
 |1 Feb. 1792|Philippine Caroline Christine Krückeberg|xref:petzen:PET-B-1792a.adoc[birth]|des Jobst Heinrich Krückeberg Schusters in Berenbusch No 10
+
+|14 Feb. 1798|Anne Christine Eleonore|xref:petzen:PET-B-1798a.adoc[birth]|Haus Nro and Orstschaft: 10 Bärenbusch
 
 |17 Mar. 1801|Sophie Marie Krückeberg|xref:petzen:PET-D-1801a.adoc[death]|Ortschaft and N: Bärenbusch 10
 
