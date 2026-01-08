@@ -1,9 +1,15 @@
 = Residents of no. 10 Berenbusch
+:page-role: wide
+
+[.narrow]
+== Table Explained
 
 To get an idea of who is explicitly mentioned as living at *no. 10 Berenbusch* and when, this table
 lists the Petzen records that explicitly mention "no. 10 Berenbusch" and not merely *Berenbusch*.
 Naturally, others may have dwelt at no. 10 Berenbusch but this table highlights those instances were
 "no. 10 Berenbusch (or Bärenbusch or Behrenbusch)" is explicitly stated.
+
+== Table
 
 [cols="10%,25%,25%,40%",options="header"]
 |===
