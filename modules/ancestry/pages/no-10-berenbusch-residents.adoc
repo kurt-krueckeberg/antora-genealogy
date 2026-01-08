@@ -1,7 +1,7 @@
 = All Instances of no. 10 Berenbusch
 :page-role: wide
 
-TODO: Add instances for NLA documents
+TODO: Add instances of "no. 10 Berenbusch" from Bückeburg NLA documents
 
 [.narrow]
 == Table Explained
