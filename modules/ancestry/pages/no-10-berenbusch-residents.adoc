@@ -1,5 +1,7 @@
-= Residents of no. 10 Berenbusch
+= All Instances of no. 10 Berenbusch
 :page-role: wide
+
+TODO: Add instances for NLA documents
 
 [.narrow]
 == Table Explained
