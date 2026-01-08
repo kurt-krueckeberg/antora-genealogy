@@ -36,5 +36,5 @@ Mutter: Bärenbusch n. 10
 
 |21 Apr. 1816|Sophie Wilhelmine Krückeberg|xref:petzen:PET-C-1816a.adoc[Confirmation]| Sophie Wilhelmine Krückebergs. Bärenbusch n. 10
 
-|21 Mar. 1822|Johann Heinrich Krückeberg|xref:petzen:PET-C-1822a.adoc[death]|Johann Heinrich Krückeberg, Leibzüchter auf no. 10 in Bärenbusch.
+|21 Mar. 1822|Johann Heinrich Krückeberg|xref:petzen:PET-D-1822a.adoc[death]|Johann Heinrich Krückeberg, Leibzüchter auf no. 10 in Bärenbusch.
 |===
