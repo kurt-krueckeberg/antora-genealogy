@@ -25,7 +25,7 @@ Naturally, others may have dwelt at no. 10 Berenbusch but this table highlights 
 
 |17 Mar. 1801|Sophie Marie Krückeberg|xref:petzen:PET-D-1801a.adoc[death]|Ortschaft and N: Bärenbusch 10
 
-|24 Jan 1803| Sophie Wilhelmine Krückeberg|xref:PET-B-1803a.doc[birth]|Dortschaft u. Nr: Berenbusch 10
+|24 Jan 1803| Sophie Wilhelmine Krückeberg|xref:petzen:PET-B-1803a.doc[birth]|Dortschaft u. Nr: Berenbusch 10
 
 |13 Mar. 1803|Carl Friedrich Gottlieb Krückeberg|xref:petzen:PET-M-1803a.adoc[groom at his wedding]| Ortschaft of groom: Berenbusch no. 10
 
