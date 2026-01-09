@@ -2,21 +2,20 @@
 
 == Where Did Carl Friedrich Gottlieb's Sibling Live?
 
-Look for the marriage record of Johann Friedrich Gottlieb's siblings, who
-have the same mother as he did. Look for their confirmation and marriage
-records. If they married in Petzen, we can find out their address.  If I
-can find one or two of their confirmation and marriage records, then I can
-check and see if they also lived at number 10 Berenbusch? 
+It will be time consuming, but if one looks for the confirmation and
+marriage record of Johann Friedrich Gottlieb's siblings. Their marriage
+records will exist if they married in Petzen. They will have their address,
+and we can learn if they lived at no. 10 Berenbusch.
 
 == Add NLA Facts to the Event Tables
 
 Use the new event table design shown in `m/ancestry/p/new-event-table-design.adoc`.
 
-Read through the NLA documents looking for the evidence they contain, direct
-or indirect. Get as much genealogical value out of them as possible.
+Read through and add to the respective event tables the information in the NLA documents
 
 Add Information such as:
 
+. Jobst Heinrich petitioned to enlarge is yard and garden 1808-1810.
 . We know that Johann Heinrich (1806-1879) owned no. 10 Berenbusch because
 the Colon who sold it in the fall of 1849 said he was doing so because he
 was emigrating soon to the U.S.
