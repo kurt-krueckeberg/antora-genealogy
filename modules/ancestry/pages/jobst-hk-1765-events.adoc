@@ -68,8 +68,8 @@ and local land management.
 
 We know that by 1808 Jobst Heinrich was the holder, the Colon, of no. 10
 Berenbusch. His father is mentioned as a Leibzüchter in his
-xref:petzen:1802b.adoc[1802 remarriage] and in his
-xref:petzen:PET-D-1802a.adoc[1822 burial record]. On May 29, 1808, Jobst
+xref:petzen:PET-M-1802b.adoc[1802 remarriage] and in his
+xref:petzen:PET-D-1822a.adoc[1822 burial record]. On May 29, 1808, Jobst
 Heinrich petitioned the Rentkammer to enlarge his yard and garden with
 adjacent land. He is described as a Colon on the
 xref:nla:1237:cover.adoc[case file cover] and in several document (like
