@@ -175,6 +175,25 @@ sponsor. She is still alive! Who would this be?
 |
 |xref:petzen:PET-B-1798a.adoc[]
 
+|Petition before Rentkammer
+|
+|
+|
+|
+|
+|
+|
+|In the documents and the case file cover, Jobst Heinrich is *Colon* of no.
+10 Berenbusch. He is the holder of the Stätte.
+
+Document 2 in the case file tells us the Stätte was a Brinksitzt,
+a small edge-of-village holding. It tells us:
+
+* Nr. 10 was *not* a full farm
+* Jobst Heinrich was *not* an agricultural farmer
+* His household was a *craftsman’s holding*
+|xref:nla:doc1.adoc[]
+
 |Ba
 |18 Jan. 1798
 |Anne Christine Eleonore Krückeberg
