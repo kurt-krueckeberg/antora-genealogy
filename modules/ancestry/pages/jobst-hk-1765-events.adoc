@@ -207,7 +207,7 @@ a small edge-of-village holding. It tells us:
 * Nr. 10 was *not* a full farm
 * Jobst Heinrich was *not* an agricultural farmer
 * His household was a *craftsman’s holding*
-|xref:nla:doc1.adoc[]
+|xref:nla:1237:doc1.adoc[]
 
 |Ba
 |18 Jan. 1798
