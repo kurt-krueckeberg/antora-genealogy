@@ -1,5 +1,13 @@
 = TODO
 
+== Where Did Carl Friedrich Gottlieb's Sibling Live?
+
+Look for the marriage record of Johann Friedrich Gottlieb's siblings, who
+have the same mother as he did. Look for their confirmation and marriage
+records. If they married in Petzen, we can find out their address.  If I
+can find one or two of their confirmation and marriage records, then I can
+check and see if they also lived at number 10 Berenbusch? 
+
 == Add NLA Facts to the Event Tables
 
 Use the new event table design shown in `m/ancestry/p/new-event-table-design.adoc`.
