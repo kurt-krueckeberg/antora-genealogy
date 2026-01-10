@@ -295,14 +295,16 @@ Father is a Guild Master
 
 |P
 |Sep. 1808
-|Entire Jobst Heinrich family
-|Jobst Heinrich Krückeberg
-|Anna Christine Philippine nee Tegtmeier
+|Jobst Heinrich
+|
+|
 |
 |
 |Evesen
 |11
-|Jobst Heinrich is an Einlieger at Wilharms, #11 in Evesen.
+|Jobst Heinrich is an Einlieger (lodger) at Wilharms, #11 in Evesen.
+
+His occupation: tailor
 |xref:nla:146:doc1.adoc[]
 
 |C
