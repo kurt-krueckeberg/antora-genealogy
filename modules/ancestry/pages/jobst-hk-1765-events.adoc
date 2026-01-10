@@ -117,6 +117,7 @@ sponsor. She is still alive! Who would this be?
 |*Confirmation* |*C*
 |*Marriage* |*M*
 |*Death / Burial* |*D*
+|*Petition before Rentkammer* |*P*
 |===
 
 === Event Table
@@ -188,7 +189,7 @@ sponsor. She is still alive! Who would this be?
 |
 |xref:petzen:PET-B-1798a.adoc[]
 
-|Petition before Rentkammer
+|P
 |29 May 1798 +
 to 1810
 |
