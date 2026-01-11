@@ -305,6 +305,8 @@ Father is a Guild Master
 |Jobst Heinrich is an Einlieger (lodger) at Wilharms, #11 in Evesen.
 
 His occupation: tailor
+
+He petitions to purchase a new holding in Berenbusch
 |xref:nla:146:doc1.adoc[]
 
 |C
