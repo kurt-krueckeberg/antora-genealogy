@@ -162,8 +162,9 @@ getauft: Gev[atter]. Fahlsings Sohn aus Eversen
 [[prospective]]
 === Prospective Secular Records for Parentage of Krückeberg Children Born in 1736, 1741, 1744, 1746 and 1750.
 
-These secular records should be examined for Krückebergs in the time period of 1700 to circa 1760.
-I would like *TIF* images of pages in these documents were Krückebergs in Berenbusch are mentioned.
+These secular records should be examined for Krückebergs in the time period
+of 1700 to circa 1760.  I would like *TIF* images of pages in these
+documents were Krückebergs in Berenbusch are mentioned.
 
 [cols="2,6a,1",width="75%"]
 |===
@@ -264,7 +265,6 @@ it.
 
 I would also like transcription for the records below, which are approximate
 dates.
-
 
 === Petzen Marriage Records to Confirm
 
