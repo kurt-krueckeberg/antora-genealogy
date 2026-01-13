@@ -59,6 +59,9 @@ NOTE: Unlike the other baptism entries where the date appears first, the date of
 written above the father's name, apparently the pastor forgot to start the entry with the date and had to insert it. 
 **** 
 
+[.narrow]
+== Transliteration and Translation
+
 .Transliteration 
 [literal.bordered,subs="verbatim,quotes"]
 ....
