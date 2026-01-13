@@ -42,6 +42,7 @@ an abbreviation for it.
 ====
 ****
 
+[.narrow]
 == Transliteration and Translation
 
 .Transliteration 
