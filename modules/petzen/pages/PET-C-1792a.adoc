@@ -5,32 +5,52 @@
 
 The confirmation of Carl Friedrich Gottlieb Krückeberg is on <<PET-C-1792a, page 407 entry 2>> of Petzen Kirchenbuch volume "V".
 
-== Page 407
+== Image of Confirmation
 
 Image 191, on page 407, shows Carl Friedrich Gottlieb Kruckeberg's confirmation as entry 3 among those confirmed in 1792:
 
 image::petzen-band2-img191-407.jpg[title="Carl Friedrich Gottlieb Kruckeberg, Confirmatin 1789, on page 407 (Click to enlarge)",link=self]
 
 [NOTE]
+====
 _Dominica_ 's meaning uncertain at present.
+====
 
-[caption="Transliteration and Translation: "]
-.Page 407
-[%autowidth,frame="none"]
-|===
->s|407
+[.narrow]
+== Transliteration and Translation
 
-^s|Confirmati (Confirmed)
+.Transliteration
+[literal.bordered,subs="verbatim,quotes"]
+....
+                                                       407
 
-^s|Domoinica Quasimodogeniti (2nd Sunday after Easter) 1792
+               Confirmati
+    Domoinica Quasimodogeniti 1792
 
-|1) Johann Gottlieb Roefener aus (from) Petzen
+1) Johann Gottlieb Roefener aus Petzen
 
-|2) Carl Friedrich Gottlieb Kruckeberg aus (from) Berenbusch
-|===
+2) Carl Friedrich Gottlieb Kruckeberg aus Berenbusch
+....
+
+.Translation
+[literal.bordered,subs="verbatim,quotes"]
+....
+                                                       407
+               Confirmed
+    2nd Sunday after Easter 1792
+
+1) Johann Gottlieb Roefener aus Petzen
+
+2) Carl Friedrich Gottlieb Kruckeberg aus Berenbusch
+....
 
 
 [bibliography]
 == Citations
 
-* [[[PET-C-1792a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/c62d7b4faa/ : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 191 of 357
+* [[[PET-C-1792a]]] "Archion Protestant Kirchenbücher Portal", database
+with images, _Archion_ (http://www.archion.de/p/c62d7b4faa/ : 10 October
+2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher
+der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
+1785-1827 > Image 191 of 357

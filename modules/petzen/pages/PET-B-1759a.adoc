@@ -42,7 +42,6 @@ image::petzen-band1a-img200.jpg[align=left,title='Ilse Margarehta Krückeberg, r
 
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
-
 ....
 1759                  Getaufte
 
