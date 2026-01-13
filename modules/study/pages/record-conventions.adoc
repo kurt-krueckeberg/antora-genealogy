@@ -51,7 +51,8 @@ Now look closely at the Rentkammer language:
 
 === a) Designatio Actorum
 
-.Source: xref:146:doc1.adoc[]
+From: xref:146:doc1.adoc[]
+
 [quote]
 ____
 *„Vorstellung von Schneider Krückeberg im Evesen“*
@@ -74,14 +75,14 @@ Not:
 
 === b) The petition itself (this is decisive)
 
-You quoted the critical sentence:
+The critical sentence
 
 [quote]
 ____
 *„Ich habe bisher als Einlieger beÿ Wilharm No 11 in Evesen gewohnt.“*
 ____
 
-This removes all doubt.
+Tremoves all doubt.
 
 It means, literally:
 
