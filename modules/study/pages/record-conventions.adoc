@@ -51,7 +51,7 @@ Now look closely at the Rentkammer language:
 
 === a) Designatio Actorum
 
-From: xref:146:doc1.adoc[]
+From: xref:nla:146:doc1.adoc[]
 
 [quote]
 ____
