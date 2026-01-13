@@ -23,6 +23,9 @@ image::petzen-band1a-img310-right.jpg[align=left,title='Johann Heinrich Krückeb
 
 NOTE: No page number is written on this page.
 
+[.narrow]
+== Transliteration and Translation
+
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
