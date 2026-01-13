@@ -62,13 +62,10 @@ not used here, this Töchterlein was born alive but died in early childhood.
 Whether she was baptized cannot be told for certain from the burial entry
 alone.
 
+[.narrow]
 == Transliteration and Translation
 
-.14 February 1734
-[caption="Petzen Burial records for: "]
-[.widepair,cols="1a,1a",frame=none,grid=none,options="noheader"]
-|===
-|
+.Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
 d 14t: Wilhelm Rödemeister ein Töchterlein
@@ -78,7 +75,7 @@ lein begrab lasß
 [H?] Sieckmanns von Namen Töchterlein
 ....
 
-|
+.Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
 On the 14th:
@@ -90,13 +87,13 @@ H. Krückeberg from Berenbusch had a little daughter buried.
 [Same day]:
 H. Sickmann from Nammen had a little daughter buried.
 ....
-|===
 
 
 [bibliography]
 == Citations
 
-* [[[PET-D-1734a]]] "Archion Protestant Kirchenbücher Portal", database with images,
-(https://www.archion.de/p/3d7f396aa6/ : 13 Nov. 2025), path: Niedersachsen > Niedersächsisches Landesarchiv >
-Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getrauten
-und Gestorbenen 1641-1784 > Image 150 of 239
+* [[[PET-D-1734a]]] "Archion Protestant Kirchenbücher Portal", database
+with images, (https://www.archion.de/p/3d7f396aa6/ : 13 Nov. 2025), path:
+Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der
+Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getrauten und Gestorbenen 1641-1784 > Image 150 of 239
