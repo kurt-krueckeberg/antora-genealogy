@@ -8,7 +8,12 @@ Baptism and Confirmed of the Petzen Parish, 1641-1784".
 
 This is the enhanced image of his baptism record:
 
+== Image of Baptism Record
+
 image::petzen-band1a-img89.jpg[align=left,title='Anna Maria Weiland, image 176, right page (Click to enlarge)',link=self]
+
+[.narrow]
+== Transliteration and Translation
 
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
