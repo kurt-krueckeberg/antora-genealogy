@@ -29,6 +29,7 @@ Carl Friedrich Gottlieb Kruckeberg was baptized on April 18, 1779, in Petzen.
 |Otto Rösener|Hoffmeister|Höcker's estate
 |===
 
+[.narrow]
 == Citation
 
 Carl Friderich Gottlieb Kruckeberg's (this is how the surname was spelled in
@@ -86,6 +87,9 @@ baptism record it appears as **aue**, **Höckersaue**.
 ====
 ****
 
+[.narrow]
+== Transliteration and Translation
+
 .Transliteration of 1779 Baptsim of Carl Friderich Gottlieb Kruckeberg
 [literal.bordered,subs="verbatim,quotes"]
 ....
@@ -111,16 +115,6 @@ Baptisms                                                                1779
                 on the Höckersau[Höcker's estate].
 ....
 
-
-NOTE: The death date is indicated by the `+` sign in left margin; however, the month is not dicernable.
-It may be _Oktober_?
-
-.Death notation in left margin:
-[cols="",frame="none", grid="none", options="noheader"]
-|===
-a|&nbsp;&nbsp;&#8224; +
-13 &#91;okt?&#93; 1838
-|===
 
 [bibliography]
 == Citations
