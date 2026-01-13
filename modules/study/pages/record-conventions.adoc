@@ -51,6 +51,7 @@ Now look closely at the Rentkammer language:
 
 === a) Designatio Actorum
 
+[quote]
 ____
 *„Vorstellung von Schneider Krückeberg im Evesen“*
 ____
@@ -59,6 +60,7 @@ This is a *file-heading shorthand*, not a biographical statement.
 
 It means:
 
+[quote]
 ____
 "`Petition by the tailor Krückeberg, currently in Evesen`"
 ____
@@ -73,6 +75,7 @@ Not:
 
 You quoted the critical sentence:
 
+[quote]
 ____
 *„Ich habe bisher als Einlieger beÿ Wilharm No 11 in Evesen gewohnt.“*
 ____
@@ -81,6 +84,7 @@ This removes all doubt.
 
 It means, literally:
 
+[quote]
 ____
 _"`Up to now I have lived as a lodger with Wilharm No. 11 in Evesen.`"_
 ____
@@ -148,6 +152,7 @@ There is *one Jobst Heinrich Krückeberg*, not two.
 
 == 6. What is really happening (one-sentence synthesis)
 
+[quote]
 ____
 *Jobst Heinrich Krückeberg maintained his family household at No. 10
 Berenbusch while personally living and working as an Einlieger with
