@@ -55,26 +55,12 @@ image::petzen-band2-img71-136.jpg[title="Header and first three entries, page 13
 
 image::petzen-band2-img71-137.jpg[title="Header and first three entries, page 137 portion(Click to enlarge)",link=self]
 
-== Transliteration and Translation of Header for Pages 136 and 137
-
-.Transliteration of header for pages 136-137
-[literal.bordered,subs="verbatim,quotes"]
-....
-136                           Gebohrne                               im Jahr 1798                        137
-....
-
-.Translation of header for pages 136-137
-[literal.bordered,subs="verbatim,quotes"]
-....
-136                           Births                                 in year 1798                         137
-....
+== Transliteration and Translation of Entry 14 on Pages 136 and 137
 
 [NOTE]
 ====
 The dates of her marriage and death, written below her name, have been displayed separately
 ====
-
-== Transliteration and Translation of Entry 14 on Pages 136 and 137
 
 [caption="Transliteration: "]
 .birth of Christine Louise Krückeberg in 1798
