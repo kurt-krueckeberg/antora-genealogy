@@ -1,22 +1,53 @@
 = TODO
 
+== Review What is Obvious
+
+Take the todo-itemes below. What items are obvious annd can be built upon?
+
 == Where did the Krückeberg's Live
 
 Q: Which villages are mentioned in the Petzen parish church register records
 for Krückebergs who were eiterh born, baptized, confirmed, married or
 buried list their village as Berenbusch?
 
-A: Berenbusch and Evesen.
+A: Just two villages are mentioned Berenbusch and Evesen. From 1725 to ??
+only Berenbusch is mentioned. Evesen is mentioned.
 
+=== Plan to Anaylze "Krückeberg aus Berenbusch"
+
+The use of only the surname and the omission of the given names of the
+father in the early birth records may mean there was only one Krückeberg
+couple-family name Krückeberg in Berenbusch, so it was not necessary to
+mention the father's full name. 
+
+*Plan:* Compare adjacent records to those using "Krueckeberg aus/in
+Berenbusch" for similiar surname-only usage and assess how many records
+use the father's fullname versus those than only use the surname.
+ 
 == Where Did Carl Friedrich Gottlieb's Sibling Live?
 
-It will be time consuming, but if one looks for the marriage record of
-Johann Friedrich Gottlieb's sisters, and if they married in Petzen, they
-will have their address, and we can learn if they lived at no. 10
-Berenbusch.
+The confirmation records for his two sisters mention only Berenbusch.
+
+If one looks for the marriage record of Johann Friedrich Gottlieb's
+sisters, and if they married in Petzen, they will have their address, and
+we can learn if they lived at no. 10 Berenbusch.
  
-We already have their confirmation records, which only list Berenbusch
-without the number.
+== Look Record for Death of Ilse Anna Marie Elisabeth née Schakel using her maiden name
+
+I could not find a death record for Ilse Anna Marie Elisabeth under the
+surname Krückeberg.
+
+She married Johann Heinrich Krückeberg on 7 Nov. 1773. She must be the
+"alte Krüeckeberg als Großmutter" in the 1792 baptism record of Jobst
+Heinrich Krückeberg's daughter. She would be Jobst step-mother since he
+was eight years old. 
+
+So her death would have occurred between the 1792 baptisam an 1802 when
+Johann Heinrich married for the third time.
+
+*Note:* Perhaps her burial record is under her *maiden name* written in this manner:
+
+Ilse Anna Marie Elisabeth Schakel .... des Johann Heinrich Krückebergs Ehehfrau.
 
 == Add NLA Facts to the Event Tables
 
@@ -75,17 +106,6 @@ From the case file,
 . Its financial impact.
 . Jobst Heinrich's father was an Ackervogt
 
-== Examine use of "Krueckeberg aus Berenbusch"
-
-The use of only the surname and the omission of the given names of the
-father in the early birth records may mean there was only one Krückeberg
-couple-family name Krückeberg in Berenbusch, so it was not necessary to
-mention the father's full name. 
-
-*Plan:* Compare adjacent records to those using "Krueckeberg aus/in
-Berenbusch" for similiar surname-only usage and assess how many records
-use the father's fullname versus those than only use the surname.
- 
 == Records to help identify Johann Heinrich (1744-1822)
 
 From https://chatgpt.com/share/695aff31-7adc-8004-b9f0-cd0a5bb5c4fa
@@ -98,34 +118,9 @@ identified as father of Jobst Heinrich Krückeberg. I only need the earliest
 occurrence or confirmation that none exists.
 ____
 
-== Look Record for Death of Ilse Anna Marie Elisabeth née Schakel using her maiden name
-
-She married Johann Heinrich Krückeberg on 7 Nov. 1773. She must be the
-"alte Krüeckeberg als Großmutter" in the 1792 baptism record of Jobst
-Heinrich Krückeberg's daughter. She would be Jobst step-mother since he
-was eight years old. 
-
-So her death would have occurred between the 1792 baptisam an 1802 when
-Johann Heinrich married for the third time.
-
-*Note:* Perhaps her burial record is under her *maiden name* written in this manner:
-
-Ilse Anna Marie Elisabeth Schakel .... des Johann Heinrich Krückebergs Ehehfrau.
-== Find Burial Record for Ilse Anna Marie Elisabeth Schakel
-
-She was the 2^nd^ wife of Johann Heinrich (1744-1822), with whom they
-had three children. I searched the 1st volum,ee from 1782-1784.
-
-Start at image 216 in 2nd volumne.
-
 == Jobst Heinrich Krückeberg born 1733
 
-Why are there no other records of him?
-
-== Find Rösener Birth Record
-
-Ilse Margaretha Rösener married Johann Heinirch in 1758. Her father was
-a sponsor? I am trying to confirm if the sponsor was her father.
+Are there no other records of him?
 
 == Work on the .adoc files in m/background/underdevelopment
 
@@ -138,12 +133,7 @@ https://www.youtube.com/watch?v=rHfbVYAru7s
 
 Find them.
 
-== Add Links to m/study/Understanding Terms adoc page
-
-* Add links in the first paragraph
-* Summarize each page of m/146 and write a overall summary
-
-== Wilharm question
+== Were Wilharms Baptismal Sponsors?
 
 Note Wilharm it's not only where Jobst Heinrich lodged in Evesen, but Wilharms were also
 sponsors in his family tree--right?
