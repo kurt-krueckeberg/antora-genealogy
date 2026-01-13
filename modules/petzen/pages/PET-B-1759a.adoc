@@ -33,11 +33,13 @@
 The baptism of Ilse Margaretha Krückeberg is on <<PET-B-1759a, image 200, right page, first entry>> from the  
 "database with images (Register of Baptism and Confirmed of the Petzen Parish, 1641-1784)"
 
-== Ilse Margaretha Krückeberg Baptism 1759
+== Image of Ilse Margaretha Krückeberg Baptism 1759
 
 image::petzen-band1a-img200.jpg[align=left,title='Ilse Margarehta Krückeberg, right page of image 220, first entry (Click to enlarge)',link=self]
 
-.Transliteration of 1759 Baptism of Ilse Margaretha Krückeberg
+[.narrow]
+== Transliteration and Translation
+
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 
@@ -49,8 +51,6 @@ des Johann Heinrich Krückebergs zu Berenbusch
 Tochter getauft. Gev[atterinnen] [3] Mädgens,  Wiesen, Engelkings [um/un]
 ....
  
-.Translation of 1759 Baptism of Ilse Margaretha Krückeberg
-
 .Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
@@ -65,4 +65,8 @@ was baptized. Sponsors 3 Mädgens, Wiesen, Engelking [un/um]
 [bibliography]
 == Citations
 
-* [[[PET-B-1759a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/aeb69c46c5/ : 2 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 200 of 322
+* [[[PET-B-1759a]]] "Archion Protestant Kirchenbücher Portal", database
+with images, _Archion_ (https://www.archion.de/p/aeb69c46c5/ : 2 November
+2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
+der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getauften und Konfirmierten 1641-1784, image 200 of 322
