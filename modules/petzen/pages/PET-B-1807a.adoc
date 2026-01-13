@@ -55,6 +55,16 @@ xref:ancestry:proof-arg-philippine-eleonore-werkmeister.adoc[explanation].
 |Jobst Heinrich Krückeberg|Bärenbusch
 |===
 
+[IMPORTANT]
+====
+We know that in September of 1808 Jobst Heinrich Krückeberg was living as
+an Einlieger with the Wilharms of no. 11 Evesen.
+
+In September of 1808, Jobst Heinrich petitioned the Rentkammer for a plot for
+house construction near Bärenbusch. See xref:nla:146:index.adoc[] and
+xref:nla:146:doc1.adoc[].
+====
+
 .Meaning of Einlieger
 ****
 [NOTE]
