@@ -60,9 +60,12 @@ xref:ancestry:proof-arg-philippine-eleonore-werkmeister.adoc[explanation].
 We know that in September of 1808 Jobst Heinrich Krückeberg was living as
 an Einlieger with the Wilharms of no. 11 Evesen.
 
-In September of 1808, Jobst Heinrich petitioned the Rentkammer for a plot for
-house construction near Bärenbusch. See xref:nla:146:index.adoc[] and
-xref:nla:146:doc1.adoc[].
+We know this because in September of 1808, Jobst Heinrich petitioned the
+Rentkammer for a plot for house construction near Bärenbusch. In the first
+of the case file xref:nla:146:index.adoc[] documents, which is
+xref:nla:146:doc1.adoc[], dated 29 September 1808, Jobst Heinrich
+Krückeberg tell us: "Up to now I have lived as a tenant with Wilharm No. 11
+in Evesen".
 ====
 
 .Meaning of Einlieger
