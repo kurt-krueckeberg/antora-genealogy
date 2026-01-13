@@ -21,7 +21,7 @@ Anna Catharine Sophia Krömer from Evesen No 19. The marriage is entry 8 on
 "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
 1785-1827".
 
-== Pages 4 and 5
+== Images of Marriage Record
 
 Header:
 
@@ -36,6 +36,9 @@ image::petzen-band2-img5-1.jpg[align=left,title='Page 5 Entries 8 and 10',link=s
 ====
 The abbreviation **Jfr** stands for Jungfrau or maiden.
 ====
+
+[.narrow]
+== Transliteration and Translation
 
 .Transliteration of Page Header
 [literal.bordered,subs="verbatim,quotes"]
