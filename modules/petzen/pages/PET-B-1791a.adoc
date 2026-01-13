@@ -27,32 +27,34 @@
 
 This baptism is recorded on <<PET-B-1791a, image 52 on Archion>> of Petzen Kirchenbuch volume 2.
 
-== Header page 98
+== Image of Baptism Recrd
 
 image::petzen-band2-img52-header.jpg[align=left,title='Click to enlarge',link=self]
-
-.Transliteration and translation of header of page 98, image 52
-----
-98                                 Getaufte (Baptisms) 1791
-----
 
 == Entry of Baptism
 
 image::petzen-band2-img52-left.jpg[align=left,title='Click to enlarge',link=self]
 
+[.narrow]
+== Transliteration and Translation
+
 .Transliteration and translation of entry 12, baptism of Friderich Wilhelm Krückeberg
-----
+[literal.bordered,subs="verbatim,quotes"]
+....
 12) d. 25ten Apr: ist getauft Friderich Wilhelm Krückeberg
 des Johann Heinrich Krückebergs aus Evesen Noo
 mit seiner Ehefrau Catherine Margaretha geb.
 Crömern ergeugter Sohn. Gevatter war Johann
 Heinrich Krückeberg aus Berenbusch
+....
 
+[literal.bordered,subs="verbatim,quotes"]
+....
 12) One 25th Apr. Friderich Wilhelm Krückeberg was baptized,
 the begotten son of Johann Heinrich Krückebergs from Evesen Num.
 and his wife Ehefrau Catherine Margaretha born
 Crömer. Godfather was Johann Heinrich Krückeberg from Berenbusch
-----
+....
 
 [bibliography]
 == Citations
