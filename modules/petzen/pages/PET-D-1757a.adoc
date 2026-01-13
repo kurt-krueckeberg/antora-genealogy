@@ -26,10 +26,11 @@ of the "Krückebergs at Berenbusch" appears on <<PET-D-1757a, image 178>>,
 on the left-hand page, of the Petzen "Verzeichnis der Getrauten und
 Gestorbenen, 1641-1784".
 
-== Image
+== Image of Burial Record
 
 image::petzen-band1b-img178-left.jpg[title="Burial of Louisa Eleonore Krückeberg (Click to enlarge)",link=self]
 
+[.narrow]
 == Transliteration and Translation
 
 .Transliteration
