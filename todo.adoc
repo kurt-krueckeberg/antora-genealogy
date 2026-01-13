@@ -2,10 +2,13 @@
 
 == Where Did Carl Friedrich Gottlieb's Sibling Live?
 
-It will be time consuming, but if one looks for the confirmation and
-marriage record of Johann Friedrich Gottlieb's siblings. Their marriage
-records will exist if they married in Petzen. They will have their address,
-and we can learn if they lived at no. 10 Berenbusch.
+It will be time consuming, but if one looks for the marriage record of
+Johann Friedrich Gottlieb's sisters, and if they married in Petzen, they
+will have their address, and we can learn if they lived at no. 10
+Berenbusch.
+ 
+We already have their confirmation records, which only list Berenbusch
+without the number.
 
 == Add NLA Facts to the Event Tables
 
@@ -15,13 +18,23 @@ Read through and add to the respective event tables the information in the NLA d
 
 Add Information such as:
 
-. Jobst Heinrich petitioned to enlarge is yard and garden 1808-1810.
-. We know that Johann Heinrich (1806-1879) owned no. 10 Berenbusch because
-the Colon who sold it in the fall of 1849 said he was doing so because he
-was emigrating soon to the U.S.
-. Carl Friedrich (born 1807) petitions to sell no. 18 Berenbusch in the fall
-of 1850 because he has relatives in America who are doing well, and he wants
-to join them in America.
+In Jobst Heinrich petitioned to enlarge is yard and garden 1798-1800, we
+know:
+. Jobst Heinrich is called by namne the Colon of no. 10 Berenbusch.
+. We have a map of new yard and garden area--or the enlarged yard and
+  garden In the case file "Stätte no. 18 Berenbusch", we learn
+. we learn--I think--where it was located.
+. We know that Johann Heinrich (1806-1879) owned it, no. 10 Berenbusch,
+  because the "Colon Krückeberg" who sold it in the fall of 1849 said he
+was doing so because he planned to immigrate to the U.S. that same
+month--September?--to the U.S.
+
+. Carl Friedrich (born 1807) petitions to sell no. 18 Berenbusch in the
+  fall of 1850 because he has relatives in America who are doing well, and
+he wants to join them in America.
+. Carl Friedrich also mentions he has relatives in America, who are doing
+  well.
+
 . Debt Johann Heinrich inherits....
 . His father's poor health...
 . Its financial impact.
