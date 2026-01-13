@@ -18,9 +18,12 @@
 The May 8, 1757, burial of Anna Maria Krückeberg from Berenbusch appears on <<PET-D-1757b, image 178>>, on the right-hand page, of the Petzen
 "Verzeichnis der Getrauten und Gestorbenen, 1641-1784".
 
-== Record
+== Image of Burial Record
 
 image::petzen-band1b-img178-right.jpg[title="Burial of Anna Maria Krückeberg (Click to enlarge)",link=self]
+
+[.narrow]
+== Transliteration and Translation
 
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
