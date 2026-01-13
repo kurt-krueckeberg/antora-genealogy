@@ -3,7 +3,7 @@
 
 == Family and Other Relationship Facts
 
-[cols="30%,30%,15%,25%",width="80%"]
+[cols="30%,30%,15%,25%",width="70%"]
 |===
 |Child|Father|Residence|Baptism Date
 
