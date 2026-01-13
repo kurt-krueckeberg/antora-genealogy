@@ -37,6 +37,9 @@ The baptism is on the bottom of the left-hand page, the pages being unnumbered.
 
 image::petzen-band1a-img174-left.jpg[align=left,title="Click to enlarge",link=self]
 
+[.narrow]
+== Transliteration and Translation
+
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
@@ -59,6 +62,9 @@ daughter from Scheye
 [bibliography]
 == Citations
 
-* [[[PET-B-1746a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/33af16da2f/ :
-30 April 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe >
-Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 174 of 322, bottom entry of left-hand page
+* [[[PET-B-1746a]]] "Archion Protestant Kirchenbücher Portal", database
+  with images, _Archion_ (https://www.archion.de/p/33af16da2f/ : 30 April
+2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
+der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
+1785-1827 > Image 174 of 322, bottom entry of left-hand page
