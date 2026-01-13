@@ -11,7 +11,6 @@
 |Jobst Heinrich Krückeberg|Johann Heinrich Krückeberg|Berenbusch|March 24, 1765
 |===
 
-
 .Godfather
 [width="40%",cols="1,2"]
 |===
@@ -33,18 +32,11 @@ as their xref:petzen:PET-M-1758a.adoc[] record shows.
 The March 24, 1765 baptism of Jobst Heinrich Krückeberg is on <<PET-B-1765a, image 211>>, left page, fourth entry from the top, of
 the "Verzeichnis der Getauften und Konfirmierten 1641-1784" (Register of Baptism and Confirmed of the Petzen Parish, 1641-1784).
 
-== Baptism Record
+== Image of Baptism Record
 
 === Page Header
 
 image::petzen-band1a-img211-header.jpg[align=left,title='Page header for image 211, left page (Click to enlarge)',link=self]
-
-The page header transliteration:
-
-[literal.bordered,subs="verbatim,quotes"]
-....
-1765                  Getaufte (Baptisms)
-....
 
 === Baptism Entry
 
@@ -52,7 +44,16 @@ Below is the image of the baptism record for Jobst Heinrich Krückeberg, who was
 
 image::petzen-band1a-img211.jpg[align=left,title='Jobst Heinrich Krückeberg Baptism (Click to enlarge)',link=self]
 
-.1765 Baptism of Jobst Heinrich Krückeberg
+[.narrow]
+== Transliteration and Translation
+
+.page header transliteration:
+[literal.bordered,subs="verbatim,quotes"]
+....
+1765                  Getaufte (Baptisms)
+....
+
+.Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
 24 Mar[tz] Jobst Heinrich Krückeberg Johann Heinrich
@@ -60,7 +61,8 @@ image::petzen-band1a-img211.jpg[align=left,title='Jobst Heinrich Krückeberg Bap
    Gevatter war Rösener aus Evesen im kurzen Bruche
 ....
 
-.1765 Baptism of Jobst Heinrich Krückeberg
+
+.Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
 24 March Jobst Heinrich Krückeberg legitimate son of Johann Heinrich
@@ -71,4 +73,8 @@ image::petzen-band1a-img211.jpg[align=left,title='Jobst Heinrich Krückeberg Bap
 [bibliography]
 == Citations
 
-* [[[PET-B-1765a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/bac0cc3f24/ : 2 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 211 of 322
+* [[[PET-B-1765a]]] "Archion Protestant Kirchenbücher Portal", database
+  with images, _Archion_ (https://www.archion.de/p/bac0cc3f24/ : 2 November
+2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
+der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getauften und Konfirmierten 1641-1784, image 211 of 322
