@@ -50,6 +50,9 @@ Due to the poor quality of the text, it is unclear word precedes "Johann Heinric
 names? It is might be **benahmsen**, with **benahmsen** likely just another form of **benamsen**, colloquial
 for _benennen_, "to name somebody or something after, or for".
 
+[.narrow]
+== Transliteration and Translation
+
 .Transliteration (See NOTE below)
 [literal.bordered,subs="verbatim,quotes"]
 ....
@@ -65,14 +68,11 @@ Sohn von Nordholtz.
 
 [NOTE]
 ====
-* **dito** means **ditto** and thus the month of **Januar** (Janmuary).
-* The verb **benahmset** is apparently **benamset**, whose inifinitive is benennt meaing **to name**.
+* *dito* means *ditto* and thus the month of *Janua* (Janmuary).
+* The verb *benahmset* is apparently *benamset*, whose inifinitive is benennt meaing *to name*.
 * There are a few undecipherable words are written very small, raised above the line
 that begin before the word 'Sohn'
 ====
-
-[.narrow]
-== Transliteration and Translation
 
 .Translation
 [literal.bordered,subs="verbatim,quotes"]
