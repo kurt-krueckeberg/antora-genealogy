@@ -20,9 +20,12 @@ of marriage)
 The January 29, 1758, marriage of Johan Henirch Krückeberg to Ilse Margarethe Rösener is on <<PET-M-1758a, image 50>>,
 the right-hand page, of the Petzen " Verzeichnis der Getrauten und Gestorbenen 1641-1784".
 
-== Marriage Record
+== Image of Marriage Record
 
 image::petzen-band1b-img50.jpg[title="Johan Henrich Krückeberg Marriage(Click to enlarge)",link=self]
+
+[.narrow]
+== Transliteration and Translation
 
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
