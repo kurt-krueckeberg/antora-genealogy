@@ -38,7 +38,7 @@ mentioned, too.
 ====
 ****
 
-== Image 167
+== Image of Baptism Record
 
 The baptism entry is found on <<PET-B-1744a, image 167, year 1744, fourth entry for January>>.
 
@@ -70,6 +70,9 @@ Sohn von Nordholtz.
 * There are a few undecipherable words are written very small, raised above the line
 that begin before the word 'Sohn'
 ====
+
+[.narrow]
+== Transliteration and Translation
 
 .Translation
 [literal.bordered,subs="verbatim,quotes"]
