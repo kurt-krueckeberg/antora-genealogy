@@ -29,9 +29,12 @@ The August 27, 1773, burial of the stillborn sone of Johann Heinrich Krückeberg
 appears on <<PET-D-1773a, image 210>>, on the right-hand page of the Petzen "Verzeichnis der Getrauten und Gestorbenen,
 1641-1784".
 
-== Record
+== Image of Burial Record
 
 image::petzen-band1b-img210.jpg[title="stillborn son of Johann Heinrich Krückeberg (Click to enlarge)",link=self]
+
+[.narrow]
+== Transliteration and Translation
 
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
