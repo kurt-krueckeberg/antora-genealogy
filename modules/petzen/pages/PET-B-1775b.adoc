@@ -25,15 +25,16 @@ Anna Christina Maria Krückeberg's baptism is on <<PET-B-1775b, image 246, right
 page, entry no. 10>> from the Petzen Kirchenbuch volume "Verzeichnis der
 Getauften und Konfirmierten, 1641-1784". 
 
-== Image 246 
+== Image of Baptism 
 
 image::petzen-band1a-img246.jpg[align=left,title='Anna Christina Maria Kruckeberg, entry 10, right-hand page of image 246 (Click to enlarge)',link=self]
 
-.1775 Baptism of Anna Christina Maria Kruckeberg
+[.narrow]
+== Transliteration and Translation
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
-Getaufte                                                               1775
+Getaufte                                                    1775
 
 10) d[en] 10ten Septembr ist getauft Anna Christina Maria Krückebergen
     Johann Heinrich Krückebergs aus Berenbusch mit seiner
@@ -44,7 +45,7 @@ Getaufte                                                               1775
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
-Baptisms                                                               1775
+Baptisms                                                    1775
 
 10) On September 10th Anna Christina Maria Krückeberg was
     baptized, the begotton daughter of Johann Heinrich Krückeberg
@@ -56,6 +57,8 @@ Baptisms                                                               1775
 [bibliography]
 == Citations
 
-* [[[PET-B-1775b]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/3f3c8fb681/ : 31 October 2023),
-path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+* [[[PET-B-1775b]]] "Archion Protestant Kirchenbücher Portal", database
+with images, _Archion_ (https://www.archion.de/p/3f3c8fb681/ : 31 October
+2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
+der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften und Konfirmierten 1641-1784, image 246 of 322
