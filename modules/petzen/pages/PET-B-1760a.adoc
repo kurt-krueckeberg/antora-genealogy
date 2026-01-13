@@ -14,7 +14,7 @@
 |===
 
 .Sponsor
-[width="20"]
+[width="20%"]
 |===
 |Name
 
@@ -22,6 +22,7 @@
 |===
 
 .Nachtrag
+[width="40%"]
 |===
 |Event|Date
 
