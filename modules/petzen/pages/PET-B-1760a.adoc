@@ -1,9 +1,33 @@
 = 1760 Hans Heinrich Wilharm Baptism
 :page-role: wide
 
-== Family Relationship Facts
+== Family and Other Relationship Facts
 
+[cols="30%,30%,15%,25%",width="80%"]
+|===
+|Child|Father|Residence|Baptism Date
 
+|Hans Heinrich Wilharm
+|Friedrich Wilharm
+|Berenbusch
+|27 Aug. 1760
+|===
+
+.Sponsor
+|===
+|Name
+
+|Johann Harm[Herman] Hoff
+|===
+
+.Nachtrag
+|===
+|Event|Date
+
+|Burial|2 May 1843
+|===
+
+[.narrow]
 == Citation
 
 The 29 Aug 1760 baptism record for Hans Heinrich Wilharm is on
@@ -11,9 +35,6 @@ The 29 Aug 1760 baptism record for Hans Heinrich Wilharm is on
 der Getauften und Konfirmierten 1641-1784".
 
 == Images of Marriage Record
-
-The marriage of Hans Heinrich Wilharm and Anne Marie Philippine Blecke is
-the 4^th^ marriage of 1796:
 
 image::petzen-band1a-img202.jpg[title='Hans Heinrich Wilharm marriage record (click to enlarge)',link=self]
 
@@ -23,9 +44,10 @@ image::petzen-band1a-img202.jpg[title='Hans Heinrich Wilharm marriage record (cl
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
-d 27ten Aug. Hans Henrich Wilharm
-des Friedrich Wilharms Son zu Berenbusch
-getauft. Gev. Joh Harm Hoff zu Petzen
+d. 27ten Aug. Hans Henrich Wilharm
++ d:2. Mai 1843  
+des Friedrich Wilharms Sohn zu Berenbusch                
+getauft. Gev. Joh. Harm Hoff zu Petzen
 ....
 
 .Translation
