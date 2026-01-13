@@ -29,6 +29,7 @@ The August 29, 1773, burial of Anna Christina Kruckeberg, age 36, wife of Johann
 appears on <<PET-D-1773b, image 210>>, on the right-hand page of the Petzen "Verzeichnis der Getrauten und Gestorbenen,
 1641-1784".
 
+[.narrow]
 == Transliteration and Translation
 
 image::petzen-band1b-img210.jpg[title="Anna Christina Kruckebergen Burial (Click to enlarge)",link=self]
@@ -36,7 +37,7 @@ image::petzen-band1b-img210.jpg[title="Anna Christina Kruckebergen Burial (Click
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
-          Begraben                                                                 1773
+          Begraben                            1773
 
 d 29ten Aug ist hierselbst beerdigt Anna Christina 
         Kruckebergen des Johann Heinrich Krückebergs aus 
@@ -47,7 +48,7 @@ d 29ten Aug ist hierselbst beerdigt Anna Christina
 .Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
-        Burial                                                                     1773
+        Burial                                1773
 
 On  Aug 29th is here buried Anna Christina 
         Kruckeberg, wife of Johann Heinrich Krückeberg from 
@@ -59,7 +60,8 @@ On  Aug 29th is here buried Anna Christina
 [bibliography]
 == Citations
 
-* [[[PET-D-1773b]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/a12d3a1f16/
-23 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche
-Schaumburg-Lippe > Petzen > Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 210 of 239
-
+* [[[PET-D-1773b]]] "Archion Protestant Kirchenbücher Portal", database
+  with images, _Archion_ (https://www.archion.de/p/a12d3a1f16/ 23 November
+2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
+der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 210 of 239
