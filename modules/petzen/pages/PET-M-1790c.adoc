@@ -32,11 +32,13 @@
 [.narrow]
 == Citation
 
-On 12 October 1790, Jobst Heinrich Krückeberg, a cobbler from Berenbusch No 10, married Philippine Christine Eleonore Tegtmeyern from Meissen No 4.
-The marriage is recorded on the <<PET-M-1790c, 5 image, page 5, entry 13>> of the Petzen Kirchenbuch volume "Verzeichnis der Getauften, Konfirmierten,
+On 12 October 1790, Jobst Heinrich Krückeberg, a cobbler from Berenbusch No
+10, married Philippine Christine Eleonore Tegtmeyern from Meissen No 4.
+The marriage is recorded on the <<PET-M-1790c, 5 image, page 5, entry 13>>
+of the Petzen Kirchenbuch volume "Verzeichnis der Getauften, Konfirmierten,
 Getrauten und Gestorbenen 1785-1827".
 
-== Pages 4 and 5
+== Images of Marriage Record
 
 The header spans pages 4 and 5:
 
@@ -48,8 +50,8 @@ image::petzen-band2-img5-2.jpg[align=left,title='Page 5 Entries 8 and 10',link=s
 
 The transliteration of the header for page 5 and marriage entries 8, 10 and 13 are below:
 
-[NOTE]
 .Use of the `+` symbol and `Jfr` abbreviation
+[NOTE]
 ====
 . The `+` sign denotes a death date. The **+1849** above the name of _Philippine Christine Eleonore Tegtmeyern_ below
   indicates she died in 1849.
