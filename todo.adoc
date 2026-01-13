@@ -18,25 +18,52 @@ Read through and add to the respective event tables the information in the NLA d
 
 Add Information such as:
 
-In Jobst Heinrich petitioned to enlarge is yard and garden 1798-1800, we
-know:
-. Jobst Heinrich is called by namne the Colon of no. 10 Berenbusch.
-. We have a map of new yard and garden area--or the enlarged yard and
-  garden In the case file "Stätte no. 18 Berenbusch", we learn
-. we learn--I think--where it was located.
-. We know that Johann Heinrich (1806-1879) owned it, no. 10 Berenbusch,
-  because the "Colon Krückeberg" who sold it in the fall of 1849 said he
+In "The plots allocated to the colonist Krückeberg No. 10 in Berenbusch for
+the enlargement of his farmyard and garden", we learn:
+
+. Jobst Heinrich is namned the Colon of no. 10 Berenbusch.
+. We have a map either of the enlarged yard and garden area, the extra yard
+  and garden area, or a map the total area after the enlargement
+. A description of it being near the road.
+. That Kötter Weiland lives nearby.
+
+In "Die Stätte Nr. 18 zu Berenbusch", we learn:
+
+. We learn that Jobst Heinrich is a tailor who is "ein Einlieger bei
+  Wilharms no. 11 Evesen".
+. The Bückeburg Amt reports his father was an Ackervogt in Arenbsburg.
+. We learn--I think--where no. 18 Berenbusch was located.
+. we know that Johann Heinrich (1806-1879) owned it (no. 10 Berenbusch),
+because the "Colon Krückeberg" who sold it in the fall of 1849 said he
 was doing so because he planned to immigrate to the U.S. that same
 month--September?--to the U.S.
-
-. Carl Friedrich (born 1807) petitions to sell no. 18 Berenbusch in the
-  fall of 1850 because he has relatives in America who are doing well, and
-he wants to join them in America.
+. In later documents in its case file, we learn Carl Friedrich (born 1807)
+petitions to sell no. 18 Berenbusch in the fall of 1850 because he has
+relatives in America who are doing well, and he wants to join them in
+America.
 . Carl Friedrich also mentions he has relatives in America, who are doing
   well.
 
-. Debt Johann Heinrich inherits....
+In the case file "Ein dem Colon Krückeberg Nr. 10 in Berenbusch aus
+Kammerkasse dargeliehenes Kapital von 200 Reichstaler Crt.", we learn:
+
+. The debt Johann Heinrich inherits.
 . His father's poor health...
+. How debt passes onto one's heirs.
+. Details of the Söhren Weide
+. That the Prince of Schaumburg-Lippe will make the final decision.
+
+In the case file concerning the "Die Stätte Nr. 10 zu Berenbusch", we
+learn:
+
+. That medical expenses impoverished Jobst Heinrich's widow
+. That certain feudal manual labor obligations still exist, from which she
+  is requesting relief.
+. From its later 1849 documents, we learn that Johann Heinrich requests to
+  have his sale approved because he will immigrate to America in Sept? of
+1849.
+
+From the case file, 
 . Its financial impact.
 . Jobst Heinrich's father was an Ackervogt
 
@@ -63,8 +90,7 @@ identified as father of Jobst Heinrich Krückeberg. I only need the earliest
 occurrence or confirmation that none exists.
 ____
 
-
-== Look Record for Death of Ilse Anna Marie Elisabeth née Schakel
+== Look Record for Death of Ilse Anna Marie Elisabeth née Schakel using her maiden name
 
 She married Johann Heinrich Krückeberg on 7 Nov. 1773. She must be the
 "alte Krüeckeberg als Großmutter" in the 1792 baptism record of Jobst
