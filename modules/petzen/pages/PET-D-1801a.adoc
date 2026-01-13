@@ -58,18 +58,6 @@ image::petzen-band2-img239.jpg[title="Sophie Marie Krückebeerg Death (Click to 
 
 === Transliteration and Translation
 
-.Transliteration of Section Header
-[literal.bordered,subs="verbatim,quotes"]
-....
-   Gestorbene in Kirchspiel Petzen 1801
-....
-
-.Transliteration of Section Header
-[literal.bordered,subs="verbatim,quotes"]
-....
-   Deaths in Petzen Parish 1801
-....
-
 [caption="Transliteration of: "]
 .Sophie Marie Krückeberg Death/Burial Record
 [%header,cols="1,5,2,1,2,1,1,2,2"]
