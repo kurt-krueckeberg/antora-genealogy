@@ -24,6 +24,8 @@ of the right page.
 
 image::petzen-band1a-img157-krueckeberg.jpg[title="Johann Wilhelm Krückeberg (Click to enlarge)",link=self]
 
+== Transliteration and Translation
+
 .Transliteration 
 [literal.bordered,subs="verbatim,quotes"]
 ....
@@ -36,8 +38,8 @@ lassen Johann Wilhelm [benamst?] [uncertain]
 ****
 [IMPORTANT]
 ====
-* *Berenbusch* is not mentioned explicitly. Likely the two *"B"* in image:berenbusch-abbreviation.jpg[] are
-an abbreviation for it. 
+* *Berenbusch* is not mentioned explicitly. Likely
+image:berenbusch-abbreviation.jpg[] in the image is an abbreviation for it. 
 ====
 
 [NOTE]
