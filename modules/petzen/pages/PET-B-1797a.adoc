@@ -38,7 +38,7 @@ April|Namen der Gevattern
 
 [caption="Translation: "]
 .birth of Hans Heinrich Wilharm on 10 April 1797
-[%header,,frame="none"]
+[%header,cols="1,5,5,1,2,5,1,1,5",frame="none"]
 |===
 |Number| Name of Child|Name of Father|House no.|Locality|Name of
 Mother|birth +
