@@ -9,13 +9,12 @@ Gestorbenen 1785-1827.
 
 == Image of Baptism Record
 
-image::petzen-band2-img112-left.jpg[link=self]
-
-image::petzen-band2-img112-right.jpg[link=self]
+image::petzen-band2-img113.jpg[link=self]
 
 == Transliteration and Translation 
 
 .Transliteration
+cols="1,10,3,6,6,10,
 |===
 |Zahl|Name des Kindes|Zahl|Geburtszeit +
 und +
@@ -23,6 +22,32 @@ Geburtsort|Taufzeit +
 u. +
 Taufort des Kindes|Name, Stand, Religion u. Geburtsort des Vaters|Name,
 Religion u. Geburtsort der Mutter|Wohnort der Eltern|Taufzeugen
+
+|Carl Friedrich Wilhelm +
+Wilharm +
+cop. 19.5.33
+gest. 5.6.74
+|das 6^ten^ Kind +
+u. 3^ten^ Sohn
+|ist geboren +
+d. 27^ten^ Novbr. +
+in Evesen
+Mittags 11. Uhr
+|u. wurde getauft +
+d. 2^ten^ Decbr. in der +
+Kirche zu Petzen 
+|Hans Heinrich Wilharm +
+Ackersmann aus n. 11 in Evesen +
+Luth. Conf.
+|Sophie geb. Blecken +
+aus n. 11. in Evesen, Luth. Conf.
+|wohnen auf no. 11 +
+in Evesen
+|Christian Friedrich +
+Hartmann n. 10 und +
+Joh. Heinrich Deerberg n. 6. +
+in Evesen
+|===
 
 
 |===
