@@ -23,6 +23,7 @@ u. +
 Taufort des Kindes|Name, Stand, Religion u. Geburtsort des Vaters|Name,
 Religion u. Geburtsort der Mutter|Wohnort der Eltern|Taufzeugen
 
+|C37,
 |Carl Friedrich Wilhelm +
 Wilharm +
 cop. 19.5.33
