@@ -9,9 +9,9 @@ Gestorbenen 1785-1827.
 
 == Image of Baptism Record
 
-image::petzen-band2-img112-wilharm-left.jpg[link=self]
+image::petzen-band2-img112-left.jpg[link=self]
 
-image::petzen-band2-img112-wilharm-right.jpg[link=self]
+image::petzen-band2-img112-right.jpg[link=self]
 
 == Transliteration and Translation 
 
