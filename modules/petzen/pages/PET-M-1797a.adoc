@@ -25,6 +25,7 @@
 |not prev. married
 |===
 
+[.narrow]
 == Citation
 
 The 27 August 1797 marriage of Hans Heinrich Wilharm to Sophie Ernestine Blecke
@@ -37,7 +38,6 @@ _Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
 
 image::petzen-band2-img10.jpg[title='Hans Heinrich Wilharm 27 Aug. 1797 marriage record (click to enlarge)',link=self]
 
-[.narrow]
 == Transliteration and Translation
 
 .Transliteration
