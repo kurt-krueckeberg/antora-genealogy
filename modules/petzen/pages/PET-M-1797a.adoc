@@ -3,6 +3,16 @@
 
 == Family Relationship Facts
 
+[cols="4,3,4,3,3",width="80%"]
+|===
+|Groom|Groom's Address|Bride|Bride's Address|Date
+
+|Hans Heinrich Wilharm
+|no. 11 Evesen
+|Sophie Ernestine Blecke
+|no. 11 Evesen
+|27 Aug. 1797
+|===
 
 == Citation
 
