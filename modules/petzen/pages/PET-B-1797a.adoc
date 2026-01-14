@@ -18,6 +18,45 @@ image::petzen-band2-img68-right.jpg[link=self]
 [.narrow]
 == Transliteration and Translation
 
+[caption="Transliteration: "]
+.birth of Hans Heinrich Wilharm on 10 April 1797
+[%header,%autowidth.stretch,frame="none"]
+|===
+|Anzahl| Namen des Kindes|Namen des Vaters|Hausnummer|Orstschaft|Namen der Mutter|geb. +
+April|get. +
+April|Namen der Gevattern
+
+|15,
+|Hans Heinrich Wilharm
+|Hans Heinrich Wilharm
+|11
+|Evesen
+|Anne Marie Philipp: Blecke
+|10
+|11
+|Johann Heinrich Brands von Nr. 10 in Evesen
+|===
+
+[caption="Translation: "]
+.birth of Hans Heinrich Wilharm on 10 April 1797
+[%header,%autowidth.stretch,frame="none"]
+|===
+|Number| Name of Child|Name of Father|House no.|Locality|Name of
+Mother|birth +
+April|baptism +
+April|Name der Sponsors
+
+|15.
+|Hans Heinrich Wilharm
+|Hans Heinrich Wilharm
+|11
+|Evesen
+|Anne Marie Philippine Blecke
+|10
+|11
+|Johann Heinrich Brands from No. 10 in Evesen
+|===
+
 
 [bibliography]
 == Citations
