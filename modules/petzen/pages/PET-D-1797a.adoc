@@ -16,7 +16,7 @@ image::petzen-band2-img235.jpg[link=self]
 == Transliteration and Translation
 
 [caption="Translation of "]
-.11 April 1797 Anne Marie Philippine Wilharm
+.11 April 1797 Death Record fo Anne Marie Philippine Wilharm
 .Anne Marie Philippine Wilharm
 [%header,cols="5%,35%,15%,5%,15%,5%,5%,7%,7%"]
 |===
@@ -37,7 +37,7 @@ Wochen|gestorben|begraben
 
 
 [caption="Translation of "] 
-.11 April 1797 Anne Marie Philippine Wilharm
+.11 April 1797 Death Record fo Anne Marie Philippine Wilharm
 [%header,cols="5%,35%,15%,5%,15%,5%,5%,7%,7%"]
 |===
 |Anzahl|Nahmen|Ortschaft|Hausnummer|Krankheit|Alter +
