@@ -1,5 +1,7 @@
 = 1797 Anne Marie Philippine Wilharm Death
+:page-role: wide
 
+[.narrow]
 == Citation
 
 The death record of Anne Marie Philippine Wilharm is found on
