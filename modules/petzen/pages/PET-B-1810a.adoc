@@ -51,12 +51,6 @@ in Evesen
 |===
 
 
-|===
-
-.Translation
-[literal.bordered,subs="verbatim,quotes"]
-....
-....
 
 [bibliography]
 == Citations
