@@ -61,11 +61,18 @@ We know that in September of 1808 Jobst Heinrich Krückeberg was living as
 an Einlieger with the Wilharms of no. 11 Evesen.
 
 We know this because in September of 1808, Jobst Heinrich petitioned the
-Rentkammer for a plot for house construction near Bärenbusch. In the first
-of the case file xref:nla:146:index.adoc[] documents, which is
+Rentkammer for a plot of land for house construction near Bärenbusch. In the first
+of the case file xref:nla:146:index.adoc[] documents, 
 xref:nla:146:doc1.adoc[], dated 29 September 1808, Jobst Heinrich
-Krückeberg tell us: "Up to now I have lived as a tenant with Wilharm No. 11
+Krückeberg states: "Up to now I have lived as a tenant with Wilharm No. 11
 in Evesen".
+
+We know that this Wilharm was Hans Heinrich from his
+xref:petzen:PET-M-1760a.adoc[1796 marriage to Anne Marie Philippine Blecke]
+of no. 11 Evesen. We know no. 11 Evesen is were the coupled resided from
+the xref:petzen:PET-B-1798c.adoc[birth record of their daugther Anne Marie
+Christine] and that of their son xref:petzen:PET-B-1810a.adoc[Carl
+Heinrich] that the family lived at no. 11 Evesen.
 ====
 
 .Meaning of Einlieger
