@@ -1,0 +1,27 @@
+= 1797 Anne Marie Philippine Wilharm Death
+
+== Citation
+
+The death record of Anne Marie Philippine Wilharm is found on
+<<PET-D-1797a, image 235>> of the link:https://archion.de[Archion] digital
+images of the _Verzeichnis der Getauften, Konfirmierten, Getrauten und
+Gestorbenen_.
+ 
+== Image of Death and Burial Record
+
+image::petzen-band2-img235.jpg[link=self]
+
+== Transliteration and Translation
+
+
+
+[bibliography]
+== Citations
+
+* [[[PET-D-1797a]]] "Archion Protestant Kirchenbücher Portal", database
+with images, _Archion_ (https://www.archion.de/p/1d65bd4485/ : 13 Jan.
+2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
+der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
+1785-1827 > Image 235 of 357
+
