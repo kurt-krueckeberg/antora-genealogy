@@ -14,7 +14,7 @@ image::petzen-band2-img113.jpg[link=self]
 == Transliteration and Translation 
 
 .Transliteration
-cols="1,10,3,6,6,10,
+[cols="1,10,3,6,6,10,10,5,10"]
 |===
 |Zahl|Name des Kindes|Zahl|Geburtszeit +
 und +
