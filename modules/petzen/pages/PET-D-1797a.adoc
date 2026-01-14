@@ -15,9 +15,11 @@ image::petzen-band2-img235.jpg[link=self]
 
 == Transliteration and Translation
 
+[cols="5%,35%,15%,5%,15%,5%,5%,7.5%,7.5%"]
 |===
 |Anzahl|Nahmen|Ortschaft|Hausnummer|Krankheit|Alter +
-Jahre|Alter Wochen|gestorben|begraben
+Jahre|Alter +
+Wochen|gestorben|begraben
 
 |17
 |Anne Marie Philippine Wilharm, Ehefrau des Hans Heinrich Wilharm
