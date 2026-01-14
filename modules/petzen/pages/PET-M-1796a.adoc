@@ -44,20 +44,41 @@ image::petzen-band2-img8.jpg[title='Hans Heinrich Wilharm marriage record (click
 ....
 
 .Transliteration
-[literal.bordered,subs="verbatim,quotes"]
-....
-4, Am 8ten                               Mai
-   Hans Heinrich Wilharm Berenbusch 9    Anne Marie Philip: Blecke Evesen 11
-     Jgs[Junggeselle]                          Jfr[Jungfrau] 
-....
+[cols="5%,30%,12%,5%,30%,12%,5%"]
+|===
+|Anzahl|des Bräutigames|Ortschaft|Nro.|Bride's Name|Ortschaft|Nro.
+
+|4,
+|[underline]#Am 8^ten^# +
+Hans Heinrich Wilharm +
+Jgs[Junggeselle].                          
+|Berenbusch
+|9
+|[underlin]#Mai# +
+Anne Marie Philip: Blecke
+Jfr[Jungfrau]. 
+|Evesen
+|11
+|===
 
 .Translation
-[literal.bordered,subs="verbatim,quotes"]
-....
-4. on the 8th                               May
-   Hans Heinrich Wilharm Berenbusch 9    Anne Marie Philip: Blecke Evesen 11
-     [Bachelor]                               [Maiden/Virgin] 
-....
+[cols="5%,30%,12%,5%,30%,12%,5%"]
+|===
+|Num. |of the Groom|Locality|no.|Bride's Name|Locality|no.
+
+|4.
+|[underline]#On the 8^th^# +
+Hans Heinrich Wilharm +
+Bachelor
+|Berenbusch
+|9
+|[underlin]#May# +
+Anne Marie Philip: Blecke
+virgin 
+|Evesen
+|11
+|===
+
 
 [bibliography]
 == Citations
