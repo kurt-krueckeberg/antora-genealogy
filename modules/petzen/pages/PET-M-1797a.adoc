@@ -14,7 +14,7 @@
 |27 Aug. 1797
 |===
 
-[cols="4,3",width="60%]
+[cols="4,3",width="40%]
 |===
 |Name|Fact
 
