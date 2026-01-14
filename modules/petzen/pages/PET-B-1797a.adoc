@@ -15,12 +15,11 @@ image::petzen-band2-img68-left.jpg[link=self]
 
 image::petzen-band2-img68-right.jpg[link=self]
 
-[.narrow]
 == Transliteration and Translation
 
 [caption="Transliteration: "]
 .birth of Hans Heinrich Wilharm on 10 April 1797
-[%header,%autowidth.stretch,frame="none"]
+[%header,cols="1,5,5,1,2,5,1,1,5",frame="none"]
 |===
 |Anzahl| Namen des Kindes|Namen des Vaters|Hausnummer|Orstschaft|Namen der Mutter|geb. +
 April|get. +
@@ -39,7 +38,7 @@ April|Namen der Gevattern
 
 [caption="Translation: "]
 .birth of Hans Heinrich Wilharm on 10 April 1797
-[%header,%autowidth.stretch,frame="none"]
+[%header,,frame="none"]
 |===
 |Number| Name of Child|Name of Father|House no.|Locality|Name of
 Mother|birth +
