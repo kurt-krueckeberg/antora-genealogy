@@ -173,6 +173,7 @@
 * Wilharm
 ** xref:petzen:PET-B-1760a.adoc[]
 ** xref:petzen:PET-M-1796a.adoc[]
+** xref:petzen:PET-B-1797a.adoc[]
 ** xref:petzen:PET-D-1797a.adoc[]
 ** xref:petzen:PET-M-1797a.adoc[]
 ** xref:petzen:PET-B-1798c.adoc[]

@@ -1,0 +1,31 @@
+= 1797 Hans Heinrich Wilharm Baptism
+:page-role: wide
+
+[.narrow]
+== Citation
+
+The birth record of Hans Heinrich Wilharm occurs on <<PET-B-1797a, image
+68>> of the link:https:archion.de[Archion] digitial images of the Petzen
+_Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
+1785-1827_.
+
+== Images of Birth Record
+
+image::petzen-band2-img68-left.jpg[link=self]
+
+image::petzen-band2-img68-right.jpg[link=self]
+
+[.narrow]
+== Transliteration and Translation
+
+
+[bibliography]
+== Citations
+
+* [[[PET-B-1797a]]] "Archion Protestant Kirchenbücher Portal", database
+with images, _Archion_ (https://www.archion.de/p/2de5cd5c3b/ : 14 January
+2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
+der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
+1785-1827 > Image 68 of 357
+
