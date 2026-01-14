@@ -25,7 +25,7 @@ image::petzen-band2-img10.jpg[title='Hans Heinrich Wilharm 27 Aug. 1797 marriage
 |Anzahl|des Bräutigames|Ortschaft|Nro.|Bride's Name|Ortschaft|Nro.
 
 |16
-|Am 27^ten^ +
+|[underline]#Am 27^ten^# +
 Hans Heinrich Wilharm +
 Witwer
 |Evesen
