@@ -1,6 +1,25 @@
 = 1797 Hans Heinrich Wilharm Baptism
 :page-role: wide
 
+== Family and Other Relationships
+
+[cols="3,3,4,2",width="75%"]
+|===
+|Child|Father|Mother|Residence
+
+|Hans Heinrich Wilharm|Hans Heinrich Wilharm|Anne Marie Philippine nee
+Blecke|no. 11 Evesen
+|===
+
+.Sponsor
+[cols="2,1",width="40%"]
+|===
+|Name|Residence
+
+|Johann Heinrich Brands
+|no. 10 Evesen
+|===
+
 [.narrow]
 == Citation
 
