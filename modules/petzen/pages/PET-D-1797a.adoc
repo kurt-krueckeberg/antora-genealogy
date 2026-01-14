@@ -15,6 +15,9 @@ image::petzen-band2-img235.jpg[link=self]
 
 == Transliteration and Translation
 
+[caption="Translation of "]
+.11 April 1797 Anne Marie Philippine Wilharm
+.Anne Marie Philippine Wilharm
 [%header,cols="5%,35%,15%,5%,15%,5%,5%,7%,7%"]
 |===
 |Anzahl|Nahmen|Ortschaft|Hausnummer|Krankheit|Alter +
@@ -31,6 +34,27 @@ Wochen|gestorben|begraben
 |Apr. 11
 |Apr. 14
 |===
+
+
+[caption="Translation of "] 
+.11 April 1797 Anne Marie Philippine Wilharm
+[%header,cols="5%,35%,15%,5%,15%,5%,5%,7%,7%"]
+|===
+|Anzahl|Nahmen|Ortschaft|Hausnummer|Krankheit|Alter +
+Jahre|Alter +
+Wochen|gestorben|begraben
+
+|17
+|Anne Marie Philippine Wilharm, wife of Hans Heinrich Wilharm
+|Evesen
+|11
+|difficult birth
+|24
+|--
+|Apr. 11
+|Apr. 14
+|===
+
 
 [bibliography]
 == Citations
