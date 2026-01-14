@@ -14,22 +14,22 @@ image::petzen-band2-img113.jpg[title=Carl Heinrich Wilharm Baptism (click to Enl
 == Transliteration and Translation 
 
 .Transliteration
-[cols="1,10,3,6,6,10,10,5,10"]
+[%header,cols="1,10,4,7,7,10,10,5,10",frame=none]
 |===
 |Zahl|Name des Kindes|Zahl|Geburtszeit +
 und +
 Geburtsort|Taufzeit +
-u. +
+u[nd]. +
 Taufort des Kindes|Name, Stand, Religion u. Geburtsort des Vaters|Name,
 Religion u. Geburtsort der Mutter|Wohnort der Eltern|Taufzeugen
 
-|C37,
+|37.
 |Carl Friedrich Wilhelm +
 Wilharm +
 cop. 19.5.33
 gest. 5.6.74
-|das 6^ten^ Kind +
-u. 3^ten^ Sohn
+|das 6^te^ Kind +
+u. 3^te^ Sohn
 |ist geboren +
 d. 27^ten^ Novbr. +
 in Evesen
@@ -38,7 +38,7 @@ Mittags 11. Uhr
 d. 2^ten^ Decbr. in der +
 Kirche zu Petzen 
 |Hans Heinrich Wilharm +
-Ackersmann aus n. 11 in Evesen +
+[Ackersmann/Actesmann] aus n. 11 in Evesen +
 Luth. Conf.
 |Sophie geb. Blecken +
 aus n. 11. in Evesen, Luth. Conf.
@@ -50,6 +50,42 @@ Joh. Heinrich Deerberg n. 6. +
 in Evesen
 |===
 
+.Translation
+[%header,cols="1,10,4,7,7,10,10,5,10",frame=none]
+|===
+|Zahl|Name des Kindes|Zahl|Geburtszeit +
+und +
+Geburtsort|Taufzeit +
+u[nd]. +
+Taufort des Kindes|Name, Stand, Religion u. Geburtsort des Vaters|Name,
+Religion u. Geburtsort der Mutter|Wohnort der Eltern|Taufzeugen
+
+|37.
+|Carl Friedrich Wilhelm +
+Wilharm +
+married: 19.5.33
+died: 5.6.74
+|das 6^th^ Child +
+u. 3^rd^ Son
+|born on +
+the 27^th^ Novbr. +
+in Evesen
+midday 11. Uhr
+|was baptized +
+on 2^nd^ Dec. in the +
+church at Petzen 
+|Hans Heinrich Wilharm +
+farmer from n. 11 in Evesen +
+Lutheran Confession
+|Sophie nee Blecken +
+from n. 11. in Evesen, Luth. Conf.
+|live at no. 11 +
+in Evesen
+|Christian Friedrich +
+Hartmann n. 10 und +
+Joh. Heinrich Deerberg n. 6. +
+in Evesen
+|===
 
 
 [bibliography]
