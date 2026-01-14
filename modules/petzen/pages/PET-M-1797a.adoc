@@ -30,7 +30,7 @@ Hans Heinrich Wilharm +
 Witwer
 |Evesen
 |11
-|August +
+|[underline]#August# +
 Sophie Ernestine Blecke +
 Jfr.
 |Evesen
@@ -43,12 +43,12 @@ Jfr.
 |Num. |of the Groom|Locality|no.|Bride's Name|Locality|no.
 
 |16
-|On the 27^th^ +
+|[underline]#On the 27^th^# +
 Hans Heinrich Wilharm +
 widower
 |Evesen
 |11
-|August +
+|[underline]#August# +
 Sophie Ernestine Blecke +
 Maiden.
 |Evesen
