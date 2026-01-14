@@ -15,7 +15,7 @@ image::petzen-band2-img235.jpg[link=self]
 
 == Transliteration and Translation
 
-[cols="5%,35%,15%,5%,15%,5%,5%,7.5%,7.5%"]
+[cols="5%,35%,15%,5%,15%,5%,5%,7%,7%"]
 |===
 |Anzahl|Nahmen|Ortschaft|Hausnummer|Krankheit|Alter +
 Jahre|Alter +
