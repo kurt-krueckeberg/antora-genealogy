@@ -1,1 +1,62 @@
 = 1810 Carl Heinrich Wilharm Baptism
+:page-role: wide
+
+== Citation
+
+The baptism record of Carl Heinrich Wilharm is found on <<PET-B-1810a,
+image 112>> of the Verzeichnis der Getauften, Konfirmierten, Getrauten und
+Gestorbenen 1785-1827.
+
+== Image of Baptism Record
+
+image::petzen-band2-img112-wilharm-left.jpg[link=self]
+
+image::petzen-band2-img112-wilharm-right.jpg[link=self]
+
+== Transliteration and Translation 
+
+.Transliteration
+|===
+|Zahl|Name des Kindes|Zahl|Geburtszeit +
+und +
+Geburtsort|Taufzeit +
+u. +
+Taufort des Kindes|Name, Stand, Religion u. Geburtsort des Vaters|Name,
+Religion u. Geburtsort der Mutter|Wohnort der Eltern|Taufzeugen
+
+
+|===
+
+.Translation
+[literal.bordered,subs="verbatim,quotes"]
+....
+....
+
+[bibliography]
+== Citations
+
+* [[[PET-B-1810a]]] "Archion Protestant Kirchenbücher Portal", database
+with images, _Archion_ (https://www.archion.de/p/bccf9c0762/ : 12 January
+2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
+der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
+1785-1827, image 112 of 357
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

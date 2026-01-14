@@ -15,7 +15,7 @@ image::petzen-band2-img71-wilharm-right.jpg[link=self]
 [bibliography]
 == Citations
 
-* [[[PET-M-1798c]]] "Archion Protestant Kirchenbücher Portal", database
+* [[[PET-B-1798c]]] "Archion Protestant Kirchenbücher Portal", database
 with images, _Archion_ (https://www.archion.de/p/bccf9c0762/ : 12 January
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >

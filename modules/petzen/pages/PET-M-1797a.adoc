@@ -1,0 +1,66 @@
+= 1796 Hans Heinrich Wilharm Marriage
+:page-role: wide
+
+== Family Relationship Facts
+
+
+== Citation
+
+The 27 August marriage of Hans Heinrich Wilharm to Sophie Ernestine Blecke
+is found on <<PET-M-1797a, 10>> of the Archion.de digital images of the
+Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
+1785-1827
+
+== Images of Marriage Record
+
+image::petzen-band2-img10.jpg[title='Hans Heinrich Wilharm 27 Aug. 1797 marriage record (click to enlarge)',link=self]
+
+[.narrow]
+== Transliteration and Translation
+
+.Transliteration
+[cols="5%,30%,12%,5%,30%,12%,5%"]
+|===
+|Anzahl|des Bräutigames|Ortschaft|Nro.|Bride's Name|Ortschaft|Nro.
+
+|16
+|Am 27^ten^ +
+Hans Heinrich Wilharm +
+Witwer
+|Evesen
+|11
+|August +
+Sophie Ernestine Blecke +
+Jfr.
+|Evesen
+|11
+|===
+
+.Translation
+[cols="5%,30%,12%,5%,30%,12%,5%"]
+|===
+|Num. |of the Groom|Locality|no.|Bride's Name|Locality|no.
+
+|16
+|On the 27^ten^ +
+Hans Heinrich Wilharm +
+widower
+|Evesen
+|11
+|August +
+Sophie Ernestine Blecke +
+Maiden.
+|Evesen
+|11
+|===
+
+
+[bibliography]
+== Citations
+
+* [[[PET-M-1797a]]] "Archion Protestant Kirchenbücher Portal", database
+with images, _Archion_ (https://www.archion.de/p/dbd615cd07/ : 13
+January 2025), path: Niedersachsen > Niedersächsisches Landesarchiv >
+Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe >
+Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und
+Gestorbenen 1785-1827 > Image 10 of 357
