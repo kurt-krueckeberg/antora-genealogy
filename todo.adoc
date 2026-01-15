@@ -1,5 +1,10 @@
 = TODO
 
+== Rework and Convert Dr. Moehle Work to AsciiDoc
+
+Convert `modules/background/attachments/Moehle_Report_on_History_of_Schaumburg-Lippe.pdf`
+to `.adoc` files.
+
 == Review What is Obvious
 
 Take the todo-items below. What items are obvious annd can be built upon?
