@@ -1,10 +1,8 @@
 = TODO
 
-== Finish the Wilharm Petzen Records
-
 == Review What is Obvious
 
-Take the todo-itemes below. What items are obvious annd can be built upon?
+Take the todo-items below. What items are obvious annd can be built upon?
 
 == Where did the Krückeberg's Live
 
