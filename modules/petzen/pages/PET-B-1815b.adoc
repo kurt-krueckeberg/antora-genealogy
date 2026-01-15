@@ -1,6 +1,10 @@
 = 1815 Heinrich Wilhelm Weiland Baptism
 :page-role: wide
 
+== FamilySearch Tree Entry
+
+link:https://www.familysearch.org/en/tree/person/details/GSW7-L4K[GSW7-L4K].
+
 == Citation
 
 The birth and baptism of Heinrich Wilhelm Weiland is entry 37 on <<PET-B-1815b,
