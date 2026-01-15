@@ -18,10 +18,11 @@ image::petzen-band2-img71-wilharm-left.jpg[link=self]
 image::petzen-band2-img71-wilharm-right.jpg[link=self]
 
 == Transliteration and Translation 
+
 .Transliteration
 [%header,cols="1,10,8,1,5,8,5,5,13",frame=none]
 |===
-|Zahl|Namen des Kindes|Namen des Vaters|Haus Nro|Ortschaft|Namen der Mutter|geb:|get:|Namen der Gavattern
+|Anzahl|Namen des Kindes|Namen des Vaters|Haus Nro|Ortschaft|Namen der Mutter|geb:|get:|Namen der Gavattern
 
 |38,
 |Anne Marie Christine Wilharm +
@@ -33,7 +34,31 @@ gest. 21.4.66
 |Sophie Ernestine Blecke
 |Julius +
 21
-|22
+|Julius +
+22
+|1, Anne Marie Elisabeth Hartmann, Evesen +
+2, Ilse Marie Elisabeth Blecke, Evesen
+|===
+
+
+.Translation
+[%header,cols="1,10,8,1,5,8,5,5,13",frame=none]
+|===
+|No.|Name of Child|Name of Father|House +
+no.|Locality|Name of Mother|born|baptized|Name of Sponsors
+
+|38,
+|Anne Marie Christine Wilharm +
+married 10/2/17 +
+died 4/21/66
+|Hans Heinrich Wilharm
+|11
+|Evesen
+|Sophie Ernestine Blecke
+|July +
+21
+|July +
+22
 |1, Anne Marie Elisabeth Hartmann, Evesen +
 2, Ilse Marie Elisabeth Blecke, Evesen
 |===
