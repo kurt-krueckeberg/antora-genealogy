@@ -64,9 +64,7 @@ April|Namen der Gevattern
 [%header,cols="1,5,5,1,2,5,1,1,5",frame="none"]
 |===
 |Number| Name of Child|Name of Father|House no.|Locality|Name of
-Mother|birth +
-April|baptism +
-April|Name der Sponsors
+Mother|birth|baptism|Name der Sponsors
 
 |15.
 |Hans Heinrich Wilharm
@@ -74,8 +72,10 @@ April|Name der Sponsors
 |11
 |Evesen
 |Anne Marie Philippine Blecke
-|10
-|11
+|Apr. +
+10
+|Apr. +
+11
 |Johann Heinrich Brands from No. 10 in Evesen
 |===
 
