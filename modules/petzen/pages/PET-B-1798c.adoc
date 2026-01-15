@@ -3,13 +3,41 @@
 
 == Citation
 
+The baptism record Anne Marie Christine Wilharm is found on <<PET-B-1798c,
+image 71>> of the Petzen parish's Verzeichnis der Getauften, Konfirmierten, Getrauten und
+Gestorbenen 1785-1827.
+
 == Image of Baptism Record
 
+=== Left Page
+
 image::petzen-band2-img71-wilharm-left.jpg[link=self]
+
+=== Right Page
 
 image::petzen-band2-img71-wilharm-right.jpg[link=self]
 
 == Transliteration and Translation 
+.Transliteration
+[%header,cols="1,10,10,1,7,10,5,5,14",frame=none]
+|===
+|Zahl|Namen des Kindes|Namen des Vaters|Haus Nro|Ortschaft|Namen der Mutter|geb:|get:|Namen der Gavattern
+
+|38,
+|Anne Marie Christine Wilharm +
+cop. 2.10.17
+gest. 21.4.66
+|Hans Heinrich Wilharm
+|11
+|Evesen
+|Sophie Ernestine Blecke
+|Julius +
+21
+|22
+|1, Anne Marie Elisabeth Hartmann, Evesen +
+2, Ilse Marie Elisabeth Blecke, Evesen
+|===
+
 
 
 [bibliography]
