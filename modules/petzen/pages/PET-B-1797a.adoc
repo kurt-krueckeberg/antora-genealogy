@@ -30,7 +30,11 @@ _Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
 
 == Images of Birth Record
 
+== Image of Left Page
+
 image::petzen-band2-img68-left.jpg[link=self]
+
+== Image of Right Page
 
 image::petzen-band2-img68-right.jpg[link=self]
 
