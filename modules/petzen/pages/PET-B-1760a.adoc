@@ -47,9 +47,9 @@ image::petzen-band1a-img202.jpg[title='Hans Heinrich Wilharm marriage record (cl
 [literal.bordered,subs="verbatim,quotes"]
 ....
 d. 27ten Aug. Hans Henrich Wilharm
-*+* d:2. Mai 1843  
 des Friedrich Wilharms Sohn zu Berenbusch                
 getauft. Gev. Joh. Harm Hoff zu Petzen
+*+* d:2. Mai 1843  
 ....
 
 .Translation
