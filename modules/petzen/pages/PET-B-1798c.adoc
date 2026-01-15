@@ -19,7 +19,7 @@ image::petzen-band2-img71-wilharm-right.jpg[link=self]
 
 == Transliteration and Translation 
 .Transliteration
-[%header,cols="1,8,8,1,5,8,5,5,13",frame=none]
+[%header,cols="1,10,8,1,5,8,5,5,13",frame=none]
 |===
 |Zahl|Namen des Kindes|Namen des Vaters|Haus Nro|Ortschaft|Namen der Mutter|geb:|get:|Namen der Gavattern
 
