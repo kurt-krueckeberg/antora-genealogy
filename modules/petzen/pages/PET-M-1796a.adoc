@@ -66,7 +66,7 @@ Hans Heinrich Wilharm +
 Jgs[Junggeselle].                          
 |Berenbusch
 |9
-|[underlin]#Mai# +
+|[underline]#Mai# +
 Anne Marie Philip: Blecke
 Jfr[Jungfrau]. 
 |Evesen
@@ -84,7 +84,7 @@ Hans Heinrich Wilharm +
 Bachelor
 |Berenbusch
 |9
-|[underlin]#May# +
+|[underline]#May# +
 Anne Marie Philip: Blecke
 virgin 
 |Evesen
