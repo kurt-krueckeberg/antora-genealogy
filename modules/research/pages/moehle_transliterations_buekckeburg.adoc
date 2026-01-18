@@ -68,7 +68,7 @@ all the others.
 
 On p 17 we find a list for Berenbusch: Under ‚Brinksitzer‘ we see no. 10
 
-.Translitarion
+.Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Joh. Tönnies Eggerding modo Johann Heinr. Krückeberg
@@ -110,6 +110,10 @@ all the others.
 
 Transcript of the protocol for Johann Heinrich Krückeberg at Berenbusch
 no. X
+
+.Transliteration
+[literal.bordered,subs="verbatim,quotes"]
+....
 
 N. X [Rf?] er hiesse
 
@@ -395,8 +399,11 @@ Derselben hält - 6 [Ruten]
 Ein Garten bey dem Hause hat ¾ [Morgen] 23 [Ruten]
 
 Summa Summarum ¾ [Morgen] 29 [Ruten] [nach neuer Messung]
+....
 
-_Translation_
+.Translation
+[literal.bordered,subs="verbatim,quotes"]
+....
 
 No. 10 at the house
 
@@ -413,6 +420,7 @@ It covers 6 rods
 A garden next to the house has ¾ [acre] 23 [rods]
 
 Summa Summarum ¾ [acre] 29 [rods] [according to new measurement]
+....
 
 *NLA BU L 2 L Nr. 27/54* Spezialvermessung der Dörfer Evesen, Berenbusch
 und Nordholz 1734-1742
