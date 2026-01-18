@@ -4,7 +4,8 @@
 == Overview
 
 TODO: Add link to document in Arcinys using bookmarked url and mention its
-denotation and translation and comments by Dr. Möhle.
+denotation and translation and comments by
+link:https://www.moehle-research.de/[Dr. Möhle].
 
 == Image of Title Page
 

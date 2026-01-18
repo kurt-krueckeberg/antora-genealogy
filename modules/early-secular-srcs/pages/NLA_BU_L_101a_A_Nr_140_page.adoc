@@ -3,6 +3,10 @@
 
 == Image
 
+This is the microfiche image enhanced by as best as can be. It was obtained
+by commissioned research done by link:https://www.moehle-research.de/[Dr.
+Slvia Möhle].
+
 image::NLA_BU_L_101a_A_Nr.140.enlarged.png[title=Brinksitzer.link=self]
 
 [.narrow]
@@ -25,7 +29,12 @@ Joh. Heinr. Kreutler modo Daniel Steding
          [underline]#Dorf Nodholz#
 ....
 
+TODO: Is there an accompanying image??
+
+[quote, Comments by Dr. Möhle]
+____
 On p 17 we find a list for Berenbusch: Under _Brinksitzer_ we see no. 10
+____
 
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
