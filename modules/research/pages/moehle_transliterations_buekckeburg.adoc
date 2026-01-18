@@ -1,5 +1,5 @@
 = Research Report State Archive Bückeburg
-:page-role: very-wide
+:page-role: wide
 
 == Comment
 
