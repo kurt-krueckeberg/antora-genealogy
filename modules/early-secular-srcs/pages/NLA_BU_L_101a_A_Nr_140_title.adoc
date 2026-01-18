@@ -10,6 +10,7 @@ image::NLA_BU_L_101a_A_Nr.140.title.png[title= Title page(Click to Enlarge),link
 [.narrow]
 == Transliteration and Translation
 
+.Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Colonatsachen
@@ -25,3 +26,21 @@ im Jahre 1747 vorgehabten Numm-
 rirung der sämtlichen Häuser
 angefertigt worden.  
 ....
+
+Kolonen:: Tenant farmers holding land under the Kolonat system (hereditary leaseholds).
+
+.Translation
+[literal.bordered,subs="verbatim,quotes"]
+....
+Colonate Matters
+
+Judicial Records
+
+Concerning
+
+A [underline]#name register# of all tenants (Kolonen) of the offices
+(Ämter) of Bückeburg and Arensburg, which was compiled on the occasion of
+the numbering of all houses carried out in the year 1747.
+....
+
+
