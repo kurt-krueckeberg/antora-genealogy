@@ -1,8 +1,22 @@
 = TODO
 
+== Add to Möhle Bückebuerg Individual's to Research
+
+* Schäkel death record.
+* Ä Carl Freid. Bleeke military record
+
 == Review Dr. Moehle's Transliterations
 
-They are in ~/backup_folder/bueckeburg_moehle_research
+Finish the conversion to AsciiDoc of
+~/backup_folder/bueckeburg_moehle_research/Krückeberg_State_Archive_Research_Transliterations.docx.
+
+The pandoc converted file is ~/gen/m/research/moehle_transliterations_bueckeburg.adoc
+It needs to be completed. I want to add a AsciiDoc table that lists all the
+document reviewed--perhaps make it a separate .adoc page, a sort of table
+of contents with link to the translation, which will either be, sza, two
+.adoc pages, one with the long transliteration, and one with all the short transliterations. 
+
+I think she forgot to do the Krückeberg research.
 
 == Rework and Convert Dr. Moehle Work to AsciiDoc
 
