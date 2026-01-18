@@ -5,6 +5,7 @@
 
 image::NLA_BU_L_101a_A_Nr.140.enlarged.png[title=Brinksitzer.link=self]
 
+[.narrow]
 == Transliteration and Translation
 
 [literal.bordered,subs="verbatim,quotes"]
