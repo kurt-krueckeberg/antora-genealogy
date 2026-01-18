@@ -18,7 +18,7 @@ these files only record property owners, not tenants.
 
 List of names of all Kolons in the districts of Bückeburg and Arensburg, with numbering of all houses. 
 |1740-1830
-|the list is entirely from *1747* (see title page), 1830 refers to a few letters included in the file at the end.
+|The list is entirely from *1747* (see title page), 1830 refers to a few letters included in the file at the end.
 
 |NLA BU L 2 L Nr. 27/28
 |Erfassung der Haus- und Hofbesitzer im Amt Bückeburg im Rahmen einer Generallandesvisitation (Landesvermessung)
