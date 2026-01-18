@@ -73,6 +73,26 @@ Special survey of the villages of Evesen, Berenbusch, and Nordholz
 |the list is entirely from *1747* (see title page), 1830 refers to a few letters included in the file at the end.
 |===
 
+image::NLA_BU_L_101a_A_Nr.140.enlarged.png[title=Brinksitzer.link=self]
+
+[literal.bordered,subs="verbatim,quotes"]
+....
+Joh. Heinr. Kreutler modo Daniel Steding
+
+     [underline]#Brinksitzer#
+
+5.) Joh. Kohlmeier modo Joh. Friedr. Kohlmeier
+6.) Jobst Heinr Jacob modo Jobst Jacob.
+7.) Anthon Heinr. Bornemann modo Joh.
+ Jobst Most.
+8.) Ahrend Heinr. Ostermeier modo Joh. Heinr: Bornemann
+9.) Cord Heinr. Wilharm modo Joh. Heinr. Schmön
+10.) Joh. Tönnies Eggerding modo Joh. Heinr. Kruckeberg
+11.) Hans Heinr. Riensche und ein neuer Anbauen
+
+         [underline]#Dorfe Nodholz#
+....
+
 On p 17 we find a list for Berenbusch: Under ‚Brinksitzer‘ we see no. 10
 
 .Transliteration
