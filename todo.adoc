@@ -10,11 +10,11 @@
 == Review Dr. Moehle's Transliterations
 
 Check on my Transkribus text recognition job. The image that I did OCR
-is in the collection named NLA_Core_Document_1700_1760. It is the title
-page.
+is in the collection named NLA_Core_Document_1700_1760: Image is
+*NLA_BU_L_101a_A_Nr.140.title.png*.
 
 Confirm that "10.)" in the image
-`m/research/imagesNLA_BU_L_101a_A_Nr.140.enlarged.png` is "No. 10
+`m/research/images/NLA_BU_L_101a_A_Nr.140.enlarged.png` is "No. 10
 Berenbsuch"?
 
 === Review the Purpose of the Research with the Outcome
