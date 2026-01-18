@@ -9,10 +9,6 @@
 
 == Review Dr. Moehle's Transliterations
 
-Check on my Transkribus text recognition job. The image that I did OCR
-is in the collection named NLA_Core_Document_1700_1760: Image is
-*NLA_BU_L_101a_A_Nr.140.title.png*.
-
 Confirm that "10.)" in the image
 `m/research/images/NLA_BU_L_101a_A_Nr.140.enlarged.png` is "No. 10
 Berenbsuch"?
@@ -26,6 +22,9 @@ found xref:research:moehle:moehle_transliterations_buekckeburg.adoc[].
 She apparently only did the first part of the research: examine documents
 from 1700-1760. She didn't do the 2^nd^ phase or the do the
 Krueckeberg/Bleeke or Guild research.
+
+I do have microfiche images that I requested over the summer that I might
+be able to enhance.
 
 === Create a New Page or Section
 
