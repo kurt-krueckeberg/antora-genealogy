@@ -5,15 +5,19 @@
 * https://docs.krueckeberg.org/genealogy/1.0/research/RR-Krueckeberg-1700-1760-TargetRecords.html
 * https://docs.krueckeberg.org/genealogy/1.0/research/jobst-hk-1765-1822-guild-records.html
 * Schäkel death record.
-* Ä Carl Freid. Bleeke military record
+* Carl Freid. Bleeke's military record
 
 == Review Dr. Moehle's Transliterations
 
-=== Review the Purpose with the Outcome
+=== Review the Purpose of the Research with the Outcome
 
 Review the purpose at
 xref:research:RR-Krueckeberg-MasterResearch-1700-1850.adoc[] with what was
 found xref:research:moehle:moehle_transliterations_buekckeburg.adoc[].
+
+She apparently only did the first part of the research: examine documents
+from 1700-1760. She didn't do the 2^nd^ phase or the do the
+Krueckeberg/Bleeke or Guild research.
 
 === Create a New Page or Section
 
