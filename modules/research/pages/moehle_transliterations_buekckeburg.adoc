@@ -30,6 +30,8 @@ Registration of house and farm owners in the Bückeburg district as part of a ge
 |NLA BU L 2 L Nr. 27/41
 |Protokolle über die Befragung der einzelnen Hofbesitzer in Evesen, Berenbusch, Nordholz
 und Rusbend im Rahmen der Generallandesvisitation (Landesvermessung)
+
+Records of interviews with individual farm owners in Evesen, Berenbusch, Nordholz, and Rusbend as part of the general land survey (state land survey)
 |1743-1744
 |The householders are each asked 40 questions. The questions are
 unfortunately not documented in this file, so we get to know only the
@@ -41,11 +43,15 @@ all the others.
 
 |NLA BU L 2 L Nr. 27/13
 |Vermessung der Dörfer Evesen, Berenbusch und Nordholz
+
+Surveying of the villages of Evesen, Berenbusch, and Nordholz
 |1745
 |
 
 |NLA BU L 2 L Nr. 27/54
 |Spezialvermessung der Dörfer Evesen, Berenbusch und Nordholz
+
+Special survey of the villages of Evesen, Berenbusch, and Nordholz
 |1734-1742
 |See image 24, the information is the same as in file 27/13
 
