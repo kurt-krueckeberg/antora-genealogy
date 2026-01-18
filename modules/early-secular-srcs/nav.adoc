@@ -1,3 +1,3 @@
 * Early Secular Sources
 ** xref:NLA_BU_L_101a_A_Nr_140_title.adoc[]
-** xref:NLA_BU_L_101a_A_Nr_140_page.adoc[]
+*** xref:NLA_BU_L_101a_A_Nr_140_page.adoc[]

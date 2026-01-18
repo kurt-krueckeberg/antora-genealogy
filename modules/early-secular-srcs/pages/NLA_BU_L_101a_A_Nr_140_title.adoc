@@ -1,5 +1,10 @@
-= Title Page: Earliest near-census of householders (1740)
+= List of all tenant farmers in the districts of Bückeburg and Arensburg, with numbering of all houses. (1740)
 :page-role: wide
+
+== Overview
+
+TODO: Add link to document in Arcinys using bookmarked url and mention its
+denotation and translation and comments by Dr. Möhle.
 
 == Image of Title Page
 
