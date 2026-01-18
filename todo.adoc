@@ -9,6 +9,9 @@
 
 == Review Dr. Moehle's Transliterations
 
+Check on my Transkribus text recognition job. The sole image that I did OCR
+on was in the NLA_Core_Document_1700_1760.
+
 === Review the Purpose of the Research with the Outcome
 
 Review the purpose at
