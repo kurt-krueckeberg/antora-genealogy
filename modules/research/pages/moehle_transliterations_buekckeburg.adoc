@@ -6,10 +6,9 @@ In general, there is only one Krückeberg household in Berenbusch
 documented in the following files. We must keep in mind though, that
 these files only record property owners, not tenants.
 
-
 == Documents
 
-
+[cols="3,10,2,5"]
 |===
 |Identifier|Denotation|Life Span|Comments
 
@@ -22,28 +21,74 @@ List of names of all colonists in the districts of Bückeburg and Arensburg, wit
 
 |NLA BU L 2 L Nr. 27/28
 |Erfassung der Haus- und Hofbesitzer im Amt Bückeburg im Rahmen einer Generallandesvisitation (Landesvermessung)
+
+Registration of house and farm owners in the Bückeburg district as part of a general land survey (state land survey)
 |1737
 |
+
+|NLA BU L 2 L Nr. 27/41
+|Protokolle über die Befragung der einzelnen Hofbesitzer in Evesen, Berenbusch, Nordholz
+und Rusbend im Rahmen der Generallandesvisitation (Landesvermessung)
+|1743-1744
+|The householders are each asked 40 questions. The questions are
+unfortunately not documented in this file, so we get to know only the
+answers. Many of the questions were negated by recording either ‚nescit‘
+(he does not know) or ‚cessat‘ (does not apply, falls away), but we do
+not know what the topics were that this refers to. Also, some questions
+are answered by ‚ut reliqui‘, which means he had the same conditions as
+all the others.
+
+|NLA BU L 2 L Nr. 27/13
+|Vermessung der Dörfer Evesen, Berenbusch und Nordholz
+|1745
+|
+
+|NLA BU L 2 L Nr. 27/54
+|Spezialvermessung der Dörfer Evesen, Berenbusch und Nordholz
+|1734-1742
+|See image 24, the information is the same as in file 27/13
+
+|NLA BU Dep. 61 Acc. 2018/7 Nr. 245
+|
+|
+|Only refers to Stadthagen
+|===
 
 
 == Document: List of names of all colonists in the districts of Bückeburg and Arensburg, with numbering of all houses. 
 
+|===
+|Identifier|Denotation|Life Span|Comment
 
-*NLA BU L 101a A Nr. 140* Namensverzeichnis sämtlicher Kolonen der Ämter
-Bückeburg und Arensburg, mit Nummerierung der sämtlichen Häuser. +
-(Microfiches) 1740-1830 – the list is entirely from *1747* (see title
-page), 1830 refers to a few letters included in the file at the end.
+|NLA BU L 101a A Nr. 140
+|Namensverzeichnis sämtlicher Kolonen der Ämter Bückeburg und Arensburg, mit Nummerierung der sämtlichen Häuser. (Microfiches)
+|1740-1830
+|the list is entirely from *1747* (see title page), 1830 refers to a few letters included in the file at the end.
+|===
 
 On p 17 we find a list for Berenbusch: Under ‚Brinksitzer‘ we see no. 10
 
+.Translitarion
+[literal.bordered,subs="verbatim,quotes"]
+....
 Joh. Tönnies Eggerding modo Johann Heinr. Krückeberg
+....
 
 This means, Johann Heinrich Krückeberg was the successor on this
 property.
 
-*NLA BU L 2 L Nr. 27/28* Erfassung der Haus- und Hofbesitzer im Amt
-Bückeburg im Rahmen einer Generallandesvisitation (Landesvermessung)
+== Document: Registration of house and farm owners in the Bückeburg district as part of a general land survey (state land survey) 
+*NLA BU L 2 L Nr. 27/28* 
 1737
+
+|===
+|Identifier|Denotation|Life Span|Comment
+
+|NLA BU L 2 L Nr. 27/28
+|Erfassung der Haus- und Hofbesitzer im Amt Bückeburg im Rahmen einer Generallandesvisitation (Landesvermessung)
+|Registration of house and farm owners in the Bückeburg district as part of a general land survey (state land survey) 
+|
+|===
 
 Berenbusch – the ‚Brinksitzer‘ properties belonged to the Prince and tax
 has to be paid to him, as is noted on the right side of this page. Among
