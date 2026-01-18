@@ -2,6 +2,8 @@
 
 == Add to Möhle Bückebuerg Individual's to Research
 
+* https://docs.krueckeberg.org/genealogy/1.0/research/RR-Krueckeberg-1700-1760-TargetRecords.html
+* https://docs.krueckeberg.org/genealogy/1.0/research/jobst-hk-1765-1822-guild-records.html
 * Schäkel death record.
 * Ä Carl Freid. Bleeke military record
 
