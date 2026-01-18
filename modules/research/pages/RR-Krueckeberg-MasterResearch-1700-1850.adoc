@@ -1,5 +1,6 @@
 = Master Research Strategy: Krückeberg Families of Berenbusch & Evesen (1700–1850)
-:page-role: wide
+
+== Overview
 
 This document provides the overall research framework for investigating all
 Krückeberg families in Berenbusch and Evesen between 1700 and 1850. It explains
@@ -12,25 +13,40 @@ xref:RR-Krueckeberg-1700-1760-TargetRecords.adoc[].
 
 == Purpose
 
-This document unifies the research strategy for investigating all **Krückeberg** families who lived in the villages of **Berenbusch** and **Evesen** between **1700 and 1850**.  
-Because the available secular record types differ sharply between the mid-18th and early-19th centuries, research is divided into two distinct phases:
+This document unifies the research strategy for investigating all
+**Krückeberg** families who lived in the villages of **Berenbusch** and
+**Evesen** between **1700 and 1850**.  Because the available secular record
+types differ sharply between the mid-18th and early-19th centuries,
+research is divided into two distinct phases:
 
 * **Part I (1700–1760):** Generallandesvisitation and early secular lists  
-* **Part II (ca. 1780–1850):** House-number-based Brandkasse, Lagerbücher, and tax registers
+* **Part II (ca. 1780–1850):** House-number-based Brandkasse, Lagerbücher,
+  and tax registers
 
-Both phases are essential, because early church records contain gaps and ambiguities, and later secular records rely heavily on stable house numbers.
+Both phases are essential, because early church records contain gaps and
+ambiguities, and later secular records rely heavily on stable house
+numbers.
 
 == Why Two Phases Are Necessary
 
-* Before ca. 1760, **house numbers did not exist**, and secular records consist of **visitation lists, surveys, and colonist registers**.  
-* From **ca. 1780–1800**, the administration in Schaumburg-Lippe gradually shifted toward modern, standardized **house-numbered** taxation, insurance, and landholding systems.  
-* By **ca. 1802–1805**, house numbers were used consistently in administrative records, enabling detailed reconstruction of household succession.  
-* Einlieger and dependent household members appear only indirectly, but can often be identified once the Hausherr and house number are known.
+* Before ca. 1760, **house numbers did not exist**, and secular records
+  consist of **visitation lists, surveys, and colonist registers**.  
+* From **ca. 1780–1800**, the administration in Schaumburg-Lippe gradually
+  shifted toward modern, standardized **house-numbered** taxation,
+insurance, and landholding systems.  
+* By **ca. 1802–1805**, house numbers were used consistently in
+  administrative records, enabling detailed reconstruction of household
+succession.  
+* Einlieger and dependent household members appear only indirectly, but can
+  often be identified once the Hausherr and house number are known.
 
 == PART I: Research Strategy for 1700–1760
+
 (Goal: Identify all Krückeberg households before house numbers existed.)
 
-The following secular sources should be examined for **any Krückeberg** (or variant spelling) residing in Berenbusch or Evesen. These records represent the only nominal secular evidence for early settlement and landholding.
+The following secular sources should be examined for **any Krückeberg** (or
+variant spelling) residing in Berenbusch or Evesen. These records represent
+the only nominal secular evidence for early settlement and landholding.
 
 === Core Documents (1700–1760)
 
@@ -38,29 +54,41 @@ The following secular sources should be examined for **any Krückeberg** (or var
 |===
 |Identifier |Description |Life span
 
-|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4869389[NLA BU, L 101a, A No. 140]
-|Kolonenverzeichnis: list of all colonists with numbering (1740). Earliest near-census of householders.
+|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4869389[NLA
+BU, L 101a, A No. 140] 
+|Kolonenverzeichnis: list of all colonists with
+numbering (1740). Earliest near-census of householders.  
 |1740–1830
 
-|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894569[NLA BU L 2 L Nr. 27/28]
-|Generallandesvisitation: survey of all house and farm owners in the Amt Bückeburg.
+|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894569[NLA
+BU L 2 L Nr. 27/28] 
+|Generallandesvisitation: survey of all house and farm
+owners in the Amt Bückeburg.  
 |1737
 
-|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894537[NLA BU L 2 L Nr. 27/41]
-|Interview protocols with each householder in Berenbusch, Evesen, Nordholz, and Rusbend. May contain relational or predecessor information.
+|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894537[NLA
+BU L 2 L Nr. 27/41] 
+|Interview protocols with each householder in
+Berenbusch, Evesen, Nordholz, and Rusbend. May contain relational or
+predecessor information.  
 |1743–1744
 
-|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894533[NLA BU L 2 L Nr. 27/13]
-|General survey of Berenbusch, Evesen, and Nordholz. Provides land context with limited personal detail.
+|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894533[NLA
+BU L 2 L Nr. 27/13] 
+|General survey of Berenbusch, Evesen, and Nordholz.
+Provides land context with limited personal detail.  
 |1745
 
-|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894545[NLA BU L 2 L Nr. 27/54]
-|Special survey (“Spezialvermessung”) of the same villages. Useful for matching early house sites.
+|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894545[NLA
+BU L 2 L Nr. 27/54] 
+|Special survey (“Spezialvermessung”) of the same
+villages. Useful for matching early house sites.  
 |1734–1742
 
-|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v9665016[NLA BU Dep. 61 Acc. 2018/7 Nr. 245]
-|Lagerbuch (1816). Mainly for later continuity rather than early origins.
-|1816
+|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v9665016[NLA
+BU Dep. 61 Acc. 2018/7 Nr. 245] 
+|Lagerbuch (1816). Mainly for later
+continuity rather than early origins.  |1816
 |===
 
 === Priority Ranking
@@ -69,12 +97,29 @@ The following secular sources should be examined for **any Krückeberg** (or var
 |===
 |Priority |Document |Why It Matters
 
-|1 |Kolonenverzeichnis (L 101a A 140) |Earliest broad household listing. Likely to include all Krückebergs in Berenbusch ca. 1740.
-|2 |Visitation Survey 1737 |Identifies all house and farm owners.
-|3 |Interview Protocols 1743–1744 |May include obligations, predecessors, and relational clues.
-|4 |Village Survey 1745 |Provides supporting land context.
-|5 |Special Survey |Useful for mapping early household locations.
-|6 |1816 Lagerbuch |Important for confirming continuity but not for 1700–1760 reconstruction.
+|1 
+|Kolonenverzeichnis (L 101a A 140) 
+|Earliest broad household listing. Likely to include all Krückebergs in Berenbusch ca. 1740.
+
+|2 
+|Visitation Survey 1737 
+|Identifies all house and farm owners.
+
+|3 
+|Interview Protocols 1743–1744 
+|May include obligations, predecessors, and relational clues.
+
+|4 
+|Village Survey 1745 
+|Provides supporting land context.
+
+|5 
+|Special Survey 
+|Useful for mapping early household locations.
+
+|6 
+|1816 Lagerbuch 
+|Important for confirming continuity but not for 1700–1760 reconstruction.
 |===
 
 === Research Goal for 1700–1760
@@ -93,7 +138,7 @@ and to reconstruct every **Krückeberg household** present in Berenbusch during 
 From approximately **1780 to 1800**, Schaumburg-Lippe transitioned from the old visitation-based system of recordkeeping into a more standardized administrative framework in which **house numbers** became central to taxation, insurance, and landholding.  
 By **ca. 1802–1805**, the house-number system was well established and can be used effectively to trace the Krückeberg families of Berenbusch and Evesen.
 
-### Why This Phase Is Necessary
+=== Why This Phase Is Necessary
 
 These administrative records reveal information **not found** in the Kirchenbücher:
 
