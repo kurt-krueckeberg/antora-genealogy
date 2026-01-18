@@ -9,7 +9,7 @@ these files only record property owners, not tenants.
 
 == Documents
 
-[cols="3,6,1,10"]
+[cols="3,6,2,10"]
 |===
 |Identifier|Denotation|Life Span|Comments
 
