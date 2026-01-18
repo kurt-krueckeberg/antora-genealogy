@@ -13,6 +13,7 @@ nav:
 # - modules/families/nav.adoc
 # - modules/church-records/nav.adoc
   - modules/family-church-records/nav.adoc
+  - modules/early-secular-srcs/nav.adoc
   - modules/derived-church-records/nav.adoc
   - modules/cincinnati-churches/nav.adoc
   - modules/immanuel-lutheran/nav.adoc
