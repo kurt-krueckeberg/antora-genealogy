@@ -61,70 +61,12 @@ Special survey of the villages of Evesen, Berenbusch, and Nordholz
 |Only refers to Stadthagen
 |===
 
-
-== Document: List of names of all colonists in the districts of Bückeburg and Arensburg, with numbering of all houses. 
-
-|===
-|Identifier|Denotation|Life Span|Comment
-
-|NLA BU L 101a A Nr. 140
-|Namensverzeichnis sämtlicher Kolonen der Ämter Bückeburg und Arensburg, mit Nummerierung der sämtlichen Häuser. (Microfiches)
-|1740-1830
-|the list is entirely from *1747* (see title page), 1830 refers to a few letters included in the file at the end.
-|===
-
-image::NLA_BU_L_101a_A_Nr.140.enlarged.png[title=Brinksitzer.link=self]
-
-[literal.bordered,subs="verbatim,quotes"]
-....
-Joh. Heinr. Kreutler modo Daniel Steding
-
-     [underline]#Brinksitzer#
-
-5.) Joh. Kohlmeier modo Joh. Friedr. Kohlmeier
-6.) Jobst Heinr Jacob modo Jobst Jacob.
-7.) Anthon Heinr. Bornemann modo Joh. Jobst Most.
-8.) Ahrend Heinr. Ostermeier modo Joh. Heinr: Bornemann
-9.) Cord Heinr. Wilharm modo Joh. Heinr. Schmön
-10.) Joh. Tönnies Eggerding modo Joh. Heinr. Kruckeberg
-11.) Hans Heinr. Riensche und ein neuer Anbauen
-
-         [underline]#Dorf Nodholz#
-....
-
-On p 17 we find a list for Berenbusch: Under ‚Brinksitzer‘ we see no. 10
-
-.Transliteration
-[literal.bordered,subs="verbatim,quotes"]
-....
-Joh. Tönnies Eggerding modo Johann Heinr. Krückeberg
-....
-
-This means, Johann Heinrich Krückeberg was the successor on this
-property.
-
-== Document: Registration of house and farm owners in the Bückeburg district as part of a general land survey (state land survey) 
-*NLA BU L 2 L Nr. 27/28* 
-1737
-
-|===
-|Identifier|Denotation|Life Span|Comment
-
-|NLA BU L 2 L Nr. 27/28
-|Erfassung der Haus- und Hofbesitzer im Amt Bückeburg im Rahmen einer Generallandesvisitation (Landesvermessung)
-|Registration of house and farm owners in the Bückeburg district as part of a general land survey (state land survey) 
-|
-|===
-
-Berenbusch – the ‚Brinksitzer‘ properties belonged to the Prince and tax
-has to be paid to him, as is noted on the right side of this page. Among
-the property owners there is no Krückeberg, nor do the names of his
-predecessors Kuhlmann and Eggerding (compare below, protocol) appear.
+== Protokolle über die Befragung der einzelnen Hofbesitzer in Evesen, Berenbusch, Nordholz und Rusbend im Rahmen der Generallandesvisitation (Landesvermessung) 1743-1744
 
 *NLA BU L 2 L Nr. 27/41* Protokolle über die Befragung der einzelnen
-Hofbesitzer in +
-Evesen, Berenbusch, Nordholz und Rusbend im Rahmen der +
+Hofbesitzer in Evesen, Berenbusch, Nordholz und Rusbend im Rahmen der
 Generallandesvisitation (Landesvermessung) 1743-1744
+
 
 The householders are each asked 40 questions. The questions are
 unfortunately not documented in this file, so we get to know only the
