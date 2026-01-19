@@ -1,1 +1,1 @@
-* xref:index.adoc[Krückebergs in Early Secular Sources+
+* xref:index.adoc[Krückebergs in Early Secular Sources]
