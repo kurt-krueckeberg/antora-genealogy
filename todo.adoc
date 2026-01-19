@@ -15,12 +15,12 @@ Confirm that "10.)" in the image
 . Move the .adoc files and images to the "nla" component.
 . Then convert gen/m/early-secular-records/p to xrefs that link to document(s)
 in the "nla" component.
-. Add to the pages in the genealogy page and in the nla documents that 
-"Joh. Tönnies Eggerdings", who is mentioned evidently as the prior owner of
+. Mention in the page in the genealogy page and in the nla documents that 
+"Joh. Tönnies Eggerdings", who is mentioned (evidently) as the prior owner of
 no. 10 Berenbusch, whose a baptismal sponsor of Johann Heinrich's first
 child. See xef:genenalogy:petzen:PET-B-1728a.adoc[].
 document as the prior owner of Berenbusch no. 10 was a baptismal sponsor
-in 1728.
+in 1728 of Johann Heinrich's first son.
 * Ask Dr. Möhle about the meaning of "modo".
 * Turn the `~/gen` page into a discusssion of the early secular sources
   consulted. 
