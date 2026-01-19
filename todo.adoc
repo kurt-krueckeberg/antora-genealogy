@@ -1,5 +1,30 @@
 = TODO
 
+== Email Meike Strattmann this Question
+
+Sehr geehrte Damen und Herren,
+
+Ich arbeite mit mehreren Akten des Amtes Bückeburg aus dem späten 18.
+Jahrhundert (u. a. Rentkammer- und Ausweisungsakten zu Berenbusch, Evesen
+und Umgebung).
+
+In diesen Unterlagen werden die Bezeichnungen **Kolon**, **Brinksitzer**
+und **Kötter** teilweise für dieselbe Person verwendet.  Ich möchte daher
+gern wissen, wie diese Begriffe im **Amt Bückeburg** administrativ
+verstanden wurden:
+
+* Gab es lokale Ordnungen oder Vorschriften, die diese Kategorien
+  definierten?
+* Unterschieden sie sich rechtlich (z. B. in Bezug auf Besitz, Abgaben oder
+  Rechte)?
+* Oder wurden sie eher beschreibend als formal-juristisch verwendet?
+
+Falls es dazu einschlägige Ordnungen, Register oder Sekundärliteratur gibt,
+wäre ich für entsprechende Hinweise sehr dankbar.
+
+Mit freundlichen Grüßen Kurt Krueckeberg
+
+
 == Add to Möhle Bückebuerg Individual's to Research
 
 * https://docs.krueckeberg.org/genealogy/1.0/research/RR-Krueckeberg-1700-1760-TargetRecords.html

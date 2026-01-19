@@ -7,7 +7,7 @@ This microfiche image was obtained by commissioned research done by link:https:/
 Slyvia Möhle]. It has been enhanced as best as can be from its virtually
 unreadable orignal (in which the text was whitish-yellow).
 
-image::NLA_BU_L_101a_A_Nr.140.enlarged.png[title=Brinksitzer.link=self]
+image::NLA_BU_L_101a_A_Nr.140.enlarged.png[title=List of Berenbusch Brinksitzer,link=self]
 
 [.narrow]
 == Transliteration and Translation
@@ -28,6 +28,16 @@ Joh. Heinr. Kreutler modo Daniel Steding
 
          [underline]#Dorf Nodholz#
 ....
+
+.What was a Brinksitzer?
+****
+A *Brinksitzer* was a *village-edge cottager*, who lives on the _Brink_(edge of
+the village). He often had a *house + garden* and relied on trades, day
+labor, or side work.
+
+A *Kötter* was *smallholder* or *small farmer*. He had a cottage (Kotte),
+usually had *some fields*, and could farm on a small scale.
+****
 
 TODO: Is there an accompanying image??
 
