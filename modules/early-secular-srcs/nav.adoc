@@ -1,2 +1,1 @@
-* Early Secular Sources
-** xref:reference_nla_140.adoc[]
+* xref:index.adoc[Krückebergs in Early Secular Sources+
