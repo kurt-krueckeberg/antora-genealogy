@@ -55,9 +55,8 @@ the only nominal secular evidence for early settlement and landholding.
 |Identifier |Description |Life span
 
 |link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4869389[NLA
-BU, L 101a, A No. 140] 
-|Kolonenverzeichnis: list of all colonists with
-numbering (1740). Earliest near-census of householders.  
+BU, L 101a, A Nr. 140] 
+|List of names of all colonies of the offices of Bückeburg and Arensburg, with numbering of the all houses. 
 |1740–1830
 
 |xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894569[NLA
