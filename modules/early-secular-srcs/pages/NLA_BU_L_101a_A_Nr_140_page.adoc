@@ -7,6 +7,8 @@ This microfiche image was obtained by commissioned research done by link:https:/
 Slyvia Möhle]. It has been enhanced as best as can be from its virtually
 unreadable orignal (in which the text was whitish-yellow).
 
+This is found on page 17 of the volume:
+
 image::NLA_BU_L_101a_A_Nr.140.enlarged.png[title=List of Berenbusch Brinksitzer,link=self]
 
 [.narrow]
@@ -29,17 +31,25 @@ Joh. Heinr. Kreutler modo Daniel Steding
          [underline]#Dorf Nodholz#
 ....
 
-.What was a Brinksitzer?
-****
-A *Brinksitzer* was a *village-edge cottager*, who lives on the _Brink_(edge of
-the village). He often had a *house + garden* and relied on trades, day
-labor, or side work.
+*modo* is Latin for "presently,lately now". Thus, this shows the
+change of *holder* for a numbered holding:
+ 
+*Former holder* → *now* → *current holder*
 
-A *Kötter* was *smallholder* or *small farmer*. He had a cottage (Kotte),
-usually had *some fields*, and could farm on a small scale.
-****
+So for the entry:
 
-TODO: Is there an accompanying image??
+....
+Joh. Tönnies Eggerding modo Joh. Heinr. Kruckeberg
+...
+
+means:
+
+....
+Johann Tönnies Eggerding, now Johann Heinrich Krückeberg.
+....
+
+This documents that Krückeberg had taken over that Brinksitzer holding by the time of the register. 
+TODO: 
 
 [quote, Comments by Dr. Möhle]
 ____
@@ -53,4 +63,17 @@ Joh. Tönnies Eggerding modo Johann Heinr. Krückeberg
 ....
 
 This means, Johann Heinrich Krückeberg was the successor on this
-property.
+property. This passage is a succession list for Brinksitzer holdings,
+showing who previously held each house and who holds it now.
+
+.What was a Brinksitzer?
+****
+A *Brinksitzer* was a *village-edge cottager*, who lives on the _Brink_(edge of
+the village). He often had a *house + garden* and relied on trades, day
+labor, or side work.
+
+A *Kötter* was *smallholder* or *small farmer*. He had a cottage (Kotte),
+usually had *some fields*, and could farm on a small scale.
+****
+
+
