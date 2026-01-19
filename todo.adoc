@@ -32,6 +32,15 @@ wäre ich für entsprechende Hinweise sehr dankbar.
 
 Mit freundlichen Grüßen Kurt Krueckeberg
 
+== Enhance the post-1827 Kirchenbuch Mirofiche Images
+
+These are in
+~/backup_folder/NLA_Auftrag_Krückeberg_2024-06-16_NLA_689_1237_98_354/Recherche_Krückeberg.
+
+* Enhance them
+* Do Transkribus text recognition
+* Add them to ~/gen.
+
 == Add to Möhle Bückebuerg Individual's to Research
 
 * https://docs.krueckeberg.org/genealogy/1.0/research/RR-Krueckeberg-1700-1760-TargetRecords.html
