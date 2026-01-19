@@ -2,7 +2,7 @@
 
 == Johann Heinrich Krückebereg's at no. 10 Berenbusch in 1747
 
-A number of secular records in the Bückeburg regional department of the
+A number of xref:nla:ROOT:index.adoc[secular records] in the Bückeburg regional department of the
 Lower Saxony state archives mention the Krückeberg's of Berenbusch. 
 
 They are mentioned in several Rentkammer case files, and in one early
