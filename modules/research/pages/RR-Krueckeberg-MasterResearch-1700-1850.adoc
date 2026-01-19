@@ -59,32 +59,32 @@ BU, L 101a, A Nr. 140]
 |List of names of all colonies of the offices of Bückeburg and Arensburg, with numbering of the all houses. 
 |1740–1830
 
-|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894569[NLA
+|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894569[NLA
 BU L 2 L Nr. 27/28] 
 |Generallandesvisitation: survey of all house and farm
 owners in the Amt Bückeburg.  
 |1737
 
-|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894537[NLA
+|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894537[NLA
 BU L 2 L Nr. 27/41] 
 |Interview protocols with each householder in
 Berenbusch, Evesen, Nordholz, and Rusbend. May contain relational or
 predecessor information.  
 |1743–1744
 
-|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894533[NLA
+|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894533[NLA
 BU L 2 L Nr. 27/13] 
 |General survey of Berenbusch, Evesen, and Nordholz.
 Provides land context with limited personal detail.  
 |1745
 
-|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894545[NLA
+|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894545[NLA
 BU L 2 L Nr. 27/54] 
 |Special survey (“Spezialvermessung”) of the same
 villages. Useful for matching early house sites.  
 |1734–1742
 
-|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v9665016[NLA
+|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v9665016[NLA
 BU Dep. 61 Acc. 2018/7 Nr. 245] 
 |Lagerbuch (1816). Mainly for later
 continuity rather than early origins.  |1816
