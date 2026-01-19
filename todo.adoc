@@ -12,9 +12,13 @@
 Confirm that "10.)" in the image
 `m/research/images/NLA_BU_L_101a_A_Nr.140.enlarged.png` is "No. 10 Berenbsuch"?
 
-* Move the .adoc files and images to the "nla" component.
-* Convert geM/m/early-secular-records/p to xrefs that link to "nla" component.
-* Mention that the "Joh. Tönnies Eggerdings", whose is mentioned in the nla
+. Move the .adoc files and images to the "nla" component.
+. Then convert gen/m/early-secular-records/p to xrefs that link to document(s)
+in the "nla" component.
+. Add to the pages in the genealogy page and in the nla documents that 
+"Joh. Tönnies Eggerdings", who is mentioned evidently as the prior owner of
+no. 10 Berenbusch, whose a baptismal sponsor of Johann Heinrich's first
+child. See xef:genenalogy:petzen:PET-B-1728a.adoc[].
 document as the prior owner of Berenbusch no. 10 was a baptismal sponsor
 in 1728.
 * Ask Dr. Möhle about the meaning of "modo".
