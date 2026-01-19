@@ -27,6 +27,23 @@ Fact|Details
 |H Herman Wiese
 |===
 
+[IMPORTANT]
+====
+Not only was *Johann Tönnies Eggerding* a baptismal sponsor for Johann
+Heinrich's son, Johann Friedrich, he was also the former owner of the
+holding of no. 10 Berenbusch, which we know Johann Heinrich was living at
+by 1747 and perhaps earlier.
+
+The secular document *Namensverzeichnis sämtlicher Kolonen der Ämter
+Bückeburg und Arensburg, mit Nummerierung der sämtlichen Häuser ("List of
+names of all Kolons of the offices of Bückeburg and Arensburg, with
+numbering of the all houses")* shows us that in 1747 Johann Heinrich
+Krückeberg was the owner of the holding no. 10 Berenbusch and Johann
+Tönnies Eggerding was the prio owner. 
+
+This is mentioned xref:nla:140:page-17.adoc[page 17 of the volume].
+====
+
 == Citation
 
 The baptism entry is found on <<PET-B-1728a, image 140>>. It is labled **18**, and it is the

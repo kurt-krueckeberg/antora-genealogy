@@ -24,7 +24,6 @@ wäre ich für entsprechende Hinweise sehr dankbar.
 
 Mit freundlichen Grüßen Kurt Krueckeberg
 
-
 == Add to Möhle Bückebuerg Individual's to Research
 
 * https://docs.krueckeberg.org/genealogy/1.0/research/RR-Krueckeberg-1700-1760-TargetRecords.html
@@ -37,10 +36,10 @@ Mit freundlichen Grüßen Kurt Krueckeberg
 Confirm that "10.)" in the image
 `m/research/images/NLA_BU_L_101a_A_Nr.140.enlarged.png` is "No. 10 Berenbsuch"?
 
-. Move the .adoc files and images to the "nla" component.
-. Then convert gen/m/early-secular-records/p to xrefs that link to document(s)
+. Have moved the NLA 140 documenta and images to ~/nla.
+. NOw I need to convert gen/m/early-secular-records/p to xrefs that link to document(s)
 in the "nla" component.
-. Mention in the page in the genealogy page and in the nla documents that 
+. I need to mention in the page in the genealogy page and in the nla documents that 
 "Joh. Tönnies Eggerdings", who is mentioned (evidently) as the prior owner of
 no. 10 Berenbusch, whose a baptismal sponsor of Johann Heinrich's first
 child. See xef:genenalogy:petzen:PET-B-1728a.adoc[].
