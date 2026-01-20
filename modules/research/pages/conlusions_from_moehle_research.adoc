@@ -1,0 +1,106 @@
+= Unreolved Conflict Between Records and Their Interpretation
+
+== Issue
+
+How could Johann Heinrich Krückeberg have become the holder of no. 10
+Berenbusch through marriage by 1743-1744 when we know that he was not the
+holder of no. 10 Berenbuch in 1737 and we know he married well before 1737,
+in May 1737? While this was his first marriage, his second marriage did not
+occur until 1758, many years after 1743-44. 
+
+== Background
+
+I already have--I believe--the three marriages of Johann Heinrich
+Krückeberg, if that is, there was only one Johann Heinrich Krückeberg in
+Berenbusch in the early part of the 18th century, from 1727 to 1744 when a
+son was born to Johann Heinrich Krückeberg, who was also named Johann
+Heinrich. I have the Sep. 28 1727 marriage of that reads: "den 28ten
+Septemb ist Johann Henrich Krückeberg aus  Berenbsuch mit Anna Maria
+Vahlsings aus Evesen copuliet". This wife died in May of 1757, I believe,
+because this death/burial records occurs then, which reads: "d 8t Maii Anna
+Maria Krückebergs aus Berenbusch begraben alt 56 Jarhe". Then on Sep. 29
+1758, Johann Heinrich Krückberg, now a widower, remarries because we find
+this marriage record: "d. 29t Januarii Johan Henr[ich]. Krückeberg  aus
+Berenbusch mit Ilse Margarethe Röseners aus Evesen copuliert". The next
+year they apparently had a daughter because we have this 1759 baptism
+record: "d 16 Sept. Ilse Margaretha Krückebergs des Johann Heinrich
+Krückebergs zu Berenbusch Tochter getauft. Gev[atterinnen] [3] Mädgens,
+Wiesen, Engelkings [um/un]". Finally, on Dec. 26, 1759, Johann Heinrich
+Krückeberg apparently dies because he find this Petzen parish death/burial
+record: "d 26t Decemb. Johan Henrich Krückeberg aus Berenbusch begraben alt
+55 Jahre".
+
+If the records I just mentioned show the marriages of Johann Heinrich
+Krückeberg, and the death of his first wife and his remarriage to his
+second wife later in the same year that his first wife died--if I have this
+marriage history of his, how could it be the case that he became the holder
+of "no. 10 Berenbusch" through marriage. Recall the first three answers
+that Johann Heinrich Krückeberg gave to the "Protokolle über die Befragung
+der einzelnen Hofbesitzer in Evesen, Berenbusch, Nordholz und Rusbend im
+Rahmen der Generallandesvisitation (Landesvermessung) 1743-1744", which
+were: ....  1.  Johann Henrich Krückeberg vormahls Friedrich Kuhlmann auch
+Joh. Tönnies Eggerding 2. habe darauf geheyrahtet 3. ein Brinksitzer ....
+
+First of all, when he marries for the first time in 1727, he is "aus
+Berenbusch", he is from Berenbusch. It does not say he is from "no. 10
+Berenbsuch", and it does not say he is the holder of no. 10 Berenbusch. But
+if the same Johann Heinrich Krückeberg who married ii 1727 is the same
+Johann Heinrich Krückberg who gave the reply "habe darauf geheyrahtet" in
+1743-1744, how could this be? We know that in 1737 he was is not listed as
+the Brinksitzer of no. 10 Berenbusch. How could he have became the
+Brinksitzer of no. 10 Berenbusch by 1743-1744 by marriage when he had
+already married back in 1727. His second marriage didn;'t occur until 1758
+well after 1743-1744.
+
+Have I overlooked a marriage? Could there be two Johann Heinrich
+Krückebergs in Berenbusch? How do I go about resolving this conflict_
+
+== Possible Answer
+
+*The Succession Chain Does Not Depend on His Marriage*
+
+The real tenure evidence comes from:
+
+* 1743–44 Visitation:
+** Eggerding → Kuhlmann → Krückeberg
+* 1745 Vermessung:
+** Krückeberg at No. 10
+* 1747 Namensverzeichnis:
+** “Eggerding modo Krückeberg”
+* 1737 list:
+** No Krückeberg yet
+
+None of these say:
+* “Kruckeberg received the house through his wife.”
+
+They only show:
+____
+He became holder sometime between 1737 and 1745.
+____
+
+The mechanism of that transfer is unknown.
+
+We don't know what "darauf" refers to. Grammatically, the phrase means:
+____
+“(I) married onto it / married into it / married with reference to it.”
+____
+
+From “habe darauf geheiratet,” you can conclude only:
+
+. His marital status was relevant to the answer.
+. Marriage was considered part of his standing in relation to whatever was being discussed.
+. The record does not specify a date, a spouse, or a transfer mechanism.
+
+You cannot conclude:
+
+. That he acquired No. 10 by marriage
+. That the marriage was recent
+. That the marriage involved the previous holder’s family
+
+Conclusion:
+
+In the 1743–44 visitation, Krückeberg stated “habe darauf geheiratet.”
+Because the questionnaire itself is not preserved, the referent of darauf
+is unclear.  The phrase indicates that his marital status was relevant to
+the matter being asked about, but it does not establish that he acquired
+Haus Nr. 10 through marriage.

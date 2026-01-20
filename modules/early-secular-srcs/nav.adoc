@@ -1,1 +1,2 @@
 * xref:index.adoc[Krückebergs in Early Secular Sources]
+** xref:conclusions-from-moehle-research.adoc[]
