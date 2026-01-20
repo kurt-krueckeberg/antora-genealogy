@@ -2,7 +2,7 @@
 
 == Johann Heinrich Krückebereg's at no. 10 Berenbusch in 1747
 
-A number of xref:nla:ROOT:index.adoc[secular records] in the Bückeburg
+A number of xref:nla:ROOT:index.adoc[secular records] between in the Bückeburg
 regional department of the Lower Saxony state archives mention a
 Johann Heinrich Krückeberg of Berenbusch. 
 
@@ -17,11 +17,20 @@ Johann Heinrich Krückeberg of Berenbusch.
 Erfassung der Haus- und Hofbesitzer im Amt Bückeburg im Rahmen einer Generallandesvisitation (Landesvermessung)
 |link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894569[NLA BU L 2 L Nr. 27/28]
 
+|1743-1744
+|Records of the questioning of the individual rural property holders in Evesen, Berenbusch, Nordholz, and
+Rusbend in the context of the General Land Survey (land measurement)
+
+Protokolle über die Befragung der einzelnen Hofbesitzer in 
+Evesen, Berenbusch, Nordholz und Rusbend im Rahmen der 
+Generallandesvisitation (Landesvermessung) 
+|link:[NLA BU L 2 L Nr. 27/41]
+
 |1745
 |Survey of the Villages of Evesen, Berenbusch, and Nordholz.
 
 Vermessung der Dörfer Evesen, Berenbusch und Nordholz 
-link:|https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894533[NLA BU L 2 L Nr. 27/13]
+|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894533[NLA BU L 2 L Nr. 27/13]
 
 |1740–1830
 |List of names of all Kolons of the offices of Bückeburg and Arensburg, with numbering of the all houses. 
