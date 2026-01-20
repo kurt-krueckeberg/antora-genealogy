@@ -50,6 +50,8 @@
 ** xref:windheim:WIND-B-1831a.adoc[]
 ** xref:windheim:WIND-B-1833a.adoc[]
 ** xref:windheim:WIND-B-1836a.adoc[]
+* Eggerding
+** xref:PET-M-1704a.adoc[]
 * Kleinschmidt
 ** xref:buchholz:BUC-B-1804a.adoc[]
 * xref:krückeberg.adoc[]
