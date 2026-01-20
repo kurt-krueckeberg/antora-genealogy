@@ -2,8 +2,36 @@
 
 == Johann Heinrich Krückebereg's at no. 10 Berenbusch in 1747
 
-A number of xref:nla:ROOT:index.adoc[secular records] in the Bückeburg regional department of the
-Lower Saxony state archives mention the Krückeberg's of Berenbusch. 
+A number of xref:nla:ROOT:index.adoc[secular records] in the Bückeburg
+regional department of the Lower Saxony state archives mention a
+Johann Heinrich Krückeberg of Berenbusch. 
+
+.Niedersächisches Landesarchiv, Bückeburg (Lower Saxony State Archives in Bückeburg) Case Files/Dossiers
+[%header,cols="2,8a,2"]
+|===
+|Life Span|Denotation|Identifier
+
+|1737
+|Survey of House and Property Holders in the District of Bückeburg as Part of a General Land Survey
+
+Erfassung der Haus- und Hofbesitzer im Amt Bückeburg im Rahmen einer Generallandesvisitation (Landesvermessung)
+|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894569[NLA BU L 2 L Nr. 27/28]
+
+|1745
+|Survey of the Villages of Evesen, Berenbusch, and Nordholz.
+
+Vermessung der Dörfer Evesen, Berenbusch und Nordholz 
+link:|https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894533[NLA BU L 2 L Nr. 27/13]
+
+|1740–1830
+|List of names of all Kolons of the offices of Bückeburg and Arensburg, with numbering of the all houses. 
+
+Namensverzeichnis sämtlicher Kolonen der Ämter Bückeburg und Arensburg, mit Nummerierung der sämtlichen Häuser.
+
+*NOTE:* The list is entirely from [underline]#1747# (see title page); 1830 refers to a few letters included in the file at the end.
+|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4869389[NLA
+BU, L 101a, A Nr. 140] 
+|===
 
 They are mentioned in several Rentkammer case files, and in one early
 document from 1747, the xref:nla:140:page-17.adoc[List of names of all Kolons of the offices of
