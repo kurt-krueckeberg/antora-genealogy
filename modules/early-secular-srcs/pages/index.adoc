@@ -2,9 +2,10 @@
 
 == Johann Heinrich Krückebereg's at no. 10 Berenbusch in 1747
 
-A number of xref:nla:ROOT:index.adoc[secular records] between in the Bückeburg
-regional department of the Lower Saxony state archives mention a
-Johann Heinrich Krückeberg of Berenbusch. 
+A number of xref:nla:ROOT:index.adoc[secular records] between 1737 and 1747
+in the Bückeburg regional department of the Lower Saxony state archives
+mention a Johann Heinrich Krückeberg of Berenbusch. The 1737 source is
+silent, which is also important.
 
 .Niedersächisches Landesarchiv, Bückeburg (Lower Saxony State Archives in Bückeburg) Case Files/Dossiers
 [%header,cols="2,8a,2"]
@@ -41,6 +42,8 @@ Namensverzeichnis sämtlicher Kolonen der Ämter Bückeburg und Arensburg, mit N
 |link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4869389[NLA
 BU, L 101a, A Nr. 140] 
 |===
+
+== Summaring of Findings
 
 They are mentioned in several Rentkammer case files, and in one early
 document from 1747, the xref:nla:140:page-17.adoc[List of names of all Kolons of the offices of
