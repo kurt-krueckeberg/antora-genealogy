@@ -1,5 +1,15 @@
 = TODO
 
+== Jobst Heinrich Weÿland is Mentioned in Dr. Möhle's Research 
+
+The first five images of Berenbusch (of the many images from Dr. Moehle),
+which are  from the *Survey of the Villages of Evesen, Berenbusch, and Nordholz*
+(Vermessung der Dörfer Evesen, Berenbusch und Nordholz) from 1745.
+
+See 
+file:///home/kurt/backup_folder/bueckeburg_moehle_research/GrosFichiers-Sylvia-Möhle/Krueckeberg/NLA%20BU%20L%202%20L%20Nr.%202713[NLA
+BU L 2 L Nr. 27/13].
+
 == See these Propsective Documents to Search.
 
 link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894569[18 Landesvermessung
@@ -278,7 +288,7 @@ In the territory of the historical County/Principality of Schaumburg-Lippe, Aren
 castle (Schloss/Arensburg) and the surrounding Amt (administrative district) near the village of Steinbergen in
 what is now the district of Schaumburg in Lower Saxony, Germany. This “Amt Arensburg” formed part of the
 territorial structure of Schaumburg-Lippe along with other Ämter such as Bückeburg, Hagenburg, and Stadthagen
-___
+____
 
 Would there be records for a Ackervogt in Steinbergen?
 
@@ -575,6 +585,9 @@ timeline with record sources for each individual.
 |===
 |Birth Date|Child|Parentage Description|Instances of Surname-only Parentage on the same and adjacent pages
 
+|
+|
+|
 |
 |===
 

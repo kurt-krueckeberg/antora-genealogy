@@ -1,0 +1,1475 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Asciidoctor 2.0.23">
+<title>TODO</title>
+<style>
+/* Based on Cerulean from Bootswatch (https://bootswatch.com/cerulean/) */
+
+/* document body (contains all content) */
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #555555;
+  background-color: #ffffff;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+/* document header (contains title etc) */
+#header {
+  width: 100%;
+}
+#header>h1 {
+  border-bottom: 1px solid #ddddd8;
+  padding-bottom: 8px;
+}
+
+/* headings */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 500;
+  line-height: 1.2;
+  color: #317eac;
+}
+h1,
+h2,
+h3 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+h4,
+h5,
+h6 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+h1 {
+  font-size: 4em;
+/*   font-size: 36px; */
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 14px;
+}
+h6 {
+  font-size: 12px;
+}
+
+/* plain paragraph text */
+.paragraph {
+/*   font-family: sans-serif; */
+  margin: 0 0 10px;
+}
+p {
+/*   font-family: sans-serif; */
+  margin: 0 0 10px;
+}
+
+/* blockquote text */
+.quoteblock {
+  font-style: italic;
+}
+blockquote {
+  padding: 10px 20px;
+  margin: 0 0 20px;
+  font-size: 17.5px;
+  border-left: 5px solid #eeeeee;
+}
+blockquote p:last-child,
+blockquote ul:last-child,
+blockquote ol:last-child {
+  margin-bottom: 0;
+}
+.blockquote-reverse,
+blockquote.pull-right {
+  padding-right: 15px;
+  padding-left: 0;
+  border-right: 5px solid #eeeeee;
+  border-left: 0;
+  text-align: right;
+}
+.blockquote-reverse footer:before,
+blockquote.pull-right footer:before,
+.blockquote-reverse small:before,
+blockquote.pull-right small:before,
+.blockquote-reverse .small:before,
+blockquote.pull-right .small:before {
+  content: '';
+}
+.blockquote-reverse footer:after,
+blockquote.pull-right footer:after,
+.blockquote-reverse small:after,
+blockquote.pull-right small:after,
+.blockquote-reverse .small:after,
+blockquote.pull-right .small:after {
+  content: '\00A0 \2014';
+}
+
+/* blockquote attribution text */
+.attribution,
+.cite,
+blockquote footer,
+blockquote small,
+blockquote .small {
+  display: block;
+  line-height: 1.42857143;
+  color: #999999;
+}
+.attribution:before,
+blockquote footer:before,
+blockquote small:before,
+blockquote .small:before {
+  content: '\2014 \00A0';
+}
+
+/* unordered list */
+ul, ol {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+ul ul,
+ol ul,
+ul ol,
+ol ol {
+  margin-bottom: 0;
+}
+
+
+/* links */
+a {
+  color: #2fa4e7;
+  text-decoration: none;
+}
+a:hover,
+a:focus {
+  color: #157ab5;
+  text-decoration: underline;
+}
+a:focus {
+  outline: 5px auto -webkit-focus-ring-color;
+  outline-offset: -2px;
+}
+
+/* horizontal rules */
+hr {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 0;
+  border-top: 1px solid #eeeeee;
+}
+
+/* table */
+table {
+  background-color: transparent;
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 21px;
+  border-collapse: collapse;
+}
+table col[class*="col-"] {
+  position: static;
+  float: none;
+  display: table-column;
+}
+table td[class*="col-"],
+table th[class*="col-"] {
+  position: static;
+  float: none;
+  display: table-cell;
+}
+
+/* table caption */
+caption {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  color: #999999;
+  text-align: left;
+}
+
+/* table header row */
+thead {
+  border-bottom: 2px solid #dddddd;
+}
+
+/* table header cell */
+th {
+  text-align: left;
+  padding-left: 8px;
+}
+
+/* table footer */
+tfoot {
+  color: #807F81;
+  border-top: 1px solid #dddddd;
+}
+
+/* table cell */
+td {
+  border-top: 1px solid #dddddd;
+}
+td p {
+  margin: auto;
+  padding: 8px;
+}
+
+/* table body */
+tbody > tr:nth-of-type(odd) {
+  background-color: #f9f9f9;
+}
+tbody > tr:hover {
+  background-color: #f5f5f5;
+}
+
+/* inline code */
+code,
+kbd,
+pre,
+samp {
+  font-family: monospace, monospace;
+  font-size: 1em;
+}
+code {
+  padding: 2px 4px;
+  font-size: 90%;
+  color: #333333;
+  background-color: #f5f5f5;
+  border-radius: 4px;
+}
+kbd {
+  padding: 2px 4px;
+  font-size: 90%;
+  color: #ffffff;
+  background-color: #333333;
+  border-radius: 3px;
+  -webkit-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.25);
+          box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.25);
+}
+kbd kbd {
+  padding: 0;
+  font-size: 100%;
+  font-weight: bold;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+pre {
+  display: block;
+  padding: 9.5px;
+  margin: 0 0 10px;
+  font-size: 13px;
+  line-height: 1.42857143;
+  word-break: break-all;
+  word-wrap: break-word;
+  color: #333333;
+  background-color: #f5f5f5;
+  border: 1px solid #cccccc;
+  border-radius: 4px;
+}
+pre code {
+  padding: 0;
+  font-size: inherit;
+  color: inherit;
+  white-space: pre-wrap;
+  background-color: transparent;
+  border-radius: 0;
+}
+
+/* image */
+img {
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+/* footer section */
+#footer {
+  margin-top: 22px;
+  padding: 14px 16px;
+  color: #ffffff;
+  background-color: #2fa4e7;
+}
+
+/* responsiveness fixes */
+video {
+  max-width: 100%;
+}
+
+/* table of Contents sidebar */
+#toctitle {
+  display: none;
+}
+
+#toc {
+  margin-top: 20px;
+  background-image: -webkit-linear-gradient(#54b4eb, #2fa4e7 60%, #1d9ce5);
+  background-image: -o-linear-gradient(#54b4eb, #2fa4e7 60%, #1d9ce5);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#54b4eb), color-stop(60%, #2fa4e7), to(#1d9ce5));
+  background-image: linear-gradient(#54b4eb, #2fa4e7 60%, #1d9ce5);
+  background-repeat: no-repeat;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff54b4eb', endColorstr='#ff1d9ce5', GradientType=0);
+  border-bottom: 1px solid #178acc;
+  -webkit-filter: none;
+          filter: none;
+  -webkit-box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 4px 4px;
+}
+
+#toc ul {
+  display: inline;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+#toc li {
+  display: block;
+}
+
+#toc a {
+  color: #ffffff;
+  float: left;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+#toc li a:hover {
+  background-color: #178acc;
+  text-decoration: none;
+}
+
+#toc:after {
+  content: " ";
+  visibility: hidden;
+  display: block;
+  height: 0;
+  clear: both;
+}
+
+@media all and (max-width: 600px) {
+table {
+  width: 55vw!important;
+  font-size: 3vw;
+}
+
+</style>
+</head>
+<body class="article">
+<div id="header">
+<h1>TODO</h1>
+</div>
+<div id="content">
+<div class="sect1">
+<h2 id="_jobst_heinrich_weÿland_is_mentioned_in_dr_möhles_research">Jobst Heinrich Weÿland is Mentioned in Dr. Möhle&#8217;s Research</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Test:
+<a href="file:///home/kurt/backup_folder/bueckeburg_moehle_research/GrosFichiers-Sylvia-Möhle/Krueckeberg/NLA%20BU%20L%202%20L%20Nr.%202713">NLA BU L 2 L Nr. 27/13</a></p>
+</div>
+<div class="paragraph">
+<p>See the first five images of
+<a href="file://home/kurt/backup_folder/bueckeburg_moehle_research/GrosFichiers-Sylvia-Möhle/Krueckeberg/NLA%20BU%20L%202%20L%20Nr.%202713">NLA%20BU%20L%202%20L%20Nr.%2027/13</a>,%20the%20Vermessung%20der%20Dörfer
+Evesen, Berenbusch und Nordholz (1745).</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_see_these_propsective_documents_to_search">See these Propsective Documents to Search.</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894569">18 Landesvermessung
+und Statistik</a> of the Alte Regierungsregistratur.</p>
+</div>
+<div class="paragraph">
+<p>There are 23 sections, one of these is "18 National Surveying and
+Statistics".</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_add_to_johann_heinrich_1705_175_event_table">Add to Johann Heinrich (1705-175) Event Table</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Add these facts:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>by 1747 he is the Brinksitzer of no. 10 Berenbusch</p>
+</li>
+<li>
+<p>that the former holder of no. 10 Berenbusch was also a baptismal sponsor
+in 1728 of Johann Heinrich&#8217;s son, Johann Friedrich.</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_email_meike_strattmann_this_question">Email Meike Strattmann this Question</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Sehr geehrte Damen und Herren,</p>
+</div>
+<div class="paragraph">
+<p>Ich arbeite mit mehreren Akten des Amtes Bückeburg aus dem späten 18.
+Jahrhundert (u. a. Rentkammer- und Ausweisungsakten zu Berenbusch, Evesen
+und Umgebung).</p>
+</div>
+<div class="paragraph">
+<p>In diesen Unterlagen werden die Bezeichnungen <strong>Kolon</strong>, <strong>Brinksitzer</strong>
+und <strong>Kötter</strong> teilweise für dieselbe Person verwendet.  Ich möchte daher
+gern wissen, wie diese Begriffe im <strong>Amt Bückeburg</strong> administrativ
+verstanden wurden:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Gab es lokale Ordnungen oder Vorschriften, die diese Kategorien
+definierten?</p>
+</li>
+<li>
+<p>Unterschieden sie sich rechtlich (z. B. in Bezug auf Besitz, Abgaben oder
+Rechte)?</p>
+</li>
+<li>
+<p>Oder wurden sie eher beschreibend als formal-juristisch verwendet?</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Falls es dazu einschlägige Ordnungen, Register oder Sekundärliteratur gibt,
+wäre ich für entsprechende Hinweise sehr dankbar.</p>
+</div>
+<div class="paragraph">
+<p>Mit freundlichen Grüßen Kurt Krueckeberg</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_enhance_the_post_1827_kirchenbuch_mirofiche_images">Enhance the post-1827 Kirchenbuch Mirofiche Images</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>These are in
+~/backup_folder/NLA_Auftrag_Krückeberg_2024-06-16_NLA_689_1237_98_354/Recherche_Krückeberg.</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Enhance them</p>
+</li>
+<li>
+<p>Do Transkribus text recognition</p>
+</li>
+<li>
+<p>Add them to ~/gen.</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_add_to_möhle_bückebuerg_individuals_to_research">Add to Möhle Bückebuerg Individual&#8217;s to Research</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://docs.krueckeberg.org/genealogy/1.0/research/RR-Krueckeberg-1700-1760-TargetRecords.html" class="bare">https://docs.krueckeberg.org/genealogy/1.0/research/RR-Krueckeberg-1700-1760-TargetRecords.html</a></p>
+</li>
+<li>
+<p><a href="https://docs.krueckeberg.org/genealogy/1.0/research/jobst-hk-1765-1822-guild-records.html" class="bare">https://docs.krueckeberg.org/genealogy/1.0/research/jobst-hk-1765-1822-guild-records.html</a></p>
+</li>
+<li>
+<p>Schäkel death record.</p>
+</li>
+<li>
+<p>Carl Freid. Bleeke&#8217;s military record</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_review_dr_moehles_transliterations">Review Dr. Moehle&#8217;s Transliterations</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Confirm that "10.)" in the image
+<code>m/research/images/NLA_BU_L_101a_A_Nr.140.enlarged.png</code> is "No. 10 Berenbsuch"?</p>
+</li>
+<li>
+<p>Ask Dr. Möhle why she mentioned marrying into ownership of no. 10
+Berenbusch.</p>
+</li>
+</ul>
+</div>
+<div class="sect2">
+<h3 id="_review_the_purpose_of_the_research_with_the_outcome">Review the Purpose of the Research with the Outcome</h3>
+<div class="paragraph">
+<p>Review the purpose at
+<a href="research:RR-Krueckeberg-MasterResearch-1700-1850.html">research:RR-Krueckeberg-MasterResearch-1700-1850.html</a> with what was
+found <a href="research:moehle:moehle_transliterations_buekckeburg.html">research:moehle:moehle_transliterations_buekckeburg.html</a>.</p>
+</div>
+<div class="paragraph">
+<p>She apparently only did the first part of the research: examine documents
+from 1700-1760. She didn&#8217;t do the 2<sup>nd</sup> phase or the do the
+Krueckeberg/Bleeke or Guild research.</p>
+</div>
+<div class="paragraph">
+<p>I do have microfiche images that I requested over the summer that I might
+be able to enhance.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_create_a_new_page_or_section">Create a New Page or Section</h3>
+<div class="paragraph">
+<p>Move the section on the purpose
+<a href="research:RR-Krueckeberg-MasterResearch-1700-1850.html">research:RR-Krueckeberg-MasterResearch-1700-1850.html</a> and the
+anylysis of what was found
+<a href="research:moehle:moehle_transliterations_buekckeburg.html">research:moehle:moehle_transliterations_buekckeburg.html</a>
+into a separate AsciiDoc section, top-level section, of the <code>genealogy</code>
+compoenent.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_rework_and_convert_dr_moehle_work_to_asciidoc">Rework and Convert Dr. Moehle Work to AsciiDoc</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Convert <code>modules/background/attachments/Moehle_Report_on_History_of_Schaumburg-Lippe.pdf</code>
+to <code>.adoc</code> files.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_review_what_is_obvious">Review What is Obvious</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Take the todo-items below. What items are obvious annd can be built upon?</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_where_did_the_krückebergs_live">Where did the Krückeberg&#8217;s Live</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Q: Which villages are mentioned in the Petzen parish church register records
+for Krückebergs who were eiterh born, baptized, confirmed, married or
+buried list their village as Berenbusch?</p>
+</div>
+<div class="paragraph">
+<p>A: Just two villages are mentioned Berenbusch and Evesen. From 1725 to ??
+only Berenbusch is mentioned. Evesen is mentioned.</p>
+</div>
+<div class="sect2">
+<h3 id="_plan_to_anaylze_krückeberg_aus_berenbusch">Plan to Anaylze "Krückeberg aus Berenbusch"</h3>
+<div class="paragraph">
+<p>The use of only the surname and the omission of the given names of the
+father in the early birth records may mean there was only one Krückeberg
+couple-family name Krückeberg in Berenbusch, so it was not necessary to
+mention the father&#8217;s full name.</p>
+</div>
+<div class="paragraph">
+<p><strong>Plan:</strong> Compare adjacent records to those using "Krueckeberg aus/in
+Berenbusch" for similiar surname-only usage and assess how many records
+use the father&#8217;s fullname versus those than only use the surname.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_where_did_carl_friedrich_gottliebs_sibling_live">Where Did Carl Friedrich Gottlieb&#8217;s Sibling Live?</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>The confirmation records for his two sisters mention only Berenbusch.</p>
+</div>
+<div class="paragraph">
+<p>If one looks for the marriage record of Johann Friedrich Gottlieb&#8217;s
+sisters, and if they married in Petzen, they will have their address, and
+we can learn if they lived at no. 10 Berenbusch.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_look_record_for_death_of_ilse_anna_marie_elisabeth_née_schakel_using_her_maiden_name">Look Record for Death of Ilse Anna Marie Elisabeth née Schakel using her maiden name</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>I could not find a death record for Ilse Anna Marie Elisabeth under the
+surname Krückeberg.</p>
+</div>
+<div class="paragraph">
+<p>She married Johann Heinrich Krückeberg on 7 Nov. 1773. She must be the
+"alte Krüeckeberg als Großmutter" in the 1792 baptism record of Jobst
+Heinrich Krückeberg&#8217;s daughter. She would be Jobst step-mother since he
+was eight years old.</p>
+</div>
+<div class="paragraph">
+<p>So her death would have occurred between the 1792 baptisam an 1802 when
+Johann Heinrich married for the third time.</p>
+</div>
+<div class="paragraph">
+<p><strong>Note:</strong> Perhaps her burial record is under her <strong>maiden name</strong> written in this manner:</p>
+</div>
+<div class="paragraph">
+<p>Ilse Anna Marie Elisabeth Schakel &#8230;&#8203;. des Johann Heinrich Krückebergs Ehehfrau.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_add_nla_facts_to_the_event_tables">Add NLA Facts to the Event Tables</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Use the new event table design shown in <code>m/ancestry/p/new-event-table-design.adoc</code>.</p>
+</div>
+<div class="paragraph">
+<p>Read through and add to the respective event tables the information in the NLA documents</p>
+</div>
+<div class="paragraph">
+<p>Add Information such as:</p>
+</div>
+<div class="paragraph">
+<p>In "The plots allocated to the colonist Krückeberg No. 10 in Berenbusch for
+the enlargement of his farmyard and garden", we learn:</p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Jobst Heinrich is namned the Colon of no. 10 Berenbusch.</p>
+</li>
+<li>
+<p>We have a map either of the enlarged yard and garden area, the extra yard
+and garden area, or a map the total area after the enlargement</p>
+</li>
+<li>
+<p>A description of it being near the road.</p>
+</li>
+<li>
+<p>That Kötter Weiland lives nearby.</p>
+</li>
+</ol>
+</div>
+<div class="paragraph">
+<p>In "Die Stätte Nr. 18 zu Berenbusch", we learn:</p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>We learn that Jobst Heinrich is a tailor who is "ein Einlieger bei
+Wilharms no. 11 Evesen".</p>
+</li>
+<li>
+<p>The Bückeburg Amt reports his father was an Ackervogt in Arenbsburg.</p>
+</li>
+<li>
+<p>We learn&#8212;&#8203;I think&#8212;&#8203;where no. 18 Berenbusch was located.</p>
+</li>
+<li>
+<p>we know that Johann Heinrich (1806-1879) owned it (no. 10 Berenbusch),
+because the "Colon Krückeberg" who sold it in the fall of 1849 said he
+was doing so because he planned to immigrate to the U.S. that same
+month&#8212;&#8203;September?--to the U.S.</p>
+</li>
+<li>
+<p>In later documents in its case file, we learn Carl Friedrich (born 1807)
+petitions to sell no. 18 Berenbusch in the fall of 1850 because he has
+relatives in America who are doing well, and he wants to join them in
+America.</p>
+</li>
+<li>
+<p>Carl Friedrich also mentions he has relatives in America, who are doing
+well.</p>
+</li>
+</ol>
+</div>
+<div class="paragraph">
+<p>In the case file "Ein dem Colon Krückeberg Nr. 10 in Berenbusch aus
+Kammerkasse dargeliehenes Kapital von 200 Reichstaler Crt.", we learn:</p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>The debt Johann Heinrich inherits.</p>
+</li>
+<li>
+<p>His father&#8217;s poor health&#8230;&#8203;</p>
+</li>
+<li>
+<p>How debt passes onto one&#8217;s heirs.</p>
+</li>
+<li>
+<p>Details of the Söhren Weide</p>
+</li>
+<li>
+<p>That the Prince of Schaumburg-Lippe will make the final decision.</p>
+</li>
+</ol>
+</div>
+<div class="paragraph">
+<p>In the case file concerning the "Die Stätte Nr. 10 zu Berenbusch", we
+learn:</p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>That medical expenses impoverished Jobst Heinrich&#8217;s widow</p>
+</li>
+<li>
+<p>That certain feudal manual labor obligations still exist, from which she
+is requesting relief.</p>
+</li>
+<li>
+<p>From its later 1849 documents, we learn that Johann Heinrich requests to
+  have his sale approved because he will immigrate to America in Sept? of
+1849.</p>
+</li>
+</ol>
+</div>
+<div class="paragraph">
+<p>From the case file,
+. Its financial impact.
+. Jobst Heinrich&#8217;s father was an Ackervogt</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_records_to_help_identify_johann_heinrich_1744_1822">Records to help identify Johann Heinrich (1744-1822)</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>From <a href="https://chatgpt.com/share/695aff31-7adc-8004-b9f0-cd0a5bb5c4fa" class="bare">https://chatgpt.com/share/695aff31-7adc-8004-b9f0-cd0a5bb5c4fa</a></p>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p>Please check the Amtsprotokolle (Amt Bückeburg) and
+Kammerrechnungen/Heberegister for Berenbusch to see whether Johann Heinrich
+Krückeberg is named as holder or payer of a Stätte (later Nr. 10), or is
+identified as father of Jobst Heinrich Krückeberg. I only need the earliest
+occurrence or confirmation that none exists.</p>
+</div>
+</blockquote>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_jobst_heinrich_krückeberg_born_1733">Jobst Heinrich Krückeberg born 1733</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Are there no other records of him?</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_work_on_the_adoc_files_in_mbackgroundunderdevelopment">Work on the .adoc files in m/background/underdevelopment</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>See <code>~/gen/m/background/underdevelopment/todo.adoc</code> and <code>~/gen/m/background/todo.adoc</code>.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_watch">Watch</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="https://www.youtube.com/watch?v=rHfbVYAru7s" class="bare">https://www.youtube.com/watch?v=rHfbVYAru7s</a>
+== Schamerloh Records in Buchholz</p>
+</div>
+<div class="paragraph">
+<p>Find them.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_were_wilharms_baptismal_sponsors">Were Wilharms Baptismal Sponsors?</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Note Wilharm it&#8217;s not only where Jobst Heinrich lodged in Evesen, but Wilharms were also
+sponsors in his family tree&#8212;&#8203;right?</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_todo_next">TODO Next</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Convert Dr. Möhle work to .adoc pages.</p>
+</div>
+<div class="paragraph">
+<p>Finish what I began in m/background/stand-meaning.adoc and the other .adoc files
+in m/background/p/underdevelopment.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_add_nla_146_and_120_material_to_ancestry_event_tables">Add NLA 146 and 120 Material to Ancestry Event Tables</h2>
+<div class="sectionbody">
+
+</div>
+</div>
+<div class="sect1">
+<h2 id="_examine_berenbusch_numbers">Examine Berenbusch numbers</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Use this:</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p>rg 'B.[hr][er]nbusch' *.adoc | sort -t: -k1.7,1.11 -k1.12,1.12|less</p>
+</div>
+</blockquote>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_baptism_birthplace_records_wrong">Baptism Birthplace Records Wrong?</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Are some baptism&#8217;s birthplaces wrong?</p>
+</div>
+<div class="paragraph">
+<p>In baptism entries for two of the children of Carl Friedrich Gottlieb
+Krückeberg we have two different birthplaces given&#8212;&#8203;or are these no
+birthplaces but current residences?  The birthplace for Carl Friedrich
+born in 1807 and the daughter born the next year is given only as
+"Berenbusch". In these records, there is a column for the "Name, Stand,
+Religion and Birthplace of the Father". However, for the 1807 birth of
+Carl Friedrich, this column contains "Carl Friedrich Gottlieb Krückeberg.
+Schneider u. Einlieger in n. 14 in Bärenbusch. Luth. Conf.", while for the
+the 1812 birth of daughter Carloline Dorothee Krückeberg it has "Carl
+Friedrich Gottlieb Krückeberg n. 18 in Bärenbusch Luth. Conf.".</p>
+</div>
+<div class="paragraph">
+<p>So is "n. 14 Berenbsuch" and "n. 18 Berenbusch" the address at the time
+the child was born despite the column stating it is the "birthplace of the
+father"? The actual birth record of Carl Friedrich Gottlieb is of no help
+in answering this question since it only mentions Berenbusch.</p>
+</div>
+<div class="paragraph">
+<p>Answer: The answer is given in the column "Wohnort der Eltern", which
+has the same address as that of the father.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_what_146_tells_us">What 146 Tells Us</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>I tells us that Jobst Heinrich&#8217;s father was an Ackervogt in Arensburg, which was the
+area in Steinbergen as ChatGPT explained:</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Arensburg was not originally a town name but referred to a local castle and administrative area
+In the territory of the historical County/Principality of Schaumburg-Lippe, Arensburg referred primarily to a
+castle (Schloss/Arensburg) and the surrounding Amt (administrative district) near the village of Steinbergen in
+what is now the district of Schaumburg in Lower Saxony, Germany. This “Amt Arensburg” formed part of the
+territorial structure of Schaumburg-Lippe along with other Ämter such as Bückeburg, Hagenburg, and Stadthagen</p>
+</li>
+</ol>
+</div>
+</blockquote>
+</div>
+<div class="paragraph">
+<p>Would there be records for a Ackervogt in Steinbergen?</p>
+</div>
+<div class="sect2">
+<h3 id="_read_the_zotero_links_in_schaumburg_lippe">Read the Zotero Links in Schaumburg-Lippe</h3>
+
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_rewrite_dr_moehles_work">Rewrite Dr. Moehle&#8217;s Work</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Should this material be merge with Dr. Moehle&#8217;s work.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_research_to_do">Research to Do</h2>
+<div class="sectionbody">
+<div class="sect2">
+<h3 id="_map">Map</h3>
+<div class="paragraph">
+<p>Look for NLA case file for a Berenbusch site that belongs to a non-Krueckeberg that contains a
+map showing a Krückeberg property borders the indivudal at this site.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_given_name_not_used">Given Name not Used</h3>
+<div class="paragraph">
+<p>Also note this NOTE on <a href="petzen:PET-B-1744a.html">petzen:PET-B-1744a.html</a>:</p>
+</div>
+<div class="admonitionblock note">
+<table>
+<tr>
+<td class="icon">
+<div class="title">Note</div>
+</td>
+<td class="content">
+<div class="paragraph">
+<p>The baptism of a Johann Heinrich Krückeberg does not list the father&#8217;s given names.
+It says only "Krückeberg aus Berenbusch", which suggests there might only be one
+Krückeberg family in Berenbusch? While most records on the same page mention the
+father&#8217;s given name, at least one other baptsim record on the same page likewise only
+mentions the surname. There are records on the prior page where only the surname is
+mentioned, too.</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_rg_wilharm">rg "Wilharm"</h3>
+<div class="paragraph">
+<p>Do: `rg 'Wilharm; *.adoc. Note the results show that both branches of the Krückebergs seem
+to have Wilharms as baptism sponsors. We know from NLA 146, doc #1, that Jobst Heinrich
+Krückeberg and his family lived at the Wilharms as tenants.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_key">Key</h3>
+<div class="paragraph">
+<p>Work from known to unknow, from most recent to prior generation methodically.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_other_petzen_records_to_review">Other Petzen Records to Review</h3>
+<div class="paragraph">
+<p>See manilla folder</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_follow_familysearch_leads">Follow FamilySearch Leads</h3>
+<div class="paragraph">
+<p>The parents of Anne Maria Margarethe Vahlsing, who married Johann Heinrich Krückeberg on 28 Sep. 1727 in
+Petzen (see <a href="petzen:PET-M-1727a.html">petzen:PET-M-1727a.html</a>) are given on FamilySearch along with they were baptized and
+into which parish. Their death dates are also given.</p>
+</div>
+<div class="paragraph">
+<p>Following these other families may help uncover more information like aid in identifying the exact baptism
+sponsors&#8230;&#8203;.but the Vahlsing&#8217;s only appear once as baptism sponsors?</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_summary">Summary</h3>
+<div class="paragraph">
+<p>This information plus information from the NLA case files might really help. We know from NLA 146:
+* Jobst Heinrich&#8217;s father was a <strong>Ackervogt</strong>, someone who was usually experienced in farming.
+What else do we know?
+* Was his father an Einlieger?</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_key_2">Key</h3>
+<div class="paragraph">
+<p>Always establish facts from the most recent back before the going back a generation.</p>
+</div>
+<div class="paragraph">
+<p>Use FAN principle to research spouses lineage, again from more recent to least recent.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_research_item_to_add">Research Item to Add</h2>
+<div class="sectionbody">
+<div class="sect2">
+<h3 id="_also_add_carl_friedrich_bleeke_military_service">Also Add Carl Friedrich Bleeke Military Service</h3>
+<div class="paragraph">
+<p>Add/create background information for Carl Friedrich Bleeke using his Iowa tombstone and his known residence in
+LEteln/Frill area. Add this to the research page, stating we would like any of his military records.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_background_sources_to_read_to_better_understand_schaumburg_lippe">Background Sources to Read to Better Understand Schaumburg-Lippe</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic" start="1">
+<li>
+<p><a href="https://de.wikipedia.org/wiki/Anerbenrecht">Anerbenrecht</a></p>
+</li>
+<li>
+<p><a href="https://www.histag-schaumburg.de/page/page_ID/111">Historiche Arbetisgemeinschaft für Schaumburg</a></p>
+</li>
+<li>
+<p><a href="https://de.wikipedia.org/wiki/Schaumburg-Lippe">Schaumburg-Lippe</a></p>
+</li>
+<li>
+<p><a href="https://catalog.hathitrust.org/Record/002200458?type%5B%5D=all&amp;lookfor%5B%5D=Schaumburg-Lippe">Die landwirtschaftlichen Verhältnisse und die Agrarreformen in Schaumburg-Lippe im 18. und 19. Jahrhundert /
+von Karl Heinz Schneider.</a></p>
+</li>
+<li>
+<p><a href="https://www.ekomp.digihist.de/Dokumentation_Datensaetze/Multimedia/Staaten/Schaumburg-Lippe.pdf" class="bare">https://www.ekomp.digihist.de/Dokumentation_Datensaetze/Multimedia/Staaten/Schaumburg-Lippe.pdf</a></p>
+</li>
+</ol>
+</div>
+<div class="sect2">
+<h3 id="_scan_book_die_landwirtschaftlichen_verhältnisse_und_die_agrarreformen_in_schaumburg_lippe_im_18_und_19_jahrhundert_von_karl_heinz_schneider">Scan Book: "Die landwirtschaftlichen Verhältnisse und die Agrarreformen in Schaumburg-Lippe im 18. und 19.  Jahrhundert / von Karl Heinz Schneider."</h3>
+<div class="paragraph">
+<p>So that I can have it translated by Deepl.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_finish_converting_dr_moehles_report_to_asciidoc">Finish Converting Dr Moehle&#8217;s Report to AsciiDoc</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>The report is in <code>~/gen/m/background/pages/report_moehle.adoc</code>. Convert its em dashes to AsciiDoc '--'.</p>
+</div>
+<div class="paragraph">
+<p>Use "--" for em dashesm and for en dashes, follow these steps:</p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Put this at the top of the file: <code>:ndash: –</code>.</p>
+</li>
+<li>
+<p>Use it like this: <code>1798{ndash}1800</code>.</p>
+</li>
+</ol>
+</div>
+<div class="paragraph">
+<p>Also:
+* correct grammar.</p>
+</div>
+<div class="paragraph">
+<p>Use Gemini or Chatgpt to rewrite it.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_andrea_bentschneiders_german_emigration_video_series">Andrea Bentschneider&#8217;s German Emigration Video Series</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>url:
+<a href="https://members.germangenealogycollective.com/courses/products/86a4a680-fcb7-463c-93c1-d9db7bda624e/categories/5bb1eb4a-bf08-4436-adf7-fdfb55326aef/posts/7bbc8283-f8c8-4a67-9554-2c7f6d9735c0?courses=my&amp;source=courses" class="bare">https://members.germangenealogycollective.com/courses/products/86a4a680-fcb7-463c-93c1-d9db7bda624e/categories/5bb1eb4a-bf08-4436-adf7-fdfb55326aef/posts/7bbc8283-f8c8-4a67-9554-2c7f6d9735c0?courses=my&amp;source=courses</a></p>
+</div>
+<div class="sect2">
+<h3 id="_event_table_changes">Event Table Changes</h3>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Rename the Residence/Village column to: Residence / Village<br>
+(Bap./Conf.)</p>
+</li>
+<li>
+<p>Rework all the event tables to follow the Usage Notes in <code>event-tables.adoc#usage-notes</code>.</p>
+</li>
+<li>
+<p>Use Event Codes</p>
+</li>
+</ol>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_carl_friedrich_family_of_origin">Carl Friedrich Family of Origin</h3>
+<div class="paragraph">
+<p>Add his wife&#8217;s baptism and confirmation records.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_add_nachtraege_for_jhk_1744_events_adoc">Add Nachtraege for jhk-1744-events.adoc</h2>
+<div class="sectionbody">
+
+</div>
+</div>
+<div class="sect1">
+<h2 id="_research_questions">Research Questions</h2>
+<div class="sectionbody">
+<div class="sect2">
+<h3 id="_orphaned_children_of_jhk_1704">Orphaned Children of JHK 1704</h3>
+<div class="paragraph">
+<p>If Johann Heinrich Krückeberg (1704-1759) died in 1759, and if he was the father of those
+children born between 1728 and 1750, then his children became orphans because Johann Heinrich Krückeberg&#8217;s
+wife died two years before him.</p>
+</div>
+<div class="paragraph">
+<p>Where and with whom did they live? Do Confirmation records tell us?</p>
+</div>
+<div class="paragraph">
+<p><a href="#petzen:PET-C-1764a">[petzen:PET-C-1764a]</a> tells us he live in Berenbusch. He was born in 1750: <a href="petzen:PET-B-1750a.html">petzen:PET-B-1750a.html</a>.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_baptism_records_to_find">Baptism Records to Find</h3>
+<div class="ulist">
+<ul>
+<li>
+<p>The 3rd wife of Johann Heinrich Krückeberg, Philippine Doroth[ea] Beucken, was an Einliegerin from Evesen.
+Find her birth record from circa 1765.</p>
+</li>
+<li>
+<p>On FamilySearch, Anne Marie Philippine Krückeberg, born 1795, shown to be the child of Johann Heinrich Krückeberg
+(from Berenbusch) and Philippine Dorothea Beucken. The citation given is: <a href="https://familysearch.org/ark:/61903/1:1:VH7C-TCF" class="bare">https://familysearch.org/ark:/61903/1:1:VH7C-TCF</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Yet that record&#8217;s spelling of the mother&#8217;s surname is different; it is <strong>Boecker</strong>.</p>
+</div>
+<div class="paragraph">
+<p>The original Dankersen, Kreis Minden, parish Kirchenbücher are on Archion.de: <a href="https://www.archion.de/p/fe0c680d5c/" class="bare">https://www.archion.de/p/fe0c680d5c/</a></p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_add_to_jobst_h_krueckeberg_1779_adoc">Add to Jobst-h-krueckeberg-1779.adoc&#8230;&#8203;</h3>
+<div class="paragraph">
+<p>Mention that Jobst Heinrich had only one wife. Cite the case file in support and any Nachtraege and mention that
+rarety of divorce.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_did_johann_heinrich_born_in_1744_marry_at_age_17_in_1761">Did Johann Heinrich born in 1744 Marry at age 17 in 1761?</h3>
+<div class="paragraph">
+<p>That is what is one family search.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_who_is_the_johann_heinrich_who_died_in_1759">Who is the Johann Heinrich Who Died in 1759?</h3>
+<div class="paragraph">
+<p>He died at age 55? See <a href="petzen:PET-D-1759a.html">petzen:PET-D-1759a.html</a>.
+Answer: The Johann Heinrich who married in 1727.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_add_nachtraeg_to_jhk_1767_events_adoc">Add Nachtra&#8217;eg to jhk-1767-events.adoc</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Go through the family records and add the nachtra&#8217;ge.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_work_on_this_new_record">Work on this new Record</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Add the record to my website and Johann Heinrich&#8217;s event tree:
+<a href="https://dfg-viewer.de/show?tx_dlf%5Bdouble%5D=0&amp;tx_dlf%5Bid%5D=https%3A%2F%2Fwww.landesarchiv-nrw.de%2Fdigitalisate%2FAbt_Ostwestfalen-Lippe%2FP1%2FB%2F~001%2FB00168_02_1831-1845%2Fmets.xml&amp;tx_dlf%5Bpage%5D=40&amp;cHash=7d66b09b1bf2d80b14084deb862675d3" class="bare">https://dfg-viewer.de/show?tx_dlf%5Bdouble%5D=0&amp;tx_dlf%5Bid%5D=https%3A%2F%2Fwww.landesarchiv-nrw.de%2Fdigitalisate%2FAbt_Ostwestfalen-Lippe%2FP1%2FB%2F~001%2FB00168_02_1831-1845%2Fmets.xml&amp;tx_dlf%5Bpage%5D=40&amp;cHash=7d66b09b1bf2d80b14084deb862675d3</a></p>
+</div>
+<div class="paragraph">
+<p>Then correct FamilySearch id P35C-TTV, after I determine which Johann Heinrich is her father.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_change_citations_for_frille_kirchenbuchduplikat">Change Citations for Frille Kirchenbuchduplikat</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Change the FRI-<strong>-182??.adoc and FRI-</strong>-183&gt;&gt;.adoc file from what I have not to match the format of <code>FRI-M-1826a.adoc</code>.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_research">Research</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Find the death of Philippine Caroline Christine Krückeberg&#8217;s 1st husband, since she
+remarried, according to the Nachtaege in her baptism record, PET-B-1792a.adoc, on
+11 May 1834, after first marrying on 23 Feb. 1812.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_rewrite_or_eliminate_mresearchjohann_hinrich_krueckeberg">Rewrite or Eliminate <code>m/research/johann-hinrich-krueckeberg</code></h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>I believe it is out of date. The "issues" paragraph at the end is good.
+It mentions that there are other birth records from the 1728 to 1750 timeframe that also
+only mentioned the father&#8217;s surname.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_new_research_question">New Research Question</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>See <code>m/research/p/did-jhk-1744-marry-at-17.adoc</code>.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_is_cfk_family_events_is_too_long">Is cfk-family-events is too long?</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Perhaps put some of the text into a intro page?</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_research_question">Research Question</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>For the k r u e c k e b e r marriage in 1727 and the subsequent children with that surname that were born in whose
+records the parentage is given either as k r u e c k e b e r g from b e r e n Busch, or Johann Heinrich k r u e c k
+e b e r g. Are these one in the same person? Is the person with Justice surname and without a given name one in the
+same as Johann Heinrich?</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_xrefs">Xref&#8217;s</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>On <code>m/research/bueckeburg-archive-research.adoc</code>. provide xref&#8217;s to individuals page that lists
+the source of the info.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_pedigreeancestry_instead_of_event_tables">Pedigree/Ancestry instead of Event Tables</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Rename the Event Tables module to <strong>ancestry</strong> and within it use the event-tables'
+pages. Add .svg images of the ancestry. Group the pages by one or two generations.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_tools_for_generating_family_trees">Tools for Generating Family Trees</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>See: <a href="https://chatgpt.com/share/692cd231-6ac8-8004-93e0-b34ac18795f6" class="bare">https://chatgpt.com/share/692cd231-6ac8-8004-93e0-b34ac18795f6</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_event_tables_todoes">Event Tables TODOES</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Confirm the accuracy of the combined event table.</p>
+</li>
+<li>
+<p>Merge into it the Petzen birth, baptism and confirmation records for Carl Friedrich Krückeberg
+and his wife.</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_research_in_the_early_petzen_church_registers_find_all_remaining_records">Research: In the early Petzen church registers, find all remaining records</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Find all remaing Krueckeberg birth/bpatims, possible donfirmation, marriage and deathj/burial records.</p>
+</div>
+<div class="paragraph">
+<p>Using the hand written lists of Archion.de images I have reviewed and have yet to review:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Find any remaining births between 1746/image 174 and 1750/image 180 that were missed. &#8592;-DONE!!</p>
+</li>
+<li>
+<p>Continue on with my handwritten inventory of images I have reviewed.</p>
+</li>
+<li>
+<p>Also deaths during the time period 1728 to 1750</p>
+</li>
+<li>
+<p>Marriages between 1710 to 1750.</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_other_section_to_website">"Other" section to website</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Put modules that have been commented out and navigation that has been commented out, like
+<strong>Helpful Background information</strong> in <code>m/research/nav.adoc</code> under a new"Other" category.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_cron_job_for_building_website">CRON Job for Building Website</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>CRON job:</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre>0 3 * * * cd /home/kurt/antora-genealogy &amp;&amp; git pull
+0 3 * * * cd /home/kurt/nla-documents &amp;&amp; git pull
+5 3 * * * cd /home/kurt/antora-site &amp;&amp; antora antora-playbook.yml</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>This will:
+* 3:00 AM → update genealogy repo
+* 3:00 AM → update nla repo
+* 3:05 AM → rebuild website</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_krückeberg_and_a_map_showing_krückeberg_property_is_mentioned_in_case_file">Krückeberg and a Map Showing Krückeberg Property is Mentioned in Case File ????</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Find this &#8592;---------
+I know there was a map/drawing of Berenbusch showing a "Krückeberg" Stätte in Berenbusch.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_add_citations_to_immanuel_lutheran_bios">Add Citations to Immanuel Lutheran Bios</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>See <code>~/imm/citations.adoc</code> for guidance. I need to figure out on which image number each bio appears.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_questions_concerning_no_10_berenbusch">Questions Concerning No. 10 Berenbusch</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Was it created during the course of the Rentkammer reviewing case file #143? Here is its
+archive information:</p>
+</div>
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 33.3333%;">
+<col style="width: 50%;">
+<col style="width: 16.6667%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Identifier/Call #er</th>
+<th class="tableblock halign-left valign-top">Description</th>
+<th class="tableblock halign-left valign-top">Time Frame</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">NLA BU, K 2, B Nr. 143</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Die Stätte Nr. 14 zu Berenbusch</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">1783 - 1792</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_research_plan_for_petzen_krückeberg_records">Research Plan for Petzen Krückeberg Records</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>As to analyzing who fathered the 1728-1750 Kruekeberg chilren, see
+<a href="https://chatgpt.com/share/691fa228-7674-8004-91a5-1bf305719fb1" class="bare">https://chatgpt.com/share/691fa228-7674-8004-91a5-1bf305719fb1</a> and
+<a href="./modules/ancestry/pages/design-strategy.html">Design Strategy</a> on how to
+create an event table.</p>
+</div>
+<div class="paragraph">
+<p>Start with the more recent records use the biography of Johann Heinrich and trhe biography of Carl
+Heinrich Wilhelm Krückeberg along with his father&#8217;s <em>Familienschein des Auswanderers Carl Friedrich
+Krueckeberg</em>, and then begin to use the church records. As the link above suggest create a table by
+house number.</p>
+</div>
+<div class="paragraph">
+<p>Perhaps also later use this information to create some sort of a configuration file that will display a tree. And a
+timeline with record sources for each individual.
+`
+=== Birth Records Parentage Patterns and Statistics</p>
+</div>
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 25%;">
+<col style="width: 25%;">
+<col style="width: 25%;">
+<col style="width: 25%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Birth Date</th>
+<th class="tableblock halign-left valign-top">Child</th>
+<th class="tableblock halign-left valign-top">Parentage Description</th>
+<th class="tableblock halign-left valign-top">Instances of Surname-only Parentage on the same and adjacent pages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"></td>
+<td class="tableblock halign-left valign-top"></td>
+<td class="tableblock halign-left valign-top"></td>
+<td class="tableblock halign-left valign-top"></td>
+</tr>
+</tbody>
+</table>
+<div class="sect2">
+<h3 id="_the_naming_pattern_is_also_important_look_for_first_born_grandsons_that_have_the_paternal_grandfathers_name">The naming pattern is also important. Look for first born grandsons that have the paternal grandfather&#8217;s name</h3>
+<div class="paragraph">
+<p>If there were a Jobst second contemporary Krückeberg who also fathered children. If those children
+later married or were confirmed possibly confirmed might have the father&#8217;s name or later died, then they&#8217;re
+marriage should have the full father&#8217;s name, and perhaps confirmation and death records, too.</p>
+</div>
+<div class="paragraph">
+<p>of Johann Heinrich. This would involve looking at sons of the Johann Heinrich who was born in 1704 and then
+looking for marriages of those sons and seeing if their sons, the grandsons of the prospective grandfather
+Johann Heinrich, had his given name.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_pattern_of_baptism_sponsors">Pattern of Baptism Sponsors</h3>
+<div class="paragraph">
+<p>If we can find only one Krückeberg living in Berenbusch through secular records when these births occurred, then we
+will have eliminated the possibility of an jobst being a different person.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_only_other_patterns">Only Other Patterns</h3>
+
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_pedigree_of_johann_heinrich_born_1806">Pedigree of Johann Heinrich, born 1806</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Immanuel bio plus initial U.S. records, then onto the Petzen church records.</p>
+</div>
+</div>
+</div>
+</div>
+<div id="footer">
+<div id="footer-text">
+Last updated 2026-01-20 14:56:43 -0500
+</div>
+</div>
+</body>
+</html>
