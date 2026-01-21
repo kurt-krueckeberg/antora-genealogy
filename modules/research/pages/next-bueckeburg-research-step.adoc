@@ -237,7 +237,7 @@ We thus have this timeline/evidence:
 These documents have not been examined:
 
 
-[cols="2,6a,1",width="75%"]
+[cols="2,6a,1"]
 |===
 |Identifier|Deonotation|Life span
 
@@ -256,8 +256,6 @@ Wiesen, .. und Gärten]
 Inventory book of lands, meadows, ... and gardens
 |1816
 |===
-
-
 ====
 
 You now have three critical anchors:
