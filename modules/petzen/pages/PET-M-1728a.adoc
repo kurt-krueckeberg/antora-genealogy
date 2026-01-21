@@ -15,6 +15,14 @@ of marriage)
 |*Bride*|Anna Margaretha Bruns|Oct. 21 1728|Evesen
 |===
 
+.Facts
+[%header,cols="2,1",width="45%"]
+|===
+|Name|Fact
+
+|Henrich Vahlsing|shepard
+|===
+
 == Citation
 
 The October 21, 1728, marriage of Henrich Vahlsing to Anna Margaretha Bruns
