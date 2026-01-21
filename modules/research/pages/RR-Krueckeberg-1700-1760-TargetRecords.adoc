@@ -6,8 +6,6 @@ the early-period Krückeberg research (1700–1760) in the Bückeburg archive.
 It is designed to be used together with the overarching research framework
 in the Master Research Strategy:
 
-xref:RR-Krueckeberg-MasterResearch-1700-1850.adoc[].
-
 == Finding Prospective Parents of Krückebergs Born between 1736 and 1750 in Secular Records
 
 The secular records listed xref:#prospective[here] might hold the clue to the parentage of the Krückeberg
@@ -177,35 +175,40 @@ documents were Krückebergs in Berenbusch are mentioned.
 List of names of all colonists in the districts of Bückeburg and Arensburg, with numbering of all houses.
 |1740 - 1830
 
-|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894569[NLA BU L 2 L Nr. 27/28]|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894569[Erfassung der Haus- und Hofbesitzer im Amt Bückeburg im Rahmen einer Generallandesvisitation
-(Landesvermessung)]
+|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894569[NLA BU L 2 L Nr. 27/28]
+|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894569[Erfassung der Haus- und Hofbesitzer im
+Amt Bückeburg im Rahmen einer Generallandesvisitation (Landesvermessung)]
 
 Survey of house and farm owners in the Bückeburg district as part of a general state survey (state survey)
 |1737
 
-|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894537[NLA BU L 2 L Nr. 27/41]|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894537[Protokolle über die Befragung der einzelnen Hofbesitzer in Evesen, Berenbusch, Nordholz und Rusbend
-im Rahmen der Generallandesvisitation (Landesvermessung)]
+|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894537[NLA BU L 2 L Nr. 27/41]
+|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894537[Protokolle über die Befragung der
+einzelnen Hofbesitzer in Evesen, Berenbusch, Nordholz und Rusbend im Rahmen der Generallandesvisitation (Landesvermessung)]
 
 Records of interviews with individual farm owners in
 Evesen, Berenbusch, Nordholz, and Rusbend as part of the
 General State Survey (state land survey)
 |1743 - 1744
 
-|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894533[NLA BU L 2 L Nr. 27/13]|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894533[Vermessung der Dörfer Evesen,
+|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894533[NLA BU L 2 L Nr. 27/13]
+|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894533[Vermessung der Dörfer Evesen,
 Berenbusch und Nordholz]
 
 Surveying of the villages of Evesen, Berenbusch, and Nordholz
 |1745
 
-|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894545[NLA BU L 2 L Nr. 27/54]|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894545[Spezialvermessung
+|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894545[NLA BU L 2 L Nr. 27/54]
+|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894545[Spezialvermessung
 der Dörfer Evesen, Berenbusch und Nordholz]
 
 Special survey of the villages of Evesen, Berenbusch, and Nordholz
 |1734-1742
 
 |xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v9665016[NLA BU Dep. 61 Acc. 2018/7 Nr.
-245]|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v9665016[Lagerbuch
-über Ländereien, Wiesen, .. und Gärten]
+245]
+|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v9665016[Lagerbuch über Ländereien,
+Wiesen, .. und Gärten]
 
 Inventory book of lands, meadows, ... and gardens
 |1816
