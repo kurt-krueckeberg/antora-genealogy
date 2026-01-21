@@ -33,6 +33,8 @@ His name does not appear in the 1737 document from the table above, as
 being the Besitzer of no. 10 Berenbusch. It does appear in the 1743-1744
 document. His replies to the questionst, which themselves are lost, recorded in the 174-1744 documen are
 shown below:
+
+[literal.bordered,subs="verbatim,quotes"]
 ....
 N. X [Rf?] er hiesse
 
@@ -170,6 +172,7 @@ Berenbsuch was Friedrich Kuhlman and before him Johann Tönnis Eggerding.
 The third document from 1745 also shows he is the Besitzer of no. 10
 Berenbusch. The content of page 110 where Johann Heinrich appears is:
 
+[literal.bordered,subs="verbatim,quotes"]
 ....
 No. 10 am Hause
 Johann Henrich Krickeberg zu Behrenbusch
