@@ -1,5 +1,5 @@
 = 1707 Johann Tönnis Eggerding Marriage
-:page-role: wdie
+:page-role: wide
 
 == Image
 
@@ -8,7 +8,16 @@ image::petzen-band1b-img27.png[link=self]
 [.narrow]
 == Transliteration and Translation
 
+.Transliteration
+[literal.bordered,subs="verbatim,quotes"]
 ....
 Johann Tönnies Eggerding aus D[e]k[h][?][ſ/f] und M. Anna Catharina
 Eberdings aus Petzen den 15. ten 8br. copuliret
+....
+
+.Translation
+[literal.bordered,subs="verbatim,quotes"]
+....
+Johann Tönnies Eggerding from D[e]k[h][?][ſ/f] and M. Anna Catharina
+Eberdings from Petzen married the 15ten October. 
 ....
