@@ -234,7 +234,7 @@ We thus have this timeline/evidence:
 
 [IMPORTANT]
 ====
-These documents have not been examined:
+This document should be examined first before all the other mentioned later:
 
 
 [cols="2,6a,1"]
@@ -250,11 +250,6 @@ Special survey of the villages of Evesen, Berenbusch, and Nordholz
 
 |xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v9665016[NLA BU Dep. 61 Acc. 2018/7 Nr.
 245]
-|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v9665016[Lagerbuch über Ländereien,
-Wiesen, .. und Gärten]
-
-Inventory book of lands, meadows, ... and gardens
-|1816
 |===
 ====
 
