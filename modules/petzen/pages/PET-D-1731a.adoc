@@ -4,8 +4,9 @@
 [.narrow]
 == Citation
 
-The 3 Jan. 1730 burial record of Heinrich (Arends) Vahlsing is found on <<PET-D-1730a, image 147>> of the 
-Petzen Kirchenbuch "Verzeichnis der Getrauten und Gestorbenen 1641-1784".
+The 3 Jan. 1730 burial record of Heinrich (Arends) Vahlsing is found on
+<<PET-D-1730a, image 147>> of the Petzen Kirchenbuch "Verzeichnis der
+Getrauten und Gestorbenen 1641-1784".
  
 == Image 
 
@@ -40,7 +41,7 @@ a *Vorwerk* was an outlying agricultural estate that formed part of a
 larger lordly domain rather than an independent village holding. Such
 estates were owned directly by the territorial lord, in this case the Count
 of Schaumburg-Lippe, which is why the record describes it as *hochgräflich*
-(“high-comital”). A Vorwerk functioned as a productive extension of the
+(“high-comital”). A *Vorwerk* functioned as a productive extension of the
 comital economy, typically devoted to grain cultivation, sheep husbandry,
 or other estate-managed agriculture, and its output was intended to supply
 the lord’s household, administration, or revenues rather than to support a
