@@ -1,0 +1,53 @@
+= 1728 Henrich Vahlsing Marriage
+:page-role: wide
+
+== Family Relationship 
+
+.Marriage Information
+[%header,width="65%",cols="1,3,2,2"]
+|===
+||Name|Marriage +
+Date|Locality (at time
+of marriage)
+
+|*Groom*|Henrich Vahlsing|Oct. 21 1728|Evesen
+
+|*Bride*|Anna Margaretha Bruns|Oct. 21 1728|Evesen
+|===
+
+== Citation
+
+The October 21, 1728, marriage of Henrich Vahlsing to Anna Margaretha Bruns
+is on <<PET-M-1728a, image 37>>, the right-hand page, of the Petzen 
+"Verzeichnis der Getrauten und Gestorbenen 1641-1784".
+
+== Image of Marriage Record
+
+image::petzen-band1b-img37.jpg[title="Henrich Vahlsing Marriage(Click to enlarge)",link=self]
+
+[.narrow]
+== Transliteration and Translation
+
+.Transliteration
+[literal.bordered,subs="verbatim,quotes"]
+....
+den 21 Octobr ist der Schäfter Henrich Vahlsing aus Evesen mit Anna
+Margaretha Bruns aus Evesen copuliert
+....
+
+.Translation
+[literal.bordered,subs="verbatim,quotes"]
+.... 
+the 21st October the shepard Henirch Vahlsing from Evesen married Anna
+Margaretha Bruns from Evesen.
+....
+
+
+[bibliography]
+== Citations
+
+* [[[PET-M-1728a]]] "Archion Protestant Kirchenbücher Portal", database
+with images, Archion (https://www.archion.de/p/861407e3ed/: 15 July 2025),
+path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der
+Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 37 of 239
