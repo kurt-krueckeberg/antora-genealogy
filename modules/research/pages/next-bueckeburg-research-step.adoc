@@ -1,0 +1,400 @@
+= Next Research Steps to Pinpoint "Possession" of no. 10 Berenbusch
+
+== Background
+
+A researcher examined these documents for me from the Bückeburg regional archive of
+Lower Saxony, Germany, shown below in an AsciiDoc table:
+ 
+|===
+|Life Span|Identifier
+
+|1737 |Erfassung der Haus- und Hofbesitzer im Amt Bückeburg im Rahmen
+einer Generallandesvisitation (Landesvermessung)
+
+|1743-1744 |Protokolle über die Befragung der einzelnen Hofbesitzer in
+Evesen, Berenbusch, Nordholz und Rusbend im Rahmen der
+Generallandesvisitation (Landesvermessung)
+
+|1745 |Vermessung der Dörfer Evesen, Berenbusch und Nordholz link:
+
+|1747 |Namensverzeichnis sämtlicher Kolonen der Ämter Bückeburg und
+Arensburg, mit Nummerierung der sämtlichen Häuser.
+|===
+
+The person I believe to be my 6x great grandfather, Johann Heinrich
+Krückeberg, lived in Berenbusch. He first appears in the Petzen Kirchenbuch
+records in his 1727 marriage record that states he is "aus Berenbusch".
+He remained married until 1757 when his wife died, and he remarried the
+next year in 1758. He died in 1759.
+
+His name does not appear in the 1737 document from the table above, as
+being the Besitzer of no. 10 Berenbusch. It does appear in the 1743-1744
+document. His replies to the questionst, which themselves are lost, recorded in the 174-1744 documen are
+shown below:
+....
+N. X [Rf?] er hiesse
+
+1. Johann Henrich Krückeberg
+
+vormahls Friedrich Kuhlmann auch
+
+Joh. Tönnies Eggerding
+
+2. habe darauf geheyrahtet
+
+3. ein Brinksitzer
+
+4. Er habe nichts als einen Garten
+
+worin zugl. etwas Saatlandt
+
+Nach der neuen Messung.
+
+5. cessat
+
+6. er habe kein Rottland ausser
+
+dem Garthen
+
+7. Sey Illmo eigen.
+
+8. Wöchentl. Dienste verrichte er [symbol = nicht; old code for
+‚not‘]
+
+9. jährl. 12 Burgfesten
+
+10. cessat
+
+11. funff Erndte Tage
+
+12. so offt es nöhtig
+
+13. so offt es erforderlig [bei anderen: Landfolge mit der Hand]
+
+14. 15. 16. ut reliqui [bei anderen: auch Jagd und Wachten]
+
+17. cessat
+
+18. [Dues]
+
+a) contribat 2 [Groschen] 2 [Pfennige]
+
+b) Rottzinß 11 [Groschen]
+
+c) Mahl[...] 12 [Groschen]
+
+d) Michael Schatz cessit
+
+e) –
+
+f) – 4 [Pfennige]
+
+g) Landschatz gibt er nicht weilen
+
+er kein Land habe
+
+h) nescit
+
+i) ut reliqui
+
+k) Viehschatz p nro. des Viehes
+
+4 mgr [Groschen] 4 Pf [Pfennige] auch 8 mgr [Groschen]
+
+l) cessat
+
+m) Ein Rauchhuhn an gdste Herrschafft
+
+n) nescit
+
+19)
+
+a) ut reliqui
+
+b) Erbe 3 rthlr [Taler] 4 mgr [Groschen] 4 Pf [Pfennige]
+
+c-g nescit
+
+20-23 cessat
+
+24. 1 Kuh 1 Rind
+
+1 Schwein
+
+25. treibe solche vor den Hirten
+
+26. nein
+
+27-31 cessat
+
+32. Er gebe niemand
+
+etwas als dem
+
+pastori und Küster
+
+das gewöhnliche
+
+33. nein
+
+34. Vermeyne, da er
+
+keine Länderey
+
+habe, solche nicht
+
+schuldig zu seyn
+
+35. nein
+
+*36., 37.* cessat
+
+38. nein
+
+39. ut reliqui
+
+40. Er samle
+
+das Holtz in
+
+der Waldung
+
+oder kauffe es.
+....
+
+Note, that his first reply seems to indicate the prior holder of no. 10
+Berenbsuch was Friedrich Kuhlman and before him Johann Tönnis Eggerding.
+
+The third document from 1745 also shows he is the Besitzer of no. 10
+Berenbusch. The content of page 110 where Johann Heinrich appears is:
+
+....
+No. 10 am Hause
+Johann Henrich Krickeberg zu Behrenbusch
+besitzet
+An Hoff und Gartenland
+Der Hoff darauf stehet ein Wohnhaus
+Derselben hält				-		6 [Ruten]
+Ein Garten bey dem Hause  hat		¾ [Morgen]	23 [Ruten]
+Summa Summarum				¾ [Morgen]	29 [Ruten] [nach neuer Messung]
+....
+
+The final document from 1747 has on page 17 this information:
+
+....
+Joh. Heinr. Kreutler modo Daniel Steding
+
+     Brinksitzer
+
+5.) Joh. Kohlmeier modo Joh. Friedr. Kohlmeier
+6.) Jobst Heinr Jacob modo Jobst Jacob.
+7.) Anthon Heinr. Bornemann modo Joh. Jobst Most.
+8.) Ahrend Heinr. Ostermeier modo Joh. Heinr: Bornemann
+9.) Cord Heinr. Wilharm modo Joh. Heinr. Schmön
+10.) Joh. Tönnies Eggerding modo Joh. Heinr. Kruckeberg
+11.) Hans Heinr. Riensche und ein neuer Anbauen
+
+         Dorf Nodholz
+....
+
+Other facts to know:
+
+* Johann Tönnis Eggerdig, a former holder of no. 10 Berenbusch, was a
+  baptismal sponsor of Johann Heinrichäs son, Johann Friedrich, who was
+born in 1728.
+* Johann Heinrich Krückeberg's first wife, who lived until 1757, was the
+  daughter of a sheperd from Evesen.
+
+We thus have this timeline/evidence:
+
+[%header,cols="1,1"]
+|===
+| Evidence | What it shows  
+
+| 1727 marriage “aus Berenbusch”  | Krückeberg lived in the village           
+
+| 1728 baptism sponsor: Eggerding | Social link to the earlier holder         
+
+| 1737 Hausbesitzer list          | Krückeberg **not yet** holder             
+
+| 1743–44 questionnaire           | Krückeberg is holder; predecessors named  
+
+| 1745 survey                     | Krückeberg confirmed as holder            
+
+| 1747 list                       | Eggerding → Krückeberg (simplified chain) 
+|===
+
+== Next Documents to Examine
+
+You now have three critical anchors:
+
+[arabic]
+. *Succession chain (from the 1743–44 questionnaire)* Johann Tönnies
+Eggerding → Friedrich Kuhlmann → Johann Heinrich Krückeberg
+. *Social connection (1728 baptism)* Eggerding was sponsor to
+Krückeberg’s child — showing proximity and familiarity, not inheritance.
+. *Chronological window* Krückeberg was *not* holder in 1737, but *was*
+holder by 1743–44.
+
+So the key problem is:
+
+____
+*What administrative action caused the transition from Kuhlmann to
+Krückeberg between 1737 and 1743?*
+____
+
+That determines which Bückeburg documents you should examine next.
+
+
+=== 1. The correct archival focus (what _not_ to pursue further)
+
+You have already exhausted the *Landesvermessung / Statistik* series for
+this question:
+
+* 1737 Erfassung
+* 1743–44 Protokolle
+* 1745 Vermessung
+* 1747 Namensverzeichnis
+
+These establish *status and succession*, but not *mechanism*.
+
+No further surveying documents will explain _how_ the transfer happened.
+
+
+=== 2. The document types that can answer your question
+
+You now need *administrative, fiscal, and succession records* from the
+*Amt Bückeburg* and the *Rentkammer*.
+
+Specifically:
+
+==== A. Amtsprotokolle (ca. 1735–1745)
+
+These often record:
+
+* Deaths of holders
+* Reassignments of houses
+* Installations of new tenants
+* Household changes
+
+Search for:
+
+* _Haus Nr. 10 Berenbusch_
+* _Friedrich Kuhlmann_
+* _Johann Tönnies Eggerding_
+* _Johann Heinrich Krückeberg_
+* _Übernahme_, _Einsetzung_, _Abgang_, _Nachfolger_
+
+This is your *most likely source* for a documented transition.
+
+
+==== B. Kontributions- und Steuerregister (1737–1743)
+
+Your 1743–44 answers list Krückeberg’s dues.
+
+Earlier registers may show:
+
+* When Kuhlmann disappears as payer
+* When Krückeberg first appears
+* Which year the change occurred
+
+Look for:
+
+* *Kontributionsregister*
+* *Landschatzlisten*
+* *Viehschatzregister*
+
+These can often date a transfer to a specific year.
+
+
+==== C. Haus- und Hofakten / Besitzakten
+
+Some Schaumburg-Lippe houses have:
+
+* Individual *property files*
+* Succession notes
+* Occupancy records
+
+Search under:
+
+* _Berenbusch_
+* _Haus Nr. 10_
+* _Brinksitzer_
+* _Einlieger / Neubauer_
+
+Even if no Kaufbrief exists, *tenancy transitions* were often recorded.
+
+
+==== D. Kirchenbuch (for context, not proof)
+
+You already know:
+
+* Krückeberg’s marriage (1727)
+* His wife’s origin (Evesen)
+
+But you should now specifically look for:
+
+* Death of *Friedrich Kuhlmann*
+* Death of *Johann Tönnies Eggerding*
+
+If either died between *1737–1743*, that likely triggered the
+transition.
+
+
+=== 3. How to use Arcinsys for this stage
+
+In Arcinsys, move *out of*:
+
+____
+Landesvermessung und Statistik
+____
+
+and into:
+
+==== "`Amt Bückeburg – Verwaltung / Rechnungen`"
+
+==== "`Rentkammer / Vormundschaftliche Kammer`"
+
+==== "`Steuer- und Kontributionswesen`"
+
+==== "`Haus- und Hofakten`"
+
+Use these search terms:
+
+* *Berenbusch*
+* *Haus Nr. 10*
+* *Kuhlmann*
+* *Eggerding*
+* *Krückeberg*
+* *Brinksitzer*
+
+Filter by:
+
+* *1735–1745*
+
+
+=== 4. The historically defensible conclusion (current)
+
+With your new evidence incorporated, the correct statement is:
+
+____
+Johann Heinrich Krückeberg became the holder of Stätte Nr. 10 in
+Berenbusch *after Friedrich Kuhlmann* and *after Johann Tönnies
+Eggerding*, sometime *between 1737 and 1743*.
+
+The questionnaire establishes the *order of succession*, but not the
+*mechanism* or *exact year* of transfer.
+____
+
+Only *Amt / Rentkammer / tax records* can supply that missing detail.
+
+
+=== 5. If you wish, I can next help you with
+
+* A *precisely worded inquiry* to NLA Bückeburg
+* A *targeted Arcinsys search strategy* with specific call numbers
+* A *formal proof argument* for your Antora site
+* Or a *succession timeline* for Stätte Nr. 10 with uncertainty notes
+
+Your evidentiary reasoning is already at a professional level — now the
+archival search simply needs to match it.
