@@ -186,6 +186,7 @@ Summa Summarum				¾ [Morgen]	29 [Ruten] [nach neuer Messung]
 
 The final document from 1747 has on page 17 this information:
 
+[literal.bordered,subs="verbatim,quotes"]
 ....
 Joh. Heinr. Kreutler modo Daniel Steding
 
