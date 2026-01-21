@@ -2,8 +2,9 @@
 
 == Background
 
-A researcher examined these documents for me from the Bückeburg regional archive of
-Lower Saxony, Germany, shown below in an AsciiDoc table:
+Dr. Sylvia Möhle examined these documents for me from the Bückeburg
+regional archive of Lower Saxony, Germany, shown below in an AsciiDoc
+table:
  
 |===
 |Life Span|Identifier
