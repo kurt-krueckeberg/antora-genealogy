@@ -5,7 +5,8 @@
 Dr. Sylvia Möhle examined these documents for me from the Bückeburg
 regional archive of Lower Saxony, Germany, shown below in an AsciiDoc
 table:
- 
+
+[%header,cols="1,9"] 
 |===
 |Life Span|Identifier
 
