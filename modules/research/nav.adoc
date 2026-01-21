@@ -2,8 +2,8 @@
 // * xref:background-info.adoc[]
 * xref:sigla-explained.adoc[]
 * Bückeberg Archive Research
-** xref:RR-Krueckeberg-MasterResearch-1700-1850.adoc[]
-** xref:RR-Krueckeberg-1700-1760-TargetRecords.adoc[]
+** xref:
+** xref:next-bueckeburg-research-step.adoc[]
 ** xref:jobst-hk-1765-1822-guild-records.adoc[]
 * German Records-related Research Questions
 ** xref:did-jhk-1744-marry-at-17.adoc[] 
