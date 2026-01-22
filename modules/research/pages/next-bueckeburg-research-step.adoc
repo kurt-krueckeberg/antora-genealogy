@@ -235,7 +235,6 @@ We thus have this timeline/evidence:
 ====
 This document should be examined first before all the other mentioned later:
 
-
 [cols="2,6a,1"]
 |===
 |Identifier|Deonotation|Life span
@@ -246,10 +245,8 @@ der Dörfer Evesen, Berenbusch und Nordholz]
 
 Special survey of the villages of Evesen, Berenbusch, and Nordholz
 |1734-1742
-
-|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v9665016[NLA BU Dep. 61 Acc. 2018/7 Nr.
-245]
 |===
+
 ====
 
 You now have three critical anchors:
