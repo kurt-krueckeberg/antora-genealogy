@@ -1,23 +1,27 @@
 = 1804 Fridrich Weyland of Evesen no. 20 Marriage
 :page-role: wide
 
-In 1804 Fridrich Weyland of Evesen no. 20 married Catharine Margaretha Drinkuth.
-
+[.narrow]
 == Citation
 
-The marriage is found on <<PET-M-1804b, image 13, page 20, entry 7,>> of
-the Petzen Kirchenbuch volume "Verzeichnis der Getauften, Konfirmierten,
-Getrauten und Gestorbenen 1785-1827".
+The 2 December 1808 marriage of Fridrich Weyland of Evesen no. 20 to
+Catharine Margaretha Drinkuth is found on <<PET-M-1804b, image 13, page 20,
+entry 7,>> of the Petzen Kirchenbuch volume "Verzeichnis der Getauften,
+Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
+== Images
 image::petzen-band2-img13-heading.jpg[align=left,title="Page Header for Fridrich Wilhelm Weyland Marriage",link=self]
 
 image::petzen-band2-img13.jpg[align=left,title="Entry for Fridrich Wilhelm Weyland Marriage",link=self]
 
+[.narrow]
+== Transliteration and Translation
+
 [caption="Transliteration: "]
-.Marriage entry 3
-[%autowidth,frame="none"]
+.2 Dec. 1808 Marriage, entry 7
+[%header,cols="1,7,3,1,7,3,1",frame="none"]
 |===
-7+l|20                             getraute im Jahre 1803.1804
+|Zahl|Name des Bräutigam|Ort|N|Name des Braut|Ort|N
 
 |7
 |Jggs: Fridrich Weyland
@@ -27,6 +31,22 @@ image::petzen-band2-img13.jpg[align=left,title="Entry for Fridrich Wilhelm Weyla
 |Kleinbremen
 |
 |===
+
+[caption="Transliteration: "]
+.2 Dec. 1808 Marriage, entry 7
+[%header,cols="1,7,3,1,7,3,1",frame="none"]
+|===
+|Num.|Name of Groom|Place|Num.|Name of Bride|Place|Num.
+
+|7
+|Bachelor Fridrich Weyland
+|Evesen
+|20
+|maiden Cathar[ine]: Marg[arethe]: Drinkuth
+|Kleinbremen
+|
+|===
+
 
 
 [bibliography]
