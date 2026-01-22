@@ -1,11 +1,11 @@
-= Early Secular Records
+= Analysis of Early Secular Records for Johann Heinrich Krückeberg
 
 == Johann Heinrich Krückebereg's at no. 10 Berenbusch in 1747
 
-A number of xref:nla:ROOT:index.adoc[secular records] between 1737 and 1747
+Three xref:nla:ROOT:index.adoc[secular records] between 1737 and 1747
 in the Bückeburg regional department of the Lower Saxony state archives
-mention a Johann Heinrich Krückeberg of Berenbusch. The 1737 source is
-silent, which is also important.
+mention a Johann Heinrich Krückeberg of Berenbusch. A fourth document
+does not mention him.
 
 .Niedersächisches Landesarchiv, Bückeburg (Lower Saxony State Archives in Bückeburg) Case Files/Dossiers
 [%header,cols="2,8a,2"]
