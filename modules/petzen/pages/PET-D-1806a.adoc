@@ -11,9 +11,9 @@ Getrauten und Gestorbenen 1785-1827_.
 
 == Image
 
-image::petzen-band2-img247-1[title=Friedrich Wilhelm Weiland death(Click to Enlarge),link=self]
+image::petzen-band2-img247-1.jpg[title=Friedrich Wilhelm Weiland death(Click to Enlarge),link=self]
 
-image::petzen-band2-img247-2[title=Friedrich Wilhelm Weiland death(Click to Enlarge),link=self]
+image::petzen-band2-img247-2.jpg[title=Friedrich Wilhelm Weiland death(Click to Enlarge),link=self]
 
 == Transliteration and Translation
 
