@@ -6,6 +6,8 @@ Statistik*.
 
 .Landesvermessung und Statistik
 |===
+|Identifier|Denotation|Life span
+
 |NLA BU, L 2, S Nr. 40
 |Erfassung von Neubürgern, Schützlingen und Einliegern in Stadthagen 
 |1610-1777     
@@ -268,3 +270,100 @@ NLA BU, L 2, L Nr. 27/20a Vermessung der Dörfer Hülshagen, Probsthagen, Lüder
 |Populationstabellen der Grafschaft Schaumburg-Lippe 
 |1786-1786     
 |===
+
+
+== 1. The *single best "`needle-finder`" source*
+
+In those documents in the table above, the best prospective one to
+investigate is *NLA BU, L 2, L Nr. 27/54* _Spezialvermessung der Dörfer
+Evesen, Berenbusch und Nordholz (1734–1742)_
+
+This is the *only item in your list* that:
+
+* Covers *Berenbusch specifically*
+* Falls *before* the 1743–44 interrogations
+* Is a *village-level, nominative survey*
+* Likely lists *Stätten numbers + holders*
+
+If Johann Heinrich Krückeberg appears here for *No. 10*, this pushes his
+tenure *back before 1743*. If someone else appears, you have a *named
+predecessor*.
+
+So in terms of _direct, decisive evidence_ for *who held No. 10 and
+when*:
+
+➡️ *Yes — this is the one with the highest payoff.*
+
+
+== 2. The *supporting / confirmatory sources*
+
+These won’t usually give you the _first_ holder, but they help define
+the *transition window*:
+
+=== a)
+
+*NLA BU, L 2, L Nr. 27/28 (1737)* _Erfassung der Haus- und Hofbesitzer
+im Amt Bückeburg_
+
+This is useful because:
+
+* It gives a *snapshot just before 1743*
+* If No. 10 is listed under a different name, you have a *terminus post
+quem*
+
+But it’s broader and less detailed than the Spezialvermessung.
+
+=== b)
+
+*NLA BU, L 2, L Nr. 27/41 (1743–44)* The interrogations you already
+know.
+
+This anchors the *latest possible date* for Krückeberg’s tenure.
+
+
+== 3. Why most of the others won’t help
+
+Most of the remaining items are:
+
+* Administrative
+* Statistical
+* Financial
+* Or about *other villages*
+
+They do *not* usually list:
+
+* Individual Berenbusch Stätten
+* Holder names
+* Or transitions of possession
+
+So for your specific question (first tenure of No. 10):
+
+➡️ They are not worth the effort.
+
+
+== 4. The real research logic
+
+Your evidentiary window is:
+
+* *1737* – Krückeberg not found
+* *1743–44* – Krückeberg clearly holder
+
+The only source in your list that can *narrow that gap with names* is:
+
+____
+*L 2, L Nr. 27/54 (1734–1742)*
+____
+
+Everything else either confirms the _end point_ or provides general
+context.
+
+
+== Final verdict
+
+* *One document* has _high, primary, decisive_ value
+* *Two others* have _secondary, boundary-setting_ value
+* The rest are *non-essential* for this specific question
+
+If you want, I can now help you draft a *very focused German request* to
+NLA Bückeburg that asks only about *Berenbusch No. 10 in L 2, L Nr.
+27/54* — no wasted words, no generic genealogy framing.
