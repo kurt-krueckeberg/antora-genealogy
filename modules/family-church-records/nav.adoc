@@ -139,7 +139,6 @@
 * Werkmeister
 ** xref:petzen:PET-B-1783a.adoc[]
 * Weiland
-** xref:petzen:petzen-band2-image1.adoc[] 
 ** xref:petzen:PET-B-1736b.adoc[]
 ** xref:petzen:PET-B-1748a.adoc[]
 ** xref:petzen:PET-B-1754a.adoc[]
