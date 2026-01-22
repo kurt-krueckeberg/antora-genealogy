@@ -21,13 +21,11 @@ The most legiblely written of these is entry six, which must be `Ackersmann` (de
 `l` or a `t`).
 ====
 
-[caption="Transliteration and Translation: "]
+[caption="Transliteration : "]
 .Birth and Baptism of Caroline Sophie Weiland, pages 192-193 
-[%autowidth,frame="none",options="noheader",grid="rows"]
+[%header,%autowidth,frame="none",options="noheader",grid="rows"]
 |===
-9+l|260         Geboren im Kirchspiele Petzen (Births in the Petzen Parish)             im Jahr 1815                            261
-
-s|Zahl s|Name des Kindes s|Zahl s|Geburtzeit +
+|Zahl |Name des Kindes |Zahl |Geburtzeit +
 u. Geburtsort s|Taufzeit u. +
 Taufort s|Name, Stand Religion +
 u. Geburtsrt des Vaters s|Name, Religion +
@@ -35,16 +33,6 @@ u. Geburtsort der +
 Mutter s|Wohnort + 
 der +
 Eltern s|Taufzeugen
-
-s|Number s|Child's Name s|Number s|Birth time +
-and Place s|Baptism Time +
-and +
-Place s|Name, Job, Religion +
-and Birth place of Father s|Name, Religion +
-and Birth Place of +
-Mother s|Residence + 
-of +
-Parents s|Baptism Witnesses
 
 |4
 |Caroline Sophie +
@@ -62,7 +50,7 @@ Evesen, ein A[cker?]- +
 mann, Luth. Conf.
 |Catharine Elisabeth +
 Weilands geb +
-[D]öpkings aus n. 1.
+[D]öpking aus n. 1.
 in Wülpke, Luth. +
 Conf.
 |wohnen +
@@ -70,6 +58,47 @@ auf n. 20 +
 in Evesen
 |Caroline Sieckmeiern +
 landlady[wife] from n. 4. in +
+Evesen
+|===
+
+[caption="Translation: "]
+.Birth and Baptism of Caroline Sophie Weiland, pages 192-193 
+[%header,%autowidth,frame="none",options="noheader",grid="rows"]
+|===
+|Number |Child's Name |Number |Birth time +
+and Place |Baptism Time +
+and +
+Place |Name, Job, Religion +
+and Birth place of Father |Name, Religion +
+and Birth Place of +
+Mother |Residence + 
+of +
+Parents |Baptism Witnesses
+
+|4
+|Caroline Sophie +
+Weilands
+|des 2ten Kind u. +
+2ten Tocher
+|ist geboren +
+d. 23ten Jan. +
+Abends 8. Uhr in Evesen
+|wurde getauft d. 29thn Januar +
+in Petzen
+|Friedrich Wilhelm +
+Weiland n. 20 in +
+Evesen, ein A[cker?]- +
+mann, Luth. Conf.
+|Catharine Elisabeth +
+Weilands geb +
+[D]öpking aus n. 1.
+in Wülpke, Luth. +
+Conf.
+|wohnen +
+auf n. 20 +
+in Evesen
+|Caroline Sieckmeiern +
+housewife[or landlady]] from n. 4. in +
 Evesen
 
 |4
@@ -94,10 +123,11 @@ Conf.
 |living +
 at n. 20 +
 in Evesen
-|Caroline [S?]ieckmeiern +
+|Caroline Sieckmeiern +
 landlady[or wife] from n. 4. in +
 Evesen
 |===
+
 
 
 [bibliography]
