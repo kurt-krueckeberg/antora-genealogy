@@ -34,29 +34,33 @@ The baptismal record is shown below:
 
 image::petzen-band1a-img253.jpg[title="Overview of pages 244-245 (Click to enlarge)",link=self]
 
-== Text of Entry
+[.narrow]
+== Transliteration and Translation
 
-[caption="Transliteration and Translation: "]
-.Friderich Wilhelm Weiland Baptism
-[%autowidth,frame="none",options="noheader"]
-|===
-l|           ANNO 1777
+.Transliteration
+[literal.bordered,subs="verbatim,quotes"]
+....
+           ANNO 1777
 
-l|2) 26 Jan: ist getauft Friderich Wilhelm Weiland
+2) d 26ten Jan: ist getauft Friderich Wilhelm Weiland
    des Friederich Wilhelm Weiland aus Evesen
    No 20 mit seiner Ehefrau Anna Maria geb[oren]
    Meilands [or: Weilands] erzeungten Sohn. die Gevattern
    waren Johann Heinrich Weiland aus Nordholz
    und Hans Heinrich Möller aus Evesen
+....
 
-l|2) 26 Jan: Friderich Wilhelm Weiland baptized 
+.Translation
+[literal.bordered,subs="verbatim,quotes"]
+....
+          Year 1777
+
+2) 26th Jan: Friderich Wilhelm Weiland baptized 
    the begotten son of Friederich Wilhelm Weiland of Evesen
-   No 20, by his wife] Anna Maria born 
-   Weiland. Godfathers
-   were Johann Heinrich Weiland from Nordholz
-   and Hans Heinrich Möller from Evesen
-|===
-
+   No 20, by his wife Anna Maria born 
+   Weiland. Godfathers    were Johann Heinrich Weiland from
+   Nordholz and Hans Heinrich Möller from Evesen
+....
 
 [bibliography]
 == Citations
