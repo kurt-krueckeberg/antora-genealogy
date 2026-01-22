@@ -1,5 +1,9 @@
 = TODO
 
+== Read
+
+https://www.kirchner-raddestorf.de/heimat/regional/sozges.htm
+
 == Merge information at nla/m/2728/p/index.adoc
 
 Merge the "important" admonition into
