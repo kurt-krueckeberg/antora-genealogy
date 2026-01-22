@@ -1,0 +1,64 @@
+= 1806 Sophie Dorothee Weiland Death
+:page-role: wide
+
+[.narrow]
+== Citation
+
+The death and burial of Sophie Dorothee Weiland appears on <<PET-D-1806b,
+image 247>> of the link:https://archion.de[Archion.de] digital images of
+the Petzen church register _Verzeichnis der Getauften, Konfirmierten,
+Getrauten und Gestorbenen 1785-1827_.
+
+== Image
+
+image::petzen-band2-img247-3[title=Sophie Dorothee Weiland death(Click to Enlarge),link=self]
+
+image::petzen-band2-img247-4[title=Sophie Dorothee Weiland death(Click to Enlarge),link=self]
+
+[.narrow]
+== Transliteration and Translation
+
+.Transliteration
+[%header,cols="1,5,3,3,3,3,3"]
+|===
+|Nro.|Name, Religion, Gewerbe, Eltern, Geburts- und Wohnort des
+Verstorbenen|Zeit u. Ort des Todes und des Begräbnisses|Usrache des
+Todes|Alter|Ledig oder verheÿrathet|Hinterblieben
+
+|9
+|Sophie Dorothee Weiland. Luth. Conf. Hausfrau aus Nro. 28
+in Röcke, älteste Tochter des Einliegars Wilhelm Möller in Petzen 
+|starb d. 21. April 12. Uhr in Röcke, wurde begraden d. 23. April
+|Wassersucht
+|in einem Alter von 48. Jahr 11. Monat.
+|verheÿrathet
+|1 Wittver. 1 Sohn und 2. Töchter
+|===
+
+.Translation
+[%header,cols="1,5,3,3,3,3,3"]
+|===
+|No.|Name, Religion, Trade, Parents, Birth and Residence of the Descedent
+|Time and Place of Death and of Burial|Cause of Death|Age|Single or
+Married|Survivors
+
+|9
+|Sophie Dorothee Weiland. Luth. Conf. housewife at No.
+28 in Röcke, oldest daughter of lodger Wilhelm Möller in Petzen
+|died 21th April 12 p.m. Röcke, was buried 23rd April
+|edema
+|at the age of 48 years 11 months
+|married
+|1 widow. 1 son. 2 daughters
+|===
+
+
+[bibliography]
+== Citations
+
+* [[[PET-D-1806b]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/f57385caa9/ :
+25 October 2023), path: Niedersachsen > Niedersächsisches
+Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche
+Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten,
+Getrauten und Gestorbenen 1785-1827 > Image 247 of 357
+
