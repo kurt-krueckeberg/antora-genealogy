@@ -12,6 +12,8 @@ and placing it in ~/gen/m/early-secular-records/p.
 Leave the remainder of the document in
 ~/gen/m/research/next-bueckeburg-research-step.adoc.
 
+See: https://chatgpt.com/share/697181a5-d3d0-8004-a311-5b8875bd7f98
+
 == See these Propsective Bückebuerg Documents to Research.
 
 link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894569[18 Landesvermessung
