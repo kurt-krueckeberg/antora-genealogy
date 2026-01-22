@@ -8,9 +8,11 @@ The birth of Caroline Sophie Weiland is entry 4 on <<PET-B-1808a, image 99,
 pages 192-193>> of the Petzen Kirchenbuch volume "Verzeichnis der
 Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827."
 
-=== Image, Transliteration and Translation
+== Image, Transliteration and Translation
 
 image::petzen-band2-img99.jpg[title="Baptism of Carline Sophie Weiland in 1808 (Click to enlarge)",link=self]
+
+== Transliteration and Translation
 
 [NOTE]
 .Challenges in this entry
@@ -18,12 +20,8 @@ image::petzen-band2-img99.jpg[title="Baptism of Carline Sophie Weiland in 1808 (
 * Hasufrau definition
 Thode's define `Hausfrau` as:
   "wife; (modern) housewife; landlady"
-
-* The occupation of Friedrich Wilhelm Weiland is hard to discren. However,
-  five other fathers in this image have the same occupation.  The most
-legiblely written of these is entry six, which must be `Ackersmann`
-(despite the 3^rd^ letter more closely resembling `l` or a `t`).
 ====
+
 
 [caption="Transliteration : "]
 .Birth and Baptism of Caroline Sophie Weiland, pages 192-193 
