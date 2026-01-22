@@ -6,27 +6,29 @@ https://www.kirchner-raddestorf.de/heimat/regional/sozges.htm
 
 == Merge information at nla/m/2728/p/index.adoc
 
-Merge the "important" admonition into
-~/gen/m/research/next-bueckeburg-research-step.adoc.
-
-Better still, create a page of "analysis of secular records between 1737
-and 17??", using the first have of ~/gen/m/research/next-bueckeburg-research-step.adoc
-and placing it in ~/gen/m/early-secular-records/p.
-
-Leave the remainder of the document in
-~/gen/m/research/next-bueckeburg-research-step.adoc.
-
 See: https://chatgpt.com/share/697181a5-d3d0-8004-a311-5b8875bd7f98
 
-== See these Propsective Bückebuerg Documents to Research.
+Use the background information in the first half of
+~/gen/m/research/next-bueckeburg-research-step.adoc
+to replace the information at ~/gen/m/early-secular-records/index.adoc
+
+Call it  "analysis of secular records between 1737
+and 1747".
+
+Use the 2nd half of
+
+~/gen/m/research/next-bueckeburg-research-step.adoc
+
+as the truly next step, but augment it with other documents like these
+propsective Bückebuerg documents to research:
 
 link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894569[18 Landesvermessung
 und Statistik] of the Alte Regierungsregistratur.
 
-There are 23 sections, one of these is "18 National Surveying and
+In addition there are 23 sections, one of these is "18 National Surveying and
 Statistics".
 
-== Go Through petzen-band1b Marriages and Deaths by Maiden Name
+== Go Through petzen-band1b Marriages and go Through the Deaths by Maiden Name
 
 Currently age image 38?
 
