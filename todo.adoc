@@ -1,5 +1,17 @@
 = TODO
 
+== Merge information at nla/m/2728/p/index.adoc
+
+Merge the "important" admonition into
+~/gen/m/research/next-bueckeburg-research-step.adoc.
+
+Better still, create a page of "analysis of secular records between 1737
+and 17??", using the first have of ~/gen/m/research/next-bueckeburg-research-step.adoc
+and placing it in ~/gen/m/early-secular-records/p.
+
+Leave the remainder of the document in
+~/gen/m/research/next-bueckeburg-research-step.adoc.
+
 == See these Propsective Bückebuerg Documents to Research.
 
 link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894569[18 Landesvermessung
