@@ -3,6 +3,7 @@
 * xref:sigla-explained.adoc[]
 * Bückeberg Archive Research
 ** xref:next-bueckeburg-research-step.adoc[]
+** xref:other-prosp-next-step-docs.adoc[]
 ** xref:RR-Krueckeberg-1700-1760-TargetRecords.adoc[]
 ** xref:jobst-hk-1765-1822-guild-records.adoc[]
 * German Records-related Research Questions
