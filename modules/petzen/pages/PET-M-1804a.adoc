@@ -19,7 +19,7 @@ image::petzen-band2-img13.jpg[align=left,title="Entry for Fridrich Wilhelm Weyla
 
 [caption="Transliteration: "]
 .Marriage entry 3
-[%header,%autowidth,frame="none"]
+[%header,cols="1,7,3,1,7,3,1",frame="none"]
 |===
 |Zahl|Name des Bräutigums|Ort|N|Name des Brauts|Ort|N
 
@@ -35,7 +35,7 @@ Weyland
 
 [caption="Translation: "]
 .Marriage entry 3
-[%header,%autowidth,frame="none"]
+[%header,cols="1,7,3,1,7,3,1",frame="none"]
 |===
 |Num.|Name of the groom|Place|Num|Name of Bride|Place|Num
 
