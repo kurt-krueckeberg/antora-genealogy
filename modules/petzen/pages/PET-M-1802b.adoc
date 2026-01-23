@@ -86,7 +86,7 @@ sense is idomatic. It refers to premartial sexual relations.
 .Johann Heinrich Krückeberg Marriage, on 11 April 1802, entry number 10, page 19:
 [%header,cols="1,7,3,1,7,3,1",frame="none"]
 |===
-|Num |Name of Groom |Village| [uncertain?] |Name of Bride | Village | N.:
+|Num |Name of Groom |Village|Num.|Name of Bride | Village | N.:
 
 |10
 |Widower Joh[ann] Heinrich Krückeberg  Leibzüchter (retired farmer)
