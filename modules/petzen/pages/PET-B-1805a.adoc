@@ -1,8 +1,6 @@
 = 1805 Philippine Caroline Weiland Baptism
 :page-role: wide
 
-*TODO: Complete*
-
 == Image
 
 image::petzen-band2-img88.jpg[link=self]
