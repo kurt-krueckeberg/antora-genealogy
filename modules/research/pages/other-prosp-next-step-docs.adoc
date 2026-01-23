@@ -65,7 +65,8 @@ Statistik*.
 |1736-1747     
 
 |NLA BU, L 2, L Nr. 27/28
-|Erfassung der Haus- und Hofbesitzer im Amt Bückeburg im Rahmen einer Generallandesvisitation (Landesvermessung) 
+|Erfassung der Haus- und Hofbesitzer im Amt Bückeburg im Rahmen einer
+Generallandesvisitation (Landesvermessung) 
 |1737-1737     
 
 |NLA BU, L 2, M Nr. 51
@@ -73,7 +74,8 @@ Statistik*.
 |1737-1737     
 
 |NLA BU, L 2, L Nr. 27/40
-|Protokolle über die Befragung der einzelnen Hofbesitzer in Petzen und Röcke im Rahmen der Generallandesvisitation (Landesvermessung) 
+|Protokolle über die Befragung der einzelnen Hofbesitzer in Petzen und
+Röcke im Rahmen der Generallandesvisitation (Landesvermessung) 
 |1741-1743     
 
 |NLA BU, L 2, L Nr. 27/26
@@ -89,11 +91,13 @@ Statistik*.
 |1742-1744     
 
 |NLA BU, L 2, L Nr. 27/41
-|Protokolle über die Befragung der einzelnen Hofbesitzer in Evesen, Berenbusch, Nordholz und Rusbend im Rahmen der Generallandesvisitation (Lande... 
+|Protokolle über die Befragung der einzelnen Hofbesitzer in Evesen,
+Berenbusch, Nordholz und Rusbend im Rahmen der Generallandesvisitation
 |1743-1744     
 
 |NLA BU, L 2, L Nr. 27/43
-|Protokolle über die Befragung der einzelnen Hofbesitzer in Meinsen, Warber, und Hevesen im Rahmen der Generallandesvisitation (Landesvermessung) 
+|Protokolle über die Befragung der einzelnen Hofbesitzer in Meinsen,
+Warber, und Hevesen im Rahmen der Generallandesvisitation (Landesvermessung) 
 |1743-1744     
 
 |NLA BU, L 2, L Nr. 27/4
@@ -113,7 +117,9 @@ Statistik*.
 |1745-1745     
 
 |NLA BU, L 2, L Nr. 27/46
-|Protokolle über die Befragung der einzelnen Hofbesitzer in Enzen, Hobbensen, Horsthof, Wulfhagen und Meerbeck im Rahmen der Generallandesvisitatio... 
+|Protokolle über die Befragung der einzelnen Hofbesitzer in Enzen,
+Hobbensen, Horsthof, Wulfhagen und Meerbeck im Rahmen der
+Generallandesvisitation. 
 |1745-1745     
 
 |NLA BU, L 2, L Nr. 27/8
@@ -124,7 +130,8 @@ Statistik*.
 |Vermessung der Dörfer Enzen, Krebshagen, Lauenhagen und Vornhagen 
 |1745-1751     
 
-NLA BU, L 2, L Nr. 27/16a-b Vermessung der Dörfer Obernwöhren, Habichhorst, Niedernwöhren, Enzen, Hobbensen, Meerbeck, Volksdorf, Hiddensen, Hespe, Kuckshagen, Horsthof 
+|NLA BU, L 2, L Nr. 27/16a-b
+|Vermessung der Dörfer Obernwöhren, Habichhorst, Niedernwöhren, Enzen, Hobbensen, Meerbeck, Volksdorf, Hiddensen, Hespe, Kuckshagen, Horsthof 
 |1745-1751     
 
 |NLA BU, L 2, L Nr. 30
@@ -155,7 +162,8 @@ NLA BU, L 2, L Nr. 27/16a-b Vermessung der Dörfer Obernwöhren, Habichhorst, Ni
 |Protokolle über die Befragung der einzelnen Hofbesitzer in Niedernwöhren im Rahmen der Generallandesvisitation (Landesvermessung) 
 |1747-1747     
 
-NLA BU, L 2, L Nr. 27/20a Vermessung der Dörfer Hülshagen, Probsthagen, Lüdersfeld, Nordsehl, Vornhagen, Lauenhagen 
+|NLA BU, L 2, L Nr. 27/20a
+|Vermessung der Dörfer Hülshagen, Probsthagen, Lüdersfeld, Nordsehl, Vornhagen, Lauenhagen 
 |1747-1747     
 
 |NLA BU, L 2, L Nr. 27/17
