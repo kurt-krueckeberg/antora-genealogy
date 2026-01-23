@@ -25,6 +25,53 @@ den 3t. Januarÿ ist Henrich Vahlsing gewesener
 Vorwerde Höckersau begraben seines alters 63 Jahr
 ....
 
+.Hochgräflichen Vorwerde Höckersau
+****
+In this 1731 Petzen death record, *“Hochgräflichen Vorwerde Höckersau”**
+refers to a *manorial outlying farm (Vorwerk) belonging to the high
+comital (i.e., ruling count’s) estate*, located at or called
+*Höckersau**.
+
+A precise breakdown:
+
+* *Hochgräflich(en)**
+  Literally “high-comital.” This denotes ownership by the *reigning Graf
+(Count)* of Schaumburg-Lippe. In parish records, this adjective signals
+*sovereign or comital domain property*, not a private noble or peasant
+holding.
+
+* *Vorwerde / Vorwerk*
+  An *outlying estate or farm** administratively attached to a main manor
+or domain (often supplying grain, livestock, or labor). Vorwerke were
+commonly staffed by shepherds, farmhands, and overseers rather than
+independent farmers.
+
+* *Höckersau*
+  The *specific place-name* of that Vorwerk. In Schaumburg-Lippe usage,
+such names often designated a small settlement, estate complex, or cleared
+area associated with comital landholding.
+
+*Meaning in context*
+
+Henrich Vahlsing was a *shepherd employed at the comital Vorwerk
+Höckersau**, i.e., a shepherd in service to the **Count’s domain**, not a
+village farmer or householder in Petzen itself.
+
+*Smooth English rendering*
+
+A historically faithful translation would be:
+
+> “from the *High-Comital Vorwerk of Höckersau**”
+
+or slightly more explanatory:
+
+> “from the *comital outlying estate (Vorwerk) at Höckersau**”
+
+This phrasing accurately conveys *status (sovereign ownership)**, **function (estate farm)**, and **location (Höckersau)** as understood in early-18th-century Schaumburg-Lippe records.
+
+See [Höckersau-Sandfurt](https://www.meyersgaz.org/place/10808032) 
+****
+
 .Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
@@ -34,36 +81,13 @@ on the 3rd of January, Henrich Vahlsing, formerly a shepherd,
 was buried, being 63 years old.
 ....
 
-=== Explanation of Vorwerk of Höckersau
-
-In the early-eighteenth-century territorial structure of Schaumburg-Lippe,
-a *Vorwerk* was an outlying agricultural estate that formed part of a
-larger lordly domain rather than an independent village holding. Such
-estates were owned directly by the territorial lord, in this case the Count
-of Schaumburg-Lippe, which is why the record describes it as *hochgräflich*
-(“high-comital”). A *Vorwerk* functioned as a productive extension of the
-comital economy, typically devoted to grain cultivation, sheep husbandry,
-or other estate-managed agriculture, and its output was intended to supply
-the lord’s household, administration, or revenues rather than to support a
-hereditary peasant family.
-
-The designation “Vorwerk of Höckersau” therefore does not identify a free
-village or a numbered peasant holding but names a specific estate unit
-administered as part of the comital lands. People associated with a
-Vorwerk, such as shepherds, farmhands, or overseers, lived and worked there
-by virtue of employment or assignment, not hereditary tenure. Their
-residence was administrative rather than civic, and they would not appear
-in land registers as holders of a *Stätte*, *Bauerngut*, or *Colonie*. In
-this burial entry, the phrase indicates that Henrich Vahlsing belonged to
-the workforce of the comital estate at Höckersau and that his social and
-legal position was tied to comital service rather than to ownership or
-tenancy of peasant land.
-
 Translated into English, “high-comital Vorwerk of Höckersau” is therefore
 best understood as “the outlying estate of Höckersau belonging to the
 count,” with *Vorwerk* left untranslated to preserve its specific
 administrative meaning.
 
+
+See link:https://www.meyersgaz.org/place/10808032[Höckersau-Sandfurt] 
 
 [bibliography]
 == Citations
