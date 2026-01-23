@@ -70,7 +70,7 @@ relations.
 
 [caption="Transliteration: "]
 .Johann Heinrich Krückeberg Marriage, on 11 April 1802, entry number 10, page 19:
-[%autowidth,frame="none"]
+[%header,cols="1,7,3,1,7,3,1",frame="none"]
 |===
 |Zahl |Namen des Bräutigams |Ortschaft|Sh|Namen der Braut|Ortschaft|No:
 
@@ -78,21 +78,19 @@ relations.
 |Wittwer Joh: Heinrich Krückeberg Leibzüchter
 |Berenb[usch]
 |10
-|Phillippine Doroth: Beucken +
-   von ihm vor einigen Jahren [geschwächt?]
+|Phillippine Doroth: Beucken von ihm vor einigen Jahren [geschwächt?]
 |Meinsen
 |Einliegerin
 |===
 
 [caption="Translation: "]
 .Johann Heinrich Krückeberg Marriage, on 11 April 1802, entry number 10, page 19:
-[%header,%autowidth,frame="none"]
+[%header,cols="1,7,3,1,7,3,1",frame="none"]
 |===
 |Num |Name of Groom |Village| [uncertain?] |Name of Bride | Village | N.:
 
 |10
-|Widower Joh[ann] Heinrich +
- Krückeberg  Leibzüchter (retired farmer)
+|Widower Joh[ann] Heinrich Krückeberg  Leibzüchter (retired farmer)
 |Berenb[usch]
 |10
 |Philippine Dorothea Beucken, who had had premarital relations with him some years earlier
