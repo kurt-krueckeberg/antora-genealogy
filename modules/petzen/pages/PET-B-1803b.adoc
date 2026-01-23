@@ -25,6 +25,15 @@
 |Sophie Ernestine Wilharm|Evesen 
 |===
 
+[NOTE]
+====
+Sophie Ernestine Wilharm was the second wife of Hans Heinrich
+Wilharm, with whom xref:nla:146:doc1.adoc[Jobst Heinrich Krückeberg lodged
+at no. 11 Evesen] while working as a tailor. Hans Heinrich Wilharm was a
+baptismal sponsor of xref:PET-B-1807a.adoc[Carl Friedrich Krückeberg] in
+1807.
+====
+
 == Citation
 
 The birth is recorded on image 82, entry 23, on <<PET-B-1803b, image 82>> pages 158 159 of the Petzen Kirchenbuch 
