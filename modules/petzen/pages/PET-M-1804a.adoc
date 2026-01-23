@@ -24,8 +24,7 @@ image::petzen-band2-img13.jpg[align=left,title="Entry for Fridrich Wilhelm Weyla
 |Zahl|Name des Bräutigums|Ort|N|Name des Brauts|Ort|N
 
 |3
-|Jggs: Fridr: Wilhelm +
-Weyland
+|Jggs: Fridr: Wilhelm Weyland
 |Petzen
 |2
 |Caroline Louise Lauen, von ihm geschwächt
@@ -40,8 +39,7 @@ Weyland
 |Num.|Name of the groom|Place|Num|Name of Bride|Place|Num
 
 |3
-|Bachelor Fridr: Wilhelm +
-Weyland
+|Bachelor Fridr: Wilhelm Weyland
 |Petzen
 |2
 |Caroline Louise Lauen,who had had premarital relations with him
