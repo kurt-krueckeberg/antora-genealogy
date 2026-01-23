@@ -41,7 +41,7 @@ A precise breakdown:
 holding.
 
 * *Vorwerde / Vorwerk*
-  An *outlying estate or farm** administratively attached to a main manor
+  An *outlying estate or farm* administratively attached to a main manor
 or domain (often supplying grain, livestock, or labor). Vorwerke were
 commonly staffed by shepherds, farmhands, and overseers rather than
 independent farmers.
@@ -54,7 +54,7 @@ area associated with comital landholding.
 *Meaning in context*
 
 Henrich Vahlsing was a *shepherd employed at the comital Vorwerk
-Höckersau**, i.e., a shepherd in service to the **Count’s domain**, not a
+Höckersau**, i.e., a shepherd in service to the **Count’s domain*, not a
 village farmer or householder in Petzen itself.
 
 *Smooth English rendering*
@@ -76,9 +76,9 @@ See [Höckersau-Sandfurt](https://www.meyersgaz.org/place/10808032)
 [literal.bordered,subs="verbatim,quotes"]
 ....
 In the year 1731,
-on the 3rd of January, Henrich Vahlsing, formerly a shepherd,
-32 years of age, from the high-comital Vorwerk of Höckersau,
-was buried, being 63 years old.
+
+On 3 January, Henrich Vahlsing, a shepherd, from the Count’s outlying
+estate farm at Höckersau, aged 63 years, was buried
 ....
 
 Translated into English, “high-comital Vorwerk of Höckersau” is therefore
