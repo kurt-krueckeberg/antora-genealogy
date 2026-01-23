@@ -14,6 +14,42 @@ image::petzen-band2-img88.jpg[title=Philippiine Caroline Weiland Baptism(Click t
 
 == Transliteration and Translation
 
+.Transliteration
+[%header,cols="1,6,3,6,6,6,6,4,6"]
+|===
+|Nro|Name des Kindes|Zahl|Geburtszeit und Geburtsort|Taufzeit und Taufort
+des Kindes|Name, Stand, Religion u. Geburtsort des Vaters|Name, Religion
+und Geburtsort der Mutter|Wohnort der Eltern|Taufzeugen des Kindes
+
+|26
+|Caroline Philippine Weiland
+|das 1t. Kind u. 1t. Tocher erster Ehe
+|ist geboren d. 17. Novbr Nachts 2. Uhr
+|wurde getauft d. 20. Novbr in der Kirche
+|Wilhelm Weiland, Lutherischer Confession, Hausherr aus Nro. in Evesen
+|Catharine Hahnen, Lutherischer Confesion, von Nro. 1 in Wülpe
+|in Evesen aus Nro
+|Philippine Kuhlmann aus Nro. 3. in Evesen
+|===
+
+.Translation
+[%header,cols="1,6,3,6,6,6,6,4,6"]
+|===
+|No|Name of Child|Num.|Birth time and place|Baptism time and place of the
+child|Name, Status, Religion & Birthplace of the Father|Name, Religion
+and Birthplace of the Mother|Parent's Residence|Sponsors of the Child
+
+|26
+|Caroline Philippine Weiland
+|1st Child and 1st daughter of the first marriage
+|born on 17th Nov. 2 a.m.
+|was baptized the 20th Nov. in the church
+|Wilhelm Weiland, Lutheran Confession, head of household of No. [not given] in Evesen
+|Catharine Hahnen, Lutheran Confesion, from no. 1 in Wülpe
+|in Evesen at No. [not given]
+|Philippine Kuhlmann from No. 3. in Evesen
+|===
+
 
 [bibliography]
 == Citations
