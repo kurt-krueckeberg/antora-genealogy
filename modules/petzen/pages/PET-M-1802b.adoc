@@ -31,11 +31,14 @@ This is exactly what we expect after an *inter vivos Übergabe* (handover during
 ====
 ****
 
+[.narrow]
 == Citation
 
-The marriage occurred on April 11, 1802. It is <<PET-M-1802b, entry 10, page 19, on image 12>> of Petzen
-Kirchenbuch Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
+The marriage occurred on April 11, 1802. It is <<PET-M-1802b, entry 10,
+page 19, on image 12>> of Petzen Kirchenbuch Verzeichnis der Getauften,
+Konfirmierten, Getrauten und Gestorbenen 1785-1827.
 
+[.narrow]
 == Page 19
 
 The entries on the top of page 19 continue those begun in the middle of page 18
@@ -43,7 +46,11 @@ for the year 1802 (starting with entry 1 for Hans Heinrich Pohler). The date of
 the marriage is actually given on the page 18 above entry 6 as **Am 11 April
 ("on 11 April")**
 
+== Image or Record
+
 image::petzen-band2-img12-right1.jpg[align=left,title="Click to enlarge",link=self]
+
+== Transliteration and Translation
 
 [NOTE]
 ====
@@ -56,26 +63,23 @@ the church regsiter.
 .Johann Heinrich Krückeberg Marriage, on 11 April 1802, entry number 10, page 19:
 [%autowidth,frame="none"]
 |===
-7+l|18                Getraute im Jahre 1801.1802 
-s| Zahl s| Nahmen des Bräutigams  s| Ortschaft s| Sh s| Nahmen der Braut s| Ortschaft s| N.:
+|Zahl |Namen des Bräutigams |Ortschaft|Sh|Namen der Braut|Ortschaft|No:
 
 |10
-|Wittwer Joh: Heinrich +
-  Krückeberg Leibzüchter
+|Wittwer Joh: Heinrich Krückeberg Leibzüchter
 |Berenb[usch]
 |10
 |Phillippine Doroth: Beucken +
-   von ihm vor einigen Jahren [?]
+   von ihm vor einigen Jahren [geschwächt?]
 |Meinsen
 |Einliegerin
 |===
 
 [caption="Translation: "]
 .Johann Heinrich Krückeberg Marriage, on 11 April 1802, entry number 10, page 19:
-[%autowidth,frame="none"]
+[%header,%autowidth,frame="none"]
 |===
-7+l|18                Marriages in the Years 1801,1802 
- s| Num  s| Name of Groom  s| Village  s| [uncertain?]  s|Name of Bride  s| Village  s| N.:
+|Num |Name of Groom |Village| [uncertain?] |Name of Bride | Village | N.:
 
 |10
 |Widower Joh[ann] Heinrich +
@@ -92,6 +96,9 @@ s| Zahl s| Nahmen des Bräutigams  s| Ortschaft s| Sh s| Nahmen der Braut s| Ort
 [bibliography]
 == Citations
 
-* [[[PET-M-1802b]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/670cfbbaf6/ : 22 September 2023),
-path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
-Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 12 of 357
+* [[[PET-M-1802b]]] "Archion Protestant Kirchenbücher Portal", database
+with images, _Archion_ (http://www.archion.de/p/670cfbbaf6/ : 22
+September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv >
+Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe >
+Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und
+Gestorbenen 1785-1827 > Image 12 of 357
