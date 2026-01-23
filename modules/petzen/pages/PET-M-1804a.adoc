@@ -9,27 +9,45 @@ Lauen is found on <<PET-M-1804a,image 13, page 20, entry 3,>> of the Petzen
 Kirchenbuch volume "Verzeichnis der Getauften, Konfirmierten, Getrauten und
 Gestorbenen 1785-1827".
 
+== Image
+
 image::petzen-band2-img13-heading.jpg[align=left,title="Page Header for Fridrich Wilhelm Weyland Marriage",link=self]
 
 image::petzen-band2-img13.jpg[align=left,title="Entry for Fridrich Wilhelm Weyland Marriage",link=self]
 
+== Transliteration and Translation
+
 [caption="Transliteration: "]
 .Marriage entry 3
-[%autowidth,frame="none"]
+[%header,%autowidth,frame="none"]
 |===
-7+l|20                            getraute im Jahre 1803.1804
+|Zahl|Name des Bräutigums|Ort|N|Name des Brauts|Ort|N
 
 |3
 |Jggs: Fridr: Wilhelm +
 Weyland
 |Petzen
 |2
-|Caroline Louise Lauen, [???] [ist] +
-  [uncertain]
+|Caroline Louise Lauen, von ihm geschwächt
 |Röcke
 |18
 |===
 
+[caption="Translation: "]
+.Marriage entry 3
+[%header,%autowidth,frame="none"]
+|===
+|Num.|Name of the groom|Place|Num|Name of Bride|Place|Num
+
+|3
+|Bachelor Fridr: Wilhelm +
+Weyland
+|Petzen
+|2
+|Caroline Louise Lauen,who had had premarital relations with him
+|Röcke
+|18
+|===
 
 [bibliography]
 == Citations
