@@ -1,31 +1,26 @@
 = 1815 Heinrich Wilhelm Weiland Baptism
 :page-role: wide
 
+[.narrow]
 == FamilySearch Tree Entry
 
 link:https://www.familysearch.org/en/tree/person/details/GSW7-L4K[GSW7-L4K].
 
+[.narrow]
 == Citation
 
 The birth and baptism of Heinrich Wilhelm Weiland is entry 37 on <<PET-B-1815b,
 image 137, pages 266-267>> of Petzen Kichenbuch volume "Verzeichnis der
 Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
-== Pages 266 and 267
+Immediately after entry 31 for Caroline Dorothee Krückeberg is the entry
+for a Weiland baptism.
 
-Immediately after entry 31 for Caroline Dorothee Krückeberg is the entry for a Weiland baptism.
-
-[literal.bordered,subs="verbatim,quotes"]
-....
-266         Geboren im Kirchspiele Petzen                               im Jahr 1815                            267
-....
-
-[literal.bordered,subs="verbatim,quotes"]
-....
-266         Births in the Parish of Petzen                              in the Year 1815                        267
-....
+== Images of Pages 266 and 267
 
 image::petzen-band2-img137.jpg[title="Heinrich Wilhelm Weiland entry 37 (Click to enlarge)",link=self]
+
+== Transliteration and Translation
 
 NOTE: See discussion of **Einlieger/Einlinger** at xref:petzen:PET-B-1803b.adoc[Image 82].
 
@@ -105,7 +100,6 @@ in Evesen
 |Johann Henrich Sieckmann +
 farm laborer in Bärenbusch
 |===
-
 
 
 [bibliography]
