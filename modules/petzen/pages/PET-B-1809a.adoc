@@ -9,31 +9,19 @@ The birth and baptism of Wilhelmine Leonore Weiland is on <<image108, image 108,
 
 image::petzen-band2-img108.jpg[title="Wilhelmine Leonore Weiland  pp. 210-211 (Click to enlarge)",link=self]
 
-[caption="Transliteration and Translation: "]
+[caption="Transliteration: "]
 .Wilhelmine Leonore Weiland
-[cols="1m,3m,2m,3m,3m,3m,3m,2m,3m",options="noheader",frame="none"]
+[cols="1m,3m,2m,3m,3m,3m,3m,2m,3m",options="header",frame="none"]
 |===
-9+l|224         Geboren im Kirchspiele Petzen (Births in the Parish of Petzen)                      im Jahr 1809                            225
-
-s|Zahl s|Name des Kindes s|Zahl s|Geburtzeit +
-u. Geburtsort s|Taufzeit +
+|Zahl|Name des Kindes|Zahl|Geburtzeit +
+u. Geburtsort|Taufzeit +
 u. +
-Taufort s|Name, Stand Religion +
-u. Geburts ort des Vaters s|Name, Religion +
+Taufort|Name, Stand Religion +
+u. Geburts ort des Vaters|Name, Religion +
 u. Geburtsort der +
-Mutter s|Wohnort + 
+Mutter|Wohnort + 
 der +
-Eltern s|Taufzeugen
-
-s|Number s|Child's Name s|Number s|Birth time +
-and Place s|Baptism Time +
-and +
-Place s|Name, Job, Religion +
-and Birth place of Father s|Name, Religion +
-and Birth Place of +
-Mother s|Residence + 
-of +
-Parents s|Baptism Witnesses
+Eltern|Taufzeugen
 
 |34.
 |Wilhelmine Leonore Weilands +
@@ -59,6 +47,21 @@ in Röcke
 |Sophie LEonore +
 Hohts aus n. 1 in +
 Röcke
+|===
+
+[caption="Translation: "]
+.Wilhelmine Leonore Weiland
+[cols="1m,3m,2m,3m,3m,3m,3m,2m,3m",options="header",frame="none"]
+|===
+|Number|Child's Name|Number|Birth time +
+and Place|Baptism Time +
+and +
+Place|Name, Job, Religion +
+and Birth place of Father|Name, Religion +
+and Birth Place of +
+Mother|Residence + 
+of +
+Parents|Baptism Witnesses
 
 |34.
 |Wilhelmine Leonore Weilands +
