@@ -1,8 +1,10 @@
 = Other Bückeburg Prospective Documents
 
-These are from the link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894569[L2
+Of all these documents from link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894569[L2
 Alte Regierungsregistratur] under the section *Landesvermessung und
-Statistik*.
+Statistik*, one is the *single best "`needle-finder`" source*. The best prospective one to
+investigate is *NLA BU, L 2, L Nr. 27/54* _Spezialvermessung der Dörfer
+Evesen, Berenbusch und Nordholz (1734–1742)_
 
 .Landesvermessung und Statistik
 |===
@@ -279,13 +281,8 @@ Generallandesvisitation.
 |1786-1786     
 |===
 
-
-== 1. The *single best "`needle-finder`" source*
-
 In those documents in the table above, the best prospective one to
 investigate is *NLA BU, L 2, L Nr. 27/54* _Spezialvermessung der Dörfer
-Evesen, Berenbusch und Nordholz (1734–1742)_
-
 This is the *only item in your list* that:
 
 * Covers *Berenbusch specifically*
@@ -301,7 +298,6 @@ So in terms of _direct, decisive evidence_ for *who held No. 10 and
 when*:
 
 ➡️ *Yes — this is the one with the highest payoff.*
-
 
 == 2. The *supporting / confirmatory sources*
 
@@ -327,7 +323,6 @@ But it’s broader and less detailed than the Spezialvermessung.
 know.
 
 This anchors the *latest possible date* for Krückeberg’s tenure.
-
 
 == 3. Why most of the others won’t help
 
