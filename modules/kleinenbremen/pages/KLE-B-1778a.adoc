@@ -1,0 +1,54 @@
+= 1808 Caroline Sophie Weiland Baptism
+:page-role: wide
+
+[.narrow]
+== Citation
+
+The birth of Catharine Elisabeth Drinkuht is on <<KLE-B-1778a, image 62,
+pages 192-193>> of the Kleinenbremen parish volume "Trauungen 1763-1807,
+Taufen 1763-1807, Beerdigungen 1763-1807, Konfirmationen 1763-1803 Band 2".
+
+== Image, Transliteration and Translation
+
+image::kleinenbremen-11-aug-1778.jpg[title="Baptism of Catharine Elisabeth Drinkuht in 1778 (Click to enlarge)",link=self]
+
+== Transliteration and Translation
+
+[%header,cols="1,3,6,6,6"]
+|===
+|Zahl|Geburtstag|Nahme des Eltern|der Kindes|Gevattern
+
+|26
+|d. 11t. August
+|Johann Henrich Drinkuth Niederhahne
+|Catharina Elisabet
+|Elsa Margretha Harting
+
+Diekmann[sche?] zu Ha[nna]
+|===
+
+[%header,cols="1,3,6,6,6"]
+|===
+|Num|Birthday|Name of Parents|of Child|Sponsors
+
+|26
+|11th. August
+|Johann Henrich Drinkuth Niederhahne
+|Catharina Elisabet
+|Elsa Margretha Harting
+
+Diekmann[sche?] zu Ha[nna]
+|===
+
+
+[bibliography]
+== Citations
+
+* [[[KLE-B-1778a]]] "Archion Protestant Kirchenbücher Portal", database
+with images, _Archion_ (https://www.archion.de/p/fe6af9f457/ : 25 Jan. 2025),
+path: Nordrhein-Westfalen > Landeskirchliches Archiv der Evangelischen
+Kirche von Westfalen > Kirchenkreis Minden > Kleinenbremen > Trauungen
+1763-1807, Taufen 1763-1807, Beerdigungen 1763-1807, Konfirmationen
+1763-1803 Band 2 >
+Image 62 of 215 
+

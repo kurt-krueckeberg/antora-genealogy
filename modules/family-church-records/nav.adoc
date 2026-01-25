@@ -50,6 +50,8 @@
 ** xref:windheim:WIND-B-1831a.adoc[]
 ** xref:windheim:WIND-B-1833a.adoc[]
 ** xref:windheim:WIND-B-1836a.adoc[]
+* Drinkuth
+** xref:kleinenbremen:KLE-B-1778a.adoc[]
 * Eggerding
 ** xref:petzen:PET-M-1704a.adoc[]
 * Kleinschmidt
