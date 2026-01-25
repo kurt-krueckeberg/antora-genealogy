@@ -1,5 +1,10 @@
 = TODO
 
+== Reason to a Contradiction
+
+"my relatives who are doing well.." implies a common ancestor. Suppose it
+is not JHK marriedin 1727...
+
 == Read
 
 https://www.kirchner-raddestorf.de/heimat/regional/sozges.htm

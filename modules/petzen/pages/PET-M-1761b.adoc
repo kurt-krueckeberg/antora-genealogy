@@ -1,0 +1,57 @@
+= 1761 Friedrich Wilhelm Weiland Marriage
+:page-role: wide
+
+== Family Relationship 
+
+.June 28, 1761, Marriage Information
+[%header,width="65%",cols="1,3,2,3"]
+|===
+||Name|Marriage +
+Date|Locality (at time
+of marriage)
+
+|*Groom*|Friedrich Wilhelm Weiland |June 28, 1761|Ephesen (= Evesen)
+
+|*Bride*|Anna Ilsabei Deierberg|June 28, 1761|Ephesen (= Evesen)
+|===
+
+[.narrow]
+== Citation
+
+The June 28, 1761, marriage of Friedrich Wilhelm Weiland to Anna Ilsabei
+Deierberg on <<PET-M-1761b, image 52>>, the bottom of theright-hand page, of the
+Petzen " Verzeichnis der Getrauten und Gestorbenen 1641-1784".
+
+== Image of Marriage Record
+
+image::petzen-band1b-img52-weiland.jpg[title="Friedrich Wilhelm Weiland(Click to enlarge)",link=self]
+
+[.narrow]
+== Transliteration and Translation
+
+.Transliteration
+[literal.bordered,subs="verbatim,quotes"]
+....
+d. 28ten Juni Friedrich Wilhelm Weiland aus Ephesen [Evesen] 
+   bei der Sandkuhle mit Anna Ilsabei Deierbergs
+     aus Ephesen [Evesen]
+....
+
+.Translation
+[literal.bordered,subs="verbatim,quotes"]
+.... 
+the 28th June Friedrich Wilhelm Weiland from [Evesen] 
+   by the sand hallow[pit] with Anna Ilsabei Deierbergs
+     from [Evesen]
+....
+
+
+[bibliography]
+== Citations
+
+* [[[PET-M-1761b]]] "Archion Protestant Kirchenbücher Portal", database
+with images, _Archion_ (https://www.archion.de/p/19a89943e7/ : 24  Jan.
+2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
+der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 52 of 239
+

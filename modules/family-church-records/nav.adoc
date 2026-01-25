@@ -144,6 +144,7 @@
 ** xref:petzen:PET-B-1754a.adoc[]
 ** xref:petzen:PET-B-1754b.adoc[]
 ** xref:petzen:PET-B-1758a.adoc[]
+** xref:petzen:PET-M-1761b.adoc[]
 ** xref:petzen:PET-B-1777a.adoc[]
 ** xref:petzen:PET-B-1778a.adoc#stillborn-son-of-johann-christian-weiland-1778[1778 Stillborn son of Johann Christian Weiland Birth]
 ** xref:petzen:PET-B-1778c.adoc[]
