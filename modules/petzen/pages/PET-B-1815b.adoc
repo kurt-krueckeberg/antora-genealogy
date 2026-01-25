@@ -15,14 +15,15 @@ Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
 Immediately after entry 31 for Caroline Dorothee Krückeberg is the entry for a Weiland baptism.
 
-[caption="Transliteration: "]
-.Pages 266-267 Header
-[cols="l",frame="none",options="noheader"]
-|===
-|266         Geboren im Kirchspiele Petzen                               im Jahr 1815                            267
+[literal.bordered,subs="verbatim,quotes"]
+....
+266         Geboren im Kirchspiele Petzen                               im Jahr 1815                            267
+....
 
-|266         Births in the Parish of Petzen                              in the Year 1815                        267
-|===
+[literal.bordered,subs="verbatim,quotes"]
+....
+266         Births in the Parish of Petzen                              in the Year 1815                        267
+....
 
 image::petzen-band2-img137.jpg[title="Heinrich Wilhelm Weiland entry 37 (Click to enlarge)",link=self]
 
