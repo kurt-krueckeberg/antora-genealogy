@@ -14,6 +14,7 @@
 
 The baptism of Sophia Maria Krückeberg occurred on December 27^th^ 1741. 
 
+[.narrow]
 == Citation
 
 The baptism entry is found on <<PET-B-1741a, image 163>>. It is the third to last entry near the bottom
@@ -22,13 +23,15 @@ of the left-hand page (the pages are unnumbered). It is the last entry in Decemb
 
 == Baptism Record
 
-NOTE: The text is difficult to be certain of. *von der Fr. Verwalterin Gaden zur Hökersau getaufft* 
-(Baptized by Mrs. Gaden, the steward’s wife at Hökersau) represents the best educated guess.
-
 image::petzen-band1a-img163.jpg[title="Sophia Maria Krückeberg (Click to enlarge)",link=self]
 
 [.narrow]
 == Transliteration and Translation
+
+NOTE: The text is difficult to be certain of. *von der Fr. Verwalterin
+Gaden zur Hökersau getaufft* (Baptized by Mrs. Gaden, the steward’s wife at
+Hökersau) represents the best educated guess.
+
 
 .Transliteration 
 [literal.bordered,subs="verbatim,quotes"]
