@@ -4,9 +4,9 @@
 [.narrow]
 == Citation
 
-The 15 October 1704 marriage of Johann Tönnis Eggerding to Anna Maria
-Vahlsing is on <<image36, image 36>>, the right-hand page, of the Petzen "
-Verzeichnis der Getrauten und Gestorbenen 1641-1784".
+The 15 October 1704 marriage of Johann Tönnis Eggerding to Anna Catharina
+Eberding is on <<image27, image 27>>, the right-hand page, of the Petzen
+"Verzeichnis der Getrauten und Gestorbenen 1641-1784".
 
 == Image
 
@@ -28,3 +28,13 @@ Eberdings aus Petzen den 15. ten 8br. copuliret
 Johann Tönnies Eggerding from D[e]k[h][?][ſ/f] and M. Anna Catharina
 Eberdings from Petzen married the 15ten October. 
 ....
+
+
+[bibliography]
+== Citations
+
+* [[[image27]]] "Archion Protestant Kirchenbücher Portal", database with
+images, _Archion_ (https://www.archion.de/p/e7c4ca518f/: 26 Jan. 2026),
+path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der
+Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 27 of 239
