@@ -1,9 +1,15 @@
 = TODO
 
-== Reason to a Contradiction
+== Merge m/research/p files
 
-"my relatives who are doing well.." implies a common ancestor. Suppose it
-is not JHK marriedin 1727...
+Merge these two files into one:
+
+* xref:research:next-bueckeburg-research-step.adoc[]
+* xref:research:other-prosp-next-step-docs.adoc[]
+
+== Rewrite m/research/bueckeburg-further-research.adoc
+
+So it is to the point.
 
 == Read
 
@@ -46,6 +52,7 @@ which are  from the *Survey of the Villages of Evesen, Berenbusch, and Nordholz*
 See 
 file:///home/kurt/backup_folder/bueckeburg_moehle_research/GrosFichiers-Sylvia-Möhle/Krueckeberg/NLA%20BU%20L%202%20L%20Nr.%202713[NLA
 BU L 2 L Nr. 27/13].
+
 == Add to Johann Heinrich (1705-175) Event Table
 
 Add these facts:
