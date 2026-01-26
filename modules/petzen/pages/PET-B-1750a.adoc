@@ -19,7 +19,7 @@
 |Fahlsing's son from Evesen
 |===
 
-NOTE: Is this xref:petzen:PET-M-1728a.aodc[Arend Heinrich Vahlsing's] (1670-1730) son Jobst Heinrich
+NOTE: Is this xref:petzen:PET-M-1728a.adoc[Arend Heinrich Vahlsing's] (1670-1730) son Jobst Heinrich
 Vahlsing?
 
 [.narrow]
