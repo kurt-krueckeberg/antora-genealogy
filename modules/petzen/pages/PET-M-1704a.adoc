@@ -1,5 +1,12 @@
-= 1707 Johann Tönnis Eggerding Marriage
+= 1704 Johann Tönnis Eggerding Marriage
 :page-role: wide
+
+[.narrow]
+== Citation
+
+The 15 October 1704 marriage of Johann Tönnis Eggerding to Anna Maria
+Vahlsing is on <<image36, image 36>>, the right-hand page, of the Petzen "
+Verzeichnis der Getrauten und Gestorbenen 1641-1784".
 
 == Image
 
