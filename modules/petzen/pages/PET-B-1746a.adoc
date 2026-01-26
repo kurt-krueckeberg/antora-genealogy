@@ -26,6 +26,7 @@ Sophie Marie Krückeberg xref:PET-B-1741a.adoc[born in 1741], whose xref:PET-D-1
 states she was also born blind.
 ====
 
+[.narrow]
 == Citation
 
 The baptism appears on <<PET-B-1746a, image 174>> at the bottom of the left-hand
