@@ -6,6 +6,8 @@
 * And/or merge xref:ancestry:further-bueckeburg-documents.adoc[] with the
 documents mentioned in xref:ancestry:who-is-the-father-of-jobst-heinrich.adoc[]
 
+NOTE: BE SURE to add xref evidentary links to xref:ancestry:who-is-the-father-of-jobst-heinrich.adoc[].
+
 == Merge m/research/p files
 
 Merge these two files into one:
