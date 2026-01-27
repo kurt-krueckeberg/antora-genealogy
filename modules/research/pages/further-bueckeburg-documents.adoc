@@ -198,3 +198,200 @@ That is *sound historical reasoning*, not overreach.
 * A *targeted archival query* focused on pre-1740 Brinksitzer occupancy
 
 Just tell me which one you want to tackle next.
+That’s actually a *very strong position to be in*, even without
+immediate on-site access. Given what you _do_ have and the temporary
+constraint (no researcher until March), the most productive thing now is
+to *squeeze everything possible out of the 1728–1750 baptism corpus
+you’ve already extracted*, and to prepare *very targeted instructions*
+for the next archival visit.
+
+Below is a *concrete, staged strategy* you can execute _now_, followed
+by what to queue up for March.
+
+'''''
+
+== PART I — What you can do _now_ (with what you already have)
+
+=== 1. Turn the baptism set into a *residence-continuity test*
+
+You already extracted _all_ Krückeberg baptisms from *1728–1750*. Now
+use them *not individually*, but *relationally*.
+
+Create a table like this (even rough notes will do):
+
+[cols=",,,",options="header",]
+|===
+|Child |Year |Sponsors |Sponsor residence / descriptor
+|Johann Friedrich |1728 |Eggerding |(Berenbusch?)
+|… |… |… |…
+|===
+
+What you are looking for is *pattern*, not proof-by-one-record.
+
+==== Interpretive rules (important)
+
+* *Repeated sponsors from Berenbusch* → stable local residence
+* *Same sponsor across decades* → neighborhood continuity
+* *Sponsors later tied to Nr. 10 area (1743–45)* → spatial continuity
+* *No sponsors from Evesen after marriage* → he did _not_ move
+back/forth
+
+If Eggerding appears *early*, and later sponsors are other Berenbusch
+Brinksitzer or known smallholders, that strongly supports *continuous
+residence at the same Brinksitzer site*.
+
+This is one of the _only_ reliable pre-numbering methods.
+
+'''''
+
+=== 2. Re-evaluate the 1727 marriage record with stricter questions
+
+Go back to the *1727 marriage entry* and ask:
+
+* Does it say *"`aus Berenbusch`"* or *"`zu Berenbusch`"*?
+* Is any occupation listed (Schneider)?
+* Is there _any_ modifier that suggests temporary residence?
+
+If it says _aus Berenbusch_ without qualification, that already implies
+*established residence*, not recent arrival.
+
+Even if it does *not* say Nr. 10, it still anchors him *in the village*
+before succession.
+
+'''''
+
+=== 3. Accept (and document) why you will _not_ find "`Nr. 10`" before ca. 1740
+
+This is important for your own sanity and for future readers of your
+work.
+
+You should explicitly note (in your research notes):
+
+* House numbers were *not stable identifiers* before mid-18th century
+* Brinksitzer places were:
+** unnamed
+** unnumbered
+** often identified only later retroactively
+* Therefore:
++
+____
+Absence of "`Nr. 10`" in 1720s–1730s records is expected and meaningless
+____
+
+This is not a failure of research — it is a *feature of the source
+base*.
+
+'''''
+
+=== 4. Provisional but defensible conclusion you can already make
+
+You are already justified in writing (with appropriate wording):
+
+____
+Johann Heinrich Krückeberg was resident in Berenbusch by 1727 and
+maintained continuous residence there through at least 1750. He became
+the recognized Brinksitzer of the holding later designated as Stätte Nr.
+10 by 1743–44. Given the continuity of residence, social ties to prior
+holders, and the nature of Brinksitzer tenure, it is highly probable
+that his residence at that site predates his formal recognition as
+holder.
+____
+
+That wording is *careful, honest, and professional*.
+
+'''''
+
+== PART II — What to prepare _now_ for the March archival visit
+
+This is where you gain leverage.
+
+=== 5. Prepare *one-page marching orders* for the researcher
+
+When your researcher is available again, do _not_ ask them to "`look
+around`".
+
+Give them *three laser-focused tasks*.
+
+==== Task 1 — Spezialvermessung (1734–1742)
+
+Ask them to check:
+
+* Berenbusch section
+* The entry corresponding to *later Nr. 10*
+* Note:
+** name(s)
+** corrections
+** marginal notes
+** ordering of houses
+
+*This is priority #1.*
+
+==== Task 2 — Are _any_ Brinksitzer listed in 1737?
+
+Ask explicitly:
+
+____
+Does the 1737 Haus- und Hofbesitzer list include _any_ Brinksitzer in
+Berenbusch, or only full Höfe?
+____
+
+This determines whether absence has probative value (likely it does
+not).
+
+==== Task 3 — Earliest tax or contribution list that names Krückeberg
+
+Ask them to find:
+
+* First appearance of *Johann Heinrich Krückeberg* as payer
+* For _any_ dues (even small ones)
+* Especially in:
+** Kontributionsregister
+** Viehschatz
+** Burgfesten
+
+This can sometimes give a *year-specific terminus*.
+
+'''''
+
+=== 6. What _not_ to spend more effort on
+
+Given your goals, deprioritize:
+
+* Trying to prove Eggerding–Kuhlmann–Krückeberg by baptisms alone
+* FamilySearch trees without primary sourcing
+* Expecting clarity from faded 1690–1719 baptisms
+
+Those won’t move the needle further.
+
+'''''
+
+== PART III — Big picture (this matters)
+
+What you are doing now is *micro-topographical family history*, not
+name-collecting genealogy.
+
+You have already achieved something substantial:
+
+* Identified a Brinksitzer holding
+* Reconstructed its succession chain
+* Explained record absences correctly
+* Traced continuity until emigration (1849)
+* Distinguished _residence_, _tenure_, and _formal recognition_
+
+That is *professional-level rural historical reconstruction*.
+
+'''''
+
+== If you want next
+
+I can help you:
+
+* Draft the *exact written instructions* to send your researcher in
+March
+* Create a *model proof argument* separating fact, inference,
+probability
+* Build a *succession/residence timeline* for Nr. 10
+* Help you write a short *methodology note* explaining why Nr. 10 cannot
+appear in 1720s church records
+
+Just tell me which you want to tackle next.
