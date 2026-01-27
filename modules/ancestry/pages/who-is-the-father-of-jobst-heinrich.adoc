@@ -1,0 +1,112 @@
+= Who is Jobst Heinrich (1765-1822) 's Father
+
+
+== Who is Jobst Heinrich's Father
+Is Johan Heinrich Krückeberg, who was born on
+xref:petzen:PET-B-1744a.adoc[Janyary, 19, 1744], the father of the Jobst
+Heinrich Krückeberg who was born on xref:petzen:PET-B-1765a.adoc[March 24,
+1765]. The birth record of Jobst Heinrich states his father is *Johan
+Heinrich*. The birth record does not mention the locality where he was
+born. Berenbusch is not mentioned (except as the locality of the baptismal
+sponsor Weiland).
+
+== Background
+
+We know that someone named Johann Heinrich Krückeberg was a Brinksitzer of
+no., 10 Berenbusch by 1743-1744. That someone with this same name died
+there in 1822 at age 78 and 3 months or 3 weeks. That someone named Johann
+Heinrich Krückeberg, who married in 1802, and lived at no. 10 Berenbusch,
+is also described as a Leibzüchter. I know that an individual named Jobst
+Heinrich Krückeberg was born in 1765 to a Johann Heinrich Krückeberg. The
+village is not given in the birth record nor its number. I do know that
+when Jobst Heinrich Krückeberg married in 1790, his residence is given as
+"no. 10 Berenbusch".  This is the residence given in the baptism records of
+all four of his children as where they were born. His first child was born
+1 Feb. 1792, and his last child was born 17 Aug. 1806, who was his only
+son. Jobst Heinrich Krückeberg (1765-1822) had one son and  three
+daughters. We know  that on 29 May 1798  he petitioned the Rentkammer to
+enlarge his "Hofraum und Garten", because in the Rentkammer case file he is
+referred to as "Colon of no. 10 Berenbusch" by his full name of Jobst
+Heinrich Krückeberg. I am looking for specific documents to prove since he
+was the Colon of no 10 Berenbusch in 1798 that Johann Heinrich was his
+father, who we know by 1802 is a Leibzüchter at this address.
+
+== Goal
+
+We want *documentary proof* that:
+
+____
+Johann Heinrich Krückeberg (Leibzüchter by 1802, d. 1822) was the
+*previous holder* of *Stätte Nr. 10 Berenbusch*, and thus the *father
+and predecessor* of Jobst Heinrich Krückeberg (Colon Nr. 10 by 1798).
+____
+
+== The _specific_ documents that can prove this
+
+=== 1. *Ausweisung / Übergabeakte for Stätte Nr. 10 Berenbusch*
+
+This is the *best and most direct proof*.
+
+What it would show (explicitly or implicitly):
+
+* Johann Heinrich Krückeberg as *outgoing holder*
+* Jobst Heinrich Krückeberg as *incoming Colon*
+* Retention of *Leibzucht* by Johann Heinrich
+
+If this exists, it settles the question outright.
+
+
+=== 2. *Rentkammer files on Jobst Heinrich’s 1798 petition*
+
+You already have one such file.
+
+What to look for _inside the same case or related correspondence_:
+
+* Any reference to *"`sein Vater`"*
+* Any note that the Stätte was *recently übernommen*
+* Any mention of *Altenteil / Leibzucht* obligations
+
+These files often *presuppose* the prior Übergabe without reprinting it.
+
+
+=== 3. *Lasten- / Abgabenverzeichnisse tied to Nr. 10*
+
+Look for entries like:
+
+* payments *from Nr. 10* _to_ Johann Heinrich Krückeberg
+* wording such as _Altenteiler_, _Leibzüchter_, _alter Colon_
+
+This proves:
+
+* Johann Heinrich is *no longer Colon*
+* his support is a *charge on the same Stätte*
+
+
+=== 4. *Church records alone are insufficient*
+
+But their *combined pattern* is evidentiary:
+
+* Johann Heinrich = Brinksitzer Nr. 10 by 1743/44
+* Jobst Heinrich = resident Nr. 10 by marriage (1790)
+* Jobst Heinrich = Colon Nr. 10 by 1798
+* Johann Heinrich = Leibzüchter at Nr. 10 by 1802
+
+This is *exactly the canonical father → son succession pattern*. What’s
+missing is *one Rentkammer document* to formalize it.
+
+
+== Bottom line (very short)
+
+To _prove_ Johann Heinrich was the holder before Jobst Heinrich, you
+need *one* of the following tied to *Nr. 10 Berenbusch*:
+
+[arabic]
+. *Ausweisung / Übergabe* (best)
+. *Rentkammer ruling* referencing the father
+. *Abgaben/Lasten entry* showing Leibzucht payments
+
+Everything else you already have is *consistent but circumstantial*.
+
+If you want, next step I can tell you *which NLA Bückeburg series and
+shelfmarks* are _most likely_ to contain the Ausweisung for Nr. 10 — in
+*two or three lines only*.
