@@ -2,8 +2,9 @@
 
 == Add Further Research Strategy
 
-Rework and add to navitaion:
-~/gen/m/research/p/further-bueckeburg-documents.adoc
+* Add to the m/ancestry/nav.adoc, if not present, ~/gen/m/research/p/further-bueckeburg-documents.adoc
+* And/or merge xref:ancestry:further-bueckeburg-documents.adoc[] with the
+documents mentioned in xref:ancestry:who-is-the-father-of-jobst-heinrich.adoc[]
 
 == Merge m/research/p files
 
