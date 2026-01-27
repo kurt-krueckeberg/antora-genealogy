@@ -43,8 +43,10 @@ A man styled *Leibzüchter* in 1802 and again at death in 1822:
 
 * Must previously have been *holder of a Stätte*
 * Must have *transferred that Stätte to a successor*
-* Must have done so *within his immediate family*, almost always to a
-son
+* Must have done so *within his immediate family*, almost always to a son
+
+NOTE: The above three points are not all three unequivocally true at the
+same time.
 
 In your case:
 
