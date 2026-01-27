@@ -54,6 +54,8 @@
 ** xref:kleinenbremen:KLE-B-1778a.adoc[]
 * Eggerding
 ** xref:petzen:PET-M-1704a.adoc[]
+* Kuhlmann
+** xref:petzen:PET-B-1678a.adoc[]
 * Kleinschmidt
 ** xref:buchholz:BUC-B-1804a.adoc[]
 * xref:krückeberg.adoc[]

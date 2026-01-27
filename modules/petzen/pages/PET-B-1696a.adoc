@@ -1,12 +1,12 @@
 = 1696 Hans Otto Kuckeberg/Krickeberg/Kruckeberg Baptism
 :page-role: wide
 
+[.narrow]
 == Citation
 
-The baptism of Hans Otto is on <<PET-B-1696a, image 89>>, right-hand page, 2^nd^ entry from the "Register of
-Baptism and Confirmed of the Petzen Parish, 1641-1784".
-
-This is the enhanced image of his baptism record:
+The baptism of Hans Otto is on <<PET-B-1696a, image 89>>, right-hand page,
+2^nd^ entry from the "Register of Baptism and Confirmed of the Petzen
+Parish, 1641-1784".
 
 == Image of Baptism Record
 

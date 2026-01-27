@@ -1,0 +1,42 @@
+= 1679 Johann Tönnis Kuhlmann Baptism
+:page-role: wide
+
+[.narrow]
+== Citation
+
+The baptism of is Johann Tönnis Kuhlmann is on <<PET-B-1679a, image 58>>,
+right-hand page, from the Petzen "Register of Baptism and Confirmed of the
+Petzen Parish, 1641-1784".
+
+== Image
+
+image::petzen-band1a-img58.png[title=Johann Tönnis Kuhlman Baptism(Click to Enlarge),link=self]
+
+[.narrow]
+== Transliteration and Translation
+
+.Transliteration
+[literal.bordered,subs="verbatim,quotes"]
+....
+Cuhman [?????], Sohn, Johann Tonnis, getauft, den 30 April
+Gefattern, Tonnis Jäger, Hi[nrig] Vogt zu Namnen, [?] der [Müller]
+zu Nammen
+....
+
+NOTE: **Elsbeÿ** may be an form of Elsbeth or Elisabeth.
+
+.Translation
+[literal.bordered,subs="verbatim,quotes"]
+....
+Cuhman [?????], son, Johann Tonnis, baptized, on the 30 April
+Baptism Sponsors, Tonnis Jäger, Hi[nrig] Vogt at Namnen, [?] the miller
+at Nammen.
+....
+
+
+[bibliography]
+== Citations
+
+* [[[PET-B-1679a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/7a8b7e3792/ : 2 May 2025),
+path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784,
+image 58 of 322, right hand page
