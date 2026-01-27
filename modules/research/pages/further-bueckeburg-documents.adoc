@@ -1,0 +1,200 @@
+= Further Research Strategy
+
+You are asking exactly the _right_ question now, and you are also
+correct about the *limitations of baptism records* for proving residence
+at a specific house number that early. The strategy therefore has to
+shift away from _expecting_ "`Nr. 10`" in Kirchenbuch entries and toward
+*triangulating residence indirectly*, using records that _do_ encode
+continuity of place.
+
+Below is a *methodologically sound, step-by-step strategy* tailored to
+your situation.
+
+
+== 1. First: reset expectations about Kirchenbuch evidence
+
+=== Why baptisms won’t reliably solve this
+
+Before ca. *1740–1750*, Petzen parish records:
+
+* Rarely give *house numbers*
+* Often give only:
+** village name (_zu Berenbusch_)
+** occupation
+* Are often *faded* and *inconsistent*
+* Do *not* distinguish between different Brinksitzer houses
+
+So you are right:
+
+____
+Even if you find Eggerding or Kuhlmann baptisms, they may say only
+"`Berenbusch`" — which does _not_ prove Nr. 10.
+____
+
+Therefore, baptism records alone *cannot answer* your question.
+
+
+== 2. Reframe the core question precisely
+
+What you really want to know is:
+
+____
+Was Johann Heinrich Krückeberg already *resident at the same Brinksitzer
+place* (later Nr. 10) when he married in 1727, even if he was not yet
+the recognized holder?
+____
+
+That is a *residence continuity question*, not a legal ownership
+question.
+
+
+== 3. The strongest strategy: work _backward_ from fixed points
+
+You already have *three immovable anchors*:
+
+[arabic]
+. *1743–44*: Johann Heinrich is holder of Nr. 10
+. *1745*: Same confirmed by Vermessung
+. *1747*: Succession Eggerding → Krückeberg recorded
+
+So the task is to determine whether *his residence predates his formal
+recognition*.
+
+This is common for Brinksitzer.
+
+
+== 4. Key strategy #1: exploit _godparent networks_ (you already started this)
+
+You have one crucial fact:
+
+____
+*Johann Tönnis Eggerding* was baptismal sponsor in *1728* for
+Krückeberg’s son.
+____
+
+This is *strong circumstantial evidence* of:
+
+* Physical proximity
+* Ongoing social relationship
+* Likely neighborhood or household adjacency
+
+=== What to do next
+
+Do _not_ stop at one baptism.
+
+Systematically extract:
+
+* All *baptisms 1727–1735* of Krückeberg children
+* List *every sponsor*
+* Identify:
+** repeated names
+** Berenbusch residents
+** later-known Nr. 10 neighbors (from 1743–45)
+
+If *the same small cluster* of Berenbusch names recurs, that strongly
+suggests *stable residence*, not recent arrival.
+
+This is one of the _few_ reliable pre-numbering residence indicators.
+
+
+== 5. Key strategy #2: search for _negative evidence_ in 1737
+
+You already know:
+
+* Krückeberg, Kuhlmann, Eggerding are *absent* from the 1737 Hofbesitzer
+list
+
+But now ask a sharper question:
+
+____
+Are *any* Brinksitzer in Berenbusch listed in 1737?
+____
+
+If the answer is _no_, then:
+
+* Absence proves *nothing about residence*
+* Only that the list excludes Brinksitzer entirely
+
+This supports the idea that Johann Heinrich could have been living at
+the same place *for decades* without appearing.
+
+
+== 6. Key strategy #3: Spezialvermessung (1734–1742) — but read it _structurally_
+
+When you examine that document (you already have the identifier):
+
+Do *not* look only for names.
+
+Also note:
+
+* Order of houses
+* Relative position of Nr. 10
+* Descriptions like:
+** _Brink_
+** _am Wege_
+** _bei der Gemeinheit_
+* Whether the same *plot description* later appears under Krückeberg
+
+If the _plot description_ is stable while the _name changes_, that is
+evidence of *continuous occupation*.
+
+
+== 7. Key strategy #4: look for _craft-based residence stability_
+
+Johann Heinrich is a *Schneider (tailor)*.
+
+Tailors:
+
+* Needed *local clientele*
+* Rarely moved villages once established
+* Often occupied the _same Brinksitzer place_ for decades
+
+So if:
+
+* He marries in 1727 "`aus Berenbusch`"
+* Has children baptized there
+* Is socially linked to Eggerding by 1728
+* Later becomes holder of the same Brinksitzer place
+
+Then the *most economical historical explanation* is:
+
+____
+He was already living at that Brinksitzer site before he formally
+succeeded to it.
+____
+
+This is not speculation — it is *standard rural demographic behavior*.
+
+
+== 8. What _not_ to over-invest in right now
+
+* Trying to prove Eggerding ↔ Kuhlmann ↔ Krückeberg via baptisms alone
+* Expecting house numbers before mid-18th century
+* Relying on FamilySearch trees for this level of resolution
+
+Those can help _context_, but not solve the problem.
+
+
+== 9. What you can say _now_, defensibly
+
+With your current evidence, you can already state:
+
+____
+Johann Heinrich Krückeberg lived in Berenbusch by 1727. He was socially
+connected to the prior holder of Nr. 10 by 1728. He became the
+recognized Brinksitzer of Nr. 10 by 1743–44. It is highly probable that
+his residence at that site *predated his formal recognition*, although
+the exact year cannot be documented from surviving records.
+____
+
+That is *sound historical reasoning*, not overreach.
+
+
+== 10. If you want, next steps I can help with
+
+* A *proof argument paragraph* distinguishing _residence_ from _tenure_
+* A *godparent network table* template for your Antora site
+* A *research note* explaining why Nr. 10 cannot appear in 1720s records
+* A *targeted archival query* focused on pre-1740 Brinksitzer occupancy
+
+Just tell me which one you want to tackle next.

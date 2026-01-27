@@ -1,5 +1,10 @@
 = TODO
 
+== Add Further Research Strategy
+
+Rework and add to navitaion:
+~/gen/m/research/p/further-bueckeburg-documents.adoc
+
 == Merge m/research/p files
 
 Merge these two files into one:
