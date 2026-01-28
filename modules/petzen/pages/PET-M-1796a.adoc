@@ -3,7 +3,7 @@
 
 == Family Relationship Facts
 
-.Family Relationship Facts for August 8, 1796 
+.Family Relationship Facts for May 8, 1796 
 [%header,cols="1,3,2",width="55%"]
 |===
 ||Name|Residence (at time of marriage)
