@@ -17,7 +17,10 @@
 |===
 |Name|Birthdate|Baptism Date|Birth Order
 
-|Johann Heinrich Krückeberg|12 Aug 1806, 4 p.m.|17 Aug 1806|4^th^ child, 1^st^ son
+|Johann Heinrich Krückeberg
+|12 Aug 1806, 4 p.m.
+|17 Aug 1806
+|4^th^ child, 1^st^ son
 |===
 
 .Father Jobst Heinrich Krückeberg Facts
@@ -25,7 +28,10 @@
 |===
 |Name|Birth Place|Occupation|Religion
 
-|Jobst Heinrich Krückeberg|No. 10 Bärenbusch|Schoemaker Guild Master|Lutheran
+|Jobst Heinrich Krückeberg
+|No. 10 Bärenbusch
+|Schoemaker Guild Master
+|Lutheran
 |===
 
 .Mother Christine Phlippine Lenore Tegtmeier Facts
