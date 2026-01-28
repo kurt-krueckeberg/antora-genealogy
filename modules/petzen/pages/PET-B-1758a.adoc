@@ -1,14 +1,18 @@
 = 1758 Jobst Heinrich Weiland Baptism
 :page-role: wide
 
-This is the baptism record of Jobst Heinrich Weiland "Register of Baptism and Confirmed of the Petzen Parish, 1641-1784", image 199.
-
+[.narrow]
 == Citation
 
 The baptism of Jobst Heinrich Weiland is on <<image199, image 199, left page, first entry>> from the  
 "Register of Baptism and Confirmed of the Petzen Parish, 1641-1784"
 
+== Image
+
 image::petzen-band1a-img199.jpg[align=left,title='Jobst Heinrich Weiland, image 199, left page (Click to enlarge)',link=self]
+
+[.narrow]
+== Transliteration and Translation
 
 [caption="Transliteration and Translation: "]
 .1758 Baptism of Jobst Heinrich Weiland
