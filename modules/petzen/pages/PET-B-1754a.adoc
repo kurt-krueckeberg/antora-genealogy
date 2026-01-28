@@ -1,17 +1,24 @@
 = 1754 Anna Maria Weiland Baptism
 :page-role: wide
 
-This is the baptism record of Anna Maria Weiland from the " Verzeichnis der Getauften und Konfirmierten (Register of Baptism and Confirmed
-of the Petzen Parish), 1641-1784". It is found on <<PET-B-1754a, image 190, right hand page>>.
+This is the baptism record of Anna Maria Weiland from the " Verzeichnis der
+Getauften und Konfirmierten (Register of Baptism and Confirmed of the
+Petzen Parish), 1641-1784". It is found on <<PET-B-1754a, image 190, right
+hand page>>.
 
+[.narrow]
 == Citation
 
-The baptism of Anna Maria Weiland is on <<image190, image 190, right hand page>> from the "Verzeichnis der Getauften und Konfirmierten
-(Register of Baptism and Confirmed of the Petzen Parish) 1641-1784".
+The baptism of Anna Maria Weiland is on <<image190, image 190, right hand
+page>> from the "Verzeichnis der Getauften und Konfirmierten (Register of
+Baptism and Confirmed of the Petzen Parish) 1641-1784".
 
-== Image 190 and Its Transliteration and Translation
+== Image 190
 
 image::petzen-band1a-img190-right.jpg[align=left,title='Anna Maria Weiland, image 190, right page (Click to enlarge)',link=self]
+
+[.narrow]
+== Transliteration and Translation
 
 [caption="Transliteration and Translation: "]
 .1754 Baptism of Anna Maria Weiland
@@ -34,4 +41,8 @@ Godmother was Joh. Stedings wife.
 [bibliography]
 == Citations
 
-* [[[PET-B-1754a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (?????? : 5 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 190 of 322
+* [[[PET-B-1754a]]] "Archion Protestant Kirchenbücher Portal", database
+with images, _Archion_ (?????? : 5 November 2023), path: Niedersachsen >
+Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und
+Konfirmierten 1641-1784, image 190 of 322

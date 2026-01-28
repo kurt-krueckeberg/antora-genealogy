@@ -1,7 +1,10 @@
 = 1754 Anna Ilse Margaret Weiland Baptism
 :page-role: wide
 
-This is the baptism record of Jobst Heinrich Weiland "Register of Baptism and Confirmed of the Petzen Parish, 1641-1784", image 199.
+[.narrow]
+== Citation
+
+The baptism of Jobst Heinrich Weiland is on <<image191, image 191, left page, first entry>> from the "Register of Baptism and Confirmed of the Petzen Parish, 1641-1784"
 
 [IMPORTANT]
 .Heinrich Wilhelm Bleeke birth 1754
@@ -9,13 +12,12 @@ This is the baptism record of Jobst Heinrich Weiland "Register of Baptism and Co
 The birth of Heinrich Wilhelm Bleeke from Evesen also appears on this image, on the right hand page (not shown). 
 ====
 
-== Citation
-
-The baptism of Jobst Heinrich Weiland is on <<image191, image 191, left page, first entry>> from the "Register of Baptism and Confirmed of the Petzen Parish, 1641-1784"
-
-The FamilySearch Tree-IDS [??TODO????].
+== Image
 
 image::petzen-band1a-img191-left-1754.jpg[align=left,title='Anna Ilse Margaret Weiland, image 191, left page (Click to enlarge)',link=self]
+
+[.narrow]
+== Transliteration and Translation
 
 [caption="Transliteration and Translation: "]
 .1758 Baptism of Jobst Heinrich Weiland
