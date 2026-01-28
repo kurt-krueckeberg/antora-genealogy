@@ -8,8 +8,13 @@
 |===
 |Child|Father|"Stand"|Mother|Location|Child's Birthdate|Child's Baptism Date
 
-|Sophie Wilhelmine|Jobst Heinrich Krückeberg|Hausherr|Christine Philippine Techtmeÿer +
-from Meinsen|No. 10 Berenbusch|24 Jan 1803|30 Jan 1803
+|Sophie Wilhelmine
+|Jobst Heinrich Krückeberg
+|Hausherr
+|Christine Philippine Techtmeÿer +
+from Meinsen
+|No. 10 Berenbusch
+|24 Jan 1803|30 Jan 1803
 |===
 
 .Baptism Sponsors
@@ -17,7 +22,8 @@ from Meinsen|No. 10 Berenbusch|24 Jan 1803|30 Jan 1803
 |===
 |Name|Location
 
-|Caroline Aldag|n. 4 Evesen
+|Caroline Aldag
+|n. 4 Evesen
 |===
 
 == Citation

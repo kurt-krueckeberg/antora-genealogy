@@ -28,8 +28,26 @@
 [NOTE]
 ====
 Sophie Ernestine Wilharm was the second wife of Hans Heinrich
-Wilharm, with whom xref:nla:146:doc1.adoc[Jobst Heinrich Krückeberg lodged
-at no. 11 Evesen] while working as a tailor. Hans Heinrich Wilharm was a
+Wilharm, with whom a xref:nla:146:doc1.adoc[Jobst Heinrich Krückeberg lodged
+at no. 11 Evesen] while working as a tailor. However, the Jobst Heinrich
+Krückeberg, who mentioned in a petition before the Rentkammer on September
+29, 1808, that he was living as a tenant at the Wilharms in Evesen:
+
+____
+Up to now I have lived as a tenant with Wilharm No. 11
+in Evesen, but I now wish to establish myself independently. 
+____
+
+was, according to a xref:nla:146:doc2.adoc[Report by the Administrative offices of Bückeburg and
+Arensburg], born in Evesen. Their report said:
+
+____
+The tenant Jobst Henrich Krückeberg, as well as his wife, was born
+in Evesen. His father later became Ackervogt (agricultural bailiff) at
+Arensburg...
+____
+
+Hans Heinrich Wilharm was a
 baptismal sponsor of xref:PET-B-1807a.adoc[Carl Friedrich Krückeberg] in
 1807.
 ====
