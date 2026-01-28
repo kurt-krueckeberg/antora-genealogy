@@ -31,6 +31,11 @@ Heinrich Krückeberg. I am looking for specific documents to prove since he
 was the Colon of no 10 Berenbusch in 1798 that Johann Heinrich was his
 father, who we know by 1802 is a Leibzüchter at this address.
 
+== New Issue
+
+We also have a Jobst Heinrich Krückeberg, who along with his wife, was born
+in Evesen. See xref:nla:146:doc2.adoc[].
+
 == Goal
 
 We want *documentary proof* that:

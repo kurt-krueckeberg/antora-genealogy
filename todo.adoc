@@ -1,5 +1,12 @@
 = TODO
 
+== Jobst Heinrich Krückeberg
+
+How could the Jobst Heinrich Krückeberg who petitioned the Rentkammer on 29
+September 1808 have been born along with his wife in Evesen, if he is the
+Jobst Heinrich Krückeberg who was born in 1765 to "Johann Heinrich
+Krückeberg aus Berenbusch".
+
 == Add Further Research Strategy
 
 * Add to the m/ancestry/nav.adoc, if not present, ~/gen/m/research/p/further-bueckeburg-documents.adoc
