@@ -7,6 +7,9 @@ September 1808 have been born along with his wife in Evesen, if he is the
 Jobst Heinrich Krückeberg who was born in 1765 to "Johann Heinrich
 Krückeberg aus Berenbusch".
 
+Is he an unknown son of Johann Heinrich (1767-1802) who lived at no. 19
+Evesen? I need to review all birth records again.
+
 == Add Further Research Strategy
 
 * Add to the m/ancestry/nav.adoc, if not present, ~/gen/m/research/p/further-bueckeburg-documents.adoc
