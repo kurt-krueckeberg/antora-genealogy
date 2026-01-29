@@ -106,39 +106,35 @@ labor, or they might have been "living in" as hired hands or with family.
 .death record #1 for 1819
 [%header,cols="1,5,5,4,4,4,4,2",frame="none"]
 |===
-|Zahl |Name, Stand, Gewerbe +
-Geburts u. bisheriger Wohnort des +
-Verstorbenen|Zeit u. Ort des +
-Todes u. des Be- +
-grabnißes|Ursache des Todes|Alter|ledig +
-oder +
-verheiratet|Hinterbliebene|Bemerkung[en]
+|Zahl |Name, Stand, Gewerbe Geburts u. bisheriger Wohnort des Verstorbenen|Zeit u. Ort des Todes u. des Be- grabnißes|Ursache des Todes|Alter|ledig oder verheiratet|Hinterbliebene|Bemerkung[en]
 
-|1|Philippine Dorothee Krücke- +
-bergs;Ehefrau des vormaligen +
-Hofmeisters auf dem Reinen- +
-Neelhof Johann Heinrich +
-Krückeberg, Einlieger beÿ n.13
-in Bärenbusch. Luth. Conf.|starb d. 6ten Januar +
-Nachmmittags 4 Uhr in +
-Bärenbusch, u. wurde +
-begraben d. 9ten Jan. in +
-Petzen|Brustkrankheit|in einem Alter +
-von 54. Jahren|verheÿrathet|hinterläßt außer +
-ihrem Ehemann, eine +
-einzige Tochter, welche +
-verheÿrathet ißt|
+|1
+|Philippine Dorothee Krückebergs;Ehefrau des vormaligen
+Hofmeisters auf dem Reinen-Neelhof Johann Heinrich
+Krückeberg, Einlieger beÿ n.13 in Bärenbusch. Luth. Conf.
+|starb d. 6ten Januar Nachmmittags 4 Uhr in
+Bärenbusch, u. wurde begraben d. 9ten Jan. in Petzen
+|Brustkrankheit
+|in einem Alter von 54. Jahren
+|verheÿrathet
+|hinterläßt außer ihrem Ehemann, eine einzige Tochter, welche verheÿrathet ißt
+|
 |===
 
 [caption="Transliteration 1: "]
 .death record #1 for 1819
 [%header,cols="1,5,5,4,4,4,4,2",frame="none"]
 |===
-|Number |Name, Status, Occupation +
-Birthplace and most recent residence of the +
-deceased|Time and Place of Death and Burial|Cause of Death|Age|single +
+|Number
+|Name, Status, Occupation Birthplace and most recent residence of the deceased
+|Time and Place of Death and Burial
+|Cause of Death
+|Age
+|single +
 or +
-married|Survivors|Remarks
+married
+|Survivors
+|Remarks
 
 |1|Philippine Dorothee Krückebergs;wife of the former estate steward or manager on the Reinen-Neel estate (a manor farm) Johann Heinrich
 Krückeberg, lodger (tenant) at n.13 in Bärenbusch. Luth. Conf.|died the 6^th^ January 4 p.m. in Bärenbusch, and was buried the 9^th^ of
