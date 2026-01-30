@@ -1,11 +1,16 @@
 = TODO
 
-== Einlieger Jobst Heinrich Krückeberg
+== Jobst Heinrich Krückeberg and NLA 146
 
-What is the difference between the use of Einlieger to describe Johann
-Heinrich Krueckeberg near the end of his last wife's life, when he is an
-Einlieger in I believe Evesen, and the Einlieger Jobst Heinrich Krueckeberg
-who is an Einlieger by Wilharms and wishes anzubauen?
+Rewrite the documents in gen/m/ancestry/p that concern the "two" Jobst
+Heinrichs.
+
+== WRITE
+
+Work on the family ancestry proof. Gaps can be filled in later.
+This will provide other research items for Dr. Möhle to research.
+
+Add the jhk (1806) and CFK (1807) passenger lists.
 
 == Add Further Research Strategy
 
