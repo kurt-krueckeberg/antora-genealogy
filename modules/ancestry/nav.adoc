@@ -1,10 +1,10 @@
 .xref:index.adoc[]
 * xref:event-tables.adoc[]
 //* xref:cfk-branch.adoc[]
-* Branch I: Carl Friedrich Krückeberg (b. 1807) Branch
+* Branch I: Carl Friedrich Krückeberg (b. 1807) Pedigree
 ** xref:cfk-1807-events.adoc[]
 ** xref:cfgk-1879-events.adoc[]
-* Branch II: Johann Heinrich Krückeberg (1806-1879) Branch
+* Branch II: Johann Heinrich Krückeberg (1806-1879) Pedigree
 ** xref:jhk-1806-events.adoc[]
 ** xref:jobst-hk-1765-events.adoc[]
 ** xref:jhk-1767-events.adoc[]
