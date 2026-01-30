@@ -111,8 +111,8 @@ and the fact that Carl Friedrich Gottlieb Krückeberg, who we know
 * whose only son, Carl Friedrich, had as a baptismal sponsor, Hans Heinirch Wilharm, who we
 know from the Petzen church records resided at no. 11 Evesen. 
 
-[IMPORTANT]
-====
+== Another Critical Piece of Information
+
 Carl Friedrich Gottlieb Krückeberg's wife, Philippine Eleonore Werkmeister,
 was, according to their xref:petzen:PET-M-1803a.adoc[March 12, 1803,
 marriage record], from *no. 11 Evesen*.
@@ -122,4 +122,43 @@ According to xref:nla:146:doc1.adoc[], we know that in September 1808 *no.
 *Hans Heinrich Wilharm* because the xref:petzen:PET-B-1807a.adoc[baptism record
 of Carl Friedrich Gottlieb's only son, Carl Friedrich], lists *Hans Heinrich
 Wilharm of no. 11 Evesen* as a baptismal sponsor.
-====
+
+=== Its Significance
+
+*Circumstantial evidence:* Three independent facts now converge on *Wilharm
+Nr. 11, Evesen*:
+
+[arabic]
+. Carl Friedrich Gottlieb’s wife was *from Nr. 11 Evesen* (1803
+marriage).
+. *Hans Heinrich Wilharm of Nr. 11* was sponsor at their son’s baptism
+(1807).
+. The *Neubau petitioner (1808)* states he was *Einlieger bei Wilharm
+Nr. 11*. Together, this strongly suggests the Neubau petitioner lodged
+within the *same household network* as Carl Friedrich Gottlieb’s family.
+
+=== Concrete next step
+
+Find *any contemporaneous record (c. 1803–1809)* that *names residents or
+lodgers at Wilharm Nr. 11, Evesen*—e.g., Amt tax/levy lists, household or
+fire registers, poor-relief accounts, military substitution lists—and look
+specifically for *Carl Friedrich (Gottlieb) Krückeberg* listed as
+*Einlieger/Schneider* at that address.
+
+
+*Next-step leg-work (succinct):*
+
+[arabic]
+. *Target the address, not the person:* review any *Amt-level financial
+or obligation records* (c. 1803–1809) that mention *Wilharm Nr. 11,
+Evesen*—tax/contribution rolls, Brandkasse (fire insurance), levies,
+receipts, or side papers.
+. *Scan Rentkammer spillover:* check *Anlagen, marginal notes, and
+receipts* in nearby Rentkammer files that reference *Wilharm Nr. 11* or
+Evesen households.
+. *Leverage the wife’s line:* re-check *Werkmeister* family items
+(witness lists, confirmations, estates) for any *post-1803 residence*
+cues tying the couple to *Nr. 11*.
+. *Capture indirect proof:* note *any document* that places *a
+Krückeberg Schneider/Einlieger* in the *Wilharm Nr. 11* household
+network within that window—even without naming lodgers explicitly.
