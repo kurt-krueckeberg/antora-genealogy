@@ -5,9 +5,6 @@ image::Familienschein-des-Auswanderers.jpg[align=center,width=800,title='Familie
 
 == Transliteration and Translation
 
-[.widepair,cols="1a,1a",frame=none,grid=none,options="noheader"]
-|===
-|
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Familienschein des Auswanderers Carl Friederich Krückeberg von N. 18
@@ -71,7 +68,6 @@ Fürstentum Schaumburg Lippe.
 L. Schwerdtmann von Bergkirchen.
 ....
 
-|
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Family Record of the Emigrant Carl Friederich Krückeberg from No. 18
@@ -137,7 +133,6 @@ Principality of Schaumburg-Lippe.
 
 L. Schwerdtmann of Bergkirchen.
 ....
-|===
 
 [IMPORTANT]
 ====
