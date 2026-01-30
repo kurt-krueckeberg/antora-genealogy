@@ -1,6 +1,5 @@
 = TODO
 
-
 == Einlieger Jobst Heinrich Krückeberg
 
 What is the difference between the use of Einlieger to describe Johann
@@ -31,12 +30,39 @@ So it is to the point.
 
 == Go Through theese Kirchenbücher
 
+Looking for
+
+=== The Second Jobst Heinrich Krückeberg from Evesen
+
+I have looked for the second Jobst Heinrich Krückeberg, who states in his
+petition of xref:nla:146:doc1.adoc[] that that he is an Einlieger who wants
+to live "independently":
+
+____
+Up to now I have lived as a tenant with Wilharm No. 11
+in Evesen, but I now wish to establish myself independently.
+In front of Bärenbusch there lies a plot of land which
+had previously already been inspected by the Forestry
+Office, on the occasion that another person wished to
+build there, but who was unable to pay for the plot.
+____
+
+The 2nd document in the module 146 case file, doc2.adoc, tells us:
+* an Einlieger lodging at no. 11 Evesen
+* a wanting become a holder of a new Stätte in Berenbusch
+* his father is an Ackervogt in Arensburg
+* who along with his wife is: gebürtig aus Evesen.
+
+ in the Petzen
+baptisms records of "Verzeichnis der Getauften und Konfirmierten 1641-1784".
+I searched from ~1750 up to 1757, which is image #197
+
+
 * I have gone through petzen-band1b Marriages up to image 57 up to image 57
 * Look for baptism to Johann Tönnis Eggerding and Friedrich Kuhlmann
 children. Looks in those years after their marriages. The purpose is to
 learn when they still held no. 10 Berenbusch.
 * go through the Deaths by Maiden Name
-
 
 == Read
 

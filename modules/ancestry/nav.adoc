@@ -10,6 +10,8 @@
 ** xref:jhk-1767-events.adoc[]
 * xref:merging-the-two-lines.adoc[]
 ** xref:no-10-berenbusch-residents.adoc[]
+** xref:were-there-two-jobst-heinrichs.adoc[]
+** xref:one-or-two-jobst-heinrichs.adoc[]
 ** xref:who-is-the-father-of-jobst-heinrich.adoc[]
 ** xref:jhk-1744-events.adoc[]
 * xref:proof-arg-philippine-eleonore-werkmeister.adoc[]

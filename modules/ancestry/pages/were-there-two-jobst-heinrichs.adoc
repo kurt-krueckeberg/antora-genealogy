@@ -1,0 +1,125 @@
+= Were There Two Jobst Heinrichs by 1808
+
+== Evidence for Two Jobst Heinrichs
+
+Even though the *case-file cover* does not use _Neubau_ or _Neubauer_,
+the *body of the file unmistakably places the proceeding in the Neubau
+framework*. In Rentkammer practice, *the procedural context is defined
+by the documents, not the cover title*.
+
+What matters is this internal sequence:
+
+* The *Ämterbericht (1808)* is explicitly _„betr. Neubauereÿ“_ and
+evaluates the petitioner’s *eligibility* (means, character, origin).
+That evaluation is required *only* for someone who does *not yet hold a
+Stätte*.
+* The petitioner is first described as *Einlieger*; later documents
+shift to *Neubauer* once permission is granted.
+* From *Document 6 onward*, the language becomes technical and settled:
+_Anlage der Neubauereÿ_, _dem Neubauer … ausgewiesen_,
+_Neubauer-Colonie_.
+* *Document 11* functions _statt Kaufbrief_ and explicitly transfers
+ownership *to the Neubauer Krückeberg Nr. 18 and his heirs* — i.e., it
+is the *act that creates the holding*.
+
+In Rentkammer usage, this progression is decisive:
+
+____
+*Einlieger → Antrag auf Neubau → Neubauer → Eigentümer einer neuen
+Stätte*
+____
+
+A person who already held a Stätte (like the *Colon Nr. 10*) would
+*never* be processed this way; his case would be labeled and handled as
+*Erweiterung* or *Ausweisung*, as in the 1798 file.
+
+So, to answer your underlying question directly:
+
+* *No*, the word _Neubauer_ does not have to appear on the cover to
+define the case.
+* *Yes*, repeated use of _Neubauereÿ / Neubauer / Neubauerung_ inside
+the file *proves* that the petitioner *did not already hold a Stätte*
+and was being installed into a new one.
+* This procedural fact alone excludes identity with *Jobst Heinrich
+Krückeberg, Colon Nr. 10*.
+
+Your grep results are exactly what one expects in a *true Neubau case
+file*.
+
+== Futher Evidence
+
+Here is *why it fails*, tightly and without digression.
+
+A man who is already *Colon of Nr. 10* cannot petition the Rentkammer
+*as an Einlieger for a Neubau*, regardless of where he happens to sleep
+during the week.
+
+The obstacle is *procedural*, not residential.
+
+In your 1808 file, Jobst Heinrich:
+
+* explicitly frames his situation as _"`bisher als Einlieger …
+gewohnt`"_ *in order to justify* _„jetzt mich selbst anzubauen“_;
+* is evaluated by the Ämter *as someone without a Stätte*, including an
+assessment of whether he can even raise *200 Rthlr*;
+* is processed through the full *Neubau pipeline* (Bericht → Ausweisung
+→ Neubauer → Kaufbrief _statt_ Kaufbrief).
+
+A *sitting Colon*:
+
+* would *never* be assessed for eligibility to "`build himself`" a
+holding,
+* would *never* be described administratively as _Einlieger_ in a Neubau
+proceeding,
+* and would *never* receive a Kaufbrief _statt Kaufbrief_ creating
+ownership of a Stätte.
+
+If a Colon wanted *additional land*, the procedure is *Erweiterung* (as
+in 1798). If he wanted *a second holding*, that required *extraordinary
+justification* and is *never handled as Neubau*, nor by self-description
+as Einlieger.
+
+Living part-time in Evesen for work is irrelevant. *Rentkammer language
+tracks legal status, not commuting patterns.*
+
+So the decisive point is this:
+
+____
+The 1808 Jobst Heinrich does not merely _say_ he is an Einlieger; the
+*Rentkammer treats him as one*, all the way through to the creation of
+Nr. 18.
+____
+
+That treatment would have been *impossible* if he were already the Colon
+of Nr. 10.
+
+*Conclusion:* Your hypothetical is socially plausible, but
+*administratively impossible*. The documents exclude it.
+
+== There Might Only be One Jobst Heinrich
+
+The Neubau file establishes the creation of Stätte Nr. 18 by a Schneider
+named Jobst Heinrich Krückeberg according to the  administrative records.
+However, the absence of corresponding parish records for such an individual
+and the fact that Carl Friedrich Gottlieb Krückeberg, who we know
+
+* was a Schneider and Einlieger at no. 14 Berenbusch on 14 May 1807, according to xref:petzen:PET-B-1807a.adoc[] 
+* was an Einlieger in Evesen in 1803, according to xref:petzen:PET-B-1803c.adoc[] 
+* whose wife was from no. 11 Evesen, according to:
+** xref:petzen:PET-M-1803a.adoc[]
+** xref:petzen:PET-B-1783a.adoc[]
+* whose only son, Carl Friedrich, had as a baptismal sponsor, Hans Heinirch Wilharm, who we
+know from the Petzen church records resided at no. 11 Evesen. 
+
+[IMPORTANT]
+====
+Carl Friedrich Gottlieb Krückeberg's wife, Philippine Eleonore Werkmeister,
+was, according to their xref:petzen:PET-M-1803a.adoc[March 12, 1803,
+marriage record], from *no. 11 Evesen*.
+
+According to xref:nla:146:doc1.adoc[], we know that in September 1808 *no.
+11 Evesen* was the home of the Wilharms. We know his complete name to be
+*Hans Heinrich Wilharm* because the xref:petzen:PET-B-1807a.adoc[baptism record
+of Carl Friedrich Gottlieb's only son, Carl Friedrich]list *Hans Heinrich
+Wilharm of no. 11 Evesen* as a baptismal sponsor.
+====
