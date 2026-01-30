@@ -1,2 +1,0 @@
-* xref:one-or-two-jobst-heinrichs.adoc[]
-** xref:record-conventions.adoc[]
