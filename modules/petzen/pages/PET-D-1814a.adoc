@@ -1,17 +1,21 @@
 = 1814 Ilse Marie Werkmeister Death
-
-Ilse Marie Werkmeister, nee Möller, was the mother-in-law of Carl Friedrich
-Gottlieb Krückeberg, who married her daugher.
-
-She died at age 73 as a Leibzüchterin at n. 11 Evesen. She was a widow.
+:page-role: wide
 
 [.narrow]
 == Citation
 
-The death of Ilse Marie Wermeister, nee Möller, on 26 Januarz 1814 is found on
-<<PET-D-1814a, image 285>> of the Petzen Kirchenbuch
-volume "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
-1785-1827".
+Ilse Marie Werkmeister, nee Möller, was the mother-in-law of Carl Friedrich
+Gottlieb Krückeberg, who married her daugher, Philippine Eleonore
+Werkmeister, on xref:PET-M-1803a.adoc[13 March 1803].
+
+Her husband Heinrich Tönnis Werkmeister xref:PET-D-1798a.adoc[died on 7
+October 1798] at no. 11 Evesen age 59. He was a Leibzüchter. She died at
+age 73 as a Leibzüchterin at n. 11 Evesen. 
+
+The death of Ilse Marie Wermeister, nee Möller, on 26 January 1814, is
+found on <<PET-D-1814a, image 285>> of the link:https//:archion.de[Archion]
+images of the Petzen Kirchenbuch volume "Verzeichnis der Getauften,
+Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
 == Image 
 
@@ -72,7 +76,7 @@ Petzen
 [bibliography]
 == Citations
 
-* [[[PET-D-1822a]]] "Archion Protestant Kirchenbücher Portal", database
+* [[[PET-D-1814a]]] "Archion Protestant Kirchenbücher Portal", database
 with images, _Archion_ (https://www.archion.de/p/11dc0cac05/ : 25 October
 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
