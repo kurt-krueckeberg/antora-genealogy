@@ -3,12 +3,15 @@
 
 == Family and Other Relationships
 
-[cols="3,3,4,2",width="75%"]
+[cols="3,3,4,2",width="85%"]
 |===
-|Child|Father|Mother|Residence
+|Child|Father|Mother|Birth date|Residence
 
-|Hans Heinrich Wilharm|Hans Heinrich Wilharm|Anne Marie Philippine nee
-Blecke|no. 11 Evesen
+|Hans Heinrich Wilharm
+|Hans Heinrich Wilharm
+|Anne Marie Philippine nee Blecke
+|10 April 1797
+|no. 11 Evesen
 |===
 
 .Sponsor
@@ -19,6 +22,12 @@ Blecke|no. 11 Evesen
 |Johann Heinrich Brands
 |no. 10 Evesen
 |===
+
+[NOTE]
+====
+Anne Marie Philippine nee Blecke Wilharm xref:petzen:PET-D-1797a.adoc[died
+the day after giving birth].
+====
 
 [.narrow]
 == Citation
@@ -44,7 +53,7 @@ image::petzen-band2-img68-right.jpg[link=self]
 .birth of Hans Heinrich Wilharm on 10 April 1797
 [%header,cols="1,5,5,1,2,5,1,1,5",frame="none"]
 |===
-|Anzahl| Namen des Kindes|Namen des Vaters|Hausnummer|Orstschaft|Namen der Mutter|geb. +
+|Anzahl|Namen des Kindes|Namen des Vaters|Hausnummer|Orstschaft|Namen der Mutter|geb. +
 April|get. +
 April|Namen der Gevattern
 
