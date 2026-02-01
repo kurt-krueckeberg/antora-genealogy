@@ -134,6 +134,8 @@
 ** xref:frille:FRI-M-1833a.adoc[]
 * Söest Krückeberg
 ** xref:wallensen:WAL-B-1822a.adoc[]
+* Möller
+** xref:petzen:PET-B-1741b.adoc[]
 * Schwier
 ** xref:frille:FRI-B-1798a.adoc[]
 * Vahlsing
