@@ -15,12 +15,14 @@
 
 [IMPORTANT]
 ====
-*†* -- Bleeken is in error. It should be *Werkmeister*. See the
+*†* -- The mother's maiden name was *Werkmeister*. See the
 xref:ancestry:proof-arg-philippine-eleonore-werkmeister.adoc[explanation].
 Her mother had two marriages. The first was to Johann Heinrich Bleke, on
-18 Februray 1770. When he died in 1779, she married to Heinrich Tönnis
-Werkmeister, and they had a daughter, Philippine Eleonore Werkmeister, who
-was xref:petzen:PET-B-1783a.adoc[baptized on 4 May 1783].
+18 Februray 1770. They had three daughters together. 
+
+When he died in 1779, she married Heinrich Tönnis Werkmeister in 1780, and
+they had a daughter, Philippine Eleonore Werkmeister, who was
+xref:petzen:PET-B-1783a.adoc[baptized on 4 May 1783].
 ====
 
 .Child Facts
