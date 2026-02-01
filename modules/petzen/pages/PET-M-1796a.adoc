@@ -8,10 +8,13 @@
 |===
 ||Name|Residence (at time of marriage)
 
-|*Groom*|Hans Heinrich Krückeberg|Berenbusch
+|*Groom*|Hans Heinrich Krückeberg|no. 9 Berenbusch *†*
 
 |*Bride*|Anne Marie Philippine Blecke|no. 11 Evesen
 |===
+
+*†* -- The village name is ambiguous. Evesen appears to be struck through,
+and Berenbusch is my best guess for what is written underneath it.
 
 .Facts
 [width="40%"]
