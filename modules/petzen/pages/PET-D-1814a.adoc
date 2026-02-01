@@ -1,0 +1,81 @@
+= 1814 Ilse Marie Werkmeister Death
+
+Ilse Marie Werkmeister, nee Möller, was the mother-in-law of Carl Friedrich
+Gottlieb Krückeberg, who married her daugher.
+
+She died at age 73 as a Leibzüchterin at n. 11 Evesen. She was a widow.
+
+[.narrow]
+== Citation
+
+The death of Ilse Marie Wermeister, nee Möller, on 26 Januarz 1814 is found on
+<<PET-D-1814a, image 285>> of the Petzen Kirchenbuch
+volume "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
+1785-1827".
+
+== Image 
+
+== Transliteration and Translation
+
+[caption="Transliteration: "]
+.26 January 1814 Death and 31 Jnanuary Burial
+[%header,cols="1,6,5,2,3,2,1,1",frame="none"]
+|===
+|Zahl
+|Name, Stand, Religion, Gewerbe, Geburts u. bisheriger Wohnort des Vestorbene
+|Zeit u. Ort des Todes u. des Begräbnises
+|Ursaches Todes
+|Alter
+|Ledig oder verheÿrathet
+|Hinterbliebende
+|Bemerkerungen
+
+|4.
+|Ilse Marie Werkmeistern geb Möllern, Leibzuchterin auf n. 11 in Evesen
+Luth. Conf.
+|starb d. 26 Abends 8½ Uhr in Evesen und wurde begraben d 31.t Jan in
+Petzen 
+|Engbrustigkeit
+|in einem Alter von 73. Jahr
+|Witwe
+|hinterläßt 3 verheÿrathet Töchter
+|
+|===
+
+[caption="Translation: "]
+.26 January 1814 Death and 31 Jnanuary Burial
+[%header,cols="1,6,5,2,3,2,1,1",frame="none"]
+|===
+|Num.
+|Name, Status, Religion, trade, Birth and previous Residence of Deceased
+|Time and Place of Death & Burial
+|Cause of Death
+|Age
+|Single or Married
+|Survivors
+|Remarks
+
+|4.
+|Ilse Marie Werkmeistern nee Möllern, Leibzuchterin at n. 11 in Evesen
+Luth. Conf.
+|died 26th Abends 8:30 p.m. in Evesen and buried 31 Jan. in
+Petzen 
+|shortness of breath
+|age 73
+|widow
+|surivors: 3 married daughters
+|
+|===
+
+
+
+[bibliography]
+== Citations
+
+* [[[PET-D-1822a]]] "Archion Protestant Kirchenbücher Portal", database
+with images, _Archion_ (https://www.archion.de/p/11dc0cac05/ : 25 October
+2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
+der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
+1785-1827 > Image 285 of 357
+

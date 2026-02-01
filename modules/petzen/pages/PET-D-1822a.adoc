@@ -35,20 +35,8 @@
 The term **„Leibzüchter“** is an old and regionally specific German term,
 particularly used in areas like Schaumburg-Lippe, that refers to a retired
 farmer who retains a life estate on a farm--someone who has passed the
-working operation of the farm to a successor (usually a son) but continues
+working operation of the holding to a successor (usually a son) but continues
 to live on the farm with guaranteed rights.
-
-**Precise English Translations**
-
-Depending on context, you could translate Leibzüchter as:
-
-* “Retired farmer with life tenancy”
-
-* “Life tenant farmer”
-
-* “Former farm owner with lifelong residence rights”
-
-* “Retired cultivator under a life estate”
 ====
 
 **Historical and Legal Context**
@@ -60,15 +48,20 @@ the farm was passed on intact to a single heir (the Anerbe). The parents would:
 
 * Retain the right to live on the property (often in a secondary house or part of the main house),
 
-* Receive support (e.g. food, firewood, clothing, care), as laid out in a Leibgeding (a written contract of lifelong support).
+* Receive support (e.g. food, firewood, clothing, care), as laid out in a
+  Leibgeding (a written contract of lifelong support).
 
-A **Leibzüchter** was typically the father who had formally transferred the farm and now lived under the terms of the Leibgeding.
+A **Leibzüchter** was typically the father who had formally transferred the
+farm and now lived under the terms of the Leibgeding.
 ****
 
+[.narrow]
 == Citation
 
-The death of Johann Heinrich Krückeberg Death in 1822 is found on <<PET-D-1822a, image 313, on pages 652 and 652>> of Petzen Kirchenbuch volume
-"Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
+The death of Johann Heinrich Krückeberg Death in 1822 is found on
+<<PET-D-1822a, image 313, on pages 652 and 652>> of Petzen Kirchenbuch
+volume "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
+1785-1827".
 
 === Pages 652 and 653
 
@@ -84,7 +77,7 @@ Page 653:
 
 image::petzen-band2-img313-653.jpg[title="Johann Heinrich Krückeberg (Click to enlarge)",link=self]
 
-=== Transliteration and Translation of Pages 652 and 653
+== Transliteration and Translation of Pages 652 and 653
 
 .Transliteration of Page Header
 [literal.bordered,subs="verbatim,quotes"]
@@ -95,18 +88,25 @@ image::petzen-band2-img313-653.jpg[title="Johann Heinrich Krückeberg (Click to 
 [NOTE]
 .The unusal word _Leibzüchter_ in the record below.
 ====
-_Leibzüchter_  is an unusual word. It has only occurred in one other record of interest: the xref:PET-M-1790e.adoc[marriage of Anna Marie Weiland in 1791 to Heinrich Tellermann]. It is defined in Ernest Thode's _German English
- Genealogical Dictionary_, and a definition is also given in this online link:https://writinghistory.de/wp-content/uploads/2019/05/Glossary-of-Old-German-Words.pdf[Old German Word List]:
+_Leibzüchter_  is an unusual word. It has only occurred in one other record
+of interest: the xref:PET-M-1790e.adoc[marriage of Anna Marie Weiland in
+1791 to Heinrich Tellermann]. It is defined in Ernest Thode's _German
+English Genealogical Dictionary_, and a definition is also given in this
+online
+link:https://writinghistory.de/wp-content/uploads/2019/05/Glossary-of-Old-German-Words.pdf[Old
+German Word List]:
  
-Leibzüchter(in):: person on life estate (Thode's German English Genealogical Dictionary). 
-Leibzüchter(in):: life-annuitant (H); person living on a Leibzucht or life estate[-in ending is feminine] (Online source)
+Leibzüchter(in):: person on life estate (Thode's German English
+Genealogical Dictionary).  Leibzüchter(in):: life-annuitant (H); person
+living on a Leibzucht or life estate[-in ending is feminine] (Online
+source)
 ====
 
 [caption="Transliteration: "]
 .entry 1, in year 1822, for Johann Heinrich Krückeberg
 [%header,cols="1,6,5,2,3,2,1,1",frame="none"]
 |===
-|Zahl |Name, Stand, Religion, Gewerbe, Geburts u. bisheriger Wohnort des Vestorbene |Zeit u. Ort des Todes u. des Begräbenises |Ursaches Todes |Alter |Ledig oder verheÿrathet |Hinterbliebende |Bemerkerungen
+|Zahl |Name, Stand, Religion, Gewerbe, Geburts u. bisheriger Wohnort des Vestorbene |Zeit u. Ort des Todes u. des Begräbnises |Ursaches Todes |Alter |Ledig oder verheÿrathet |Hinterbliebende |Bemerkerungen
 
 |5
 |Johann Heinrich Krückeberg, Leibzüchter auf no. 10 in Bärenbusch. Luth. Conf. 
