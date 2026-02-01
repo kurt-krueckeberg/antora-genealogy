@@ -8,6 +8,12 @@ The death record of Anne Marie Philippine Wilharm is found on
 <<PET-D-1797a, image 235>> of the link:https://archion.de[Archion] digital
 images of the _Verzeichnis der Getauften, Konfirmierten, Getrauten und
 Gestorbenen_.
+
+[NOTE]
+====
+She died the day after giving xref:PET-B-1779a.adoc[birth to her first child, Hans Heinrich
+Wilharm], who had the same name as his father.
+====
  
 == Image of Death and Burial Record
 
