@@ -290,7 +290,7 @@ dates.
 |Ernst Heinrich|Feb. 6, 1850|Feb. 13, 1850|in Adams County, Indiana
 |===
 
-=== Krückeberg Deaths to Confirm and Transliterate
+=== Krückeberg and Other Deaths to Confirm and Transliterate
 
 [width="75%"]
 Krückeberg Petzen Deaths
@@ -305,7 +305,9 @@ Krückeberg Petzen Deaths
 
 |Caroline Dorothee nee Krückeberg|14 Dec. 1869
 
-|TOD: Any Others in NAchtraege|
+|Hans Heinrich Wilharm, n. 11 Evesen, Leibzüchter|1843
+
+|TODO: Any Others in NAchtraege|
 |===
 
 [.narrow]
