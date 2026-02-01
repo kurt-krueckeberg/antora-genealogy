@@ -1,0 +1,82 @@
+= 1798 Heinrich Töns Werkmeister Death
+:page-role: wide
+
+== Family Relationship and Other Facts
+
+.Decedent Facts 
+[%header,width=40%]
+|===
+|Fact|Details
+
+|*Status*|Leibzüchter
+
+|*Cause of death*|died in a state of stupor.
+
+|*Age at Death*|59
+
+|*Residence*|no. 11 Evesen
+|===
+
+[.narrow]
+== Citation
+
+The death of Heinrich Töns Werkmeister, October 17, 1801, <<PET-D-1798a, image
+236>>, of the Petzen Kirchenbuch "Verzeichnis der Getauften, Konfirmierten,
+Getrauten und Gestorbenen 1785-1827".
+
+== Image
+
+image::petzen-band2-img236.jpg[title="Heinrich Töns Werkmesiter (Click to enlarge)",link=self]
+
+=== Transliteration and Translation
+
+[caption="Transliteration of: "]
+.Heinrich Töns Werkmeister Death/Burial Record
+[%header,cols="1,5,2,1,2,1,1,2,2"]
+|===
+|Anzahl|Nahmen|Ortschaft|N.|Krankheit|Alter +
+Jahre|Alter +
+Woch[e]|gest.|begr.
+
+|20
+|Heinrich Töns Werkmeister Leibzüchter
+|Evesen
+|11
+|Dumpf
+|59
+|
+|Oct +
+7
+|Oct +
+9
+|===
+
+[caption="Translation of: "]
+.Heinrich Töns Werkmeister Death/Burial Record
+[%header,cols="1,5,2,1,2,1,1,2,2"]
+|===
+|Num.|Name|Locality|N.|Illness|Age +
+Years|Age +
+Weeks|died|buried
+
+|20
+|Heinrich Töns Werkmeister Leibzüchter
+|Evesen
+|11
+|stupor
+|59
+|
+|Oct +
+7
+|Oct +
+9
+|===
+
+
+[bibliography]
+== Citations
+
+* [[[PET-D-1798a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/4dae246c58/
+: 31 Jan. 2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis 
+der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 236 of 357
+
