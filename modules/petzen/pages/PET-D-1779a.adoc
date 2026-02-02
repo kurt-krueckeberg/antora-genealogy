@@ -19,17 +19,15 @@ image::petzen-band1b-img223.jpg[title="Johann Heinrich Blecke Burial (Click to E
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
-25) 10t Octobr ist begraben Johann Heinrich Blecke
-aus Evesen ein Ehemann. Sein Krankhiet was das bösartige Fieber. Sein Alter
-34¼ Jahr.
+25) 10t Octobr ist begraben Johann Heinrich Blecke aus Evesen ein Ehemann.
+    Sein Krankhiet was das bösartige Fieber. Sein Alter 34¼ Jahr.
 ....
 
 .Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
-25) 10th October Johann Heinrich Blecke was buried a married man from
-    Evesen was buried.
-His illnes was the malignant fever. His age was 34¼ years.
+25) 10th October Johann Heinrich Blecke was buried, a married man from
+    Evesen was buried. His illnes was the malignant fever. His age was 34¼ years.
 ....
 
 
