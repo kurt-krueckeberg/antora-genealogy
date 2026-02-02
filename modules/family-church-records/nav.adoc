@@ -2,7 +2,7 @@
 * xref:understand.adoc[]
 * xref:nachträge.adoc[]
 ** xref:significance-of-nachträge.adoc[]
-* xref:bleeke.adoc[]
+* xref:frille-bleekes.adoc[]
 ** xref:frille:FRI-B-1739a.adoc[]
 ** xref:frille:FRI-B-1760a.adoc[]
 ** xref:frille:FRI-B-1767a.adoc[]
@@ -46,6 +46,8 @@
 *** xref:frille:FRI-B-1839a.adoc[]
 *** xref:frille:FRI-B-1841a.adoc[]
 *** xref:frille:FRI-B-1843a.adoc[]
+* Blecken in Petzen Parish
+** TODO
 * Buuck
 ** xref:windheim:WIND-B-1831a.adoc[]
 ** xref:windheim:WIND-B-1833a.adoc[]
