@@ -33,12 +33,13 @@ image::petzen-band1a-img243-blecken-right-page.jpg[align=left,title='Annne Phlip
          Getaufte                         1775
 [first entry, which continues from prior page, omitted]
 
-7) 7t Febr. Anna Philippine Maria Blecken des
-Heinrich Wilhelm Blecken aus Evesen von seiner
-seit den 15ten Jan: āī huj: ihm angetraueten Frau
-Anna Philippina geb. Rösenern gebohrens Töchter
-getaufft. Die Gevätterin war Anna Maria
-Elisabeth Blecken des Johan Heinrich Blecken aus Evesen Ehefrau.
+7) d 7t Febr. Anna Philippina Maria Bleken des
+Heinrich Wilhelm Bleken aus Evesen von seiner
+seit den 15ten Jan: āī huj: [= anno huius]
+ihm angetraueten Frau Anna Philippina geb.
+Rösenern gebohrenes Töchterl getaufft.
+Die Gevatterin war Anna Maria Elisabeth Bleken
+des Johann Heinrich Bleken aus Evesen Ehefrau.
 ....
 
 .Meaining of Latin "āī huj"
@@ -73,14 +74,13 @@ was born his daughter, who was baptized."**
 .Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
-         Baptisms                         1775
-[first entry, which continues from prior page, omitted]
+7) On the 7th of February, Anna Philippina Maria, the daughter born to
+Heinrich Wilhelm Bleken of Evesen by his wife Anna Philippina, née
+Rösener, who had been married to him since the 15th of January of this
+year, was baptized.
 
-7) 7th February. Anna Philippine Maria Blecken, daughter of
-Heinrich Wilhelm Blecken from Evesen, by his
-wife Anna Philippina, née Rösener, whom he married on the 15th
-of January of this year, was baptized. The godmother was Anna
-Maria Elisabeth Blecken, wife of Johan Heinrich Blecken from Evesen.
+The godmother was Anna Maria Elisabeth Bleken, the wife of Johann Heinrich
+Bleken of Evesen.
 ....
 
 
