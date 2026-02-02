@@ -1,14 +1,19 @@
 = 1721 Catharine Elisabeth Bleeck Baptism    
 :page-role: wide
 
+[.narrow]
 == Citation
 
-The baptism of Catherine Elisabeth Bleeck is on <<PET-B-1721a, image 129>>, right-hand page, 4^th^ entry from the top, of the Petzen
-"Verzeichnis der Getauften und Konfirmierten 1641-1784".
+The baptism of Catherine Elisabeth Bleeck is on <<PET-B-1721a, image 129>>,
+right-hand page, 4^th^ entry from the top, of the Petzen "Verzeichnis der
+Getauften und Konfirmierten 1641-1784".
 
-== Baptism Record
+== Image
 
 image::petzen-band1a-img129.jpg[align=left,title='Catharine Elisabeth Bleeck, image 129, right page (Click to enlarge)',link=self]
+
+[.narrow]
+== Transliteration and Translation
 
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]

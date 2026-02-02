@@ -1,14 +1,21 @@
 = 1775 Anna Ilsa Margaretha Blecken Baptism 
 :page-role: wide
 
-The baptism record for Anna Ilse Blecken appears on <<image247, image 247>>, on the right-hand page,
-entry #43, the third entry from the top, of the Petzen "Verzeichnis der Getauften und Konfirmierten 1641-1784".
+[.narrow]
+== Citation
+
+The baptism record for Anna Ilse Blecken appears on <<image247, image
+247>>, on the right-hand page, entry #43, the third entry from the top, of
+the Petzen "Verzeichnis der Getauften und Konfirmierten 1641-1784".
 
 == Baptism Record
 
 The baptismal record is below.
 
 image::petzen-band1a-img247-blecken.jpg[align=left,title='Ann Ilse Blecke (Click to enlarge)',link=self]
+
+[.narrow]
+== Transliteration and Translation
 
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]

@@ -1,6 +1,9 @@
 = 1775 Anna Philippine Maria Blecken Baptism
 :page-role: wide
 
+[.narrow]
+== Citation
+
 The baptism record for Anna Philippine Maria Blecken appears on <<PET-B-1775a, image 243>>, on the
 right-hand page, the first complete entry, of the Petzen "Verzeichnis der Getauften und Konfirmierten 1641-1784".
 
@@ -17,7 +20,12 @@ their child is born.
 ====
 ****
 
+== Image
+
 image::petzen-band1a-img243-blecken-right-page.jpg[align=left,title='Annne Phlippine Maria Blecken (Click to enlarge)',link=self]
+
+[.narrow]
+== Transliteration and Translation
 
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]

@@ -1,14 +1,19 @@
 = 1755 Henrich Wilhelm Bleeke Baptism
 :page-role: wide
 
+[.narrow]
 == Citation
 
-This is the baptism record of Henrich Wilhelm Bleeke is found on <<image191-right, image 191>>, the right page, 3^rd^ entry from top,
-of the "Register of Baptism and Confirmed of the Petzen Parish, 1641-1784".
+This is the baptism record of Henrich Wilhelm Bleeke is found on
+<<image191-right, image 191>>, the right page, 3^rd^ entry from top, of the
+"Register of Baptism and Confirmed of the Petzen Parish, 1641-1784".
 
 == Baptism Record
 
 image::petzen-band1a-img191-right-1755.jpg[align=left,title='Henrich Wilhelm Bleeke Baptism (Click to enlarge)',link=self]
+
+[.narrow]
+== Transliteration and Translation
 
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]

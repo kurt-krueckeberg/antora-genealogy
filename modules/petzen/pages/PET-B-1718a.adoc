@@ -1,12 +1,19 @@
 = 1718 Anna Ilhabe Bleeck Baptism
 :page-role: wide
 
+[.narrow]
 == Citation
 
-The baptism of Anna Ilhabe Bleeck is on <<image126, image 126>>, right-hand page, last entry, of the Petzen
-"Verzeichnis der Getauften und Konfirmierten 1641-1784".
+The baptism of Anna Ilhabe Bleeck is on <<image126, image 126>>, right-hand
+page, last entry, of the Petzen "Verzeichnis der Getauften und
+Konfirmierten 1641-1784".
+
+== Image
 
 image::petzen-band1a-img126-bleeck.jpg[align=center,title='Overview (Click to enlarge)',link=self]
+
+[.narrow]
+== Transliteration and Translation
 
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
@@ -28,5 +35,9 @@ Bleeck from Meißen.
 [bibliography]
 == Citations
 
-[image126] "Archion Protestant Kirchenbücher Portal", database with images, Archion (https://www.archion.de/p/0034963201/ : 18 May 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
-Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 126 of 322, right hand page, last entry.
+* [[[image126]]] "Archion Protestant Kirchenbücher Portal", database with images,
+Archion (https://www.archion.de/p/0034963201/ : 18 May 2025), path:
+Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der
+Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getauften und Konfirmierten 1641-1784, image 126 of 322,
+right hand page, last entry.

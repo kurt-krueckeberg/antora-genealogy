@@ -1,9 +1,13 @@
 = 1713 Catherina Margarethe Bleeck Baptism
 :page-role: wide
 
+[.narrow]
 == Citation
 
-The baptism of Catherina Margarethe Bleeck  is found on image <<PET-B-1713a, 121>>, right side of the page, entry #3 for 1714:
+The baptism of Catherina Margarethe Bleeck  is found on image
+<<PET-B-1713a, 121>>, right side of the page, entry #3 for 1714:
+
+== Image
 
 image::petzen-band1a-img121.jpg[align=left,title='Henrich Bleecke, image 176, right page (Click to enlarge)',link=self]
 
@@ -18,7 +22,10 @@ Vaters Schwester auß Meißen und der Mutters Schwester aus Evesen
 [bibliography]
 == Citations
 
-* [[[PET-B-1713a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/9aeae5801b : 4 May 2025),
-path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
-Verzeichnis der Getauften und Konfirmierten 1641-1784, image 121 of 322, left hand page, 3^rd^ entry.
+* [[[PET-B-1713a]]] "Archion Protestant Kirchenbücher Portal", database
+with images, _Archion_ (https://www.archion.de/p/9aeae5801b : 4 May
+2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
+der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getauften und Konfirmierten 1641-1784, image 121 of 322,
+left hand page, 3^rd^ entry.
 

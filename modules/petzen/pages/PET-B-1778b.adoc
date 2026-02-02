@@ -1,10 +1,12 @@
 = 1778 Sophia Ernestine Bleken Baptism
 :page-role: wide
 
+[.narrow]
 == Citation
 
-Sophia Ernestina Bleken's baptism, on 11 September 1778, is on <<PET-B-1778b, image 261>>, left page, entry no. 26, from the  
-Petzen "Verzeichnis der Getaufte und Konfirmirte, 1641-1784"
+Sophia Ernestina Bleken's baptism, on 11 September 1778, is on
+<<PET-B-1778b, image 261>>, left page, entry no. 26, from the  Petzen
+"Verzeichnis der Getaufte und Konfirmirte, 1641-1784"
 
 == Baptism Record
 
@@ -31,6 +33,9 @@ image::petzen-band1a-img261-left.jpg[align=left,title='Sophia Ernestine Bleken B
 [biliography]
 == Citations
 
-* [[[PET-B-1778b]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/8732d42d3a/ : 6 November 2023),
-path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784,
-image 261 of 322, bottom of left page
+* [[[PET-B-1778b]]] "Archion Protestant Kirchenbücher Portal", database
+with images, _Archion_ (https://www.archion.de/p/8732d42d3a/ : 6 November
+2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
+der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getauften und Konfirmierten 1641-1784, image 261 of 322,
+bottom of left page
