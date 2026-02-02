@@ -1,0 +1,62 @@
+= 1780 Heinrich Tönnes Werkmeister Marriage
+:page-role: wide
+
+== Family Relationship 
+
+.Marriage Information
+[%header,width="65%",cols="1,3,2,2"]
+|===
+||Name|Marriage +
+Date|Locality (at time
+of marriage)
+
+|*Groom*|Heinrich Tönnes Werkmeister, bachelor|11 Jun. 1780|Wülpke
+
+|*Bride*|Ilse Maria née Möller, widow of Bleke|11 Jun. 1780|Evesen
+|===
+
+.Other Facts
+[%header,width="65%"]
+|===
+|Person|Fact
+
+|Ilse Maria née Möller|widow of Bleke
+|===
+
+== Image 
+
+image::petzen-band1b-img65.jpg[title="Heinrich Tönnes Werkmeister marriage to Ilse Maria nee Möller, Bleke widow",link=self] 
+
+[.narrow]
+== Citation
+
+The June 11, 1780 marriage of Heinrich Tönnes Werkmeister from Wülpke
+to Ilse Maria Elisabeth née Möller, widow of Bleken, from Evesen, is on
+<<PET-M-1780a, image 65>>  of the Petzen "Verzeichnis der Getrauten und Gestorbenen,
+1641-1784" on link:https://archion.de[Archion.de].
+
+[.narrow]
+== Transliteration and Translation
+
+.Transliteration
+[literal.bordered,subs="verbatim,quotes"]
+....
+7) 11t Jun: ist copuliert Heinrich Tönnes Werkmeister aus Wülpke [ein]
+Jgs[Jungeselle]. mit Ilsa Maria geb. Möllern Wittve Bleken aus Evesen
+....
+
+.Translation
+....
+7) 11th June Heinrich Tönnis Werkmeister from Wülpke a bachelor
+was married to Ilse Marie nee Möller, widow of Bleke, from Evesen
+....
+
+
+[bibliography]
+== Citations
+
+* [[[PET-M-1780a]]] "Archion Protestant Kirchenbücher Portal", database
+with images, Archion (https://www.archion.de/p/daf56f4ddd/ : 1 Feb, 2026),
+path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der
+Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 65 of 239
