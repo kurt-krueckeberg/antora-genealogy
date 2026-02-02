@@ -10,8 +10,7 @@ link:https://archion.de[Archion.de].
 
 == Image
 
-image::petzen-band1b-img223.jpg[title="Johann Heinrich Blecke Burial (Click
-to Enlarge),link=self]
+image::petzen-band1b-img223.jpg[title="Johann Heinrich Blecke Burial (Click to Enlarge),link=self]
 
 [.narrow]
 == Transliteration and Translation
