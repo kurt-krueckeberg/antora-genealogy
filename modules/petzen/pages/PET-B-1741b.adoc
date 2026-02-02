@@ -3,7 +3,7 @@
 
 == Image
 
-image::petzen-band1a-img163-möller.png[title=Anna Catharina Möller,link=self]
+image::petzen-band1a-img163-möller.jpg[title=Anna Catharina Möller,link=self]
 
 [.narrow]
 == Citation
