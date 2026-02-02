@@ -18,7 +18,7 @@ image::petzen-band1a-img231-blecken.jpg[align=left,title='Johan Heinrich Blecken
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
-d 12n Octobr hat die [?] Taufte empfangen des Johann Heinrich
+d 12n Octobr hat die h. Tauffe empfangen des Johann Heinrich
 Blecken aus Evesen No 11 mit seiner Ehefrau Anna
 Maria Elisabeth Möllern erzeugtes Söhnlein. Er wurde
 benant Johan Heinrich von dem jünigsten Bleken des
@@ -29,11 +29,10 @@ Kindes Vaters Brüdern.
 .Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
-d 12n Octobr received the [??] baptism of the begotten son of Johann Heinrich 
-Blecken from Evesen No 11 and his wife Anna
-Maria Elisabeth Möllern. Er was
-named Johan Heinrich [of/by/from] the youngest Bleken of the
-child's father's brothers .
+On the 12th of October, the holy baptism was received by the little son
+begotten by Johann Heinrich Bleken of Evesen no. 11 with his wife Anna
+Maria Elisabeth Möller. He was named Johann Heinrich by the youngest
+Bleken, the brother of the child’s father.
 ....
 
 
