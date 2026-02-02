@@ -46,6 +46,7 @@ Jgs[Jungeselle]. mit Ilsa Maria geb. Möllern Wittve Bleken aus Evesen
 ....
 
 .Translation
+[literal.bordered,subs="verbatim,quotes"]
 ....
 7) 11th June Heinrich Tönnis Werkmeister from Wülpke a bachelor
 was married to Ilse Marie nee Möller, widow of Bleke, from Evesen
