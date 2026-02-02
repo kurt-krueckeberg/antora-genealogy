@@ -10,9 +10,7 @@ Konfirmierten 1641-1784" on link:https://archion.de[Archion.de].
 
 == Image
 
-image::petzen-band1a-img309.jpg[title=" Anna Ilsabey (Elisabeth) Möller
-Confirmation",link=self]
-
+image::petzen-band1a-img309.jpg[title="Anna Ilsabey (Elisabeth) Möller Confirmation",link=self]
 
 [.narrow]
 == Transliteration and Translation
