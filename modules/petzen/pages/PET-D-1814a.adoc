@@ -1,8 +1,16 @@
-= 1814 Ilse Marie nee Möller, married 1^st^ Blecke, married 2^nd^ Werkmeister, Death
+= 1814 Ilse (Elisabeth) Marie nee Möller, married 1^st^ Blecke, married 2^nd^ Werkmeister, Death
 :page-role: wide
 
 [.narrow]
 == Citation
+
+[NOTE]
+====
+* *Ilsabey* is a *regional, phonetic compound form of Elisabeth* +
+(Ilsa/Ilse + reduced -beth → -bey / -beÿ).
+* *Ilse* and *Ilsa* are *shortened forms derived from the first element of
+Ilsabey.*
+====
 
 Ilse Marie Werkmeister, nee Möller, was the mother-in-law of Carl Friedrich
 Gottlieb Krückeberg, who married her daugher, Philippine Eleonore
