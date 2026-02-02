@@ -64,6 +64,7 @@
 ** xref:petzen:PET-B-1775c.adoc[]
 ** xref:petzen:PET-B-1776a.adoc[]
 ** xref:petzen:PET-B-1778b.adoc[]
+** xref:petzen:PET-D-1779a.adoc[]
 ** xref:petzen:PET-D-1814a.adoc[]
 * Buuck
 ** xref:windheim:WIND-B-1831a.adoc[]
