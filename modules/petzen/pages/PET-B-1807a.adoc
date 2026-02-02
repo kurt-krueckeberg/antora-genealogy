@@ -64,36 +64,54 @@ Friedrich Krückeberg's mother.
 |===
 |Name|Residence
 
-|Hans Heinrich Wilharm|n. 11 Evesen
+|Hans Heinrich Wilharm
+|n. 11 Evesen
 
-|Johann Heinrich Deerberg|n. 6 [the same: Evesen] +
+|Johann Heinrich Deerberg
+|n. 6 [the same: Evesen] +
 
-|Jobst Heinrich Krückeberg|Bärenbusch
+|Jobst Heinrich Krückeberg
+|Bärenbusch
 |===
 
 [IMPORTANT]
 ====
-We know that in September of 1808 Jobst Heinrich Krückeberg was living as
-an Einlieger with the Wilharms of no. 11 Evesen.
+The baptism sponsor,Hans Heinrich Wilharm of no. 11 Evesen, was Carl
+Friedrich Gottlieb's brother-in-law. Technically he was his half
+brother-in-law. Here briefly is the explanation.
 
-We know this because in September of 1808, Jobst Heinrich petitioned the
-Rentkammer for a plot of land for house construction near Bärenbusch. In the first
-of the case file xref:nla:146:index.adoc[] documents, 
-xref:nla:146:doc1.adoc[], dated 29 September 1808, Jobst Heinrich
-Krückeberg states: "Up to now I have lived as a tenant with Wilharm No. 11
-in Evesen".
+Hans Heinrich Wilharm was born on xref:PET-B-1760a.adoc[27 August 1760]. On
+May 8, 1796, he xref:PET-M-1796a.adoc[married Anne Marie Philippine
+Blecke], who lived at no. 11 Evesen. Her mother was Ilse Marie Möller, who
+married Johann Heinrich Bleke of no. 11 Evesen on 18 February 1770.
+Together they had three daughters together, the first daughter was Anne
+Marie Philippine Blecke, who was born on 11 July 1773. She married Hans
+Heinrich Wilharm on xref:PET-M-1797a.adoc[27 August 1797].
 
-We know Hans Heinrich Wilharm  
-xref:petzen:PET-M-1796a.adoc[married Anne Marie Philippine Blecke of no. 11
-Evesen] on 8 August 1796. We know the couple resided at no. 11 Evesen
-because this is were their son, also named Hans Heinrich was
-xref:petzen:PET-B-1797a.adoc[born]. Anne Marie Philippine
-xref:petzen:PET-D-1797a.adoc[died after giving birth]. Hans Heinrich then
-xref:petzen:PET-M-1797a.adoc[remarried later that same year to Sophie
-Ernestine Blecke]. We know no. 11 Evesen is were they also resided from
-the xref:petzen:PET-B-1798c.adoc[birth record of their daugther Anne Marie
-Christine] and that of their son xref:petzen:PET-B-1810a.adoc[Carl
-Heinrich].
+She xref:PET-D-1797a.adoc[died on 11 April 1797], the day after their
+child, Hans Heinrich Wilharm was xref:PET-B-1797a.adoc[born on 10 April
+1779]. 
+
+After Hans Heinrich Wilharms first wife, Anne Marie Philippine Blecke died,
+he married her sister, Sophie Ernestine Blecke, on xref:PET-M-1797a.adoc[27
+August 1797].
+
+As mentioned earlier, the mother of both wives (the two Blecke sisters) of
+Hans Heinrich Wilharm was Ilse Marie Möller. Her husband Johann Heinrich
+Bleeke was the father of both of the Blecke sisters who married Hans
+Heinrich Wilharm. He died in 1779, and she remarried, on 11 June 1780, to
+Heinrich Tönnis Werkmeister. Their daughter, born 4 May 1883, was
+Philippine Eleonore Werkmeister, who married Carl Friedrich Gottlieb
+Krückeberg on xref:PET-M-1803a.adoc[13 March 1803].
+
+Thus Carl Friedrich Gottlieb Krückeberg's mother-in-law, Ilse Marie nee
+Möller, was also the mother-in-law of Hans Heinrich Wilharm.
+
+Carl Friedrich Gottlieb Krückeberg's wife, Philippine Eleonore Werkmeister,
+was the half sister of Hans Heinrich Wilharm wife, Sophie Ernestine Blecke.
+
+Ilse Marie then married Heinrich Tönnis Werkmeister, and they resided at
+no. 11 Evesen. We know this because their 
 ====
 
 .Meaning of Einlieger
