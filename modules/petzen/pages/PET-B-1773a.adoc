@@ -16,6 +16,8 @@ image::petzen-band1a-img238.jpg[title="Anna Maria Philippina Blecken Baptism",li
 [.narrow]
 == Transliteration and Translation
 
+.Transliteration
+[literal.bordered,subs="verbatim,quotes"]
 ....
 d 11t Jul: ist getaufft Anna Maria Philippina Blecken Johann Heinrich
 Blecken aus Evesen No. 11 mit seiner Ehefrau Anna Maria Elisabeth geb. 
@@ -23,6 +25,8 @@ Möllern. Die Gevatterinnen waren Anne Engel Möllern aus Heßen und Sophia
 Christine Hartmans aus Evesen No. 9
 ....
 
+.Translation
+[literal.bordered,subs="verbatim,quotes"]
 ....
 On the 11th of July, Anna Maria Philippina was baptized, the daughter of
 Johann Heinrich Blecken of Evesen no. 11 and his wife Anna Maria Elisabeth,
