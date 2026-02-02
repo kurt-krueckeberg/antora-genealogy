@@ -115,7 +115,7 @@ know from the Petzen church records resided at no. 11 Evesen.
 ====
 The now have another cruical bit of information. We know know that Hans
 Heinrich Wilharm of no. 11 Evesen was Carl Friedrich Gottlieb Krückeberg's
-brother-in-law. The explanation is given at xref:PET-M-1803a.adoc[].
+brother-in-law. The explanation is given at xref:petzen:PET-M-1803a.adoc[].
 ====
 
 == Another Critical Piece of Information
