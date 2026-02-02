@@ -1,12 +1,24 @@
 = 1770 Johann Heinrich Blecken Baptism
 :page-role: wide
 
-image::petzen-band1a-img231-blecken.jpg[align=left,title='Johan Heinrich Blecken (Click to enlarge)',link=self]
+[.narrow]
+== Citation
+
+The baptism of Johann Heinrich Blecken is on <<PET-B-1770a, image 231>> of
+the "Verzeichnis der Getauften und Konfirmierten 1641-1784" available on
+the Protestant Kirchenbücher portal link:https://archion.de[Archion.de].
+
+== Image
+
+image::petzen-band1a-img231-blecken.jpg[align=left,title='Johan Heinrich Blecken Baptism (Click to enlarge)',link=self]
+
+[.narrow]
+== Transliteration and Translation
 
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
-d 12n Octobr hat dee [?] Taufte empfangen des Johann Heinrich
+d 12n Octobr hat die [?] Taufte empfangen des Johann Heinrich
 Blecken aus Evesen No 11 mit seiner Ehefrau Anna
 Maria Elisabeth Möllern erzeugtes Söhnlein. Er wurde
 benant Johan Heinrich von dem jünigsten Bleken des
@@ -14,7 +26,8 @@ Kindes Vaters Brüdern.
 ....
 
 
-.Translationn
+.Translation
+[literal.bordered,subs="verbatim,quotes"]
 ....
 d 12n Octobr received the [??] baptism of the begotten son of Johann Heinrich 
 Blecken from Evesen No 11 and his wife Anna
@@ -22,3 +35,14 @@ Maria Elisabeth Möllern. Er was
 named Johan Heinrich [of/by/from] the youngest Bleken of the
 child's father's brothers .
 ....
+
+
+[bibliography]
+== Citations
+
+* [[[PET-B-1770a]]] "Archion Protestant Kirchenbücher Portal", database
+with images, _Archion_ (https://www.archion.de/p/cb78f2bd89/ : 2 Feb.
+2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
+der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getauften und Konfirmierten 1641-1784, image 231 of 322
+

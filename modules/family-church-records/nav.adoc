@@ -47,7 +47,7 @@
 *** xref:frille:FRI-B-1841a.adoc[]
 *** xref:frille:FRI-B-1843a.adoc[]
 * Blecken in Petzen Parish
-** TODO
+** xref:petzen:PET-B-1770a.adoc[] 
 * Buuck
 ** xref:windheim:WIND-B-1831a.adoc[]
 ** xref:windheim:WIND-B-1833a.adoc[]
