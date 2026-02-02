@@ -12,7 +12,6 @@ The baptism record for Anna Philippine Maria Blecken appears on
 
 image::petzen-band1a-img238.jpg[title="Anna Maria Philippina Blecken Baptism",link=self]
 
-
 [.narrow]
 == Transliteration and Translation
 
@@ -41,9 +40,7 @@ Hartmann, of Evesen no. 9.
 == Citations
 
 * [[[PET-B-1773a]]] "Archion Protestant Kirchenbücher Portal", database
-with images, _Archion_ (https://www.archion.de/p/615ac16dc3/ : 13 October
+with images, _Archion_ (https://www.archion.de/p/e7f03cfa7c/ : 2 February
 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
 der Evangelisch-Lutherischen  Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften und Konfirmierten 1641-1784 > Image 238 of 322
-
-
