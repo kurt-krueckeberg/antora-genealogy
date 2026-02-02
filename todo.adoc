@@ -1,5 +1,20 @@
 = TODO
 
+== Confirm that Ilse Maria Möller is the correct wife of Johann Heinrich Blekcen
+
+Her birth record has a different name--is it correct?
+Create a table:
+
+|===
+|Event|Date|Her Name|Spouse's or Father' Name
+
+
+|Marriage
+|
+|
+|
+|===
+
 == Jobst Heinrich Krückeberg and NLA 146
 
 Rewrite the documents in gen/m/ancestry/p that concern the "two" Jobst
