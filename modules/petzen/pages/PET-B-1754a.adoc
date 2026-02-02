@@ -1,11 +1,6 @@
 = 1754 Anna Maria Weiland Baptism
 :page-role: wide
 
-This is the baptism record of Anna Maria Weiland from the " Verzeichnis der
-Getauften und Konfirmierten (Register of Baptism and Confirmed of the
-Petzen Parish), 1641-1784". It is found on <<PET-B-1754a, image 190, right
-hand page>>.
-
 [.narrow]
 == Citation
 
