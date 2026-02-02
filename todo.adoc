@@ -2,58 +2,8 @@
 
 == Confirm that Ilse Maria Möller is the correct wife of Johann Heinrich Blekcen
 
-* Add Sources for her Confirmation and the births of her four chidren from
-her two marriages, first to Johann Heinrich Blecken, then HEinrich Tönnis
-Blecken. 
-
-* List her names in her confirmation, marriages, birth record of all her
-  children. Then compare them using a table:
-
-|===
-|Event|Date|Her Name|Spouse's or Father' Name
-
-|Confirmation
-|1754
-|
-|
-
-|Marriage
-|
-|
-|
-
-|
-|
-|
-|
-
-|
-|
-|
-|
-
-|
-|
-|
-|
-
-|
-|
-|
-|
-
-|Birth of daughter Philippine Eleonore Werkmeister
-|1783
-|Ilse Marie
-|Heinrich Tönnis Werkmeister
-
-|Death
-|1814
-|Ilse Marie
-|not given
-|===
-
-Decide if the birth record is correct.
+Her name was Anna Marie Elisabeth/Ilse Möller. The birth record in 1741 has
+"Anna Catharina"?
 
 == Jobst Heinrich Krückeberg and NLA 146
 
