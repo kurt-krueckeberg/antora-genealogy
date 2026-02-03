@@ -2,25 +2,21 @@
 
 == Evidence for Two Jobst Heinrichs
 
-Even though the *case-file cover* does not use _Neubau_ or _Neubauer_,
-the *body of the file unmistakably places the proceeding in the Neubau
-framework*. In Rentkammer practice, *the procedural context is defined
-by the documents, not the cover title*.
+The Rentkammer case file concerning *"Die Stätte Nr. 18 zu Berenbusch"*
+(The holding no. 18 in Berenbusch) TODO:footnote here does not use _Neubau_
+or _Neubauer_; however, its documents do:
 
-What matters is this internal sequence:
-
-* The *Ämterbericht (1808)* is explicitly _„betr. Neubauereÿ“_ and
-evaluates the petitioner’s *eligibility* (means, character, origin).
-That evaluation is required *only* for someone who does *not yet hold a
-Stätte*.
-* The petitioner is first described as *Einlieger*; later documents
-shift to *Neubauer* once permission is granted.
+* The *Ämterbericht (1808)* evaluates the petitioner’s *eligibility* for a
+  Neubauereÿ That evaluation is required *only* for someone who does *not
+yet hold a Stätte*.
+* The petitioner is first described as *Einlieger*; later documents shift
+  to *Neubauer* once permission is granted.
 * From *Document 6 onward*, the language becomes technical and settled:
-_Anlage der Neubauereÿ_, _dem Neubauer … ausgewiesen_,
+  _Anlage der Neubauereÿ_, _dem Neubauer … ausgewiesen_,
 _Neubauer-Colonie_.
 * *Document 11* functions _statt Kaufbrief_ and explicitly transfers
-ownership *to the Neubauer Krückeberg Nr. 18 and his heirs* — i.e., it
-is the *act that creates the holding*.
+  ownership *to the Neubauer Krückeberg Nr. 18 and his heirs* — i.e., it is
+the *act that creates the holding*.
 
 In Rentkammer usage, this progression is decisive:
 
