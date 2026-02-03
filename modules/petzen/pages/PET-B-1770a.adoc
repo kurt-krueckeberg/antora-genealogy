@@ -9,7 +9,7 @@
 
 |Johann Heinrich Blecken
 |Johann Heinrich Blecken
-|Anna Maria Elisabeth M�ller
+|Anna Maria Elisabeth Möller
 |7 Oct. 1770
 |===
 
@@ -18,7 +18,7 @@
 
 The October 7, 1770, baptism of Johann Heinrich Blecken is on
 <<PET-B-1770a, image 231>> of the "Verzeichnis der Getauften und
-Konfirmierten 1641-1784" available on the Protestant Kirchenbücher portal
+Konfirmierten 1641-1784" available on the Protestant KirchenbÃ¼cher portal
 link:https://archion.de[Archion.de].
 
 == Image
@@ -33,8 +33,8 @@ image::petzen-band1a-img231-blecken.jpg[align=left,title='Johan Heinrich Blecken
 ....
 d 7t Octobr hat die h. Tauffe empfangen des Johann Heinrich
 Blecken aus Evesen No 11 mit seiner Ehefrau Anna
-Maria Elisabeth Moellern erzeugtes S�hnlein. Er wurde
-benant Johan Heinrich von dem j�nigsten Bleken des
+Maria Elisabeth Moellern erzeugtes Söhnlein. Er wurde
+benant Johan Heinrich von dem jünigsten Bleken des
 Kindes Vaters Brüdern.
 ....
 
@@ -43,17 +43,17 @@ Kindes Vaters Brüdern.
 ....
 On the 7th of October, the holy baptism was received by the little son
 begotten by Johann Heinrich Bleken of Evesen no. 11 with his wife Anna
-Maria Elisabeth M�ller. He was named Johann Heinrich by the youngest
-Bleken, the brother of the child’s father.
+Maria Elisabeth Möller. He was named Johann Heinrich by the youngest
+Bleken, the brother of the child's father.
 ....
 
 
 [bibliography]
 == Citations
 
-* [[[PET-B-1770a]]] "Archion Protestant Kirchenbücher Portal", database
+* [[[PET-B-1770a]]] "Archion Protestant KirchenbÃ¼cher Portal", database
 with images, _Archion_ (https://www.archion.de/p/cb78f2bd89/ : 2 Feb.
-2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
+2026), path: Niedersachsen > NiedersÃ¤chsisches Landesarchiv > KirchenbÃ¼cher
 der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften und Konfirmierten 1641-1784, image 231 of 322
 
