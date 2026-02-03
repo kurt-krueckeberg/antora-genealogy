@@ -114,6 +114,30 @@ know from the Petzen church records resided at no. 11 Evesen.
   brother-in-law
 * Jobst Heinrich will in 18?? purchase the Söhre Weide.
 
+=== Evidence that Hans Heinrich Wilharm was Carl Friedrich Gottlieb's Brother-in-law
+
+On March 13, 1803, Carl Friedrich Gottlieb Krückeberg of no. 10 Berenbusch
+xref:petzen:PET-M-1803a.adoc[married] Philippine Eleonore Werkmeister of
+no. 11 Evesen, whose mother was Ilse Maria. Ilse is short for
+Elisabeth. Her full name was Anna Maria Elisabteh.
+
+When Ilse Marie married Philippine Eleonore's father on
+xref:PET-M-1780a.adoc[June 11, 1780], it
+was her second marraige. The xref:petzen:PET-M-1780a.adoc[marriage record]
+said the bride was *Maria Ilse Maria née Möller, widow of Bleke*. Her fist
+marriage was to Johann Heinrich Bleke of no. 11 Evesen on
+xref:petzen:PET-M-1770a.adoc[February 18, 1770]. This marriage produced
+four children, all born at no. 11 Evesen:
+
+.Children of Johann Heinrich Bleke and Anna Maria Elisabeth Möller
+|===
+|Child|Baptism Date|Family Residence
+
+|
+|===
+
+TODO: Complete
+
 [IMPORTANT]
 ====
 The now have another cruical bit of information. We know know that Hans
