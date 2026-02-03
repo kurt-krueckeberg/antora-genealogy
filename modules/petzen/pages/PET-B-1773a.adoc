@@ -1,6 +1,32 @@
 = 1773 Anna Maria Philippina Blecken Baptism
 :page-role: wide
 
+== Family Relationships
+
+.Child of Johann Heinrich Bleke and Anna Maria Elisabeth Möller
+[cols="4,2,3,4,4",width="85%"]
+|===
+|Child|Baptism Date|Family Residence|Father|Mother
+
+|Anna Maria Phlippina
+|xref:petzen:PET-B-1773a.adoc[11 July 1773]
+|no. 11 Evesen
+|Johann Heinrich Blecken
+|Anna Maarie Elisabeth Möller
+|===
+
+.Sponsors
+[cols="1,1",width="50%"]
+|===
+|Name|Residence
+
+|Annne Engel Möller
+|Heßen
+
+|Christine Hartman
+|no. 9 Evesen
+|===
+
 [.narrow]
 == Citation
 
