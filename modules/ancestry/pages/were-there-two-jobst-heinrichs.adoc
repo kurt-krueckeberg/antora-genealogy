@@ -133,7 +133,21 @@ four children, all born at no. 11 Evesen:
 |===
 |Child|Baptism Date|Family Residence
 
-|
+|Johann Heinrich Bleke
+|xref:petzen:PET-B-1770a.adoc[7 Oct. 1770]
+|no. 11 Evesen
+
+|Anna Maria Phlippina
+|xref:petzen:PET-B-1773a.adoc[11 July 1773]
+|no. 11 Evesen
+
+|Anna Ilsa Margaretha
+|xref:petzen:PET-B-1775c.adoc[17 Dec. 1775]
+|no. 11 Evesen
+
+|Sophia Ernestine 
+|xref:petzen:PET-B-1778b.adoc[11 Sep. 1778]
+|Evesen, num. not given
 |===
 
 TODO: Complete
