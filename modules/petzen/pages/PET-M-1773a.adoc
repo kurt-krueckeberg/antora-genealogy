@@ -1,4 +1,4 @@
-= 1770 Johann Heinrich Bleke Marriage
+= 1773 Widower Johann Heinrich Krückkeberg Marriage
 :page-role: wide
 
 == Family Relationship 
@@ -10,22 +10,29 @@
 Date|Locality (at time
 of marriage)
 
-|*Groom*|Johann Heinrich Bleke|Feb. 18 1770|no. 11 Evesen
+|*Groom*|Johann Heinrich Kruckkeberg, widower|Nov. 7 1773|Berenbusch
 
-|*Bride*|Anna Maria Elisabeth Möller|Feb. 18 1770|Heeßen
+|*Bride*|Ilse Anna Marie Elisabeth née Schakel|Nov. 7 1773|Päpinghausen
+|===
+
+.Other Facts
+[%header,width="65%"]
+|===
+|Person|Fact
+
+|Johann Heinrich Kruckkeberg|Widower at time of marriage
 |===
 
 [.narrow]
 == Citation
 
-The February 18, 1770, marriage of Johann Heinrich Bleke from no. Evesen to
-Anna Maria Elisabeth Moeller is on <<PET-M-1770a, image 58>> of the Petzen
-"Verzeichnis der Getrauten und Gestorbenen, 1641-1784" on
-link:htttps://archion.de[Archion.de].
+The November 7, 1773, marriage of Johann Heinrich Krükkeberg from Bernbusch to Ilse Anna Maria Elisabeth
+née Schakel from Päpinghausen is on <<PET-M-1773a, image 61>>, the last entry on the left-hand page (the pages
+are unnumbered), of the Petzen "Verzeichnis der Getrauten und Gestorbenen, 1641-1784".
 
 == Image of Marriage Record
 
-image::petzen-band1b-img61.jpg[title="Johann Heinrich Bleke Marriage(Click to enlarge)",link=self]
+image::petzen-band1b-img61.jpg[title="Johann Heinrich Krückeberg Marriage(Click to enlarge)",link=self]
 
 [.narrow]
 == Transliteration and Translation
@@ -33,25 +40,42 @@ image::petzen-band1b-img61.jpg[title="Johann Heinrich Bleke Marriage(Click to en
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
-d 18t Febr ist copuliert Johann Heinrich Bleke aus Evesen no. 11 mit Anna
-Maria Elisabeth Moellern aus Heeßen.
+           ANNO 1773
+
+1) [omitted]
+
+2) d 7ten Novbr ist copuliert Johann Heinrich Kruckeberg
+          ein Wittwer aus Berenbusch mit Ilse Anna Maria
+          Elisabeth geb. Schakeln aus Päpinghausen
 ....
 
+[IMPORTANT]
+====
+The *"n"* ending on Schakeln in the marriage record apparently serves merely to indicate
+this is a female's surname. In the marriage records for this time period all the bride's surname
+ended with either an appended *"n"* or *"s"*. 
+====
 
 .Translation
 [literal.bordered,subs="verbatim,quotes"]
 .... 
-On Feb. 18th Johann Heinrich Bleke from Evesen no. 11 married Anna
-Maria Elisabeth Möller from Heeßen.
+          ANNO 1773
+
+1) [omitted]
+
+2) The 7th Nov. Johann Heinrich Kruckeberg
+          a widower from Berenbusch married Ilse Anna Maria
+          Elisabeth née Schakel from Päpinghausen
 ....
 
 
 [bibliography]
 == Citations
 
-* [[[PET-M-1770a]]] "Archion Protestant Kirchenbücher Portal", database
-with images, _Archion_ (https://www.archion.de/p/bbad2b69c3/ : 3 February 2026) , path: Niedersachsen > Niedersächsisches Landesarchiv >
+* [[[PET-M-1773a]]] "Archion Protestant Kirchenbücher Portal", database
+with images, _Archion_ (https://www.archion.de/p/9019ad1c2c/ : 15 July
+2025) , path: Niedersachsen > Niedersächsisches Landesarchiv >
 Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe >
-Petzen > Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 58 of
+Petzen > Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 61 of
 239
 

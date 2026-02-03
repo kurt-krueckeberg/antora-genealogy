@@ -1,12 +1,25 @@
 = 1770 Johann Heinrich Blecken Baptism
 :page-role: wide
 
+== Family Relationships and Other Facts
+
+[cols="3,3,3,2",width="70%"]
+|===
+|Infant|Father|Mother|Baptism Date
+
+|Johann Heinrich Blecken
+|Johann Heinrich Blecken
+|Anna Maria Elisabeth M�ller
+|7 Oct. 1770
+|===
+
 [.narrow]
 == Citation
 
-The baptism of Johann Heinrich Blecken is on <<PET-B-1770a, image 231>> of
-the "Verzeichnis der Getauften und Konfirmierten 1641-1784" available on
-the Protestant Kirchenbücher portal link:https://archion.de[Archion.de].
+The October 7, 1770, baptism of Johann Heinrich Blecken is on
+<<PET-B-1770a, image 231>> of the "Verzeichnis der Getauften und
+Konfirmierten 1641-1784" available on the Protestant Kirchenbücher portal
+link:https://archion.de[Archion.de].
 
 == Image
 
@@ -20,18 +33,17 @@ image::petzen-band1a-img231-blecken.jpg[align=left,title='Johan Heinrich Blecken
 ....
 d 7t Octobr hat die h. Tauffe empfangen des Johann Heinrich
 Blecken aus Evesen No 11 mit seiner Ehefrau Anna
-Maria Elisabeth Möllern erzeugtes Söhnlein. Er wurde
-benant Johan Heinrich von dem jünigsten Bleken des
+Maria Elisabeth Moellern erzeugtes S�hnlein. Er wurde
+benant Johan Heinrich von dem j�nigsten Bleken des
 Kindes Vaters Brüdern.
 ....
-
 
 .Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
 On the 7th of October, the holy baptism was received by the little son
 begotten by Johann Heinrich Bleken of Evesen no. 11 with his wife Anna
-Maria Elisabeth Möller. He was named Johann Heinrich by the youngest
+Maria Elisabeth M�ller. He was named Johann Heinrich by the youngest
 Bleken, the brother of the child’s father.
 ....
 
