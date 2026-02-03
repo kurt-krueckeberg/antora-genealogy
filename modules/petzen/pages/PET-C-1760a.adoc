@@ -1,0 +1,33 @@
+= 1760 Johann Heinrich Bleke Confirmation
+:page-role: wide
+
+[.narrow]
+== Citation
+
+This 1760 confirmation of Johann Heinrich Bleke is found on <<PET-C-1760a,
+image 311>> of the Petzen " Verzeichnis der Getauften und Konfirmierten
+1641-1784" on link:https://archion.de[Archion.de].
+
+
+== Image
+
+image:petzen-band1a-img311.jpg[title=Johann Heinrich Bleke Confirmation,link=self]
+
+[.narrow]
+== Transliteration
+
+
+[literal.bordered,subs="verbatim,quotes"]
+....
+Johann Heinrich Bleke Evesen
+....
+
+
+[bibliography]
+== Citations
+
+* [[[PET-C-1760a]]] "Archion Protestant Kirchenbücher Portal", database
+  with images, _Archion_ (http://www.archion.de/p/62093969d6/: 30 October
+2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
+der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getauften und Konfirmierten 1641-1784, image 311 of 322

@@ -59,6 +59,7 @@
 ** xref:petzen:PET-B-1730b.adoc[]
 ** xref:petzen:PET-B-1746a.adoc[]
 ** xref:petzen:PET-B-1755a.adoc[]
+** xref:petzen:PET-C-1760a.adoc[]
 ** xref:petzen:PET-B-1770a.adoc[]
 ** xref:petzen:PET-B-1773a.adoc[]
 ** xref:petzen:PET-B-1775a.adoc[]
