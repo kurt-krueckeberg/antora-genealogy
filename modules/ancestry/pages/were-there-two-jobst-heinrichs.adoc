@@ -118,20 +118,25 @@ know from the Petzen church records resided at no. 11 Evesen.
 
 On March 13, 1803, Carl Friedrich Gottlieb Krückeberg of no. 10 Berenbusch
 xref:petzen:PET-M-1803a.adoc[married] Philippine Eleonore Werkmeister of
-no. 11 Evesen, whose mother was Ilse Maria. Ilse is short for
-Elisabeth. Her full name was Anna Maria Elisabteh.
+no. 11 Evesen, whose mother was Ilse Maria. Ilse Maria's 1754
+xref:petzen:PET-C-1754a[confirmation] gives her name as
+*Anna Ilsabey Möller*. *Ilsabey* is a regional, phonetic compound form of
+Elisabeth (Ilsa/Ilse + bey/beÿ) , and *Ilse* and *Ilsa* are shorten forms derived
+from its first element. 
+
+By examinng the birth records of her child, we find full name was Anna Maria Elisabteh. 
 
 When Ilse Marie married Philippine Eleonore's father on
 xref:PET-M-1780a.adoc[June 11, 1780], it
 was her second marraige. The xref:petzen:PET-M-1780a.adoc[marriage record]
-said the bride was *Maria Ilse Maria née Möller, widow of Bleke*. Her fist
-marriage was to Johann Heinrich Bleke of no. 11 Evesen on
+gives the bride as *Maria Ilse Maria née Möller, widow of Bleke*. Her fist
+marriage was to Johann Heinrich Bleke of no. 11 Evesen, which occurred on
 xref:petzen:PET-M-1770a.adoc[February 18, 1770]. This marriage produced
 four children, all born at no. 11 Evesen:
 
 .Children of Johann Heinrich Bleke and Anna Maria Elisabeth Möller
 |===
-|Child|Baptism Date|Family Residence
+|Child|Baptism Date|Family Residence|Mother|Father
 
 |Johann Heinrich Bleke
 |xref:petzen:PET-B-1770a.adoc[7 Oct. 1770]
@@ -147,7 +152,8 @@ four children, all born at no. 11 Evesen:
 
 |Sophia Ernestine 
 |xref:petzen:PET-B-1778b.adoc[11 Sep. 1778]
-|Evesen, num. not given
+|Evesen, +
+num. not given
 |===
 
 TODO: Complete
