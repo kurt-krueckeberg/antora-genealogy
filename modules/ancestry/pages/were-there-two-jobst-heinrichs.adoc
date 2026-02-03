@@ -110,6 +110,9 @@ know from the Petzen church records resided at no. 11 Evesen.
   brother-in-law
 * Jobst Heinrich will in 18?? purchase the Söhre Weide.
 
+suggests that Jobst Heinrich is incorrect in the documents. It should be Carl
+Friedrich Gottlieb.
+
 === Evidence that Hans Heinrich Wilharm was Carl Friedrich Gottlieb's Brother-in-law
 
 On March 13, 1803, Carl Friedrich Gottlieb Krückeberg of no. 10 Berenbusch
@@ -120,15 +123,16 @@ xref:petzen:PET-C-1754a[confirmation] gives her name as
 Elisabeth (Ilsa/Ilse + bey/beÿ) , and *Ilse* and *Ilsa* are shorten forms derived
 from its first element. 
 
-By examinng the birth records of her children, we find her full name was Anna Maria Elisabteh. 
+By examinng the birth records of her children, we find her full name was
+Anna Maria Elisabeth. 
 
-When Ilse Marie married Philippine Eleonore's father on
-xref:PET-M-1780a.adoc[June 11, 1780], Heinrich Tönnes Werkmeister, it
-was her second marraige. The xref:petzen:PET-M-1780a.adoc[marriage record]
-gives the bride as *Maria Ilse Maria née Möller, widow of Bleke*. She was
-previously married to Johann Heinrich Bleke of no. 11 Evesen, which occurred on
-xref:petzen:PET-M-1770a.adoc[February 18, 1770]. This marriage produced
-four children, all born at no. 11 Evesen:
+When Ilse Marie married Philippine Eleonore's father, Heinrich Tönnes
+Werkmeister,  on xref:PET-M-1780a.adoc[June 11, 1780], it was her second
+marraige. The xref:petzen:PET-M-1780a.adoc[marriage record] lists her as
+*Maria Ilse Maria née Möller, widow of Bleke*, since she was previously
+married to Johann Heinrich Bleke of no. 11 Evesen. This ccurred on
+xref:petzen:PET-M-1770a.adoc[February 18, 1770]. Four children resulted,
+all born at no. 11 Evesen:
 
 .Children of Johann Heinrich Bleke and Anna Maria Elisabeth Möller
 |===
@@ -144,7 +148,7 @@ four children, all born at no. 11 Evesen:
 |xref:petzen:PET-B-1773a.adoc[11 July 1773]
 |no. 11 Evesen
 |Johann Heinrich Blecken
-|Anna Maarie Elisabeth Möller
+|Anna Marie Elisabeth Möller
 
 |Anna Ilsa Margaretha
 |xref:petzen:PET-B-1775c.adoc[17 Dec. 1775]
@@ -160,15 +164,16 @@ four children, all born at no. 11 Evesen:
 |===
 
 On October 10, 1779, Johann Heinrich Bleke died of a "bösartige Fieber", 
-malignant fever, at age  34¼. His widow remarried Heinrich Tönnis
+a malignant fever, at age  34¼. His widow married Heinrich Tönnis
 Werkmeiter the next year.
 
-As we have seen, this second marriage produced a daughter, Philippina
+As we have seen, Ilse Maria's second marriage produced a daughter, Philippina
 Eleonore Werkmeister, who was xref:petzen:PET-B-1783a.adoc[baptized on May
-4, 1783].
+4, 1783]. She married Carl Friedrich Gottlieb Krückeberg on
+xref:petzen:PET-M-1893a.adoc[March 13, 1803]. She was still living at no.
+11 Evesen. He was living at no. 10 Berenbusch.
 
 
-TODO: Complete
 
 [IMPORTANT]
 ====
