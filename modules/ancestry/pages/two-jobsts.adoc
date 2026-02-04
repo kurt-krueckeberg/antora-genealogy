@@ -136,7 +136,7 @@ xref:petzen:PET-M-1770a.adoc[February 18, 1770]. The births of their four childr
 shows the family resided at no. 11 Evesen:
 
 .Children of Johann Heinrich Bleke and Anna Maria Elisabeth Möller
-[%header,cols="4,2,3,4,4"]
+[%header,cols="4,3,3,4,4"]
 |===
 |Child|Link to Baptism Record|Family Residence|Father|Mother
 
