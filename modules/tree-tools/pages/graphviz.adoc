@@ -29,11 +29,14 @@ digraph Family {
 
   Father [label="Johann Heinrich Krückeberg\n* 1768\n† 1832"];
   Mother [label="Anna Maria Elisabeth Möller\n* 1771\n† 1814"];
+
+  Marriage [shape=point width=0.01 label=""];
+
   Child1 [label="Anna Maria Philippina Blecke\n* 1773"];
 
-  Father -> Child1 [label="father"];
-  Mother -> Child1 [label="mother"];
-  Father -> Mother [dir=none label="m. 1792"];
+  Father -> Marriage [dir=none];
+  Mother -> Marriage [dir=none];
+  Marriage -> Child1;
 }
 ----
 
