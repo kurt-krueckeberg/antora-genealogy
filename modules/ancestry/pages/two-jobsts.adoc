@@ -119,6 +119,13 @@ Friedrich Gottlieb.
 
 TODO: mention hans heinrich wilharm was a baptism sponsor.
 
+TODO: mention their married half sisters. Traces each marriage
+marriages.
+
+TODO: mention no. Evesen is significant. Bring it into the story. 
+
+
+
 On March 13, 1803, Carl Friedrich Gottlieb Krückeberg of no. 10 Berenbusch
 xref:petzen:PET-M-1803a.adoc[married] Philippine Eleonore Werkmeister of
 no. 11 Evesen, whose mother was Ilse Maria. Ilse Maria's 1754
@@ -169,7 +176,7 @@ shows the family resided at no. 11 Evesen:
 |===
 
 On xref:petzen:PET-D-1779a.adoc[October 10, 1779], Johann Heinrich Bleke
-died of a "bösartige Fieber", a malignant fever, age 34¼. His widow, Anna
+age only 34 died of a "bösartige Fieber", a malignant fever. His widow, Anna
 Ilsabey Möller, xref:petzen:PET-M-1780a.adoc[married Heinrich Tönnis
 Werkmeiter] the next year.
 
