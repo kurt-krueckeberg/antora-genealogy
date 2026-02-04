@@ -1,12 +1,33 @@
 = Were There Two Jobst Heinrichs by 1808
 
+REWRITE:
+
+In document 1, Jobst Heinrich K asks....TODO...
+
+In reply to xref:nla:146:doc1.adoc[Jobst
+Heinrich's Petition], the Rentkammer directs the Bückeburg and Arensburg
+Ämter "report on the financial circumstances and on the personal qualities
+of the petitioner."
+
+The report states:
+
+[arabic,start=1]
+. He and his wife were born in Evesen.
+. His profession is a tailor whose business is in and around Berenbusch.
+. He and his wife are known to have an excellent reputation and are hardworking.
+. His father was an Ackervogt in the Arensburg area.
+. His father may have given him an inheritance since he only needs a load
+  of 200 Rtl.
+
+What are the implications of the report?
+
 == Evidence for Two Jobst Heinrichs
 
 The Rentkammer case file concerning *"Die Stätte Nr. 18 zu Berenbusch"*
 (The holding no. 18 in Berenbusch) TODO:footnote here does not use _Neubau_
 or _Neubauer_; however, its documents do:
 
-* The *Ämterbericht (1808)* evaluates the petitioner’s *eligibility* for a
+* The xref:nla:146:doc2.adoc[] dated October 21, 1808, 808)* evaluates the petitioner’s *eligibility* for a
   Neubauereÿ That evaluation is required *only* for someone who does *not
 yet hold a Stätte*.
 * The petitioner is first described as *Einlieger*; later documents shift
