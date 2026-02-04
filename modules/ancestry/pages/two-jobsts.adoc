@@ -130,10 +130,10 @@ Anna Maria Elisabeth.
 When Ilse Marie married Philippine Eleonore's father, Heinrich Tönnes
 Werkmeister,  on xref:petzen:PET-M-1780a.adoc[June 11, 1780], it was her second
 marraige. The xref:petzen:PET-M-1780a.adoc[marriage record] lists her as
-*Maria Ilse Maria née Möller, widow of Bleke*, since she was previously
-married to Johann Heinrich Bleke of no. 11 Evesen. This ccurred on
-xref:petzen:PET-M-1770a.adoc[February 18, 1770]. Four children resulted,
-all born at no. 11 Evesen:
+*Maria Ilse Maria née Möller, widow of Bleke*.
+This previous marriage to Johann Bleke, no. 11 Evesen, ccurred on
+xref:petzen:PET-M-1770a.adoc[February 18, 1770]. The births of their four children
+shows the family resided at no. 11 Evesen:
 
 .Children of Johann Heinrich Bleke and Anna Maria Elisabeth Möller
 [%header,cols="4,2,3,4,4"]
