@@ -1,3 +1,5 @@
+= Minimal Know-How Needed
+
 Below is a *minimal, bounded skill set* that will let you create _clear,
 publication-ready mini family trees_ without learning the rest of the
 system.
