@@ -2,8 +2,14 @@
 
 == Jobst Heinrich Krückeberg and NLA 146
 
-Analyze the NLA 146 documents using the background information at
+Analyze the NLA 146 case file documents. Use the ChatGPT the background information at
 xref:genealogy:ancestry:two-jobsts.adoc[].
+
+Analyze the first document in light of the chatgpt comments that said there
+must be two Jobst Heinrichs.
+
+Read the other document and especially examine the instances of Jobst
+Heinrich.
 
 Write up what I find in each document. Understanding terms is critical.
 
