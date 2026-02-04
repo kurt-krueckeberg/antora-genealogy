@@ -1,14 +1,11 @@
 = TODO
 
-== Confirm that Ilse Maria Möller is the correct wife of Johann Heinrich Blekcen
-
-Her name was Anna Marie Elisabeth/Ilse Möller. The birth record in 1741 has
-"Anna Catharina"?
-
 == Jobst Heinrich Krückeberg and NLA 146
 
-Rewrite the documents in gen/m/ancestry/p that concern the "two" Jobst
-Heinrichs.
+Analyze the NLA 146 documents using the background information at
+xref:genealogy:ancestry:two-jobsts.adoc[].
+
+Write up what I find in each document. Understanding terms is critical.
 
 == WRITE
 
