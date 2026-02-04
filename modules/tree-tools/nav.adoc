@@ -1,2 +1,3 @@
 * Family Tree Image Generators
-** xref:graphivz-dot.adoc[]
+** xref:setup.adoc[]
+** xref:graphviz.adoc[]
