@@ -3,7 +3,7 @@
 
 == Family and Other Relationships
 
-[cols="3,3,4,2",width="85%"]
+[cols="3,3,4,2,2",width="85%"]
 |===
 |Child|Father|Mother|Birth date|Residence
 
