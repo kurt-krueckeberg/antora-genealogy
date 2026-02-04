@@ -117,7 +117,7 @@ Friedrich Gottlieb.
 === Hans Heinrich Wilharm, no. 11 Evesen, was Carl Friedrich Gottlieb's Brother-in-law
 
 When Carl Friedrich Gottlieb Krückeberg's son, Carl Friedrich, was baptized
-on xref:petzen:PET-B-1807.adoc[May 24, 1807], Hans Heinrich Wilharm was one
+on xref:petzen:PET-B-1807a.adoc[May 24, 1807], Hans Heinrich Wilharm was one
 of his baptismal sponsors. Hans Heinrich Wilharm was related by marriage to
 Carl Friedrich Gottlieb Krückeberg. He was his brother-in-law, more
 specifically his half brother-in-law. 
@@ -147,7 +147,7 @@ shows the family resided at no. 11 Evesen:
 |===
 |Child|Link to Baptism Record|Family Residence|Father|Mother
 
-|Johann Heinrich Bleke
+|Johann Heinrich
 |xref:petzen:PET-B-1770a.adoc[7 Oct. 1770]
 |no. 11 Evesen
 |Johann Heinrich Blecken
