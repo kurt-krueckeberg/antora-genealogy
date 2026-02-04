@@ -165,9 +165,9 @@ shows the family resided at no. 11 Evesen:
 |Anne Ilse Maria Möller
 |===
 
-On October 10, 1779, Johann Heinrich Bleke died of a "bösartige Fieber", 
-a malignant fever, aage 34¼. His widow married Heinrich Tönnis
-Werkmeiter the next year.
+On xref:petzen:PET-D-1779a.adoc[October 10, 1779], Johann Heinrich Bleke
+died of a "bösartige Fieber", a malignant fever, age 34¼. His widow
+xref:petzen:PET-M-1780a.adoc[married Heinrich Tönnis Werkmeiter] the next year.
 
 As we have seen, Ilse Maria's second marriage produced a daughter,
 Philippina Eleonore Werkmeister, who was
