@@ -135,8 +135,9 @@ xref:petzen:PET-M-1770a.adoc[February 18, 1770]. Four children resulted,
 all born at no. 11 Evesen:
 
 .Children of Johann Heinrich Bleke and Anna Maria Elisabeth Möller
+[%header,cols="4,2,3,4,4"]
 |===
-|Child|Baptism Date|Family Residence|Father|Mother
+|Child|Link to Baptism Record|Family Residence|Father|Mother
 
 |Johann Heinrich Bleke
 |xref:petzen:PET-B-1770a.adoc[7 Oct. 1770]
