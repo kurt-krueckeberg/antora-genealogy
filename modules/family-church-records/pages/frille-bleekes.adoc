@@ -1,4 +1,4 @@
-= Bleeke in Frille Parish 
+= Bleekes in Frille Parish 
 
 The Bleeke church records are from these sources:
 [arabic,start=1]
@@ -21,9 +21,8 @@ Library, University of Cincinnati.
 
 The Frille duplicate church registers in the Landesarchiv NRW Abteilung Ostwestfalen-Lippe have been examined for
 the marriage records for Carl Friedrich Bleeke (1794-1853), Johann Heinrich Philip Bleeke (1797-1883) and
-Christian Friedrich Bleeke (1880-1889) are listed under the
-xref:frille-bleeke.adoc[Bleeke records].
-The birth records of their children are also there.
+Christian Friedrich Bleeke (1880-1889). The birth records of their children
+have also been examined.
 
 === How to Navigate to Frille Church Register Duplicates in NRW Detmold Archive
 
