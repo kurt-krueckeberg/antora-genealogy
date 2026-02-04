@@ -116,6 +116,9 @@ Friedrich Gottlieb.
 
 === Hans Heinrich Wilharm, no. 11 Evesen, was Carl Friedrich Gottlieb's Brother-in-law
 
+
+TODO: mention hans heinrich wilharm was a baptism sponsor.
+
 On March 13, 1803, Carl Friedrich Gottlieb Krückeberg of no. 10 Berenbusch
 xref:petzen:PET-M-1803a.adoc[married] Philippine Eleonore Werkmeister of
 no. 11 Evesen, whose mother was Ilse Maria. Ilse Maria's 1754
@@ -166,8 +169,9 @@ shows the family resided at no. 11 Evesen:
 |===
 
 On xref:petzen:PET-D-1779a.adoc[October 10, 1779], Johann Heinrich Bleke
-died of a "bösartige Fieber", a malignant fever, age 34¼. His widow
-xref:petzen:PET-M-1780a.adoc[married Heinrich Tönnis Werkmeiter] the next year.
+died of a "bösartige Fieber", a malignant fever, age 34¼. His widow, Anna
+Ilsabey Möller, xref:petzen:PET-M-1780a.adoc[married Heinrich Tönnis
+Werkmeiter] the next year.
 
 As we have seen, Ilse Maria's second marriage produced a daughter,
 Philippina Eleonore Werkmeister, who was
@@ -176,6 +180,18 @@ she married Carl Friedrich Gottlieb Krückeberg on
 xref:petzen:PET-M-1803a.adoc[March 13, 1803 marriage]. From the marriage
 record we learn she had been living at no. 11 Evesen, and he at no. 10
 Berenbusch.
+
+Hans Heinrich Wilharm also married a daughter of Ilse Marie from her first
+marraige to Johann Heinrich Bleke. On xref:petzen:PET-M-1796a.adoc[May 8,
+1796], he married her first daughter, Anne Marie Philippine Blecke of no.
+11 Evesen, who was the half-sister of Philippine Eleonore. 
+
+The day after the xref:petzen:PET-B-1797a.adoc[birth of their
+first child], on April 10, 1797, she xref:petzen:PET-D-1797a.adoc[died].
+And later that same year, Hans Heinrich Wilharm married her younger sister,
+Sophie Ernestine Blecke, on August 27, 1797. She, too, was the half-sister
+of Philippine Eleonore nee Werkmeister Krückeberg, making Hans Heinrich Wilharm and 
+Carl Friedrich Gottlieb Krückeberg half brother-in-laws.
 
 == Another Critical Piece of Information
 
