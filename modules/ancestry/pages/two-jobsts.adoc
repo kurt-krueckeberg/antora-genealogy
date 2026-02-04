@@ -116,22 +116,19 @@ Friedrich Gottlieb.
 
 === Hans Heinrich Wilharm, no. 11 Evesen, was Carl Friedrich Gottlieb's Brother-in-law
 
+When Carl Friedrich Gottlieb Krückeberg's son, Carl Friedrich, was baptized
+on xref:petzen:PET-B-1807.adoc[May 24, 1807], Hans Heinrich Wilharm was one
+of his baptismal sponsors. Hans Heinrich Wilharm was related by marriage to
+Carl Friedrich Gottlieb Krückeberg. He was his brother-in-law, more
+specifically his half brother-in-law. 
 
-TODO: mention hans heinrich wilharm was a baptism sponsor.
-
-TODO: mention their married half sisters. Traces each marriage
-marriages.
-
-TODO: mention no. Evesen is significant. Bring it into the story. 
-
-
-
-On March 13, 1803, Carl Friedrich Gottlieb Krückeberg of no. 10 Berenbusch
-xref:petzen:PET-M-1803a.adoc[married] Philippine Eleonore Werkmeister of
-no. 11 Evesen, whose mother was Ilse Maria. Ilse Maria's 1754
-xref:petzen:PET-C-1754a[confirmation] gives her name as
-*Anna Ilsabey Möller*. *Ilsabey* is a regional, phonetic compound form of
-Elisabeth (Ilsa/Ilse + bey/beÿ) , and *Ilse* and *Ilsa* are shorten forms derived
+To understand this, we begin with the March 13, 1803,
+xref:petzen:PET-M-1803a.adoc[marriage] of  Carl Friedrich Gottlieb
+Krückeberg of no. 10 Berenbusch to Philippine Eleonore Werkmeister of no.
+11 Evesen, whose mother was Ilse Maria. Ilse Maria's 1754
+xref:petzen:PET-C-1754a[confirmation] gives her name as *Anna Ilsabey
+Möller*. *Ilsabey* is a regional, phonetic compound form of Elisabeth
+(Ilsa/Ilse + bey/beÿ) , and *Ilse* and *Ilsa* are shorten forms derived
 from its first element. 
 
 By examinng the birth records of her children, we find her full name was
@@ -180,7 +177,7 @@ age only 34 died of a "bösartige Fieber", a malignant fever. His widow, Anna
 Ilsabey Möller, xref:petzen:PET-M-1780a.adoc[married Heinrich Tönnis
 Werkmeiter] the next year.
 
-As we have seen, Ilse Maria's second marriage produced a daughter,
+As mentioned aboven, Ilse Maria's second marriage produced a daughter,
 Philippina Eleonore Werkmeister, who was
 xref:petzen:PET-B-1783a.adoc[baptized on May 4, 1783]. Twenty years later
 she married Carl Friedrich Gottlieb Krückeberg on
