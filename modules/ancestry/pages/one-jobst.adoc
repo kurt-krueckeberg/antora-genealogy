@@ -29,13 +29,15 @@ Carl Friedrich Gottlieb Krückeberg. He was his brother-in-law, more
 specifically his half brother-in-law. 
 
 To understand this, we begin with the March 13, 1803,
-xref:petzen:PET-M-1803a.adoc[marriage] of  Carl Friedrich Gottlieb
+xref:petzen:PET-M-1803a.adoc[marriage] of Carl Friedrich Gottlieb
 Krückeberg of no. 10 Berenbusch to Philippine Eleonore Werkmeister of no.
 11 Evesen, whose mother was Ilse Maria. Ilse Maria's name appears as  *Anna
 Ilsabey Möller* in her  1754 xref:petzen:PET-C-1754a[confirmation record].
 *Ilsabey* is a regional, phonetic compound form of Elisabeth (Ilsa/Ilse +
 bey/beÿ), and *Ilse* and *Ilsa* are shorten forms derived from its first
 element. 
+
+image::cfg-krueckeberg-werkmeister-marriage.jpg[link=self]
 
 By examinng the birth records of her children, we find her complete given name
 was Anna Maria Elisabeth. 
@@ -96,14 +98,17 @@ marraige to Johann Heinrich Bleke. On xref:petzen:PET-M-1796a.adoc[May 8,
 1796], he married her first daughter, Anne Marie Philippine Blecke of no.
 11 Evesen, who was the half-sister of Philippine Eleonore. 
 
+image::sophie-ernestine-bleke-wilharm-tree.jpg[link=sefl]
+
 The day after the xref:petzen:PET-B-1797a.adoc[birth of their first child],
-on April 10, 1797, she xref:petzen:PET-D-1797a.adoc[died].  And later that
+on April 10, 1797, she xref:petzen:PET-D-1797a.adoc[died]. And later that
 same year, on xref:petzen:PET-M-1797a.adoc[August 27, 1797], Hans Heinrich
 Wilharm married her younger sister, Sophie Ernestine Blecke, who had 
 been living with her late sister and brother-in-law at no. 11 Evesen. She,
 too, was the half-sister of Philippine Eleonore nee Werkmeister Krückeberg,
 making Hans Heinrich Wilharm and Carl Friedrich Gottlieb Krückeberg half
 brother-in-laws.
+
 
 == Another Critical Piece of Information
 
