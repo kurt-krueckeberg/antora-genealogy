@@ -11,6 +11,7 @@
 * xref:merging-the-two-lines.adoc[]
 ** xref:no-10-berenbusch-residents.adoc[]
 ** xref:two-jobsts.adoc[]
+** xref:one-jobst.adoc[]
 ** xref:one-or-two-jobst-heinrichs.adoc[]
 ** xref:who-is-the-father-of-jobst-heinrich.adoc[]
 ** xref:jhk-1744-events.adoc[]
