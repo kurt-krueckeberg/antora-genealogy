@@ -23,21 +23,21 @@ Friedrich Gottlieb.
 == Hans Heinrich Wilharm, no. 11 Evesen, was Carl Friedrich Gottlieb's Brother-in-law
 
 When Carl Friedrich Gottlieb Krückeberg's son, Carl Friedrich, was baptized
-on xref:petzen:PET-B-1807a.adoc[May 24, 1807], Hans Heinrich Wilharm was one
-of his baptismal sponsors. Hans Heinrich Wilharm was related by marriage to
-Carl Friedrich Gottlieb Krückeberg. He was his brother-in-law, more
-specifically his half brother-in-law. 
+on xref:petzen:PET-B-1807a.adoc[May 24, 1807], Hans Heinrich Wilharm was
+one of his baptismal sponsors. Hans Heinrich Wilharm was related by
+marriage to Carl Friedrich Gottlieb Krückeberg. He was his brother-in-law,
+more specifically his half brother-in-law. 
 
 To understand this, we begin with the March 13, 1803,
 xref:petzen:PET-M-1803a.adoc[marriage] of Carl Friedrich Gottlieb
 Krückeberg of no. 10 Berenbusch to Philippine Eleonore Werkmeister of no.
 11 Evesen, whose mother was Ilse Maria. Ilse Maria's name appears as  *Anna
 Ilsabey Möller* in her  1754 xref:petzen:PET-C-1754a[confirmation record].
-*Ilsabey* is a regional, phonetic compound form of Elisabeth (Ilsa/Ilse +
+*Ilsabey* is a regional, phonetic compound form of Elisabeth (Ilsa/Ilse `+`
 bey/beÿ), and *Ilse* and *Ilsa* are shorten forms derived from its first
 element. 
 
-image::cfg-krueckeberg-werkmeister-marriage.jpg[width=80%,link=self]
+image::cfg-krueckeberg-werkmeister-marriage.jpg[width=250,link=self]
 
 By examinng the birth records of her children, we find her complete given name
 was Anna Maria Elisabeth. 
@@ -98,7 +98,7 @@ marraige to Johann Heinrich Bleke. On xref:petzen:PET-M-1796a.adoc[May 8,
 1796], he married her first daughter, Anne Marie Philippine Blecke of no.
 11 Evesen, who was the half-sister of Philippine Eleonore. 
 
-image::sophie-ernestine-bleke-wilharm-tree.jpg[link=sefl]
+image::sophie-ernestine-bleke-wilharm-tree.jpg[link=self]
 
 The day after the xref:petzen:PET-B-1797a.adoc[birth of their first child],
 on April 10, 1797, she xref:petzen:PET-D-1797a.adoc[died]. And later that
