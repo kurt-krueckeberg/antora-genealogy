@@ -1,13 +1,7 @@
 = Bückeburg Archive Research
 :page-role: wide
 
-== TODO
-
-Currently doing what this chatgpt thread suggests: https://chatgpt.com/c/696e7c54-f6bc-832a-881e-c6cadca7ee13
-I have navigated to *NLA BU > L 101a > Amtsbücher und Register* and am
-fopllowing Step 2.
-
-== TODO Part2: Genealogy-related archive files
+== TODO Genealogy-related archive files
 
 link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v4960498&icomefrom=search[Genealogische
 Unterlagen].
@@ -38,26 +32,6 @@ Einliegern, besonders im Amt Bückeburg]
 |===
 
 === Other Documents
-
-Document Identitifer:
-Document Title:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4869389[Namensverzeichnis sämtlicher Kolonen der Ämter Bückeburg und Arensburg, mit Nummerierung der sämtlichen Häuser.
-(Microfiches vorhanden!)]
-
-In *NLA BU L 101a A Nr. 140*, locate the *earliest entries for Berenbusch.* +
-Identify *Nr. 10*. Record:
-
-* Name listed
-* Any marginal notes
-* Any predecessor references
-* Any date attached to the entry
-
-Document Identifier:link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4869409[NLA BU L 101a A Nr. 84b]
-
-Document Title:
-link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4869409[Vermessungsregister
-des Amtes Bückeburg. (fortgeführt bis 1745)  ]
-
-=== Instructions for Examining
 
 Objective: Determine whether the register shows a change of holder before
 1743–1744, and if possible, narrow the transition window between Kuhlmann
