@@ -1,6 +1,12 @@
 = Bückeburg Archive Research
 :page-role: wide
 
+== *TODO:*
+
+For other prospective documents, see
+link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894569[Nds. Landesarchiv, Abt. Bückeburg
+L 2 Alte Regierungsregistratur]
+
 [[prospective]]
 [.narrow]
 === Prospective that Mention Krückebergs in Berenbusch 1700-1760
