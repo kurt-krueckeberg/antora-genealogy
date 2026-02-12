@@ -1,13 +1,16 @@
 = Bückeburg Archive Research
 :page-role: wide
 
-== *TODO:*
+== TODO
 
-For other prospective documents, see
-link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894569[Nds. Landesarchiv, Abt. Bückeburg
-L 2 Alte Regierungsregistratur].
+Currently doing what this chatgpt thread suggests: https://chatgpt.com/c/696e7c54-f6bc-832a-881e-c6cadca7ee13
+I have navigated to *NLA BU > L 101a > Amtsbücher und Register* and am
+fopllowing Step 2.
 
-From *Landesvermessung und Statistik* the document below is to be searched.
+== TODO Part2: Genealogy-related archive files
+
+link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v4960498&icomefrom=search[Genealogische
+Unterlagen].
 
 [[prospective]]
 [.narrow]
