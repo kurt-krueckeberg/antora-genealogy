@@ -1,5 +1,7 @@
 = TODO
 
+== Coomplete Bueckeburg Research TODOES
+
 == Jobst Heinrich Krückeberg and NLA 146
 
 Analyze the NLA 146 case file documents. Use the ChatGPT the background information at
