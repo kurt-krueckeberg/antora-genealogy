@@ -43,10 +43,9 @@ Document Identitifer:
 Document Title:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4869389[Namensverzeichnis sämtlicher Kolonen der Ämter Bückeburg und Arensburg, mit Nummerierung der sämtlichen Häuser.
 (Microfiches vorhanden!)]
 
-What to do: +
 In *NLA BU L 101a A Nr. 140*, locate the *earliest entries for Berenbusch.* +
-Identify *Nr. 10*. +
-Record: +
+Identify *Nr. 10*. Record:
+
 * Name listed
 * Any marginal notes
 * Any predecessor references
@@ -71,9 +70,8 @@ and Krückeberg.
 |link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4869389[NLA BU L 101a A Nr. 140]
 |link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4869409[Namensverzeichnis sämtlicher Kolonen
 der Ämter Bückeburg und Arensburg, mit Nummerierung der sämtlichen Häuser.]
-|Locate the *earliest entries for Berenbusch.* +
-Identify *Nr. 10*. +
-Record: +
+|Locate the *earliest entries for Berenbusch.* Identify *Nr. 10*. Record:
+
 * Name listed
 * Any marginal notes
 * Any predecessor references
