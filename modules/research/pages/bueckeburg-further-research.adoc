@@ -20,7 +20,7 @@ Examine for Krückebergs in the time period of 1700 to circa 1760. I would
 like transliterations, translation and images of pages in these
 documents were Krückebergs in Berenbusch are mentioned.
 
-[cols="2,6a,1",width="75%"]
+[cols="2,6a,1"]
 |===
 |Identifier|Deonotation|Life span
 
@@ -63,7 +63,7 @@ Objective: Determine whether the register shows a change of holder before
 1743–1744, and if possible, narrow the transition window between Kuhlmann
 and Krückeberg.
 
-[cols="1a,3a,4a"]
+[cols="1a,3a,1,4a"]
 |====
 |Identifier|Title|Life span|What to do
 
