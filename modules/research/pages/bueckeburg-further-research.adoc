@@ -67,10 +67,6 @@ des Amtes Bückeburg (fortgeführt bis 1745)]
 . Record any dates connected to name changes.
 |====
 
-=== Objective
-
-Determine whether the register shows a change of holder before 1743–1744, and if possible, narrow the transition window between Kuhlmann and Krückeberg
-
 == Has this Been Search--I Believe so?
 
 Check this document to see what Dr. Möhle researched: xref:moehle_transliterations_buekckeburg.adoc[].
