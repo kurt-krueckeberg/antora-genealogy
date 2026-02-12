@@ -64,7 +64,7 @@ Objective: Determine whether the register shows a change of holder before
 1743–1744, and if possible, narrow the transition window between Kuhlmann
 and Krückeberg.
 
-[cols="1,3,4a"]
+[cols="1a,3a,4a"]
 |====
 |Identifier|Title|What to do
 
@@ -80,7 +80,8 @@ Record: +
 * Any date attached to the entry
 
 |link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4869409[NLA BU L 101a A Nr. 84b]
-|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4869409[Vermessungsregister des Amtes Bückeburg (fortgeführt bis 1745)
+|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4869409[Vermessungsregister
+des Amtes Bückeburg (fortgeführt bis 1745)]
 |Go directly to the section for Berenbusch.
 
 [arabic,start=1]
