@@ -5,11 +5,13 @@
 
 For other prospective documents, see
 link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894569[Nds. Landesarchiv, Abt. Bückeburg
-L 2 Alte Regierungsregistratur]
+L 2 Alte Regierungsregistratur].
+
+From *Landesvermessung und Statistik* the document below is to be searched.
 
 [[prospective]]
 [.narrow]
-=== Prospective that Mention Krückebergs in Berenbusch 1700-1760
+=== Prospective Documents that Might Mention Krückebergs in Berenbusch 1700-1760
 
 Examine for Krückebergs in the time period of 1700 to circa 1760. I would
 like transliterations, translation and images of pages in these
