@@ -27,12 +27,16 @@ der Dörfer Evesen, Berenbusch und Nordholz]
 
 (Special survey of the villages of Evesen, Berenbusch, and Nordholz)
 |1734-1742
+
+|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894184[NLA BU L 2 E Nr. 46]
+|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894184[Erhebung von Schutzgeldern und Kontributionen von
+Einliegern, besonders im Amt Bückeburg]
+|1745-1775
 |===
 
 == Has this Been Search--I Believe so?
 
-Check this document to see what Dr. Möhle researched:
-xref:moehle_transliterations_buekckeburg.adoc[].
+Check this document to see what Dr. Möhle researched: xref:moehle_transliterations_buekckeburg.adoc[].
  
 The six documents above _are_ the non-church record base for reconstructing every named Berenbusch
 Krückeberg ca. 1700–1760 that will, we hope, allow us to identify every Krückeberg household that
