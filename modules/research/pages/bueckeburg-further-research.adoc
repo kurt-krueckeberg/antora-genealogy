@@ -8,7 +8,7 @@ Unterlagen].
 
 [[prospective]]
 [.narrow]
-=== Prospective Documents that Might Mention Krückebergs in Berenbusch 1700-1760
+== Prospective Documents that Might Mention Krückebergs in Berenbusch 1700-1760
 
 Examine for Krückebergs in the time period of 1700 to circa 1760. I would
 like transliterations, translation and images of pages in these
@@ -31,11 +31,13 @@ Einliegern, besonders im Amt Bückeburg]
 |1745-1775
 |===
 
-=== Other Documents
+== Other Documents
 
-Objective: Determine whether the register shows a change of holder before
-1743–1744, and if possible, narrow the transition window between Kuhlmann
-and Krückeberg.
+=== Objective
+
+The objective is to determine whether the register shows a change of holder before
+1743–1744, and if possible, narrow the transition window between Kuhlmann,
+the prior holder to Krückeberg, and Krückeberg.
 
 [cols="1a,3a,1,4a"]
 |====
