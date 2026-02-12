@@ -1,0 +1,178 @@
+= Bückeburg Archive Research
+:page-role: wide
+
+[[prospective]]
+[.narrow]
+=== Prospective that Mention Krückebergs in Berenbusch 1700-1760
+
+Examine for Krückebergs in the time period of 1700 to circa 1760. I would like *TIF* images of pages in these
+documents were Krückebergs in Berenbusch are mentioned.
+
+[cols="2,6a,1",width="75%"]
+|===
+|Identifier|Deonotation|Life span
+
+|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894545[NLA BU L 2 L Nr. 27/54]
+|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894545[Spezialvermessung
+der Dörfer Evesen, Berenbusch und Nordholz]
+
+(Special survey of the villages of Evesen, Berenbusch, and Nordholz)
+|1734-1742
+|===
+
+The six documents above _are_ the non-church record base for reconstructing every named Berenbusch
+Krückeberg ca. 1700–1760 that will, we hope, allow us to identify every Krückeberg household that
+existed in Berenbusch in that period.
+
+.Order of Importance for the six records above:
+[width="100%",cols="3%,49%,48%",width="75%",options="header",]
+|===
+|Priority |Document Title |Why It Matters
+
+|*1* |*Namensverzeichnis sämtlicher Kolonen der Ämter Bückeburg und
+Arensburg, mit Nummerierung der sämtlichen Häuser* |Gives every
+_householder by name_ across the two Ämter — effectively the earliest
+census of settlers. Almost certain to list any *Krückeberg* in
+Berenbusch.
+
+|*2* |*Erfassung der Haus- und Hofbesitzer im Amt Bückeburg im Rahmen
+einer Generallandesvisitation (Landesvermessung)* |Lists all farm/house
+owners — not just colonists — during the survey, by village. Complements
+the Kolonenverzeichnis.
+
+|*3* |*Protokolle über die Befragung der einzelnen Hofbesitzer in
+Evesen, Berenbusch, Nordholz und Rusbend im Rahmen der
+Generallandesvisitation (Landesvermessung)* |Q&A minutes naming each
+householder; can mention predecessors, obligations, or family details.
+
+|*4* |*Vermessung der Dörfer Evesen, Berenbusch und Nordholz* |General
+survey with land data; may include field numbers or property names but
+fewer personal names.
+
+|*5* |*Spezialvermessung der Dörfer Evesen, Berenbusch und Nordholz*
+|Detailed map-level survey; useful for matching house numbers from the
+other records but rarely rich in names.
+
+|*6* |*Lagerbuch über Ländereien, Wiesen, … und Gärten* |Land book:
+names tenants, describes holdings, and sometimes states who held them
+before/after — mainly for later continuity, not for the 1700–1760 window.
+|===
+
+== Krückeberg Records in Petzen Kirchenbücher
+
+I would like to have the event, dates and facts for any Petzen post-1828 church
+records for any Krückebergs who appear. 
+
+[.narrow]
+=== Accompanying Citations
+
+I also need an accompanying *citations* for each record. What is the name of the
+microfiche volume (or roll, etc) and where on the microfiche is it found, which
+film number or image number? We need enough information so that anyone else
+could go to the Bückeburg archive and find the record source easily and verify
+it.
+
+I would also like transcription for the records below, which are approximate
+dates.
+
+=== Petzen Marriage Records to Confirm
+
+.Krückeberg Petzen Marriages Approximate Dates
+[width="75%"]
+|===
+|Bräutigam|Braut|Heiratsdatum|Kirchspiel
+
+|Johann Heinrich Krückeberg|Caroline Sophie Weÿland |Jan. 26, 1833|Petzen
+
+|Carl Friedrich Krückeberg|Luise Dorothea Weiland|Nov. 16, 1834|Petzen
+
+|Caroline Dorothee Krückeberg|?|15 Oct. 1835|Petzen?
+|===
+
+=== Baptisms/Births and Confirmations Approximate Dates
+
+[caption="Johann Heinrich Krückeberg's Children: "]
+.Petzen Baptisms to Confirm and Transliterate
+[width="75%"]
+|===
+|Kind|Geburtsdatum|Taufe|Konfirmation
+
+|Caroline Philippine Dorathee
+|February 27, 1834
+|March 9, 1834
+|April 11, 1847 or April 23, 1848
+
+|Christine Sophie Eleonore
+|August 22, 1835
+|August 28th, 1835
+|April 30, 1849
+
+|Philippine Christine
+|June 18, 1837
+|June 24, 1837
+|Check Bückeburg Landesarchiv. Perhaps confirmed in Adams County, Indiana
+|===
+
+[caption="Carl Friedrich Krückeberg's Children: "]
+.Petzen Baptisms to Confirm and Transliterate
+[width="75%"]
+|===
+|Kind|Geburtsdatum|Taufe|Konfirmation
+
+|Carl Heinrich Wilhelm| Feb. 4, 1835|Feb. 8, 1835|April 30, 1849 or March 31,1850
+
+|Caroline Philippine|Oct. 15, 1837|Oct. 22, 1837|check in Bückeburg Landesarchiv. Perhaps confirmed in Adams County, Indiana
+
+|Caroline Philippine Sophie|Sept. 8, 1840|Sept 13, 1840|in Adams County, Indiana
+
+|Wilhelmine Christine|Sept 6, 1843|Sept 14, 1843|in Adams County, Indiana
+
+|Friedrich Wilhelm|July 23, 1846|July 30, 1846|in Adams County, Indiana
+
+|Ernst Heinrich|Feb. 6, 1850|Feb. 13, 1850|in Adams County, Indiana
+|===
+
+=== Krückeberg and Other Deaths to Confirm and Transliterate
+
+[width="75%"]
+Krückeberg Petzen Deaths
+|===
+|Name|ungefähr Sterbedatum
+
+|Carl Friedrich Gottlieb Krückeberg|13 May 1838
+
+|Philippine Eleonore nee Werkmesiter Krückeberg|16 Dec. 1840
+
+|Philippine Christine Eleonore geb. Tegtmeyer Krückeberg|8 [May?] 1849
+
+|Caroline Dorothee nee Krückeberg|14 Dec. 1869
+
+|Hans Heinrich Wilharm, n. 11 Evesen, Leibzüchter|2 May 1843
+
+|TODO: Any Others in NAchtraege|
+|===
+
+[.narrow]
+=== Krückeberg Emigration Dates to Look for
+
+The Petzen church register for the years 1849 and 1850 may indicate the dates
+xref:petzen:PET-B-1806a.adoc[Johann Heinrich Krückeberg, born 1806], and 
+xref:petzen:PET-B-1807a.adoc[Carl Friedrich Krückeberg, born 1807], emigrated.
+Johann Heinrich Krückeberg arrived November 5, 1849, in New York City, and Carl
+Friedrich Krückeberg arrived November 19, 1850.
+
+[.narrow]
+=== Familienschein des Auswanderers Carl Friedrich Krückeberg
+
+This tyepwritten document came down to me through my father's uncle who died in 1972. We do not
+know if the original version exists. It may have not been an official document. We don't know?
+
+image::families:Familienschein-des-Auswanderers.jpg[align=left,width=800,title='Familienschein des Auswanderers(Click to Enlarge)',link=self]
+
+[.narrow]
+== Bleeke Records in Original Frille Kirchenbücher
+
+We have the Fille Kirchenbuchduplikat record of the
+xref:frille:FRI-M-1826a.adoc[], but I would the original Frille record, too.
+The marriage occurred 26 November 1826 in the Frille Gemeinde.
+
