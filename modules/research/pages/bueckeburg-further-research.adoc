@@ -68,9 +68,9 @@ and Krückeberg.
 |====
 |Identifier|Title|What to do
 
-|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4869389[NLA
-BU L 101a A Nr. 140]
-|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4869409[NLA BU L 101a A Nr. 84b]
+|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4869389[NLA BU L 101a A Nr. 140]
+|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4869409[Namensverzeichnis sämtlicher Kolonen
+der Ämter Bückeburg und Arensburg, mit Nummerierung der sämtlichen Häuser.]
 |Locate the *earliest entries for Berenbusch.* +
 Identify *Nr. 10*. +
 Record: +
