@@ -68,9 +68,9 @@ and Krückeberg.
 |Identifier|Title|Life span|What to do
 
 |link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4869389[NLA BU L 101a A Nr. 140]
-|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4869409[Namensverzeichnis sämtlicher Kolonen
+|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4869389[Namensverzeichnis sämtlicher Kolonen
 der Ämter Bückeburg und Arensburg, mit Nummerierung der sämtlichen Häuser.]
-|*- 1684*
+|*1740 - 1830*
 |Locate the *earliest entries for Berenbusch.* Identify *Nr. 10*. Record:
 
 * Name listed
@@ -80,6 +80,7 @@ der Ämter Bückeburg und Arensburg, mit Nummerierung der sämtlichen Häuser.]
 
 |link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4869409[NLA BU L 101a A Nr. 84b]
 |link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4869409[Vermessungsregister
+|*- 1684*
 des Amtes Bückeburg (fortgeführt bis 1745)]
 |Go directly to the section for *Berenbusch*.
 
