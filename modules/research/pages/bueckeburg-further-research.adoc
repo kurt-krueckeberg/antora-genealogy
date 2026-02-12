@@ -1,180 +1,23 @@
 = Bückeburg Archive Research
 :page-role: wide
 
-*TODO:* reorganize
-
-This document lists the specific archival items required for conducting
-the early-period Krückeberg research (1700–1760) in the Bückeburg archive.
-It is designed to be used together with the overarching research framework
-in the Master Research Strategy:
-
-== Finding Prospective Parents of Krückebergs Born between 1736 and 1750 in Secular Records
-
-The secular records listed xref:#prospective[here] might hold the clue to the parentage of the Krückeberg
-children discussed below who were born in 1736, 1741, 1744, 1746 and 1750.
-
-[.narrow]
-=== Background to Unknown Parentage
-
-On xref:petzen:PET-M-1727a.adoc[28 September 1727] Johann Henrich Krückeberg from
-Berenbusch married Anna Marie Vahlsing from Evesen. We know of no other early 18^th^ century
-marriage in the Petzen Gemeinde, and the Kirchenbuch images for this time period are of very poor
-quality to begin with.
-
-Furthermore, we know Anna Maria Vahlsing was born in 1701 because her xref:petzen:PET-D-1757b.adoc[May
-8, 1757, death record] states she was age 56 when she died.
-
-Ten Krückeberg children were born between 1728 and 1750, one 
-has no baptism record only a burial record, likely due to dying soon after
-birth and either not being baptized or not recorded as baptized. We have proof
-that Johann Heinrich was the father of three of the ten chidren born between
-1728 and 1750, and we know that a *Jobst* Krückeberg was the father of one of
-the children. The given name of the Krückeberg father of the seven other children
-is not given.
-
-The table below summarizes what is known of the parentage of these seven children:
-
-.Krückeberg Children born/baptized between 1728 and 1750
-[cols="1,2a,4a",frame=none]
-|===
-|Event Date|Child's Name|Parentage Information in Record
-
-|xref:petzen:PET-B-1728a.adoc[Baptism July 7, 1728]
-|Johann Friedrich Krückeberg
-|His baptism record states:
-
-[literal.bordered,subs="verbatim,quotes"]
-....
-*Johann Heinrich Krückebergs* aus Berenbusch Söhnlein Johann Friedrich getauft
-....
-
-|xref:petzen:PET-B-1731a.adoc[Baptism 13 Januar 1731] 
-|Rudolphia Margaretha Elisabeth Krückeberg
-|Her baptism record states:
-[literal.bordered,subs="verbatim,quotes"]
-....
-13 Januarÿ ist Johann Heinrich Krückeberg aus
-Berenbusch Töchterl[ein]: Rudolphina Margaretha
-Elisabeth getafut. Gevatterin sind gewesen Rudolpha
-Mönhkhoffs, Margaretha Elisabeth Bormanns, Anna Elisa-
-beth Weÿland, und Anna Margareth Stedings aus
-Berenbusch
-....
-
-|xref:petzen:PET-B-1733a.adoc[Baptism 6 Sept. 1733]
-|Jobst Heinrich Krückeberg
-|His baptism record states:
-
-[literal.bordered,subs="verbatim,quotes"]
-....
-d 6th Septembr ist Johann Hinrich Krückeberg
-im Berenbusch Söhnlein Jobst Hinrich getrauft.
-....
-
-|xref:petzen:PET-D-1734a.adoc[Burial 14 Feb. 1734]|
-Unamed "small" daughter buried
-|
-[literal.bordered,subs="verbatim,quotes"]
-....
-[H?] Krückeberg von Behrenbusch ein
-Töchterlein begrab lasß.
-....
-
-|xref:petzen:PET-B-1736a.adoc[Baptism 29 Jan. 1736]
-|Dorothea Elisabeth Krückeberg
-|
-[literal.bordered,subs="verbatim,quotes"]
-....
-Krückeberg v. [B. B.] ein Töchterl[ein] tauft lassen (Krückeberg from Berenbusch had a daughter baptized.)
-....                                              
-
-|xref:petzen:PET-B-1739a.adoc[Burial 11 Feb. 1739]
-|Johann Wilhelm Krückeberg
-|His xref:petzen:PET-D-1747a.adoc[death record]
-states: +
-[literal.bordered,subs="verbatim,quotes"]
-....
-d 5t Novemb. Johann Wilhelm Krückeberg
-     Patris *Johann Heinrich Krückeberg aus Berenbusch*
-     Söhnlein begraben, alt 8 3/4 Jahr
-....
-Translation:
-[literal.bordered,subs="verbatim,quotes"]
-....
-On the 5th of November, Johann Wilhelm Krückeberg,
-son of Johann Heinrich Krückeberg from Berenbusch,
-was buried, aged 8¾ years
-....
-                                              
-|xref:petzen:PET-B-1741a.adoc[Burial 27 Dec. 1741]
-|Sophie Marie Krückeberg
-|From her xref:petzen:PET-D-1801a.adoc[death
-record]:
-
-[literal.bordered,subs="verbatim,quotes"]
-....
-Sophie Marie Krückeberg, des *Jobst Heinrich Krückeberg* nachgelaßen, blindgebohrne Tochter (Sophie Marie
-Krückeberg, surviving daughter of Jobst Heinrich Krückeberg, born blind)
-....
-
-|xref:petzen:PET-B-1744a.adoc[Baptism 19 Jan. 1744]
-|Johann Heinrich Krückeberg
-|
-[literal.bordered,subs="verbatim,quotes"]
-....
-d. 19 dito Krückeberg ein Söhnlein taufen laßen
-[benahmset = benamset = benennt] Johann Heinrich, Gevatter sind G[eorg?]
-[Frerking/Frerkung] Ahldags.  Weiland in Behrenbusch. Watermanns
-Soh[n?] von Nordholtz.
-....
-
-|xref:petzen:PET-B-1746a.adoc[Baptism 26 Oct. 1746]
-|Anna Louise Eleonore Krückeberg
-|
-[literal.bordered,subs="verbatim,quotes"]
-....
-d. 26 Oct. Anna Louisa Eleonore Krückebergs getauft
-Pater _ _ _ Krückeberg aus Berenbusch Gevatter Rödenbecks
-Tochter aus Scheye
-....
-
-|xref:petzen:PET-D-1747a.adoc[Burial 5 Nov. 1747]
-|Johann Wilhelm Krückeberg
-|
-[literal.bordered,subs="verbatim,quotes"]
-....
-d 5t Novemb. Johann Wilhelm Krückeberg
-     Patris Johann Heinrich Krückeberg aus Berenbusch
-     Söhnlein begraben, alt 8 3/4 Jahr
-....
-
-|xref:petzen:PET-B-1750a.adoc[Baptism 4 Nov. 1750]
-|Carl Philip Krückeberg
-|
-[literal.bordered,subs="verbatim,quotes"]
-....
-d. 4[ten] Novemb. Carl Philip Krückeberg
-des Leineweber Kruckebergs zu Bernbusch Sohn
-getauft: Gev[atter]. Fahlsings Sohn aus Eversen
-....
-|===
-
 [[prospective]]
-=== Prospective Secular Records for Parentage of Krückeberg Children Born in 1736, 1741, 1744, 1746 and 1750.
+[.narrow]
+=== Prospective that Mention Krückebergs in Berenbusch 1700-1760
 
-These secular records should be examined for Krückebergs in the time period
-of 1700 to circa 1760. I would like *TIF* images of pages in these
+Examine for Krückebergs in the time period of 1700 to circa 1760. I would
+like transliterations, translation and images of pages in these
 documents were Krückebergs in Berenbusch are mentioned.
 
 [cols="2,6a,1",width="75%"]
 |===
 |Identifier|Deonotation|Life span
 
-|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894545[NLA BU L 2 L Nr. 27/54]
-|xref:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894545[Spezialvermessung
+|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894545[NLA BU L 2 L Nr. 27/54]
+|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894545[Spezialvermessung
 der Dörfer Evesen, Berenbusch und Nordholz]
 
-Special survey of the villages of Evesen, Berenbusch, and Nordholz
+(Special survey of the villages of Evesen, Berenbusch, and Nordholz)
 |1734-1742
 |===
 
