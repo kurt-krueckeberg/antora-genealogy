@@ -15,7 +15,7 @@ einer Generallandesvisitation (Landesvermessung)
 Evesen, Berenbusch, Nordholz und Rusbend im Rahmen der
 Generallandesvisitation (Landesvermessung)
 
-|1745 |Vermessung der Dörfer Evesen, Berenbusch und Nordholz link:
+|1745 |Vermessung der Dörfer Evesen, Berenbusch und Nordholz
 
 |1747 |Namensverzeichnis sämtlicher Kolonen der Ämter Bückeburg und
 Arensburg, mit Nummerierung der sämtlichen Häuser.
@@ -171,8 +171,9 @@ oder kauffe es.
 Note, that his first reply indicates the prior holder of no. 10
 Berenbsuch was *Friedrich Kuhlman* and before him *Johann Tönnis Eggerding*.
 
-The third document* from 1745 also shows he is the Besitzer of no. 10
-Berenbusch*. The content of page 110 where Johann Heinrich appears is:
+The 1745 "Vermessung der Dörfer Evesen, Berenbusch und Nordholz" also shows
+he is the Besitzer of no. 10 Berenbusch*. The content of page 110 where
+Johann Heinrich appears is:
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
@@ -186,8 +187,8 @@ Ein Garten bey dem Hause  hat		¾ [Morgen]	23 [Ruten]
 Summa Summarum				¾ [Morgen]	29 [Ruten] [nach neuer Messung]
 ....
 
-The final document , the "Namensverzeichnis sämtlicher Kolonen der Ämter Bückeburg und
-Arensburg, mit Nummerierung der sämtlichen Häuser" from 1747, has on page 17 the
+The 1747 "Namensverzeichnis sämtlicher Kolonen der Ämter Bückeburg und
+Arensburg, mit Nummerierung der sämtlichen Häuser", has on page 17 the
 following information about the current and former holder of No. 10
 Berenbusch. *Note*, "modo" means: *“now”*, *“at present”*, *“currently”* or
 *“in the possession of”*.
