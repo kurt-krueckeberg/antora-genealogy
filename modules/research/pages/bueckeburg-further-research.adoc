@@ -1,11 +1,9 @@
 = Bückeburg Archive Research
 :page-role: wide
 
-== TODO Genealogy-related archive files
+== TODO
 
-link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v4960498&icomefrom=search[Genealogische
-Unterlagen].
-
+Go through chatgpt thread for otgher document. 
 
 == Genealogische Unterlagen
 
