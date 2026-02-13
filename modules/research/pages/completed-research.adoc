@@ -1,9 +1,4 @@
-= Next Bückeburg Document to Examine
-
-What are the next Bückeburg document to examine to pinpoint "Possession" of
-no. 10 Berenbusch, in addition to xref:other-prosp-next-step-docs.adoc[] 
-
-== Background
+= Completed Research 
 
 Dr. Sylvia Möhle examined these documents for me from the Bückeburg
 regional archive of Lower Saxony, Germany, shown below in an AsciiDoc
@@ -168,11 +163,11 @@ der Waldung
 oder kauffe es.
 ....
 
-Note, that his first reply seems to indicate the prior holder of no. 10
-Berenbsuch was Friedrich Kuhlman and before him Johann Tönnis Eggerding.
+Note, that his first reply indicates the prior holder of no. 10
+Berenbsuch was *Friedrich Kuhlman* and before him *Johann Tönnis Eggerding*.
 
-The third document from 1745 also shows he is the Besitzer of no. 10
-Berenbusch. The content of page 110 where Johann Heinrich appears is:
+The third document* from 1745 also shows he is the Besitzer of no. 10
+Berenbusch*. The content of page 110 where Johann Heinrich appears is:
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
@@ -186,7 +181,13 @@ Ein Garten bey dem Hause  hat		¾ [Morgen]	23 [Ruten]
 Summa Summarum				¾ [Morgen]	29 [Ruten] [nach neuer Messung]
 ....
 
-The final document from 1747 has on page 17 this information:
+The final document from 1747, the "Namensverzeichnis sämtlicher Kolonen der Ämter Bückeburg und
+Arensburg, mit Nummerierung der sämtlichen Häuser", has on page 17 the
+following information. *Note*, "modo" means.
+
+----
+“now,” “at present,” “currently,” or “in the possession of.”
+----
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
@@ -199,7 +200,7 @@ Joh. Heinr. Kreutler modo Daniel Steding
 7.) Anthon Heinr. Bornemann modo Joh. Jobst Most.
 8.) Ahrend Heinr. Ostermeier modo Joh. Heinr: Bornemann
 9.) Cord Heinr. Wilharm modo Joh. Heinr. Schmön
-10.) Joh. Tönnies Eggerding modo Joh. Heinr. Kruckeberg
+10.) Joh. Tönnies Eggerding modo *Joh. Heinr. Kruckeberg*
 11.) Hans Heinr. Riensche und ein neuer Anbauen
 
          Dorf Nodholz
