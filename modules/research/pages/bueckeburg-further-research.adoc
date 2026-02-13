@@ -6,6 +6,33 @@
 link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v4960498&icomefrom=search[Genealogische
 Unterlagen].
 
+
+== Genealogische Unterlagen
+
+[cols="3a,6a,1"]
+|===
+|Identifier
+|Title
+|Lead and lag time from 
+
+|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4960499[NLA BU Dep.
+ 53 Acc. 2011/021 Nr. 17]
+|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4960499[Genealogische
+Unterlagen] +
+Enthält u.a.: +
+Bergdorf, Jetenburg, Scheie, Meinsen, Warber, Hevesen, Deinsen, Schierneichen, Seggebruch, Echtorf, Achum,
+Müsingen, Helpsen, Sülbeck, Meinefeld, Vehlen, Gelldorf, Selliendorf, Evesen, Frille, Kleinenbremen, Wülpke, Rusbend, Tallensen, Stemmen (Etzerfeld), Levesen, Kirchhorsten, Südhorsten, Petzen, Berenbusch, Cammer 
+|1740
+
+|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4960504[NLA BU Dep.
+ 53 Acc. 2011/021 Nr. 16] +
+|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4960504[Genealogische
+Unterlagen] +
+Enthält u.a.: +
+Bergdorf, Jetenburg, Scheie, Meinsen, Warber, Hevesen, Deinsen, Schierneichen, Seggebruch, Echtorf, Achum, Müsingen, Helpsen, Sülbeck, Meinefeld, Vehlen, Gelldorf, Selliendorf, Evesen, Frille, Kleinenbremen, Wülpke, Rusbend, Tallensen, Stemmen (Etzerfeld), Levesen, Kirchhorsten, Südhorsten, Petzen, Berenbusch, Cammer 
+|1693
+|===
+
 [[prospective]]
 [.narrow]
 == Documents that Might Mention Krückebergs in Berenbusch 1700-1760
