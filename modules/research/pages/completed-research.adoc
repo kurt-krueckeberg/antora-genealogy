@@ -1,7 +1,7 @@
 = Completed Research 
 
 Dr. Sylvia Möhle examined these documents for me from the Bückeburg
-regional archive of Lower Saxony, Germany, shown below in an AsciiDoc
+regional archive of Lower Saxony, Germany, shown below in the
 table:
 
 [%header,cols="1,9"] 
@@ -21,15 +21,18 @@ Generallandesvisitation (Landesvermessung)
 Arensburg, mit Nummerierung der sämtlichen Häuser.
 |===
 
-Johann Heinrich Krückeberg, lived in Berenbusch. He first appears in the
-Petzen Kirchenbuch records in his 1727 marriage record that states he is
-"aus Berenbusch".  He remained married until 1757 when his wife died, and
-he remarried the next year in 1758. He died in 1759.
+Johann Heinrich Krückeberg lived in Berenbusch. He first appears in the
+Petzen Kirchenbuch records in his xref:petzen:PET-M-1727a.adoc[1727
+marriage record] that states he is *"aus Berenbusch"*. He remained married
+until 1757 when his first wife died, and he remarried the next year in 1758.
+He died in 1759.
 
-His name does not appear in the 1737 document from the table above, as
-being the Besitzer of no. 10 Berenbusch. It does appear in the 1743-1744
-document. His replies to the questionst, which themselves are lost, recorded in the 174-1744 documen are
-shown below:
+His name does not appear in the 1737 "Erfassung der Haus- und Hofbesitzer
+im Amt Bückeburg im Rahmen einer Generallandesvisitation" document from the
+table above, as being the Besitzer of no. 10 Berenbusch. He may have not
+met the criteria for being included. It does appear in the 1743-1744
+document. His replies to the questionst, which themselves are lost,
+recorded in the 174-1744 documen are shown below:
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
