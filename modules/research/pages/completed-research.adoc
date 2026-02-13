@@ -24,7 +24,7 @@ Arensburg, mit Nummerierung der sämtlichen Häuser.
 Johann Heinrich Krückeberg lived in Berenbusch. He first appears in the
 Petzen Kirchenbuch records in his xref:petzen:PET-M-1727a.adoc[1727
 marriage record] that states he is *"aus Berenbusch"*. He remained married
-until 1757 when his first wife died, and he remarried the next year in 1758.
+until 1757 when his first wife died. He remarried the next year in 1758.
 He died in 1759.
 
 His name does not appear in the 1737 "Erfassung der Haus- und Hofbesitzer
