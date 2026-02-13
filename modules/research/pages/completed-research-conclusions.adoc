@@ -1,0 +1,193 @@
+= Completed Research Conclusions 
+
+From the Bückeberg documents we thus have this timeline/evidence:
+
+[%header,cols="1,1"]
+|===
+| Evidence | What it shows  
+
+| 1727 marriage “aus Berenbusch”  | Krückeberg lived in the village           
+
+| 1728 baptism sponsor: Eggerding | Social link to the earlier holder         
+
+| 1737 Hausbesitzer list          | Krückeberg **not yet** holder             
+
+| 1743–44 questionnaire           | Krückeberg is holder; predecessors named  
+
+| 1745 survey                     | Krückeberg confirmed as holder            
+
+| 1747 list                       | Eggerding → Krückeberg (simplified chain) 
+|===
+
+We now have three critical anchors:
+
+[arabic]
+. *Succession chain (from the 1743–44 questionnaire)* Johann Tönnies
+Eggerding → Friedrich Kuhlmann → Johann Heinrich Krückeberg
+. *Social connection (1728 baptism)* Eggerding was sponsor to
+Krückeberg’s child — showing proximity and familiarity, not inheritance.
+. *Chronological window* Krückeberg might *not* have been holder in 1737, but *was*
+holder by 1743–44.
+
+So the key problem is:
+
+____
+*What administrative action caused the transition from Kuhlmann to
+Krückeberg between 1737 and 1743?*
+____
+
+That determines which Bückeburg documents you should examine next.
+
+
+=== 1. The correct archival focus (what _not_ to pursue further)
+
+You have already exhausted the *Landesvermessung / Statistik* series for
+this question:
+
+* 1737 Erfassung
+* 1743–44 Protokolle
+* 1745 Vermessung
+* 1747 Namensverzeichnis
+
+These establish *status and succession*, but not *mechanism*.
+
+No further surveying documents will explain _how_ the transfer happened.
+
+
+=== 2. The document types that can answer your question
+
+You now need *administrative, fiscal, and succession records* from the
+*Amt Bückeburg* and the *Rentkammer*.
+
+Specifically:
+
+==== A. Amtsprotokolle (ca. 1735–1745)
+
+These often record:
+
+* Deaths of holders
+* Reassignments of houses
+* Installations of new tenants
+* Household changes
+
+Search for:
+
+* _Haus Nr. 10 Berenbusch_
+* _Friedrich Kuhlmann_
+* _Johann Tönnies Eggerding_
+* _Johann Heinrich Krückeberg_
+* _Übernahme_, _Einsetzung_, _Abgang_, _Nachfolger_
+
+This is your *most likely source* for a documented transition.
+
+
+==== B. Kontributions- und Steuerregister (1737–1743)
+
+Your 1743–44 answers list Krückeberg’s dues.
+
+Earlier registers may show:
+
+* When Kuhlmann disappears as payer
+* When Krückeberg first appears
+* Which year the change occurred
+
+Look for:
+
+* *Kontributionsregister*
+* *Landschatzlisten*
+* *Viehschatzregister*
+
+These can often date a transfer to a specific year.
+
+
+==== C. Haus- und Hofakten / Besitzakten
+
+Some Schaumburg-Lippe houses have:
+
+* Individual *property files*
+* Succession notes
+* Occupancy records
+
+Search under:
+
+* _Berenbusch_
+* _Haus Nr. 10_
+* _Brinksitzer_
+* _Einlieger / Neubauer_
+
+Even if no Kaufbrief exists, *tenancy transitions* were often recorded.
+
+
+==== D. Kirchenbuch (for context, not proof)
+
+You already know:
+
+* Krückeberg’s marriage (1727)
+* His wife’s origin (Evesen)
+
+But you should now specifically look for:
+
+* Death of *Friedrich Kuhlmann*
+* Death of *Johann Tönnies Eggerding*
+
+If either died between *1737–1743*, that likely triggered the
+transition.
+
+
+=== 3. How to use Arcinsys for this stage
+
+In Arcinsys, move *out of*:
+
+____
+Landesvermessung und Statistik
+____
+
+and into:
+
+==== "`Amt Bückeburg – Verwaltung / Rechnungen`"
+
+==== "`Rentkammer / Vormundschaftliche Kammer`"
+
+==== "`Steuer- und Kontributionswesen`"
+
+==== "`Haus- und Hofakten`"
+
+Use these search terms:
+
+* *Berenbusch*
+* *Haus Nr. 10*
+* *Kuhlmann*
+* *Eggerding*
+* *Krückeberg*
+* *Brinksitzer*
+
+Filter by:
+
+* *1735–1745*
+
+
+=== 4. The historically defensible conclusion (current)
+
+With your new evidence incorporated, the correct statement is:
+
+____
+Johann Heinrich Krückeberg became the holder of Stätte Nr. 10 in
+Berenbusch *after Friedrich Kuhlmann* and *after Johann Tönnies
+Eggerding*, sometime *between 1737 and 1743*.
+
+The questionnaire establishes the *order of succession*, but not the
+*mechanism* or *exact year* of transfer.
+____
+
+Only *Amt / Rentkammer / tax records* can supply that missing detail.
+
+
+=== 5. If you wish, I can next help you with
+
+* A *precisely worded inquiry* to NLA Bückeburg
+* A *targeted Arcinsys search strategy* with specific call numbers
+* A *formal proof argument* for your Antora site
+* Or a *succession timeline* for Stätte Nr. 10 with uncertainty notes
+
+Your evidentiary reasoning is already at a professional level — now the
+archival search simply needs to match it.
