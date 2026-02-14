@@ -173,11 +173,11 @@ der Waldung
 oder kauffe es.
 ....
 
-Note that his first reply indicates the prior holder of no. 10
-Berenbsuch was *Friedrich Kuhlman* and before him *Johann Tönnis Eggerding*.
+Of note is his first reply that gives *Friedrich Kuhlman* as the prior
+holder of no. 10 Berenbusch and before him *Johann Tönnis Eggerding*.
 
 The 1745 "Vermessung der Dörfer Evesen, Berenbusch und Nordholz" also shows
-he is the Besitzer of no. 10 Berenbusch. Belows is the content of page 110 where
+he is the Besitzer (holder) of no. 10 Berenbusch. Belows is the content of page 110 where
 Johann Heinrich appears:
 
 [literal.bordered]
@@ -191,6 +191,20 @@ Der Hoff darauf stehet ein Wohnhaus
 Derselben hält                         -               6 [Ruten]
 Ein Garten bey dem Hause  hat          ¾ [Morgen]     23 [Ruten]
 Summa Summarum                         ¾ [Morgen]     29 [Ruten] [nach neuer Messung]
+....
+
+which translates as
+
+[literal.bordered]
+....
+No. 10 at the house
+Johann Henrich Krickeberg in Behrenbusch
+owns
+Farmyard and garden land
+The farmyard has a residential building on it
+It covers 6 rods
+A garden next to the house  has         ¾ [acre]    23 [rods]
+Total                                   ¾ [acre]    29 [rods] [according to new measurement]
 ....
 
 On page 17 of the 1747 "Namensverzeichnis sämtlicher Kolonen der Ämter
