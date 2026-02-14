@@ -7,7 +7,7 @@ Go through chatgpt thread https://chatgpt.com/c/696e7c54-f6bc-832a-881e-c6cadca7
 
 == Genealogische Unterlagen
 
-[cols="3a,6a,1"]
+[%header,cols="3a,6a,1"]
 |===
 |Identifier
 |Title
