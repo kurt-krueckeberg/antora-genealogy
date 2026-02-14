@@ -22,19 +22,23 @@ Generallandesvisitation (Landesvermessung)
 Arensburg, mit Nummerierung der sämtlichen Häuser.
 |===
 
-Johann Heinrich Krückeberg lived in Berenbusch. He first appears in the
-Petzen Kirchenbuch records in his xref:petzen:PET-M-1727a.adoc[1727
-marriage record] that states he is *"aus Berenbusch"*. He remained married
-until 1757 when his first wife died. The following year, he remarried.
-He died in 1759.
+Johann Heinrich Krückeberg first appears in the Petzen Kirchenbuch records
+when he marries Anna Marie Vahlsing in 1727.  Their
+xref:petzen:PET-M1727a.adoc[marriage record] says he is *"aus Berenbusch"*. He
+remained married until 1757 when his first wife died. The following year
+he remarried. He died in 1759.
 
-His name does not appear in the 1737 "Erfassung der Haus- und Hofbesitzer
-im Amt Bückeburg im Rahmen einer Generallandesvisitation" as the Besitzer
-of no. 10 Berenbusch. He may have not met the criteria for inclusion.
+His name does not appear in the 1737 *Erfassung der Haus- und Hofbesitzer
+im Amt Bückeburg im Rahmen einer Generallandesvisitation ("Registration of
+house and farm owners in the Bückeburg district as part of a general state
+inspection")* as the Besitzer of no. 10 Berenbusch. He may have not met the
+criteria for inclusion.
 
-He does appear in the 1743-1744 "Protokolle über die Befragung der
+He does appear in the 1743-1744 *Protokolle über die Befragung der
 einzelnen Hofbesitzer in Evesen, Berenbusch, Nordholz und Rusbend im Rahmen
-der Generallandesvisitation (Landesvermessung)".  His replies to the
+der Generallandesvisitation (Landesvermessung) ("Records of interviews with
+individual farm owners in Evesen, Berenbusch, Nordholz, and Rusbend as part
+of the general land survey (state land survey")*.  His replies to the
 questions, which were not preserved, are shown below:
 
 [literal.bordered,subs="verbatim,quotes"]
