@@ -39,7 +39,7 @@ ____
 That determines which Bückeburg documents you should examine next.
 
 
-=== 1. The correct archival focus (what _not_ to pursue further)
+== 1. The correct archival focus (what _not_ to pursue further)
 
 You have already exhausted the *Landesvermessung / Statistik* series for
 this question:
