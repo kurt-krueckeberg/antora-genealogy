@@ -1,0 +1,1075 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Asciidoctor 2.0.23">
+<title>Completed Research</title>
+<style>
+/* Based on Cerulean from Bootswatch (https://bootswatch.com/cerulean/) */
+
+/* document body (contains all content) */
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #555555;
+  background-color: #ffffff;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+/* document header (contains title etc) */
+#header {
+  width: 100%;
+}
+#header>h1 {
+  border-bottom: 1px solid #ddddd8;
+  padding-bottom: 8px;
+}
+
+/* headings */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 500;
+  line-height: 1.2;
+  color: #317eac;
+}
+h1,
+h2,
+h3 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+h4,
+h5,
+h6 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+h1 {
+  font-size: 4em;
+/*   font-size: 36px; */
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 14px;
+}
+h6 {
+  font-size: 12px;
+}
+
+/* plain paragraph text */
+.paragraph {
+/*   font-family: sans-serif; */
+  margin: 0 0 10px;
+}
+p {
+/*   font-family: sans-serif; */
+  margin: 0 0 10px;
+}
+
+/* blockquote text */
+.quoteblock {
+  font-style: italic;
+}
+blockquote {
+  padding: 10px 20px;
+  margin: 0 0 20px;
+  font-size: 17.5px;
+  border-left: 5px solid #eeeeee;
+}
+blockquote p:last-child,
+blockquote ul:last-child,
+blockquote ol:last-child {
+  margin-bottom: 0;
+}
+.blockquote-reverse,
+blockquote.pull-right {
+  padding-right: 15px;
+  padding-left: 0;
+  border-right: 5px solid #eeeeee;
+  border-left: 0;
+  text-align: right;
+}
+.blockquote-reverse footer:before,
+blockquote.pull-right footer:before,
+.blockquote-reverse small:before,
+blockquote.pull-right small:before,
+.blockquote-reverse .small:before,
+blockquote.pull-right .small:before {
+  content: '';
+}
+.blockquote-reverse footer:after,
+blockquote.pull-right footer:after,
+.blockquote-reverse small:after,
+blockquote.pull-right small:after,
+.blockquote-reverse .small:after,
+blockquote.pull-right .small:after {
+  content: '\00A0 \2014';
+}
+
+/* blockquote attribution text */
+.attribution,
+.cite,
+blockquote footer,
+blockquote small,
+blockquote .small {
+  display: block;
+  line-height: 1.42857143;
+  color: #999999;
+}
+.attribution:before,
+blockquote footer:before,
+blockquote small:before,
+blockquote .small:before {
+  content: '\2014 \00A0';
+}
+
+/* unordered list */
+ul, ol {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+ul ul,
+ol ul,
+ul ol,
+ol ol {
+  margin-bottom: 0;
+}
+
+
+/* links */
+a {
+  color: #2fa4e7;
+  text-decoration: none;
+}
+a:hover,
+a:focus {
+  color: #157ab5;
+  text-decoration: underline;
+}
+a:focus {
+  outline: 5px auto -webkit-focus-ring-color;
+  outline-offset: -2px;
+}
+
+/* horizontal rules */
+hr {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 0;
+  border-top: 1px solid #eeeeee;
+}
+
+/* table */
+table {
+  background-color: transparent;
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 21px;
+  border-collapse: collapse;
+}
+table col[class*="col-"] {
+  position: static;
+  float: none;
+  display: table-column;
+}
+table td[class*="col-"],
+table th[class*="col-"] {
+  position: static;
+  float: none;
+  display: table-cell;
+}
+
+/* table caption */
+caption {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  color: #999999;
+  text-align: left;
+}
+
+/* table header row */
+thead {
+  border-bottom: 2px solid #dddddd;
+}
+
+/* table header cell */
+th {
+  text-align: left;
+  padding-left: 8px;
+}
+
+/* table footer */
+tfoot {
+  color: #807F81;
+  border-top: 1px solid #dddddd;
+}
+
+/* table cell */
+td {
+  border-top: 1px solid #dddddd;
+}
+td p {
+  margin: auto;
+  padding: 8px;
+}
+
+/* table body */
+tbody > tr:nth-of-type(odd) {
+  background-color: #f9f9f9;
+}
+tbody > tr:hover {
+  background-color: #f5f5f5;
+}
+
+/* inline code */
+code,
+kbd,
+pre,
+samp {
+  font-family: monospace, monospace;
+  font-size: 1em;
+}
+code {
+  padding: 2px 4px;
+  font-size: 90%;
+  color: #333333;
+  background-color: #f5f5f5;
+  border-radius: 4px;
+}
+kbd {
+  padding: 2px 4px;
+  font-size: 90%;
+  color: #ffffff;
+  background-color: #333333;
+  border-radius: 3px;
+  -webkit-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.25);
+          box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.25);
+}
+kbd kbd {
+  padding: 0;
+  font-size: 100%;
+  font-weight: bold;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+pre {
+  display: block;
+  padding: 9.5px;
+  margin: 0 0 10px;
+  font-size: 13px;
+  line-height: 1.42857143;
+  word-break: break-all;
+  word-wrap: break-word;
+  color: #333333;
+  background-color: #f5f5f5;
+  border: 1px solid #cccccc;
+  border-radius: 4px;
+}
+pre code {
+  padding: 0;
+  font-size: inherit;
+  color: inherit;
+  white-space: pre-wrap;
+  background-color: transparent;
+  border-radius: 0;
+}
+
+/* image */
+img {
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+/* footer section */
+#footer {
+  margin-top: 22px;
+  padding: 14px 16px;
+  color: #ffffff;
+  background-color: #2fa4e7;
+}
+
+/* responsiveness fixes */
+video {
+  max-width: 100%;
+}
+
+/* table of Contents sidebar */
+#toctitle {
+  display: none;
+}
+
+#toc {
+  margin-top: 20px;
+  background-image: -webkit-linear-gradient(#54b4eb, #2fa4e7 60%, #1d9ce5);
+  background-image: -o-linear-gradient(#54b4eb, #2fa4e7 60%, #1d9ce5);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#54b4eb), color-stop(60%, #2fa4e7), to(#1d9ce5));
+  background-image: linear-gradient(#54b4eb, #2fa4e7 60%, #1d9ce5);
+  background-repeat: no-repeat;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff54b4eb', endColorstr='#ff1d9ce5', GradientType=0);
+  border-bottom: 1px solid #178acc;
+  -webkit-filter: none;
+          filter: none;
+  -webkit-box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 4px 4px;
+}
+
+#toc ul {
+  display: inline;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+#toc li {
+  display: block;
+}
+
+#toc a {
+  color: #ffffff;
+  float: left;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+#toc li a:hover {
+  background-color: #178acc;
+  text-decoration: none;
+}
+
+#toc:after {
+  content: " ";
+  visibility: hidden;
+  display: block;
+  height: 0;
+  clear: both;
+}
+
+@media all and (max-width: 600px) {
+table {
+  width: 55vw!important;
+  font-size: 3vw;
+}
+
+</style>
+</head>
+<body class="article">
+<div id="header">
+<h1>Completed Research</h1>
+</div>
+<div id="content">
+<div class="sect1">
+<h2 id="_documents_reviewed">Documents Reviewed</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Dr. Sylvia Möhle examined these documents for me from the Bückeburg
+regional archive of Lower Saxony, Germany, shown below in the
+table:</p>
+</div>
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 10%;">
+<col style="width: 90%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Life Span</th>
+<th class="tableblock halign-left valign-top">Identifier</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">1737</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Erfassung der Haus- und Hofbesitzer im Amt Bückeburg im Rahmen
+einer Generallandesvisitation (Landesvermessung)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">1743-1744</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Protokolle über die Befragung der einzelnen Hofbesitzer in
+Evesen, Berenbusch, Nordholz und Rusbend im Rahmen der
+Generallandesvisitation (Landesvermessung)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">1745</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Vermessung der Dörfer Evesen, Berenbusch und Nordholz</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">1747</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Namensverzeichnis sämtlicher Kolonen der Ämter Bückeburg und
+Arensburg, mit Nummerierung der sämtlichen Häuser.</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p>Johann Heinrich Krückeberg lived in Berenbusch. He first appears in the
+Petzen Kirchenbuch records in his <a href="petzen:PET-M-1727a.html">1727
+marriage record</a> that states he is <strong>"aus Berenbusch"</strong>. He remained married
+until 1757 when his first wife died. The following year, he remarried.
+He died in 1759.</p>
+</div>
+<div class="paragraph">
+<p>His name does not appear in the 1737 "Erfassung der Haus- und Hofbesitzer
+im Amt Bückeburg im Rahmen einer Generallandesvisitation" as the Besitzer
+of no. 10 Berenbusch. He may have not met the criteria for inclusion.</p>
+</div>
+<div class="paragraph">
+<p>He does appear in the 1743-1744 "Protokolle über die Befragung der
+einzelnen Hofbesitzer in Evesen, Berenbusch, Nordholz und Rusbend im Rahmen
+der Generallandesvisitation (Landesvermessung)".  His replies to the
+questions, which were not preserved, are shown below:</p>
+</div>
+<div class="literalblock bordered">
+<div class="content">
+<pre>N. X [Rf?] er hiesse
+
+1. Johann Henrich Krückeberg
+
+vormahls Friedrich Kuhlmann auch
+
+Joh. Tönnies Eggerding
+
+2. habe darauf geheyrahtet
+
+3. ein Brinksitzer
+
+4. Er habe nichts als einen Garten
+
+worin zugl. etwas Saatlandt
+
+Nach der neuen Messung.
+
+5. cessat
+
+6. er habe kein Rottland ausser
+
+dem Garthen
+
+7. Sey Illmo eigen.
+
+8. Wöchentl. Dienste verrichte er [symbol = nicht; old code for
+‚not‘]
+
+9. jährl. 12 Burgfesten
+
+10. cessat
+
+11. funff Erndte Tage
+
+12. so offt es nöhtig
+
+13. so offt es erforderlig [bei anderen: Landfolge mit der Hand]
+
+14. 15. 16. ut reliqui [bei anderen: auch Jagd und Wachten]
+
+17. cessat
+
+18. [Dues]
+
+a) contribat 2 [Groschen] 2 [Pfennige]
+
+b) Rottzinß 11 [Groschen]
+
+c) Mahl[...] 12 [Groschen]
+
+d) Michael Schatz cessit
+
+e) –
+
+f) – 4 [Pfennige]
+
+g) Landschatz gibt er nicht weilen
+
+er kein Land habe
+
+h) nescit
+
+i) ut reliqui
+
+k) Viehschatz p nro. des Viehes
+
+4 mgr [Groschen] 4 Pf [Pfennige] auch 8 mgr [Groschen]
+
+l) cessat
+
+m) Ein Rauchhuhn an gdste Herrschafft
+
+n) nescit
+
+19)
+
+a) ut reliqui
+
+b) Erbe 3 rthlr [Taler] 4 mgr [Groschen] 4 Pf [Pfennige]
+
+c-g nescit
+
+20-23 cessat
+
+24. 1 Kuh 1 Rind
+
+1 Schwein
+
+25. treibe solche vor den Hirten
+
+26. nein
+
+27-31 cessat
+
+32. Er gebe niemand
+
+etwas als dem
+
+pastori und Küster
+
+das gewöhnliche
+
+33. nein
+
+34. Vermeyne, da er
+
+keine Länderey
+
+habe, solche nicht
+
+schuldig zu seyn
+
+35. nein
+
+<strong>36., 37.</strong> cessat
+
+38. nein
+
+39. ut reliqui
+
+40. Er samle
+
+das Holtz in
+
+der Waldung
+
+oder kauffe es.</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>Note that his first reply indicates the prior holder of no. 10
+Berenbsuch was <strong>Friedrich Kuhlman</strong> and before him <strong>Johann Tönnis Eggerding</strong>.</p>
+</div>
+<div class="paragraph">
+<p>The 1745 "Vermessung der Dörfer Evesen, Berenbusch und Nordholz" also shows
+he is the Besitzer of no. 10 Berenbusch. Belows is the content of page 110 where
+Johann Heinrich appears:</p>
+</div>
+<div class="literalblock bordered">
+<div class="content">
+<pre>p 110 Berenbusch:
+No. 10 am Hause
+Johann Henrich Krickeberg zu Behrenbusch
+besitzet
+An Hoff und Gartenland
+Der Hoff darauf stehet ein Wohnhaus
+Derselben hält                         -               6 [Ruten]
+Ein Garten bey dem Hause  hat          ¾ [Morgen]     23 [Ruten]
+Summa Summarum                         ¾ [Morgen]     29 [Ruten] [nach neuer Messung]</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>On page 17 of the 1747 "Namensverzeichnis sämtlicher Kolonen der Ämter
+Bückeburg und Arensburg, mit Nummerierung der sämtlichen Häuser" the
+following information appears about the current and former holder of No. 10
+Berenbusch. <strong>Note</strong>, "modo" means: <strong>“now”</strong>, <strong>“at present”</strong>, <strong>“currently”</strong> or
+<strong>“in the possession of”</strong>.</p>
+</div>
+<div class="literalblock bordered">
+<div class="content">
+<pre>Joh. Heinr. Kreutler modo Daniel Steding
+
+     Brinksitzer
+
+5.) Joh. Kohlmeier modo Joh. Friedr. Kohlmeier
+6.) Jobst Heinr Jacob modo Jobst Jacob.
+7.) Anthon Heinr. Bornemann modo Joh. Jobst Most.
+8.) Ahrend Heinr. Ostermeier modo Joh. Heinr: Bornemann
+9.) Cord Heinr. Wilharm modo Joh. Heinr. Schmön
+10.) Joh. Tönnies Eggerding modo <strong>Joh. Heinr. Kruckeberg</strong>
+11.) Hans Heinr. Riensche und ein neuer Anbauen
+
+         Dorf Nodholz</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>Other facts to know:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Johann Tönnis Eggerding, a former holder of no. 10 Berenbusch, was a
+  baptismal sponsor of Johann Heinrichäs son, Johann Friedrich, who was
+born in 1728.</p>
+</li>
+<li>
+<p>Johann Heinrich Krückeberg&#8217;s first wife, who lived until 1757, was the
+daughter of a sheperd from Evesen.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>We thus have this timeline/evidence:</p>
+</div>
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Evidence</th>
+<th class="tableblock halign-left valign-top">What it shows</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">1727 marriage “aus Berenbusch”</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Krückeberg lived in the village</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">1728 baptism sponsor: Eggerding</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Social link to the earlier holder</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">1737 Hausbesitzer list</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Krückeberg <strong>not yet</strong> holder</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">1743–44 questionnaire</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Krückeberg is holder; predecessors named</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">1745 survey</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Krückeberg confirmed as holder</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">1747 list</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Eggerding → Krückeberg (simplified chain)</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_next_documents_to_examine">Next Documents to Examine</h2>
+<div class="sectionbody">
+<div class="admonitionblock important">
+<table>
+<tr>
+<td class="icon">
+<div class="title">Important</div>
+</td>
+<td class="content">
+<div class="paragraph">
+<p>This document should be examined first before all the other mentioned later:</p>
+</div>
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 22.2222%;">
+<col style="width: 66.6666%;">
+<col style="width: 11.1112%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Identifier</th>
+<th class="tableblock halign-left valign-top">Deonotation</th>
+<th class="tableblock halign-left valign-top">Life span</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="#https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894545">NLA BU L 2 L Nr. 27/54</a></p></td>
+<td class="tableblock halign-left valign-top"><div class="content"><div class="paragraph">
+<p><a href="#https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894545">Spezialvermessung
+der Dörfer Evesen, Berenbusch und Nordholz</a></p>
+</div>
+<div class="paragraph">
+<p>Special survey of the villages of Evesen, Berenbusch, and Nordholz</p>
+</div></div></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">1734-1742</p></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div class="paragraph">
+<p>You now have three critical anchors:</p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p><strong>Succession chain (from the 1743–44 questionnaire)</strong> Johann Tönnies
+Eggerding → Friedrich Kuhlmann → Johann Heinrich Krückeberg</p>
+</li>
+<li>
+<p><strong>Social connection (1728 baptism)</strong> Eggerding was sponsor to
+Krückeberg’s child — showing proximity and familiarity, not inheritance.</p>
+</li>
+<li>
+<p><strong>Chronological window</strong> Krückeberg was <strong>not</strong> holder in 1737, but <strong>was</strong>
+holder by 1743–44.</p>
+</li>
+</ol>
+</div>
+<div class="paragraph">
+<p>So the key problem is:</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p><strong>What administrative action caused the transition from Kuhlmann to
+Krückeberg between 1737 and 1743?</strong></p>
+</div>
+</blockquote>
+</div>
+<div class="paragraph">
+<p>That determines which Bückeburg documents you should examine next.</p>
+</div>
+<div class="sect2">
+<h3 id="_1_the_correct_archival_focus_what_not_to_pursue_further">1. The correct archival focus (what <em>not</em> to pursue further)</h3>
+<div class="paragraph">
+<p>You have already exhausted the <strong>Landesvermessung / Statistik</strong> series for
+this question:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>1737 Erfassung</p>
+</li>
+<li>
+<p>1743–44 Protokolle</p>
+</li>
+<li>
+<p>1745 Vermessung</p>
+</li>
+<li>
+<p>1747 Namensverzeichnis</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>These establish <strong>status and succession</strong>, but not <strong>mechanism</strong>.</p>
+</div>
+<div class="paragraph">
+<p>No further surveying documents will explain <em>how</em> the transfer happened.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_2_the_document_types_that_can_answer_your_question">2. The document types that can answer your question</h3>
+<div class="paragraph">
+<p>You now need <strong>administrative, fiscal, and succession records</strong> from the
+<strong>Amt Bückeburg</strong> and the <strong>Rentkammer</strong>.</p>
+</div>
+<div class="paragraph">
+<p>Specifically:</p>
+</div>
+<div class="sect3">
+<h4 id="_a_amtsprotokolle_ca_17351745">A. Amtsprotokolle (ca. 1735–1745)</h4>
+<div class="paragraph">
+<p>These often record:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Deaths of holders</p>
+</li>
+<li>
+<p>Reassignments of houses</p>
+</li>
+<li>
+<p>Installations of new tenants</p>
+</li>
+<li>
+<p>Household changes</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Search for:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><em>Haus Nr. 10 Berenbusch</em></p>
+</li>
+<li>
+<p><em>Friedrich Kuhlmann</em></p>
+</li>
+<li>
+<p><em>Johann Tönnies Eggerding</em></p>
+</li>
+<li>
+<p><em>Johann Heinrich Krückeberg</em></p>
+</li>
+<li>
+<p><em>Übernahme</em>, <em>Einsetzung</em>, <em>Abgang</em>, <em>Nachfolger</em></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>This is your <strong>most likely source</strong> for a documented transition.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_b_kontributions_und_steuerregister_17371743">B. Kontributions- und Steuerregister (1737–1743)</h4>
+<div class="paragraph">
+<p>Your 1743–44 answers list Krückeberg’s dues.</p>
+</div>
+<div class="paragraph">
+<p>Earlier registers may show:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>When Kuhlmann disappears as payer</p>
+</li>
+<li>
+<p>When Krückeberg first appears</p>
+</li>
+<li>
+<p>Which year the change occurred</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Look for:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><strong>Kontributionsregister</strong></p>
+</li>
+<li>
+<p><strong>Landschatzlisten</strong></p>
+</li>
+<li>
+<p><strong>Viehschatzregister</strong></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>These can often date a transfer to a specific year.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_c_haus_und_hofakten_besitzakten">C. Haus- und Hofakten / Besitzakten</h4>
+<div class="paragraph">
+<p>Some Schaumburg-Lippe houses have:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Individual <strong>property files</strong></p>
+</li>
+<li>
+<p>Succession notes</p>
+</li>
+<li>
+<p>Occupancy records</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Search under:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><em>Berenbusch</em></p>
+</li>
+<li>
+<p><em>Haus Nr. 10</em></p>
+</li>
+<li>
+<p><em>Brinksitzer</em></p>
+</li>
+<li>
+<p><em>Einlieger / Neubauer</em></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Even if no Kaufbrief exists, <strong>tenancy transitions</strong> were often recorded.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_d_kirchenbuch_for_context_not_proof">D. Kirchenbuch (for context, not proof)</h4>
+<div class="paragraph">
+<p>You already know:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Krückeberg’s marriage (1727)</p>
+</li>
+<li>
+<p>His wife’s origin (Evesen)</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>But you should now specifically look for:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Death of <strong>Friedrich Kuhlmann</strong></p>
+</li>
+<li>
+<p>Death of <strong>Johann Tönnies Eggerding</strong></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>If either died between <strong>1737–1743</strong>, that likely triggered the
+transition.</p>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_3_how_to_use_arcinsys_for_this_stage">3. How to use Arcinsys for this stage</h3>
+<div class="paragraph">
+<p>In Arcinsys, move <strong>out of</strong>:</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p>Landesvermessung und Statistik</p>
+</div>
+</blockquote>
+</div>
+<div class="paragraph">
+<p>and into:</p>
+</div>
+<div class="sect3">
+<h4 id="_amt_bückeburg_verwaltung_rechnungen">&#8220;Amt Bückeburg – Verwaltung / Rechnungen&#8221;</h4>
+
+</div>
+<div class="sect3">
+<h4 id="_rentkammer_vormundschaftliche_kammer">&#8220;Rentkammer / Vormundschaftliche Kammer&#8221;</h4>
+
+</div>
+<div class="sect3">
+<h4 id="_steuer_und_kontributionswesen">&#8220;Steuer- und Kontributionswesen&#8221;</h4>
+
+</div>
+<div class="sect3">
+<h4 id="_haus_und_hofakten">&#8220;Haus- und Hofakten&#8221;</h4>
+<div class="paragraph">
+<p>Use these search terms:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><strong>Berenbusch</strong></p>
+</li>
+<li>
+<p><strong>Haus Nr. 10</strong></p>
+</li>
+<li>
+<p><strong>Kuhlmann</strong></p>
+</li>
+<li>
+<p><strong>Eggerding</strong></p>
+</li>
+<li>
+<p><strong>Krückeberg</strong></p>
+</li>
+<li>
+<p><strong>Brinksitzer</strong></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Filter by:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><strong>1735–1745</strong></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_4_the_historically_defensible_conclusion_current">4. The historically defensible conclusion (current)</h3>
+<div class="paragraph">
+<p>With your new evidence incorporated, the correct statement is:</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p>Johann Heinrich Krückeberg became the holder of Stätte Nr. 10 in
+Berenbusch <strong>after Friedrich Kuhlmann</strong> and <strong>after Johann Tönnies
+Eggerding</strong>, sometime <strong>between 1737 and 1743</strong>.</p>
+</div>
+<div class="paragraph">
+<p>The questionnaire establishes the <strong>order of succession</strong>, but not the
+<strong>mechanism</strong> or <strong>exact year</strong> of transfer.</p>
+</div>
+</blockquote>
+</div>
+<div class="paragraph">
+<p>Only <strong>Amt / Rentkammer / tax records</strong> can supply that missing detail.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_5_if_you_wish_i_can_next_help_you_with">5. If you wish, I can next help you with</h3>
+<div class="ulist">
+<ul>
+<li>
+<p>A <strong>precisely worded inquiry</strong> to NLA Bückeburg</p>
+</li>
+<li>
+<p>A <strong>targeted Arcinsys search strategy</strong> with specific call numbers</p>
+</li>
+<li>
+<p>A <strong>formal proof argument</strong> for your Antora site</p>
+</li>
+<li>
+<p>Or a <strong>succession timeline</strong> for Stätte Nr. 10 with uncertainty notes</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Your evidentiary reasoning is already at a professional level — now the
+archival search simply needs to match it.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="footer">
+<div id="footer-text">
+Last updated 2026-02-14 12:40:35 -0500
+</div>
+</div>
+</body>
+</html>
