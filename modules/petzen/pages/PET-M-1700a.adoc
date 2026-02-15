@@ -18,16 +18,16 @@ image::petzen-band1b-img25.png[link=self]
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
-Heinrich Arndt Vahlsing [Sheper] [aus/auf] Höckersau und [Anna]
-Elisabeth B[ecker?] [aus/auf] [????] den 23 Sept copuliert
+Heinrich Arndt Vahlsing [Sheper] [aus] dem Höckersau und [Anna]
+Elisabeth B[ecker?] [aus] [????] den 23 Sept copuliert
 ....
 
 
 .Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
-Heinrich Arndt Vahlsing [Sheper] [aus/auf] Höckersau und [Anna]
-Elisabeth B[????] [aus/auf] [????] den 23 Sept copuliert
+Heinrich Arndt Vahlsing [Sheper] [aus] Höckersau und [Anna]
+Elisabeth B[????] [aus] [Höckersau?] den 23 Sept copuliert
 ....
 
 [bibliography]
