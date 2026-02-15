@@ -19,7 +19,7 @@ image::petzen-band1b-img25.png[link=self]
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Heinrich Arndt Vahlsing [Sheper] [aus] dem Höckersau und [Anna]
-Elisabeth B[ecker?] [aus] [????] den 23 Sept copuliert
+Elisabeth B[ecker?] aus [Höckersau?+ den 23 Sept copuliert
 ....
 
 
@@ -27,7 +27,7 @@ Elisabeth B[ecker?] [aus] [????] den 23 Sept copuliert
 [literal.bordered,subs="verbatim,quotes"]
 ....
 Heinrich Arndt Vahlsing [Sheper] [aus] Höckersau und [Anna]
-Elisabeth B[????] [aus] [Höckersau?] den 23 Sept copuliert
+Elisabeth B[ecker?] aus [Höckersau?] den 23 Sept copuliert
 ....
 
 [bibliography]
