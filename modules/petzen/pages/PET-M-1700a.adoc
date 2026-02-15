@@ -1,4 +1,16 @@
 = 1700 Heinrich Arendt Vahlsing Marriage
+:page-role: wide
+
+[.narrow]
+== Citation
+
+The 23 September 1700 marriage of Heinrich Arendt Vahlsing to 
+Anna Elisabeth Becker is on <<image25, image 25>> of the Petzen
+"Verzeichnis der Getrauten und Gestorbenen 1641-1784".
+
+== Image
+
+image::petzen-band1b-img25.png[link=self]
 
 [.narrow]
 == Transliteration and Translation
@@ -17,15 +29,6 @@ Elisabeth B[ecker?] [aus/auf] [????] den 23 Sept copuliert
 Heinrich Arndt Vahlsing [Sheper] [aus/auf] Höckersau und [Anna]
 Elisabeth B[????] [aus/auf] [????] den 23 Sept copuliert
 ....
-
-
-
-
-
-
-
-
-
 
 [bibliography]
 == Citations
