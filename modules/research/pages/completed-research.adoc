@@ -32,7 +32,7 @@ Johann Heinrich Krückeberg first appears in the Petzen Kirchenbuch records
 when he marries Anna Marie Vahlsing on
 xref:petzen:PET-M-1727a.adoc[September 18, 1727].  Their marriage record
 says he is *"aus Berenbusch"* and she is *aus Evesen*. They remained
-married until she died on xref:pezen:PET-D-1757b.adoc[May 8, 1757]. The
+married until she died on xref:petzen:PET-D-1757b.adoc[May 8, 1757]. The
 following year, on xref:petzen:PET-M-1758a.adoc[September 29, 1758], he
 married Ilse (Elisabeth) Margarethe Rösener. He
 xref:petzen:PET-D-1759a.adoc[died on December 26, 1759].
