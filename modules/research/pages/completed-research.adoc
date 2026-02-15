@@ -42,19 +42,18 @@ They remain married until she dies on xref:petzen:PET-D-1757b.adoc[May 8,
 following year and is xref:petzen:PET-D-1759a.adoc[buried on December 26,
 1759] age 55.
 
-Johann Heinrich Krückeberg does not appear in the 1737 *Erfassung
-der Haus- und Hofbesitzer im Amt Bückeburg im Rahmen einer
-Generallandesvisitation ("Registration of house and farm owners in the
-Bückeburg district as part of a general state inspection")* as the Besitzer
-(owner) of no. 10 Berenbusch. He may have not met the criteria for
-inclusion.
+Johann Heinrich Krückeberg does not appear in the 1737 *Registration of
+house and farm owners in the Bückeburg district as part of a general state
+inspection ("Erfassung der Haus- und Hofbesitzer im Amt Bückeburg im Rahmen
+einer Generallandesvisitation")* as the holder/owner (Besitzer) of no. 10
+Berenbusch. He may have not met the criteria for inclusion.
 
-He does appear in the 1743-1744 *Protokolle über die Befragung der
-einzelnen Hofbesitzer in Evesen, Berenbusch, Nordholz und Rusbend im Rahmen
-der Generallandesvisitation (Landesvermessung) ("Records of the interviews
+He does appear in the 1743-1744 xref:nla:2728:survey01737.adoc[Records of the interviews
 with individual farm owners in Evesen, Berenbusch, Nordholz, and Rusbend as
-part of the general land survey (state land survey")*.  His replies to the
-questions, which were unfortunately not preserved, are below:
+part of the general land survey \[state land survey] ("Protokolle über die Befragung der
+einzelnen Hofbesitzer in Evesen, Berenbusch, Nordholz und Rusbend im Rahmen
+der Generallandesvisitation [Landesvermessung]")*.  His replies to the
+questions (which were unfortunately not preserved) are below:
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
