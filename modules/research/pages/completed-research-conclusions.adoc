@@ -2,13 +2,14 @@
 
 From the Bückeberg documents we thus have this timeline/evidence:
 
-[%header,cols="1,1"]
+[%header,cols="1,1a"]
 |===
 | Evidence | What it shows  
 
 | 1727 marriage “aus Berenbusch”  | Krückeberg lived in the village           
 
-| 1728 baptism sponsor: Eggerding | Social link to the earlier holder         
+| 1728 baptism sponsor: Eggerding | Social link to the earlier holder +
+Eggerding -> Kuhlmann -> Krückeberg
 
 | 1737 Hausbesitzer list          | Krückeberg **not yet** holder             
 
