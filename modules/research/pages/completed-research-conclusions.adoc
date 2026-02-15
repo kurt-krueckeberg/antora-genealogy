@@ -11,10 +11,12 @@ From the Bückeberg documents we thus have this timeline/evidence:
 | 1728 baptism sponsor: Eggerding | Social link to the earlier holder +
 Eggerding -> Kuhlmann -> Krückeberg
 
-| 1737 Hausbesitzer list          | Krückeberg **not yet** holder             
+| 1737 Hausbesitzer list          | Krückeberg might not yet be holder
+(unclear)             
 
-| 1743–44 questionnaire           | Krückeberg is holder; predecessors named  
-
+| 1743–44 questionnaire           | Krückeberg is holder; predecessors named  +
+Eggerding -> Kuhlmann -> Krückeberg
+ 
 | 1745 survey                     | Krückeberg confirmed as holder            
 
 | 1747 list                       | Eggerding → Krückeberg (simplified chain) 
@@ -27,7 +29,7 @@ We now have three critical anchors:
 Eggerding → Friedrich Kuhlmann → Johann Heinrich Krückeberg
 . *Social connection (1728 baptism)* Eggerding was sponsor to
 Krückeberg’s child — showing proximity and familiarity, not inheritance.
-. *Chronological window* Krückeberg might *not* have been holder in 1737, but *was*
+. *Chronological window* Krückeberg *might not* have been holder in 1737, but *was*
 holder by 1743–44.
 
 So the key problem is:
