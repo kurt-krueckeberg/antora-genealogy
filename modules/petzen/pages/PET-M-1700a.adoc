@@ -1,0 +1,37 @@
+= 1700 Heinrich Arendt Vahlsing Marriage
+
+[.narrow]
+== Transliteration and Translation
+
+.Transliteration
+[literal.bordered,subs="verbatim,quotes"]
+....
+Heinrich Arndt Vahlsing [Sheper] [aus/auf] Höckersau und [Anna]
+Elisabeth B[ecker?] [aus/auf] [????] den 23 Sept copuliert
+....
+
+
+.Translation
+[literal.bordered,subs="verbatim,quotes"]
+....
+Heinrich Arndt Vahlsing [Sheper] [aus/auf] Höckersau und [Anna]
+Elisabeth B[????] [aus/auf] [????] den 23 Sept copuliert
+....
+
+
+
+
+
+
+
+
+
+
+[bibliography]
+== Citations
+
+* [[[image25]]] "Archion Protestant Kirchenbücher Portal", database with
+images, _Archion_ (https://www.archion.de/p/85526d4e96/: 15 Feb. 2026),
+path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der
+Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 25 of 239
