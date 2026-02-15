@@ -3,7 +3,7 @@
 
 == Family Group and Other Facts
 
-This is almost certainly the xref:petzen:PET-B-1746a.adoc[Anna Louisa Eleonore Kruekeberg who was born
+This is prospectively xref:petzen:PET-B-1746a.adoc[Anna Louisa Eleonore Kruekeberg who was born
 26 October 1746]. She would have been 10 years old by 26 January 1757.
 
 .Family Relationship Information
