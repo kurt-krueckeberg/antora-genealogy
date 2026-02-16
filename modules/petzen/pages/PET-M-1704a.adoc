@@ -1,6 +1,16 @@
 = 1704 Johann Tönnis Eggerding Marriage
 :page-role: wide
 
+== Family and Other Relationships and Facts
+
+.15 October 1704 Marriage
+[%header, cols="3,2,3,2",width=75%"]
+|===
+|Groom|Groom Residence|Bride|Bride Residence|
+
+|Johann Tönnies Eggerding|uncertain|Anna Catharina Eberding|Petzen
+|===
+
 [.narrow]
 == Citation
 

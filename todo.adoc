@@ -1,5 +1,13 @@
 = TODO
 
+== Prepare Documents to Examine in Bückeburg for Dr. Möhle
+
+== Finish Funke Einlieger Style and Usage update. Review Arndt.
+
+* Funke is in ~/funke.
+* J Arndt's use of Einlieger was in
+  nla/m/stand-terms/p/arndt-einlieger.adoc, but I moved it to ~/funke.
+
 == Complete Bueckeburg Research TODOES
 
 Pick chatgpt thread https://chatgpt.com/share/697181a5-d3d0-8004-a311-5b8875bd7f98 where it says:
