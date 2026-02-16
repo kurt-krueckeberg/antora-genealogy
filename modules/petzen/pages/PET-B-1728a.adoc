@@ -50,7 +50,7 @@ Tönnies Eggerding was a prior holder.
 Apparently Friedrich Kuhlman had been the immediate prior holder and Johann
 Tönnnis Eggerding the holder before him. We learn this from the answer of
 Johann Heinrich Krücekberg to question #1 at
-xref:nla:2741:krueckeberg-answers.adoc[].
+xref:nla:2741:index.adoc[].
 ====
 
 == Citation
