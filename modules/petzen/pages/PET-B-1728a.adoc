@@ -33,21 +33,24 @@ Fact|Details
 [IMPORTANT]
 ====
 Not only was *Johann Tönnies Eggerding* a baptismal sponsor for Johann
-Heinrich's son, Johann Friedrich, he was also the former owner of the
-holding of no. 10 Berenbusch, which we know Johann Heinrich was living at
-by 1747 and perhaps earlier.
+Heinrich's son, Johann Friedrich, he was also the former holder of no. 10
+Berenbusch, which we know Johann Heinrich was living at by 1743-1744 from
+his replies to the *Records of the questioning of the individual rural
+property holders in Evesen, Berenbusch, Nordholz, and Rusbend in the
+context of the General Land Survey* done in 1743-1744.  and perhaps
+earlier.
 
-The secular document *Namensverzeichnis sämtlicher Kolonen der Ämter
-Bückeburg und Arensburg, mit Nummerierung der sämtlichen Häuser ("List of
-names of all Kolons of the offices of Bückeburg and Arensburg, with
-numbering of the all houses")* shows us that in 1747 Johann Heinrich
-Krückeberg was the holder of no. 10 Berenbusch and Johann Tönnies Eggerding
-was a prior holder. 
+Aslo the document *Namensverzeichnis sämtlicher Kolonen der Ämter Bückeburg
+und Arensburg, mit Nummerierung der sämtlichen Häuser ("List of names of
+all Kolons of the offices of Bückeburg and Arensburg, with numbering of the
+all houses")* shows, xref:nla:140:page-17.adoc[on page 17], us that in 1747
+Johann Heinrich Krückeberg was the holder of no. 10 Berenbusch and Johann
+Tönnies Eggerding was a prior holder. 
 
-This is mentioned xref:nla:140:page-17.adoc[page 17 of the volume].
-Apparently Friedrich Kuhlman had been the prior holder and Johann Tönnnis
-Eggerding the holder before him. We learn this from the answer of Johann
-Heinrich Krücekberg to question #1 at xref:nla:2741:krueckeberg-answers.adoc[].
+Apparently Friedrich Kuhlman had been the immediate prior holder and Johann
+Tönnnis Eggerding the holder before him. We learn this from the answer of
+Johann Heinrich Krücekberg to question #1 at
+xref:nla:2741:krueckeberg-answers.adoc[].
 ====
 
 == Citation
