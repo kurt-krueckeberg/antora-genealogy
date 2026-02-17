@@ -1,0 +1,186 @@
+= Research Problem: How was Anna Maria Vahlsing Connected to the Kuhlmann Household
+
+Good — now we can finally turn this into a *researchable problem instead
+of a theoretical one*.
+
+Your question is no longer:
+
+____
+_When did Krückeberg get No. 10?_
+____
+
+but
+
+____
+*Through which woman did the occupancy right pass to him?*
+____
+
+Because the visitation already tells us the legal mechanism:
+
+____
+_habe darauf geheiratet_ = he entered the holding through a woman who
+belonged to the Kuhlmann household.
+____
+
+So the task becomes identifying *how Anna Maria Vahlsing was connected
+to the Kuhlmann household*.
+
+There are only a few historically possible pathways in a Schaumburg
+Brinksitzerstelle.
+
+'''''
+
+== The finite set of possibilities (this is important)
+
+For a small holding, a man could obtain it through marriage only if his
+wife was:
+
+[arabic]
+. *daughter of the previous holder (Friedrich Kuhlmann)*
+. *widow of the previous holder*
+. *stepdaughter / foster daughter raised in the household*
+. *heiress of a resident relative (e.g., niece living there)*
+. *designated successor living on the place as servant
+(Aufsitzer/Einwohnerin)*
+
+That’s it. The records must support one of these — no other mechanism
+existed.
+
+So instead of searching randomly for Krückebergs or Kuhlmanns, we search
+for:
+
+____
+*a Vahlsing woman physically living inside the Kuhlmann household before
+1727*
+____
+
+'''''
+
+== What evidence proves household membership in this period
+
+You do NOT need a document saying "`she inherited the place.`" In this
+era, occupancy rights are reconstructed indirectly.
+
+The decisive indicators are:
+
+[cols=",",options="header",]
+|===
+|Record type |What it reveals
+|baptism sponsors |household network
+|confirmation lists |adolescents in the house
+|communion registers |adult residents
+|burial residence |who lived where
+|remarriage wording |widow status
+|===
+
+One correct sponsor pattern can solve the entire problem.
+
+'''''
+
+== Your concrete step-by-step strategy
+
+=== Step 1 — locate Friedrich Kuhlmann in the register
+
+Not genealogy — presence.
+
+Collect every entry mentioning him:
+
+* baptisms of his children
+* burial of wife
+* his burial
+* residence wording (Berenbusch!)
+
+You are building a household cluster.
+
+'''''
+
+=== Step 2 — search for Anna Maria _before_ her marriage
+
+Not her baptism — her *appearances*.
+
+Look in Petzen records before 1727 for:
+
+____
+Anna Maria Vahlsing as baptism sponsor as confirmation candidate as
+communion participant as burial witness
+____
+
+If she appears in Berenbusch → problem solved: she lived in the Kuhlmann
+household.
+
+'''''
+
+=== Step 3 — sponsor network test (most powerful tool)
+
+Make a list:
+
+*All sponsors at Krückeberg children’s baptisms*
+
+Then ask:
+
+Do Kuhlmann names appear repeatedly?
+
+If yes → she came from that household even if not biologically Kuhlmann.
+
+This works because godparenting in Schaumburg was overwhelmingly
+intra-household.
+
+'''''
+
+=== Step 4 — burial sequencing (often decisive)
+
+You want the order:
+
+[arabic]
+. death of Kuhlmann or Kuhlmann widow
+. first record calling Krückeberg "`in Berenbusch`"
+
+That transition marks the moment the marriage right activated.
+
+'''''
+
+== Why the Vahlsing surname is not a contradiction
+
+The shepherd on the Höckersau could easily have had a daughter placed in
+another household for service — extremely common.
+
+So she could be:
+
+____
+born Vahlsing raised Kuhlmann household member legal successor there
+____
+
+And the visitation records the legal reality, not the biological
+surname.
+
+'''''
+
+== What will actually answer your question
+
+Not more theoretical interpretation.
+
+You need to prove one statement:
+
+____
+Anna Maria Vahlsing was resident in the Kuhlmann household before 1727.
+____
+
+Once that is shown, the accession mechanism is historically resolved.
+
+'''''
+
+== If you want the fastest possible test
+
+Paste:
+
+[arabic]
+. one baptism of a Krückeberg child
+. one late entry mentioning Friedrich Kuhlmann
+
+I can usually tell from sponsor structure within a few lines whether the
+households are connected.
+
+'''''
+
+You now have a targeted research objective: *trace the woman’s
+residence, not the men’s surnames.*
