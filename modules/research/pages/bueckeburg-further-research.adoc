@@ -15,21 +15,23 @@ INTRODUCTION: Four families are of interest:
 * Eggerding
 
 Precisely when and how did Johann Heinrich Krückeberg become of the holder of no. 10
-Berenbusch?  We know his replies to the xref:nla:2741:index.adoc[1743-44 questionnaire]:
+Berenbusch?  We know from the xref:nla:2741:index.adoc[1743-44
+questionnaire] that Johann Heinrich Krückeberg was the Brinksitzer of no.
+10 Berenbusch. We also learn:
 
-* Johann Heinrich Krückeberg was the holder of *no. 10 Berenbusch* by 1743-1744.
-* From his reply to question #1, we know the prior two holders:
+* From his reply to question #1, the prior two holders were:
 ** Friedrich Kuhlmann -> Johann Tönnis Eggerding -> Johann Heinrich
    Krückeberg.
-* Johann Tönnis Eggerding was a baptism sponsor at
-  xref:petzen:PET-B-1728a.adoc[1728 baptism of Johann
-  Heinrich's first son].
 * His reply to xref:nla:2741:index.adoc[question #2] ("habe darauf geheyrahtet"), seems to imply he
 become the holder through marriage, but not directly since he
-xref:petzen:PET-M-1727a.adoc[married] the daughter of a shepherd at the Höckersau Comital estate.
+xref:petzen:PET-M-1727a.adoc[married the daughter of a shepherd at the
 
-Therefore the genealogies of Johann Tönnis Eggerding and Friedrich Kuhlmann
-are of interest. If they are included in the genealogy documents below,
+We also know that Johann Tönnis Eggerding was a baptism sponsor at
+the xref:petzen:PET-B-1728a.adoc[1728 baptism of Johann Heinrich's first son].
+Höckersau Comital estate].
+
+Therefore the genealogies of *Johann Tönnis Eggerding* and *Friedrich
+Kuhlmann* are of interest. If they are included in the genealogy documents below,
 their residence at no. 10 Berenbusch or at least Berenbusch is likely
 mentioned. 
 
