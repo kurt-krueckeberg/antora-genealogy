@@ -1,6 +1,19 @@
 = TODO
 
-== Prepare Documents to Examine in Bückeburg for Dr. Möhle
+== Prepare List of Documents to for Dr. Möhle to examine in Bückeburg
+
+Pick chatgpt thread https://chatgpt.com/share/697181a5-d3d0-8004-a311-5b8875bd7f98 where it says:
+
+____
+"PART I — What you can do now (with what you already have)
+1. Turn the baptism set into a residence-continuity test"
+____
+ 
+Do this.
+== WRITE
+
+Work on the family ancestry proof. Gaps can be filled in later.
+This will provide other research items for Dr. Möhle to research.
 
 == Carl Friedrich Gottlieb is Jobst Heinrich Krückeberg in NLA 146
 
@@ -21,29 +34,6 @@ in their context is critical.
 * Funke is in ~/funke.
 * J Arndt's use of Einlieger was in
   nla/m/stand-terms/p/arndt-einlieger.adoc, but I moved it to ~/funke.
-
-== Complete Bueckeburg Research TODOES
-
-Pick chatgpt thread https://chatgpt.com/share/697181a5-d3d0-8004-a311-5b8875bd7f98 where it says:
-
-____
-"PART I — What you can do now (with what you already have)
-1. Turn the baptism set into a residence-continuity test"
-____
- 
-Do this.
-== WRITE
-
-Work on the family ancestry proof. Gaps can be filled in later.
-This will provide other research items for Dr. Möhle to research.
-
-Add the jhk (1806) and CFK (1807) passenger lists.
-
-== Add Further Research Strategy
-
-* Add to the m/ancestry/nav.adoc, if not present, ~/gen/m/research/p/further-bueckeburg-documents.adoc
-* And/or merge xref:ancestry:further-bueckeburg-documents.adoc[] with the
-documents mentioned in xref:ancestry:who-is-the-father-of-jobst-heinrich.adoc[]
 
 See: https://chatgpt.com/share/6979521a-a414-8004-b801-47a7da74ac19
 
