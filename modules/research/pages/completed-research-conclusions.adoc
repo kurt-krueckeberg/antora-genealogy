@@ -6,20 +6,25 @@ From the Bückeberg documents we thus have this timeline/evidence:
 |===
 | Evidence | What it shows  
 
-| 1727 marriage “aus Berenbusch”  | Krückeberg lived in the village           
+| xref:petzen:PET-B-1727a.adoc[1727 marriage] “aus Berenbusch”  
+| Krückeberg lived in the village           
 
-| 1728 baptism sponsor: Eggerding | Social link to the earlier holder +
+| xref:petzen:PET-B-1728a.adoc[1728 baptism] sponsor: Eggerding 
+| Social link to the earlier holder +
 Eggerding -> Kuhlmann -> Krückeberg
 
-| 1737 Hausbesitzer list          | Krückeberg might not yet be holder
-(unclear)             
+| xref:nla:2728:survey-1737.adoc[1737 Hausbesitzer list]
+| Krückeberg might not yet be holder (unclear)             
 
-| 1743–44 questionnaire           | Krückeberg is holder; predecessors named  +
+| xref:nla:2741:index.adoc[1743–44 questionnaire]
+| Krückeberg is holder; predecessors named  +
 Eggerding -> Kuhlmann -> Krückeberg
  
-| 1745 survey                     | Krückeberg confirmed as holder            
+| xref:nla:2713:index.adoc[1745 survey]
+| Krückeberg confirmed as holder            
 
-| 1747 list                       | Eggerding → Krückeberg (simplified chain) 
+| xref:nla:140:page-17.adoc[1747 list]
+| Eggerding → Krückeberg (simplified chain) 
 |===
 
 We now have three critical anchors:
