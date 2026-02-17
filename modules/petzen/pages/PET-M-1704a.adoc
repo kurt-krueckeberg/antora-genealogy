@@ -6,7 +6,7 @@
 .15 October 1704 Marriage
 [%header, cols="3,2,3,2",width=75%"]
 |===
-|Groom|Groom Residence|Bride|Bride Residence|
+|Groom|Groom Residence|Bride|Bride Residence
 
 |Johann Tönnies Eggerding|uncertain|Anna Catharina Eberding|Petzen
 |===
