@@ -6,10 +6,10 @@ From the Bückeberg documents we thus have this timeline/evidence:
 |===
 | Evidence | What it shows  
 
-| xref:petzen:PET-B-1727a.adoc[1727 marriage] “aus Berenbusch”  
+| xref:petzen:PET-M-1727a.adoc[1727 marriage] “aus Berenbusch”  
 | Krückeberg lived in the village           
 
-| xref:petzen:PET-B-1728a.adoc[1728 baptism] sponsor: Eggerding 
+| xref:petzen:PET-B-1728a.adoc[1728 baptism sponsor]: Eggerding 
 | Social link to the earlier holder +
 Eggerding -> Kuhlmann -> Krückeberg
 
