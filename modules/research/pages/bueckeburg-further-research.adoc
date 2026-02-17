@@ -11,6 +11,14 @@ Examine Frille for genealogical information about the Bleeke at no. 13
 Leteln, and the Berenbusch for Krückeberg , especially any mentions of
 Berenbusch no. 10. 
 
+When did Johann Heinrich Krückeberg become of the holder of no. 10
+Berenbusch. We know from the xref:nla:2741:index.adoc[1743-44 questionnaire]:
+
+* he was the holder of *no. 10 Berenbusch* by 1743-1744.
+* from his reply to question #1, the immediate prior holder was Friedrich Kuhlmann and before him
+  Johann Tönnis Eggerding
+** he seems to have become the holder through marriage
+
 [%header,cols="3a,6a,1"]
 |===
 |Identifier
