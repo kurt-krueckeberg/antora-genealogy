@@ -165,6 +165,7 @@
 * Vahlsing
 ** xref:wiedensahl:WIED-B-1670a.adoc[]
 ** xref:petzen:PET-M-1700a.adoc[]
+** xref:petzen:PET-M-1712b.adoc[]
 ** xref:petzen:PET-M-1728a.adoc[]
 ** xref:petzen:PET-D-1731a.adoc[]
 * Werkmeister
