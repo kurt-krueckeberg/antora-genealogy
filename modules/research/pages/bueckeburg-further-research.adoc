@@ -7,25 +7,31 @@ Go through chatgpt thread https://chatgpt.com/c/696e7c54-f6bc-832a-881e-c6cadca7
 
 == Genealogische Unterlagen
 
-Examine Frille for genealogical information about the Bleeke at no. 13
-Leteln, and the Berenbusch for Krückeberg , especially any mentions of
-Berenbusch no. 10. 
+INTRODUCTION: Four families are of interest: 
+
+* Bleekes of Leteln, who were members of the Frille parish. 
+* Krückeberg
+* Kuhlmann
+* Eggerding
 
 Precisely when and how did Johann Heinrich Krückeberg become of the holder of no. 10
-Berenbusch? 
+Berenbusch?  We know his replies to the xref:nla:2741:index.adoc[1743-44 questionnaire]:
 
-We know his replies to the xref:nla:2741:index.adoc[1743-44 questionnaire]:
-
-* He was the holder of *no. 10 Berenbusch* by 1743-1744.
-* His reply to question #1 tells us the prior two holders:
-** Friedrich Kuhlmann -> Johann Tönnis Eggerding
-* Johann Tönnis Eggerding was a baptism sponsor at the
-  xref:petzen:PETßBß1728a.adoc[1728 baptism of Johann
+* Johann Heinrich Krückeberg was the holder of *no. 10 Berenbusch* by 1743-1744.
+* From his reply to question #1, we know the prior two holders:
+** Friedrich Kuhlmann -> Johann Tönnis Eggerding -> Johann Heinrich
+   Krückeberg.
+* Johann Tönnis Eggerding was a baptism sponsor at
+  xref:petzen:PET-B-1728a.adoc[1728 baptism of Johann
   Heinrich's first son].
-* His reply to xref:nla:2741:index.adoc[question #2], seems to imply he
-  become the holder through marriage, but not directly since he
-xref:petzen:PET-M-1727a.adoc[married] the daughter of a shepherd at the
-Höckersau Comital estate.
+* His reply to xref:nla:2741:index.adoc[question #2] ("habe darauf geheyrahtet"), seems to imply he
+become the holder through marriage, but not directly since he
+xref:petzen:PET-M-1727a.adoc[married] the daughter of a shepherd at the Höckersau Comital estate.
+
+Therefore the genealogies of Johann Tönnis Eggerding and Friedrich Kuhlmann
+are of interest. If they are included in the genealogy documents below,
+their residence at no. 10 Berenbusch or at least Berenbusch is likely
+mentioned. 
 
 [%header,cols="3a,6a,1"]
 |===
