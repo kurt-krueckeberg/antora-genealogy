@@ -5,35 +5,7 @@
 
 Go through chatgpt thread https://chatgpt.com/c/696e7c54-f6bc-832a-881e-c6cadca7ee13 for other document. 
 
-== Genealogische Unterlagen
-
-INTRODUCTION: Four families are of interest: 
-
-* Bleekes of Leteln, who were members of the Frille parish. 
-* Krückeberg
-* Kuhlmann
-* Eggerding
-
-Precisely when and how did Johann Heinrich Krückeberg become of the holder of no. 10
-Berenbusch?  We know from the xref:nla:2741:index.adoc[1743-44
-questionnaire] that Johann Heinrich Krückeberg was the Brinksitzer of no.
-10 Berenbusch. We also learn:
-
-* From his reply to question #1, the prior two holders were:
-** Friedrich Kuhlmann -> Johann Tönnis Eggerding -> Johann Heinrich
-   Krückeberg.
-* His reply to xref:nla:2741:index.adoc[question #2] ("habe darauf geheyrahtet"), seems to imply he
-become the holder through marriage, but not directly since he
-xref:petzen:PET-M-1727a.adoc[married the daughter of a shepherd at the
-
-We also know that Johann Tönnis Eggerding was a baptism sponsor at
-the xref:petzen:PET-B-1728a.adoc[1728 baptism of Johann Heinrich's first son].
-Höckersau Comital estate].
-
-Therefore the genealogies of *Johann Tönnis Eggerding* and *Friedrich
-Kuhlmann* are of interest. If they are included in the genealogy documents below,
-their residence at no. 10 Berenbusch or at least Berenbusch is likely
-mentioned. 
+== Examination Instructions *Dep. 53 Acc. 2011/021 Nr. 17 (from 1740)* *Dep. 53 Acc. 2011/021 Nr. 16 (from 1693)* (_Genealogische Unterlagen — secondary genealogical research notes_)
 
 [%header,cols="3a,6a,1"]
 |===
@@ -65,6 +37,100 @@ Wülpke, Rusbend, Tallensen, Stemmen (Etzerfeld), Levesen, Kirchhorsten,
 Südhorsten, Petzen, *Berenbusch*, Cammer 
 |1693
 |===
+=== General Method
+
+[arabic]
+. Only examine entries for *Berenbusch*, *Evesen*, and nearby related
+families.
+. Do not transcribe everything — extract only statements linking:
+* persons
+* house/place
+* inheritance
+* marriage
+. Photograph or copy any cited archival source references.
+
+'''''
+
+== Goal A — Determine when Johann Heinrich Krückeberg became holder of
+Nr. 10
+
+Look specifically for statements that:
+
+* connect *Krückeberg* to a particular house or place
+* mention a predecessor or successor
+* describe a transfer, takeover, or "`kam auf die Stelle`"
+* reference numbering (Nr., Stätte, Hof, Brinksitz)
+* provide dates tied to occupancy
+
+Record verbatim wording.
+
+'''''
+
+== Goal B — Possible marital right through Anna Maria Vahlsing
+
+Search only for evidence that Anna Maria Vahlsing had a direct connection to the holding before her 1727 marriage, especially:
+
+* earlier marriage to Friedrich Kuhlmann
+
+* described as widow (“Witwe”) of Kuhlmann
+
+* described as residing on the place before marrying Krückeberg
+
+* remarriage “auf die Stelle”
+
+* transfer of occupancy through marriage
+
+* mention of a Leibzucht or widow’s residence
+
+* guardianship of children of Kuhlmann
+
+Ignore patronymic inheritance — only marital occupancy is relevant
+
+'''''
+
+== Goal C — Identify earlier holder chain
+
+Collect all references linking these names to one property:
+
+* Johann Tönnies Eggerding
+* Friedrich Kuhlmann
+* Johann Heinrich Krückeberg
+
+Especially note wording such as:
+
+* "`vormals`"
+* "`nachher`"
+* "`folgte`"
+* "`übernahm`"
+* "`erbte`"
+* "`heiratete auf die Stelle`"
+
+'''''
+
+== Documentation Requirements
+
+For every useful entry record:
+
+* exact wording
+* page or folio
+* cited original source (Kirchenbuch, Acten, Register, etc.)
+* village name context
+
+'''''
+
+== What We Are Trying to Determine
+
+[arabic]
+. Earliest date Krückeberg is tied to the holding later known as Nr. 10
+. Whether occupancy came through marriage to Vahlsing
+. Whether Kuhlmann → Krückeberg transfer was hereditary, marital, or
+administrative
+
+'''''
+
+*Important:* These files are secondary research compilations — we are
+extracting leads and relationships, not proof.
+
 
 [[prospective]]
 [.narrow]
