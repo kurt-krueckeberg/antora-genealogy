@@ -19,15 +19,6 @@ body.very-wide .doc
       max-width: none; /* Changing this to 'none' widens the page */
    }
 }
-
-/* Use :page-role: notoc in order to hide the "Contents" right-most
- * navigation.
- */  
-body.notoc > div > main > div.content > aside {
-  display: none;
-}
-
-
 /* === Make top nav text visible on dark header background === */
 .navbar,
 .navbar .navbar-item,
@@ -39,7 +30,6 @@ body.notoc > div > main > div.content > aside {
   color: #ffffff !important;      /* pure white on hover */
   background: none !important;    /* avoid gray highlight */
 }
-
 
 /* When ':page-role: wide' is used, images will have shadwow-border. */
 body.wide .imageblock img {
@@ -80,13 +70,11 @@ table.tableblock.widepair td {
   border: 3px solid #444;         /* dark gray frame */
 }
 
-
 /* Making sections narrower */
 .literal-narrow {
     max-width: 95ch;
     border-left: 3px solid #ccc; /* A visual separator */ 
 }
-
 
 /* used in: [role="literal-max-width"] */
 .literal-narrower {
