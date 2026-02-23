@@ -71,27 +71,14 @@ image::petzen-band2-img27-vogt.jpg[id="image27-vogt",align=left,title="Click to 
 .Marriage entry No. 3.
 [%header,col="1,5,5,4,2,3,3,4",frame="none"]
 |===
-|Zahl |Name, Stand, Religion +
-und Eltern des Bräutigams |Name, Religion +
-Geburts u. Wohnort +
-der Braut |Zeit und Ort +
-der Proclamation |Zeit u. Ort +
-der Kopulation |der kopu +
-lirende +
-Prädiger |Kopulations +
-Zeugen |Bemerkungen
+|Zahl |Name, Stand, Religion und Eltern des Bräutigams |Name, Religion Geburts u. Wohnort der Braut |Zeit und Ort der Proclamation |Zeit u. Ort der Kopulation |der kopulirende Prädiger |Kopulations Zeugen |Bemerkungen
 
-|Junggeselle Anton Otto Vogt, des verstorbene Albert Raulfing n.
-13 in Berenbusch hinterlassener Sohn und Anerbe. Luth. Conf. und jetzt 23 
-
-geb. 13.7.88 
-gest. 5.12.59 
-| Ilse Margarethe Blecken, Tochter des verstorbenen Johann Heinrich Blecken
-n. 11 in Eversen. Luth. Conf. und jetzt 36 Jahre alt
-
+|Junggeselle Anton Otto Vogt, Sohn des verstorbene Heinrich Tönnis Vogt n.
+3 in Nammen  Luth. Conf. und jetzt 27
+|Ilse Margarethe Blecken, Tochter des verstorbenen Johann Heinrich Blecken
+n. 11 in Eversen. Luth. Conf. und jetzt 36 Jahre alt +
 gest. 1846 
-|Sind in den Kirchen zu Petzen und Oberkirchen proklamiert den 15ten, 22ten
-und 30ten März 
+|sind in den Kirchen zu Petzen und Oberkirchen proklamiert den 15ten, 22ten und 30ten März 
 |und Kopuliert d. 10ten Maÿ 
 |von dem zeitigen Prediger Stille 
 |in Gegenwart der Beichtenden und des Küsters Crömer
@@ -103,25 +90,14 @@ und 30ten März
 .Marriage entry No. 3.
 [%header,col="1,5,5,4,2,3,3,4",frame="none"]
 |===
-|No.|Name, Occupation, Religion, +
-Parents des Bräutigums|Name, Religion +
-Birthplace and Residence +
-of the Bride|Time and Place +
-of the Proclamation|Time and Place +
-of the Marriage|The offi- +
-ciating Minister|Marriage Witnesses|Remarks
+|No.|Name, Occupation, Religion, Parents des Bräutigums|Name, Religion Birthplace and Residence of the Bride|Time and Place of the Proclamation|Time and Place of the Marriage|The officiating Minister|Marriage Witnesses|Remarks
 
 |Bachelor Anton Otto Vogt, surviving son and heir of the late Albert Raulfing No. 13 in Berenbusch. Lutheran confession, and now 23 years old.
 |Ilse Margarethe Blecken, daughter of the late Johann Heinrich Blecken, No. 11 in Eversen. Lutheran confession, and now 36 years old.
-|were announced in the churches of Petzen and Oberkirchen on
- 15th, 22nd and 30th March +
-|and married the 10th +
-May
-|by the current +
-pastor Stille
-|in presence +
-of the communicants and the parish clerk/sacristan +
-Crömer
+|were announced in the churches of Petzen and Oberkirchen on 15th, 22nd and 30th March
+|and married May 10th 
+|by the current pastor Stille
+|in presence of the communicants and the parish clerk/sacristan Crömer
 |the bride already had a grown, illegitimate daughter
 |===
 
