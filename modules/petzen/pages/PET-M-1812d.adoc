@@ -69,7 +69,7 @@ image::petzen-band2-img27-vogt.jpg[id="image27-vogt",align=left,title="Click to 
 .Transliteration
 [caption="Transliteration 2: "]
 .Marriage entry No. 3.
-[%header,%autowidth,frame="none"]
+[%header,col="1,5,5,4,2,3,3,4",frame="none"]
 |===
 |Zahl |Name, Stand, Religion +
 und Eltern des Bräutigams |Name, Religion +
@@ -101,7 +101,7 @@ und 30ten März
 .Translation
 [caption="Translation 2: "]
 .Marriage entry No. 3.
-[%header,%autowidth,frame="none"]
+[%header,col="1,5,5,4,2,3,3,4",frame="none"]
 |===
 |No.|Name, Occupation, Religion, +
 Parents des Bräutigums|Name, Religion +
