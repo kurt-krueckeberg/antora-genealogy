@@ -168,6 +168,8 @@
 ** xref:petzen:PET-B-1712b.adoc[]
 ** xref:petzen:PET-M-1728a.adoc[]
 ** xref:petzen:PET-D-1731a.adoc[]
+* Vogt
+** xref:PET-M-1812d.adoc[]
 * Werkmeister
 ** xref:petzen:PET-B-1783a.adoc[]
 ** xref:petzen:PET-D-1798a.adoc[]
