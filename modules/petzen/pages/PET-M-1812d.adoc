@@ -1,0 +1,136 @@
+= 1812 Anton Otto Vogt/Ilse Margarethe Blecke Marriage
+:page-role: wide
+
+== Family Relationship and Other Facts
+
+[caption="Bride and Groom Facts for: "]
+.May 10, 1812 Marriage
+[cols="2,4,4,1,2",options="header",width="85%"]
+|===
+|        | Name     | Address (at time of marriage)|Age| Religion
+
+| *Groom*
+|Anton Otto Vogt
+|No. 3 Nammen
+|27
+|Lutheran
+
+| *Bride*
+|Ilse Margarethe Blecken
+|no. 11 Evesen
+|36
+|Lutheran
+
+|*Groom's Father*
+|Heinrich Tönnis Vogt (deceased)
+|No. 3 Evesen
+|
+|
+
+|*Bride's Father*
+|Johann Heinrich Blecken
+|11 in Evesen
+|
+|
+|===
+
+.Other Facts
+[cols="1,2",width="65%"]
+|===
+|Person|Fact
+
+|Ilse Margaretha Blecken
+|the bride already had a grown, illegitimate daughter
+|===
+
+.Nachtrag
+[cols="2,1",width="50%"]
+|===
+|Name|Fact
+
+
+|Ilse Margarethe nee Blecken
+|died in 1846
+|===
+
+[.narrow]
+== Citation
+
+The marriage record is on <<PET-M-1812d, image 27, on pages 48 and 49>> of
+Petzen Kirchenbuch "Verzeichnis der Getauften, Konfirmierten, Getrauten und
+Gestorbenen 1785-1827" found on link:https://archion.de[Archion.de].
+
+== Image 
+
+image::petzen-band2-img27-vogt.jpg[id="image27-vogt",align=left,title="Click to enlarge",link=self]
+
+[.narrow]
+== Transliteration and Translation
+
+.Transliteration
+[caption="Transliteration 2: "]
+.Marriage entry No. 3.
+[%header,%autowidth,frame="none"]
+|===
+|Zahl |Name, Stand, Religion +
+und Eltern des Bräutigams |Name, Religion +
+Geburts u. Wohnort +
+der Braut |Zeit und Ort +
+der Proclamation |Zeit u. Ort +
+der Kopulation |der kopu +
+lirende +
+Prädiger |Kopulations +
+Zeugen |Bemerkungen
+
+|Junggeselle Anton Otto Vogt, des verstorbene Albert Raulfing n.
+13 in Berenbusch hinterlassener Sohn und Anerbe. Luth. Conf. und jetzt 23 
+
+geb. 13.7.88 
+gest. 5.12.59 
+| Ilse Margarethe Blecken, Tochter des verstorbenen Johann Heinrich Blecken
+n. 11 in Eversen. Luth. Conf. und jetzt 36 Jahre alt
+
+gest. 1846 
+|Sind in den Kirchen zu Petzen und Oberkirchen proklamiert den 15ten, 22ten
+und 30ten März 
+|und Kopuliert d. 10ten Maÿ 
+|von dem zeitigen Prediger Stille 
+|in Gegenwart der Beichtenden und des Küsters Crömer
+|die Braut hatte schon eine erwachsene uneheliche Tochter 
+|===
+
+.Translation
+[caption="Translation 2: "]
+.Marriage entry No. 3.
+[%header,%autowidth,frame="none"]
+|===
+|No.|Name, Occupation, Religion, +
+Parents des Bräutigums|Name, Religion +
+Birthplace and Residence +
+of the Bride|Time and Place +
+of the Proclamation|Time and Place +
+of the Marriage|The offi- +
+ciating Minister|Marriage Witnesses|Remarks
+
+|Bachelor Anton Otto Vogt, surviving son and heir of the late Albert Raulfing No. 13 in Berenbusch. Lutheran confession, and now 23 years old.
+|Ilse Margarethe Blecken, daughter of the late Johann Heinrich Blecken, No. 11 in Eversen. Lutheran confession, and now 36 years old.
+|were announced in the churches of Petzen and Oberkirchen on
+ 15th, 22nd and 30th March +
+|and married the 10th +
+May
+|by the current +
+pastor Stille
+|in presence +
+of the communicants and the parish clerk/sacristan +
+Crömer
+|the bride already had a grown, illegitimate daughter
+|===
+
+
+[bibliography]
+== Citations
+
+* [[[PET-M-1812d]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/35cc3dfe9f/
+: 22 Feb. 2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827
+> Image 27 of 357
