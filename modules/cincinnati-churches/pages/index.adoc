@@ -47,7 +47,7 @@ Lutheran Church of Cincinnati).  Pastor Möllman is mentioned in the
 Immanuel Lutheran, Decatur,  Indiana,
 xref:immanuel:ROOT:DEC-BIO-Bleeke-01.adoc[founder's biography  of Johann
 Heinrich Philip Bleeke], as the pastor who
-xref:german-evangelical-lutheran-and-reformed-church/carl-friedrich-wilhelm-bleeke-1840-confirmation.adoc[confirmed
+xref:german-evangelical-lutheran-and-reformed-church:carl-friedrich-wilhelm-bleeke-1840-confirmation.adoc[confirmed
 his son Carl Fridrich Wilhelm] in 1840.
 
 Pastor Möllmann is mentioned in link:https://hcgsohio.org/upload/files/Local%20Records/Church%20Records/Rau_GENEALOGY_OF_SOME_GERMAN_EVANGELICAL_Churches_in_Cincy_and_history.pdf[Genealogy
