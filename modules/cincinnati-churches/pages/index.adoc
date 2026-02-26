@@ -39,23 +39,29 @@ image::north-german-lutheran-page-17.jpg[align=left,title="Page and column headi
 
 == Discovery of Bleekes Cincinnati Church
 
-From 1837-1838,  the pastor of the Deutsche Evangelisch-Lutherische und
+Wilhelm Möllman was pastor of the Deutsche Evangelisch-Lutherische und
 Reformierte Kirche von Cincinnati ("German Evangelical Lutheran and
-Reformed Church of Cincinnati") was Wilhelm Möllman.  From 1838-1840 he was
+Reformed Church of Cincinnati") from 1837-1838. From 1838-1840 he was
 the pastor of the Norddeutsche Evangelisch-Lutherische Kirche (North German
-Lutheran Church of Cincinnati).  Pastor Möllman is mentioned in the
-Immanuel Lutheran, Decatur,  Indiana,
-xref:immanuel:ROOT:DEC-BIO-Bleeke-01.adoc[founder's biography  of Johann
-Heinrich Philip Bleeke], as the pastor who
-xref:german-evangelical-lutheran-and-reformed-church:carl-friedrich-wilhelm-bleeke-1840-confirmation.adoc[confirmed
-his son Carl Fridrich Wilhelm] in 1840.
+Lutheran Church of Cincinnati).  
 
-Pastor Möllmann is mentioned in link:https://hcgsohio.org/upload/files/Local%20Records/Church%20Records/Rau_GENEALOGY_OF_SOME_GERMAN_EVANGELICAL_Churches_in_Cincy_and_history.pdf[Genealogy
+These dates come from link:https://hcgsohio.org/upload/files/Local%20Records/Church%20Records/Rau_GENEALOGY_OF_SOME_GERMAN_EVANGELICAL_Churches_in_Cincy_and_history.pdf[Genealogy
 of Some German Evangelical Churches in Cincinnati, Ohio] written by Robert
 C. Rau, located on the  Hamilton County, Ohio, Genealogical Society's
 website.
 
-.Möllmann pastor of  North German Lutheran Church in Cincinnati
+Pastor Möllman connects the Bleekes in Cincinnati whoi were members of the
+N with the Bleeks of *Norddeutsche Evangelisch-Lutherische Kirche* (North German Lutheran Church of Cincinnati).
+with the Bleekes who were founding members of Immanuel Lutheran Church,
+Decatur, Indiana.
+
+Pastor Möllman is mentioned in the Immanuel Lutheran, Decatur, Indiana,
+xref:immanuel:ROOT:DEC-BIO-Bleeke-01.adoc[founder's biography of Johann
+Heinrich Philip Bleeke]. He is mentioned as the pastor who
+xref:german-evangelical-lutheran-and-reformed-church:carl-friedrich-wilhelm-bleeke-1840-confirmation.adoc[confirmed
+his son Carl Fridrich Wilhelm] in 1840.
+
+.Möllmann pastor of North German Lutheran Church in Cincinnati
 [quote, Robert C. Rau, Genealogy of Some German Evangelical Churches in Cincinnati, Ohio]
 ____
 in 1837, after a heated vote, **Wilhehn Moellmann**, from Osnabrück, was elected to fill the preacher's office. He
