@@ -8,8 +8,8 @@ Evangelisch-Lutherische und Reformierte Kirche von Cincinnati* ("German
 Evangelical Lutheran and Reformed Church of Cincinnati") until December
 17, 1838 when the church split.
 
-While members of the congregation, two Bleeke children were born during
-this time and one was confirmed and died:
+While members of the congregation, two Bleeke children were born, one of
+whom died the following hear, and one was confirmed.
 
 *Born:*
 
@@ -25,10 +25,11 @@ Joseph Bleeke], son of Carl Friedrich Bleeke, born March 12, 1837.
 Freidrich Wilhelm Bleeke]
 
 When the church split on December 17, 1838, the Johann Heinrich Bleeke
-family and likely the Carl Friedrich Bleeke family joined those who desired
-to found a new church, the Norddeutsche Evangelisch-Lutherische Kirche (the
-North German Lutheran Church of Cincinnati), which later built a new church
-building at ?*TODO*?[footnote  Rau].
+family and likely the Carl Friedrich Bleeke family joined the group of
+north Germans who founded a new church, the *Norddeutsche
+Evangelisch-Lutherische Kirche* (the North German Lutheran Church of
+Cincinnati), which later built a new church building at ?*TODO*?[footnote
+Rau].
 
 == Norddeutsche Lutherische Kirche
 
@@ -38,17 +39,21 @@ image::north-german-lutheran-page-17.jpg[align=left,title="Page and column headi
 
 == Discovery of Bleekes Cincinnati Church
 
-Two pieces of information link the Johann Heinrich Philip Bleeke family
-that settled in Adams County to the name of their church in Cincinnati
-Ohio. First, the name of their pastor in Cincinnati is mentioned in the
-Immaunel Lutheran, Decatur, Indiana,
-xref:immanuel:ROOT:DEC-BIO-Bleeke-01.adoc[biography] of Johann Heinrich
-Philip Bleeke, who was one of its founders. This pastor was Möllmann, and
-he appears in a article on the Hamilton County, Ohio, Genealogical
-Society's website entitled
-link:https://hcgsohio.org/upload/files/Local%20Records/Church%20Records/Rau_GENEALOGY_OF_SOME_GERMAN_EVANGELICAL_Churches_in_Cincy_and_history.pdf[Genealogy
+From 1837-1838,  the pastor of the Deutsche Evangelisch-Lutherische und
+Reformierte Kirche von Cincinnati ("German Evangelical Lutheran and
+Reformed Church of Cincinnati") was Wilhelm Möllman.  From 1838-1840 he was
+the pastor of the Norddeutsche Evangelisch-Lutherische Kirche (North German
+Lutheran Church of Cincinnati).  Pastor Möllman is mentioned in the
+Immanuel Lutheran, Decatur,  Indiana,
+xref:immanuel:ROOT:DEC-BIO-Bleeke-01.adoc[founder's biography  of Johann
+Heinrich Philip Bleeke], as the pastor who
+xref:german-evangelical-lutheran-and-reformed-church/carl-friedrich-wilhelm-bleeke-1840-confirmation.adoc[confirmed
+his son Carl Fridrich Wilhelm] in 1840.
+
+Pastor Möllmann is mentioned in link:https://hcgsohio.org/upload/files/Local%20Records/Church%20Records/Rau_GENEALOGY_OF_SOME_GERMAN_EVANGELICAL_Churches_in_Cincy_and_history.pdf[Genealogy
 of Some German Evangelical Churches in Cincinnati, Ohio] written by Robert
-C. Rau:
+C. Rau, located on the  Hamilton County, Ohio, Genealogical Society's
+website.
 
 .Möllmann pastor of  North German Lutheran Church in Cincinnati
 [quote, Robert C. Rau, Genealogy of Some German Evangelical Churches in Cincinnati, Ohio]
