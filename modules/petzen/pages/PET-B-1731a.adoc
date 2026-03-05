@@ -33,7 +33,7 @@ link:https://www.aarchion.de[Archion.de] database of Protestent Kirchenbücher d
 
 == Image 144
 
-image::petzen-band1a-img144.png[align=left,title='Rudolphina Margaretha Elisabeth Krückeberg (Click to enlarge)',link=self]
+image::petzen-band1a-img144.png[align=left,title=Rudolphina Margaretha Elisabeth Krückeberg (Click to enlarge),link=self]
 
 [.narrow]
 == Transliteration and Translation
