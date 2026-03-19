@@ -1,6 +1,6 @@
-== High-value Documents for Genealogy Research of Petzen / Berenbusch
+= Other High-value Documents for Genealogy Research of Petzen / Berenbusch
 
-=== 1. *Hofakten (farm files) — TOP PRIORITY*
+== 1. *Hofakten (farm files) — TOP PRIORITY*
 
 * For *Stätte Nr. 10 Berenbusch*
 * Held in the *Niedersächsisches Landesarchiv – Staatsarchiv Bückeburg*
@@ -10,12 +10,12 @@
 ** disputes 👉 This is the closest thing to a continuous record for your
 exact property
 
-==== Where:
+=== Where:
 
 * *fonds K (Hofkammerarchiv)*
 * Also sometimes in *L (Amt / local administration)*
 
-==== What to request/search:
+=== What to request/search:
 
 * Keywords:
 ** _Hofsachen_
@@ -30,13 +30,13 @@ exact property
 * obligations tied to the farm
 
 
-=== 2. *Brandkassenregister (fire insurance)*
+== 2. *Brandkassenregister (fire insurance)*
 
 * Property-based listings by house/farm
 * Often survive for Schaumburg-Lippe 👉 Good for confirming:
 * who held the farm at specific dates
 
-==== Where:
+=== Where:
 
 * *fonds L (19th-century administration)*
 * Often subseries:
@@ -44,7 +44,7 @@ exact property
 ** _Flurbücher_
 ** _Vermessung_
 
-==== What to look for:
+=== What to look for:
 
 * Early 1800s surveys (Napoleonic/post-Napoleonic period)
 * Parcel registers for:
@@ -56,17 +56,17 @@ exact property
 * maps (separate map collections)
 
 
-=== 3. *Kataster / Flurbücher (cadastral records)*
+== 3. *Kataster / Flurbücher (cadastral records)*
 
 * Early 19th c. land surveys
 * Parcel-level ownership in Berenbusch 👉 Useful for:
 * mapping and verifying land tied to your ancestor
 
-==== Where:
+=== Where:
 
 * Usually in *fonds L (financial / police / administrative)*
 
-==== Search terms:
+=== Search terms:
 
 * _Brandkasse_
 * _Brandversicherungsregister_
@@ -79,17 +79,17 @@ exact property
 * owner names
 
 
-=== 4. *Kontributionsregister (tax lists)*
+== 4. *Kontributionsregister (tax lists)*
 
 * Periodic lists of residents by holding 👉 Can confirm:
 * continuity of *Nr. 10*
 * economic status
 
-==== Where:
+=== Where:
 
 * *fonds L (Amt Bückeburg or regional tax offices)*
 
-==== Search terms:
+=== Search terms:
 
 * _Kontribution_
 * _Schatzung_
@@ -100,23 +100,23 @@ exact property
 * by village → by holding
 
 
-== Secondary (situational, lower yield)
+= Secondary (situational, lower yield)
 
-=== 5. *Militär-Stammrollen*
+== 5. *Militär-Stammrollen*
 
 * Only for applicable males
 * Sometimes includes Petzen residents
 
-==== A. Military rolls
+=== A. Military rolls
 
 * *fonds L (Militärwesen)*
 * Terms: _Stammrollen_, _Aushebung_
 
-==== B. Guardianship / court-related
+=== B. Guardianship / court-related
 
 * *fonds L (Justiz / Vormundschaft)*
 
-== How to actually search (critical)
+= How to actually search (critical)
 
 Use:
 
@@ -130,18 +130,18 @@ But understand:
 ** *administrative unit (Amt Bückeburg / Petzen)*
 
 
-=== 6. *Guardianship / poor relief files*
+== 6. *Guardianship / poor relief files*
 
 * Only if triggered by:
 ** death, debt, minors
 
-== Not worth pursuing (for your locality)
+= Not worth pursuing (for your locality)
 
 * Ortsfamilienbücher → already ruled out
 * Newspapers / Landesanzeigen → low yield
 * General "`searchable`" databases → no meaningful coverage
 
-=== Example search strategy (practical)
+== Example search strategy (practical)
 
 Try combinations like:
 
@@ -155,7 +155,7 @@ Then:
 
 * follow the *hierarchy* (fonds → series → file)
 
-== What this means in practice
+= What this means in practice
 
 You are now operating at:
 
@@ -165,7 +165,7 @@ ____
 
 —not general genealogy anymore.
 
-== Bottom line
+= Bottom line
 
 For *Petzen / Berenbusch*, your actionable targets are:
 
