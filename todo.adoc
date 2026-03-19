@@ -2,6 +2,9 @@
 
 == Complete Translation of Einlieger Article
 
+It is in the link:https://github.com/kurt-krueckeberg/funke[Funke] github
+repo.
+
 == Prepare List of Documents to for Dr. Möhle to examine in Bückeburg
 
 Pick chatgpt thread https://chatgpt.com/share/697181a5-d3d0-8004-a311-5b8875bd7f98 where it says:
