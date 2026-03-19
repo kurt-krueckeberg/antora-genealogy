@@ -1,0 +1,176 @@
+= Other High-value Documents for Genealogy Research of Petzen / Berenbusch
+
+== 1. *Hofakten (farm files) — TOP PRIORITY*
+
+* For *Stätte Nr. 10 Berenbusch*
+* Held in the *Niedersächsisches Landesarchiv – Staatsarchiv Bückeburg*
+* Track:
+** ownership succession
+** inheritances
+** disputes
+
+👉 This is the closest thing to a continuous record for your exact property
+
+=== Where:
+
+* *fonds K (Hofkammerarchiv)*
+* Also sometimes in *fonds L (Amt / local administration)*
+
+=== What to request/search:
+
+* Keywords:
+** _Hofsachen_
+** _Kolonate_
+** _Stätte Nr. 10 Berenbusch_
+** _Erbzins / Meierbrief_
+
+👉 These files track:
+
+* ownership succession
+* inheritance divisions
+* obligations tied to the farm
+
+
+== 2. *Brandkassenregister (fire insurance)*
+
+* Property-based listings by house/farm
+* Often survive for Schaumburg-Lippe
+
+👉 Good for confirming who held the farm at specific dates
+
+=== Where:
+
+* Usually in *fonds L (financial / police / administrative)*
+
+=== Search terms:
+
+* _Brandkasse_
+* _Brandversicherungsregister_
+* _Gebäudeverzeichnis_
+
+👉 Expect:
+
+* lists by house/farm
+* building descriptions
+* owner names
+
+
+== 3. *Kataster / Flurbücher (cadastral records)*
+
+* Early 19th c. land surveys
+* Parcel-level ownership in Berenbusch
+
+👉 Useful for mapping and verifying land tied to your ancestor
+
+=== Where:
+
+* *fonds L (19th-century administration)*
+
+=== What to look for:
+
+* Early 1800s surveys (Napoleonic/post-Napoleonic period)
+* Parcel registers for:
+** Berenbusch
+** Petzen parish
+
+👉 These are often paired with:
+
+* maps (separate map collections)
+
+
+== 4. *Kontributionsregister (tax lists)*
+
+* Periodic lists of residents by holding
+
+👉 Can confirm:
+
+* continuity of *Nr. 10*
+* economic status
+
+=== Where:
+
+* *fonds L (Amt Bückeburg or regional tax offices)*
+
+=== Search terms:
+
+* _Kontribution_
+* _Schatzung_
+* _Steuerregister_
+
+👉 Typically organized:
+
+* by village → by holding
+
+
+== 5. *Militär-Stammrollen*
+
+* Only for applicable males
+* Sometimes includes Petzen residents
+
+=== Where:
+
+* *fonds L (Militärwesen)*
+
+=== Terms:
+
+* _Stammrollen_
+* _Aushebung_
+
+
+== 6. *Guardianship / poor relief files*
+
+* Only if triggered by:
+** death
+** debt
+** minors
+
+=== Where:
+
+* *fonds L (Justiz / Vormundschaft)*
+
+
+== Search Strategy (Arcinsys)
+
+* Use *Arcinsys*
+* It is *finding-aid level*, not full-text
+* Search by:
+** *German subject terms*
+** *administrative unit (Amt Bückeburg / Petzen)*
+
+=== Example search terms:
+
+* `Berenbusch Kataster`
+* `Berenbusch Brandkasse`
+* `Petzen Kontribution`
+* `Kolon Berenbusch Nr 10`
+* `Hof Berenbusch`
+
+👉 Then follow:
+
+* *fonds → series → file*
+
+
+== Not Worth Pursuing
+
+* Ortsfamilienbücher → already ruled out
+* Newspapers / Landesanzeigen → low yield
+* General "searchable" databases → no meaningful coverage
+
+
+== What this means in practice
+
+____
+*fonds-level reconstruction of one property (Nr. 10 Berenbusch)*
+____
+
+—not general genealogy anymore.
+
+
+== Bottom line
+
+For *Petzen / Berenbusch*, your actionable targets are:
+
+[arabic]
+. *fonds K (Hofkammer)* → Hofakten (primary)
+. *fonds L (administration)* → Kataster, Brandkasse, Kontribution
+. *Arcinsys* → to locate exact file signatures

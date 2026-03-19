@@ -5,7 +5,7 @@
 ** xref:completed-research.adoc[]
 ** xref:completed-research-conclusions.adoc[]
 ** xref:bueckeburg-further-research.adoc[]
-** xref:bueckeburg-further-research-2.adoc[]
+** xref:other-high-value-research-dcuments.adoc[]
 ** xref:anna-maria-vahlsing-kuhlmann-connection.adoc[]
 ** xref:jobst-hk-1765-1822-guild-records.adoc[]
 * German Records-related Research Questions
