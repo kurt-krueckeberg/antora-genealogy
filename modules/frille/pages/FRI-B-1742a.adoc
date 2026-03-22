@@ -9,7 +9,7 @@ Frille "Verzeichnis der Getauften, Getrauten, Gestorbenen (Register of Baptism, 
 
 == Image
 
-image::frille-band1-img131.png[align=left,link=self]
+image::frille-band1-img131.jpg[align=left,link=self]
 
 == Transliteration and Translation
 
@@ -20,7 +20,6 @@ image::frille-band1-img131.png[align=left,link=self]
 Schäkel. M. Anna Catherina Vahlsings beÿde aus Päpinghausen. S. Ilse
 Margarethe Vahlsings, der Kindbetterin Bruders Tochter aus Päpinghausen
 ....
-
 
 .Translation
 [literal.bordered,subs="verbatim,quotes"]
