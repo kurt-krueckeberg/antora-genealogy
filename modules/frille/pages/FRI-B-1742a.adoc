@@ -1,16 +1,19 @@
 = 1742 Ann Maria Elisabeth Schäkel Baptism
 :page-role: wide
 
+[.narrow]
 == Citation
 
 The baptism of Ann Maria Elisabeth Schäkel occurred on 9 October 1742. It
 appears on <<FRI-B-1742a, image 131, on the right  page, entry #450>> in
-Frille "Verzeichnis der Getauften, Getrauten, Gestorbenen (Register of Baptism, Marriages, Deaths) 1664-1757.
+Frille "Verzeichnis der Getauften, Getrauten, Gestorbenen (Register of
+Baptism, Marriages, Deaths) 1664-1757.
 
 == Image
 
 image::frille-band1-img131.jpg[align=left,link=self]
 
+[.narrow]
 == Transliteration and Translation
 
 .Transliteration

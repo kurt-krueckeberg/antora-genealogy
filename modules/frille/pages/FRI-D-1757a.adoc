@@ -1,6 +1,7 @@
 = 1757 Johann Heinrich Vahlsing Death
 :page-role: wide
 
+[.narrow]
 == Citation
 
 The death of Johann Heinrich Vahlsing occurred on 11 September 1757. It
@@ -12,6 +13,7 @@ Deaths) 1664-1757.
 
 image::frille-band1-img384.jpg[align=left,link=self]
 
+[.narrow]
 == Transliteration and Translation
 
 .Transliteration

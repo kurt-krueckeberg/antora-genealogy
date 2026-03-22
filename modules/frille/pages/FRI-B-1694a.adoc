@@ -1,6 +1,7 @@
 = 1694 Johann Heinrich Vahlsing Baptism
 :page-role: wide
 
+[.narrow]
 == Citation
 
 The baptism of Johann Heinrich Vahlsing occurred on 29 April 1694. It
@@ -12,6 +13,7 @@ Deaths) 1664-1757.
 
 image::frille-band1-img131.jpg[align=left,link=self]
 
+[.narrow]
 == Transliteration and Translation
 
 .Transliteration
