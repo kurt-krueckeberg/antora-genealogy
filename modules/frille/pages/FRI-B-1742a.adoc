@@ -9,7 +9,7 @@ Frille "Verzeichnis der Getauften, Getrauten, Gestorbenen (Register of Baptism, 
 
 == Image
 
-image::frille-band1-img131.jpg[align=left,link=self]
+image::frille-band1-img131.png[align=left,link=self]
 
 == Transliteration and Translation
 
