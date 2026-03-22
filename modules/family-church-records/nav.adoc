@@ -155,7 +155,7 @@
 ** xref:petzen:PET-M-1822a.adoc[]
 ** xref:petzen:PET-M-1826a.adoc[]
 ** xref:frille:FRI-M-1833a.adoc[]
-* Söest Krückeberg
+* Krückeberg (Söst/Immanuel)
 ** xref:wallensen:WAL-B-1822a.adoc[]
 * Möller
 ** xref:petzen:PET-B-1741b.adoc[]
