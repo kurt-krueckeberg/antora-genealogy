@@ -161,6 +161,7 @@
 ** xref:petzen:PET-B-1741b.adoc[]
 ** xref:petzen:PET-C-1754a.adoc[]
 * Schäkel
+** xref:frille:FRI-B-1694a.adoc[]
 ** xref:frille:FRI-B-1742a.adoc[]
 * Schwier
 ** xref:frille:FRI-B-1798a.adoc[]
