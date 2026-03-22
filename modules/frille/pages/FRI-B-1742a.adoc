@@ -1,0 +1,44 @@
+= 1742 Ann Maria Elisabeth Schäkel Baptism
+:page-role: wide
+
+== Citation
+
+The baptism of Ann Maria Elisabeth Schäkel occurred on 9 October 1742. It
+appears on <<FRI-B-1742a, image 131, on the right  page, entry #450>> in
+Frille "Verzeichnis der Getauften, Getrauten, Gestorbenen (Register of Baptism, Marriages, Deaths) 1664-1757.
+
+== Image
+
+image::frille-band1-img128.jpg[align=left,link=self]
+
+== Transliteration and Translation
+
+.Transliteration
+[literal.bordered,subs="verbatim,quotes"]
+....
+45.) d 9ten Oct. Anna Maria Elisabeth Schäkels. P. Friederich Wilhelm
+Schäkel. M. Anna Catherina Vahlsings beÿde aus Päpinghausen. S. Ilse
+Margarethe Vahlsings, der Kindbetterin Bruders Tochter aus Päpinghausen
+....
+
+
+.Translation
+[literal.bordered,subs="verbatim,quotes"]
+....
+45.) On the 9th of October. Anna Maria Elisabeth Schäkel.
+F. Friederich Wilhelm Schäkel.
+M. Anna Catherina Vahlsing, both from Päpinghausen.
+S. Ilse Margarethe Vahlsing, the daughter of the mother’s brother, from Päpinghausen.
+....
+
+
+[bibliography]
+== Citations
+
+* [[[FRI-B-1742a]]] "Archion Protestant Kirchenbücher Portal", database with images, Archion
+(https://www.archion.de/p/44f2cd966e/ : 21 Mar 2026), path: Niedersachsen /
+Niedersächsisches Landesarchiv / Kirchenbücher der Evangelisch-Lutherischen
+Landeskirche Schaumburg-Lippe / Frille / Verzeichnis der Getauften,
+Getrauten, Gestorbenen 1664-1757 > Image 131 of 389
+
+
