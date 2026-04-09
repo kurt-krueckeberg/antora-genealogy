@@ -39,7 +39,7 @@ Winsen and the wife of Johann Br[aun]s from Evesen
 [bibliography]
 == Citations
 
-* [[image136]] "Archion Protestant Kirchenbücher Portal", database with
+* [[[image136]]] "Archion Protestant Kirchenbücher Portal", database with
 images, _Archion_ ,(https://www.archion.de/p/75745b577e/ : 19 May 2025)
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der
 Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
