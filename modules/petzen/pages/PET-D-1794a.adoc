@@ -25,11 +25,11 @@ Croemer is the same as Crömer and Krömer.
 
 Overview:
 
-image::petzen-band2-img230-overview.jpg[[title="Croemer/Krückeberg begraben 1794 (Click to enlarge),link=self]
+image::petzen-band2-img230-overview.jpg[title="Croemer/Krückeberg begraben 1794 (Click to enlarge),link=self]
 
 Page 485, entry 16:
 
-image::petzen-band2-img230-entry16.jpg[[title="Croemer/Krückeberg begraben 1794 (Click to enlarge),link=self]
+image::petzen-band2-img230-entry16.jpg[title="Croemer/Krückeberg begraben 1794 (Click to enlarge),link=self]
 
 [.narrow]
 == Transliteration and Translation 
