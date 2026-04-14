@@ -11,7 +11,6 @@
 ** xref:frille:FRI-B-1794a.adoc[]
 ** xref:frille:FRI-D-1795a.adoc[]
 ** xref:frille:FRI-B-1797a.adoc[]
-** xref:frille:FRI-B-1798a.adoc[]
 ** xref:frille:FRI-D-1800a.adoc[]
 ** xref:frille:FRI-B-1800a.adoc[]
 ** xref:frille:FRI-B-1804a.adoc[]
