@@ -21,7 +21,7 @@ Joseph Bleeke], son of Carl Friedrich Bleeke, born March 12, 1837.
 
 *Confirmed:*
 
-* xref:german-evangelical-lutheran-and-reformed-church:carl-friedrich-wilhelm-bleeke-1840-confirmation.adoc[Carl
+* xref:german-evangelical-lutheran-and-reformed-church:CIN-C-1840a.adoc[Carl
 Freidrich Wilhelm Bleeke]
 
 When the church split on December 17, 1838, the Johann Heinrich Bleeke
@@ -55,7 +55,7 @@ Decatur, Indiana.
 Pastor Möllman is mentioned in the Immanuel Lutheran, Decatur, Indiana,
 xref:immanuel:ROOT:DEC-BIO-Bleeke-01.adoc[founder's biography of Johann
 Heinrich Philip Bleeke]. He is mentioned as the pastor who
-xref:german-evangelical-lutheran-and-reformed-church:carl-friedrich-wilhelm-bleeke-1840-confirmation.adoc[confirmed
+xref:german-evangelical-lutheran-and-reformed-church:CIN-B-1840a.adoc[confirmed
 his son Carl Fridrich Wilhelm] in 1840.
 
 .Möllmann pastor of North German Lutheran Church in Cincinnati
