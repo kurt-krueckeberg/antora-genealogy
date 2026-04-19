@@ -2,7 +2,7 @@
 * xref:understand.adoc[]
 * xref:nachträge.adoc[]
 ** xref:significance-of-nachträge.adoc[]
-* xref:frille-bleekes.adoc[]
+* xref:frille:frille-bleekes.adoc[]
 ** xref:frille:FRI-B-1739a.adoc[]
 ** xref:frille:FRI-B-1760a.adoc[]
 ** xref:frille:FRI-B-1767a.adoc[]
