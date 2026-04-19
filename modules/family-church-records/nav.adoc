@@ -80,7 +80,7 @@
 ** xref:petzen:PET-B-1679a.adoc[]
 * Kleinschmidt
 ** xref:buchholz:BUC-B-1804a.adoc[]
-* xref:krückeberg.adoc[]
+* xref:petzen/krückeberg.adoc[]
 ** xref:petzen:PET-B-1696a.adoc[]
 ** xref:petzen:PET-M-1727a.adoc[]
 ** xref:petzen:PET-B-1728a.adoc[]
