@@ -42,8 +42,6 @@ image::petzen-band2-img12-right2.jpg[align=left,title="Click to enlarge",link=se
 |===
 |Zahl | Nahmen des Bräutigams | Ortschaft| Sh | Nahmen der Braut| Ortschaft| N.:
 
-7+|Note: The first three entries on page are not shown omitted
-
 |4
 |   am 13ten Marz
 Jggs Carl Fried: Gottlieb +
@@ -63,8 +61,6 @@ get. 18.4.79 gest. 13.5.38
 [%header,cols="1,5,3,1,5,3,1",frame="none"]
 |===
 |Number | Name of Groom | Village | Sh[uncertain?] |Name of Bride | Village | N.
-
-7+|Note: The first three entries on page are not shown omitted
 
 |4
 |on 13th March +
