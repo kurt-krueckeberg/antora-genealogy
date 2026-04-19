@@ -4,13 +4,11 @@
 == Family Group and Other Facts
 
 .Family Relationship Information
-[%header,width="55%",cols="2,3,1,2"]
+[%header,width="70%",cols="2,3,1,2"]
 |===
-||Name|Age|Burial
+|Name|Age|Residence|Burial
 
-|*Individual*|Johan Henirch Krückeberg|55|Dec. 26, 1759
-
-|*Residence* 3+|Berenbusch
+|Johan Henirch Krückeberg|55||Berenbusch|Dec. 26, 1759
 |===
 
 == Citation
