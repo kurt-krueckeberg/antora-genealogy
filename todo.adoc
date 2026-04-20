@@ -1,9 +1,5 @@
 = TODO
 
-== Get `~/play` to Build
-
-Get `~/play` to build error free.
-
 == Complete Translation of Einlieger Article
 
 It is in the link:https://github.com/kurt-krueckeberg/funke[Funke] github
