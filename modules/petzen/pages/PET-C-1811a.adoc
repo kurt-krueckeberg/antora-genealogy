@@ -4,18 +4,19 @@
 == Family Relationship and Other Facts
 
 .14 April 1811 Confirmant's Family Group
-[cols="2,4,4",width="65%"]
+[%header,cols="2,4,4",width="65%"]
 |===
 |Role|Name|Address
 
-|*Father* |Jobst Heinrch Kruckeberg|no. 10 Berenbusch|
+|*Father* |Jobst Heinrch Kruckeberg|no. 10 Berenbusch
 
-|*Mother* |Anne Christine Philippine née Tegtmeier|no. 10 Berenbusch|
+|*Mother* |Anne Christine Philippine née Tegtmeier|no. 10 Berenbusch
 
 |*Child/Confirmant*|Anne Christine Lenore Krückeberg|no. 10 Berenbusch
 |===
 
 .Child's Birth and Confirmation Dates
+[%header,cols="3,1,1",width="60%"]
 |===
 |Name| Birthdate|Date of Confirmation
 
