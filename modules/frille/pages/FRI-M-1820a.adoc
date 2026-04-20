@@ -8,9 +8,9 @@ Minden, Nr. B 168 Jg. 1815-1830].
 
 image::carl-friedrich-bleeke-1820-marriage.png[title="Click to Enlarge",link=self]
 
-Transliteration of page header: *Aufgebotene und Getraute (die bei einer Kirche bloß aufgebotenen und anderwärts kopulirten Paare müssen ohne Nummer eingetragen werden.) im Jahr 1820*.
+Transliteration of page header: *Aufgebotene und Getraute (die bei einer Kirche bloß aufgebotenen und anderwärts kopulirten Paare müssen ohne Nummer eingetragen werden.) im Jahr 1820.*
 
-Translation of page header: *Couples who were betrothed and married (couples who were merely betrothed in a church but married elsewhere must be entered without a number) in the year 1820*. 
+Translation of page header: *Proclaimed (banns) and Married in the year 1820*.
 
 .Transliteration of 1820 Marriage of Carl Friederich Bleeke to Marie Luise Niemann
 [%header,cols="1l,4l,3l,2l,3l,3l,4l,4l,2l,3l,3l,3l,4l"]
