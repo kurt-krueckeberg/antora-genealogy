@@ -14,7 +14,7 @@
 |*Mother*|Anne Cathrine Sophie née Krömer|No. 19 Evesen
 |===
 
-[cols="4,3,3",width="65%"]
+[cols="4,2,2,2",width="65%"]
 |===
 |Name|Birth Place|Birthdate|Confirmation Date
 
