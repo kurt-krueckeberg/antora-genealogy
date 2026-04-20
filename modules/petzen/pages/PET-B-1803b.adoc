@@ -4,18 +4,23 @@
 == Family Relationship and Other Facts
 
 .Family Relationship 
-[%header,width="55%"cols="1,3,1,1"]
+[%header,width="55%"cols="1,3"]
 |===
-|||Child's Birthdate|Child's Baptism Date
+|Role|Name|Residence
 
-|*Father*|Johann Heinrich Krückeberg, Hausherr 2+|
+|*Father*|Johann Heinrich Krückeberg, Hausherr|no. 19 Evesen
 
-|*Mother*|Catharine Sophie Krömer 2+|
-
-|*Child*|Sophie Caroline|21 Juy 1803|31 July 1803
-
-|*Residence*|No. 19 Evesen 2+|
+|*Mother*|Catharine Sophie Krömer |no. 19 Evesen
 |===
+
+.Child's Birth Date and Place and Baptism Dates 
+[%header,width="55%"cols="3,3,3"]
+|===
+|Name|Residence|Child's Birthdate|Child's Baptism Date
+
+|Sophie Caroline Krückeberg|No. 19 Evesen|21 Juy 1803|31 July 1803
+|===
+
 
 .Baptism Sponsors
 [%header,width="40%"]
