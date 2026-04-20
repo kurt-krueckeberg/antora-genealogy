@@ -8,51 +8,54 @@ Minden, Nr. B 168 Jg. 1815-1830].
 
 image::christian-friedrich-bleeke-1826-marriage.png[title="Click to Enlarge",link=self]
 
+Transliteration of page header: *Aufgebotene und Getraute (die bei einer Kirche bloß aufgebotenen und anderwärts kopulirten Paare müssen ohne*.
+
+Translation of page header: *Proclaimed (banns) and Married in the year 1820*.
+
 .Transliteration of 1826 Marriage of Christian Friedrich Bleeke to Luise Leonore Krückeberg
-[cols="1l,4l,3l,2l,3l,3l,4l,4l,2l,3l,3l,3l,4l"]
+[%header,cols="1l,4l,3l,2l,3l,3l,4l,4l,2l,3l,3l,3l,4l"]
 |===
-13+^s|Aufgebotene und Getraute (die bei einer Kirche bloß aufgebotenen und anderwärts kopulirten Paare müssen ohne
 Nummer eingetragen werden.) im Jahr 1826.
 
-s|Nro.
-s|Vor- und Zunamen 
+|Nro.
+|Vor- und Zunamen 
 des
 Bräutigum.
-s|Stand
+|Stand
 und Wohnort des Vaters
-s|Alter des Bräuti-
+|Alter des Bräuti-
 gams.
-s|Ob Eltern oder
+|Ob Eltern oder
 Vormund die Einwilligung gegeben,
 und wie solches geschehen.
-s|Ob er schon
+|Ob er schon
 verehelicht gewesen
 und wie die Ehe getrennt
 worden.
-s|Vor- und Zuname
+|Vor- und Zuname
 der
 Braut.
-s|Namen,
+|Namen,
 Stand und Wohnort
 des
 Vaters der Braut.
-s|Alter
+|Alter
 der
 Braut.
-s|Ob Eltern oder
+|Ob Eltern oder
 Vormund die Ein-
 willingung gegeben,
 und wie solches
 geschehen.
-s|Ob sie schon
+|Ob sie schon
 verehelicht gewesen
 und wie 
 die Ehe getrennt
 worden.
-s|Tag der Kopulation
+|Tag der Kopulation
 mit
 Buchstaben und Ziffern.
-s|Name des Predigers,
+|Name des Predigers,
 der
 die Kopulation verrichtet.
 
@@ -84,23 +87,21 @@ Novemb.
 |===
 
 .Translation of 1826 Marriage of Christian Friedrich Bleeke to Luise Leonore Krückeberg
-[cols="1,4,3,2,3,3,4,4,2,3,3,3,4"]
+[%header,cols="1,4,3,2,3,3,4,4,2,3,3,3,4"]
 |===
-13+^s|Proclaimed (banns) and Married in the year 1820
-
-s|No.
-s|Groom's first and last name.
-s|Father's social status and place of residence
-s|Groom's age.
-s|Whether parents or guardians gave their consent, and how this happened.
-s|Whether he was already married and how the marriage was dissolved.
-s|Bride's first and last name.
-s|Name, social status, and place of residence of the bride's father.
-s|Bride's age.
-s|Whether parents or guardians gave their consent, and how this happened.
-s|Whether they were already married and how the marriage was dissolved.
-s|Date of marriage (in words and numbers).
-s|Name of the preacher performing the marriage.
+|No.
+|Groom's first and last name.
+|Father's social status and place of residence
+|Groom's age.
+|Whether parents or guardians gave their consent, and how this happened.
+|Whether he was already married and how the marriage was dissolved.
+|Bride's first and last name.
+|Name, social status, and place of residence of the bride's father.
+|Bride's age.
+|Whether parents or guardians gave their consent, and how this happened.
+|Whether they were already married and how the marriage was dissolved.
+|Date of marriage (in words and numbers).
+|Name of the preacher performing the marriage.
 
 |7
 |Christian Friederich Bleeke, Einlieger in Leeteln

@@ -9,37 +9,39 @@ image::jhp-bleeke/marie-luise-eleonore-bleeke-1833-birth.png[title="Click to Enl
 
 == Transliteration and Translation
 
-.Transliteration of Marie Luise Eleonore Bleeke 1833 Birth Record
-[cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
-|===
-10+^s|Geborene und Getaufte im Jarhe 1833
+Transliteration of page header: *Geborene und Getaufte im Jarhe 1833*.
 
-s|Nro.
-s|Tauf-Name
+Translation of page header: *Born and Baptized in the year 1833*.
+
+.Transliteration of Marie Luise Eleonore Bleeke 1833 Birth Record
+[%header,cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
+|===
+|Nro.
+|Tauf-Name
 des Kindes.
-s|Tag und Stunde
+|Tag und Stunde
 der Geburt
 in
 Buchstaben und Ziffern.
-s|Ob es
+|Ob es
 ehelich
 oder
 unehelich.
-s|Vor- and Zuname
+|Vor- and Zuname
 des Vaters,
 auch Stand desselben
-s|Vor- und Zuname
+|Vor- und Zuname
 der
 Mutter.
-s|Wohnort
+|Wohnort
 der
 Eltern
-s|Tag
+|Tag
 der
 Taufe.
-s|Namen des Predigers,
+|Namen des Predigers,
 der es getauft.
-s|Name der Taufzeugen
+|Name der Taufzeugen
 
 |48
 |Marie Luise Leonore
@@ -64,20 +66,18 @@ Christine Luise Schwier
 |===
 
 .Translation of Marie Luise Eleonore Bleeke 1833 Birth Record
-[cols="1,4,4,2,4,4,3,2,3,5"]
+[%header,cols="1,4,4,2,4,4,3,2,3,5"]
 |===
-10+^s|Born and Baptized in the year 1833
-
-s|No.
-s|Baptismal name of the child.
-s|Day and hour of birth (in words and numbers)
-s|Whether legitimate or illegitimate
-s|Given and surname of the father, also his Status
-s|Given and surname of the mother
-s|Residence of the Parents
-s|Day of baptism
-s|Name of the minister
-s|Baptismal witnesses
+|No.
+|Baptismal name of the child.
+|Day and hour of birth (in words and numbers)
+|Whether legitimate or illegitimate
+|Given and surname of the father, also his Status
+|Given and surname of the mother
+|Residence of the Parents
+|Day of baptism
+|Name of the minister
+|Baptismal witnesses
 
 |48
 |Marie Luise Leonore

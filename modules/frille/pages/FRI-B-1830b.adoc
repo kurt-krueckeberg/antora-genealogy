@@ -10,37 +10,39 @@ image::christian-f-bleeke/sophie-christine-leonore-bleeke-1830-birth.png[title=C
 
 == Transliteration and Translation
 
-.Transliteration of Sophie Christine Leonore Bleeke 1830 Birth
-[cols="1l,4l,4l,2l,4l,4l,3l,2l,2l,5l"]
-|===
-10+^s|Geborne und Getaufte im Jarhe 1830
+Transliteration of page header: *Geborne und Getaufte im Jarhe 1830*.
 
-s|Nro.
-s|Tauf-Name
+Translation of page header: *Births and Baptisms in the year 1830*.
+
+.Transliteration of Sophie Christine Leonore Bleeke 1830 Birth
+[%header,cols="1l,4l,4l,2l,4l,4l,3l,2l,2l,5l"]
+|===
+|Nro.
+|Tauf-Name
 des Kindes.
-s|Tag und Stunde
+|Tag und Stunde
 der Geburt
 in
 Buchstaben und Ziffern.
-s|Ob es
+|Ob es
 ehelich
 oder
 unehelich.
-s|Vor- and Zuname
+|Vor- and Zuname
 des Vaters,
 auch Stand desselben
-s|Vor- und Zuname
+|Vor- und Zuname
 der
 Mutter.
-s|Wohnort
+|Wohnort
 der
 Eltern
-s|Tag
+|Tag
 der
 Taufe.
-s|Namen des Predigers,
+|Namen des Predigers,
 der es getauft.
-s|Name der Taufzeugen
+|Name der Taufzeugen
 
 |41
 |Sophie Christine
@@ -65,20 +67,18 @@ Sophie Dorothea Krückeberg
 |===
 
 .Translation of Sophie Christine Leonore Bleeke 1830 Birth
-[cols="1,4,4,2,4,4,3,2,2,5a"]
+[%header,cols="1,4,4,2,4,4,3,2,2,5a"]
 |===
-10+^s|Births and Baptisms in the year 1830
-
-s|No.
-s|Baptismal name of the child.
-s|Day and hour of birth (in words and numbers)
-s|Whether legitimate or illegitimate
-s|Given and surname of the father, also his Status
-s|Given and surname of the mother
-s|Residence of the Parents
-s|Day of baptism
-s|Name of the minister
-s|Name of Godparents
+|No.
+|Baptismal name of the child.
+|Day and hour of birth (in words and numbers)
+|Whether legitimate or illegitimate
+|Given and surname of the father, also his Status
+|Given and surname of the mother
+|Residence of the Parents
+|Day of baptism
+|Name of the minister
+|Name of Godparents
 
 |41
 |Sophie Christine Leonore Bleeke

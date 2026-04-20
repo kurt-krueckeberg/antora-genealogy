@@ -10,37 +10,39 @@ image::jhp-bleeke/christine-marie-bleeke-1828-birth.png[title="Click to Enlarge"
 
 == Transliteration and Translation
 
-.Transliteration of Christine Marie Bleeke 1828 Birth Record
-[cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
-|===
-10+^s|Geborene und Getaufte im Jarhe 1828
+Transliteration of page header: *Geborene und Getaufte im Jarhe 1828*.
 
-s|Nro.
-s|Tauf-Name
+Translation of page header: *Born and Baptized in the year 1828*.
+
+.Transliteration of Christine Marie Bleeke 1828 Birth Record
+[%header,cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
+|===
+|Nro.
+|Tauf-Name
 des Kindes.
-s|Tag und Stunde
+|Tag und Stunde
 der Geburt
 in
 Buchstaben und Ziffern.
-s|Ob es
+|Ob es
 ehelich
 oder
 unehelich.
-s|Vor- and Zuname
+|Vor- and Zuname
 des Vaters,
 auch Stand desselben
-s|Vor- und Zuname
+|Vor- und Zuname
 der
 Mutter.
-s|Wohnort
+|Wohnort
 der
 Eltern
-s|Tag
+|Tag
 der
 Taufe.
-s|Namen des Predigers,
+|Namen des Predigers,
 der es getauft.
-s|Name der Taufzeugen
+|Name der Taufzeugen
 
 |28
 |Chritine Marie
@@ -66,20 +68,18 @@ Schwier
 |===
 
 .Translation of Christine Marie Bleeke 1828 Birth Record
-[cols="1,4,4,2,4,4,3,2,3,5"]
+[%header,cols="1,4,4,2,4,4,3,2,3,5"]
 |===
-10+^s|Born and Baptized in the year 1828
-
-s|No.
-s|Baptismal name of the child.
-s|Day and hour of birth (in words and numbers)
-s|Whether legitimate or illegitimate
-s|Given and surname of the father, also his Status
-s|Given and surname of the mother
-s|Residence of the Parents
-s|Day of baptism
-s|Name of the minister
-s|Baptismal witnesses
+|No.
+|Baptismal name of the child.
+|Day and hour of birth (in words and numbers)
+|Whether legitimate or illegitimate
+|Given and surname of the father, also his Status
+|Given and surname of the mother
+|Residence of the Parents
+|Day of baptism
+|Name of the minister
+|Baptismal witnesses
 
 |28
 |Chritine Marie

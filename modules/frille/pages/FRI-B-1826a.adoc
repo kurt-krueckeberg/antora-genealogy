@@ -10,37 +10,39 @@ image::carl-f-bleeke/marie-christine-bleeke-1826-birth.png[title="Click to Enlar
 
 == Transliteration and Translation
 
-.Transliteration of Marie Christine Bleeke 1826 Birth
-[cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
-|===
-10+^s|Geborene und Getaufte im Jarhe 1826
+Transliteration of page header: *Geborene und Getaufte im Jarhe 1826*.
 
-s|Nro.
-s|Tauf-Name
+Translation of page header: *Birth and Baptims in 1826*.
+
+.Transliteration of Marie Christine Bleeke 1826 Birth
+[%header,cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
+|===
+|Nro.
+|Tauf-Name
 des Kindes.
-s|Tag und Stunde
+|Tag und Stunde
 der Geburt
 in
 Buchstaben und Ziffern.
-s|Ob es
+|Ob es
 ehelich
 oder
 unehelich.
-s|Vor- and Zuname
+|Vor- and Zuname
 des Vaters,
 auch Stand desselben
-s|Vor- und Zuname
+|Vor- und Zuname
 der
 Mutter.
-s|Wohnort
+|Wohnort
 der
 Eltern
-s|Tag
+|Tag
 der
 Taufe.
-s|Namen des Predigers,
+|Namen des Predigers,
 der es getauft.
-s|Name der Taufzeugen
+|Name der Taufzeugen
 
 |4
 |Marie Christine
@@ -65,33 +67,31 @@ hausen
 |=== 
 
 .Translation of Marie Christine Bleeke 1826 Birth
-[cols="1,4,4,2,4,4,3,2,3,5"]
+[%header,cols="1,4,4,2,4,4,3,2,3,5"]
 |===
-10+^s|Birth and Baptims in 1826
-
-s|Num.
-s|Baptism-Name
+|Num.
+|Baptism-Name
 of the child.
-s|Day and Hour
+|Day and Hour
 of the Birth
 in letters and numbers.
-s|Whether it is
+|Whether it is
 legitimate
 or 
 illegitimate
-s|Given and Surname
+|Given and Surname
 of the Father,
 and his Status.
-s|Given and Surname
+|Given and Surname
 of the 
 Mother.
-s|Dwelling Place
+|Dwelling Place
 of the
 Parents
-s|Baptism Day
-s|Name of the Pastor who
+|Baptism Day
+|Name of the Pastor who
 baptized child.
-s|Baptismal Sponsors
+|Baptismal Sponsors
 
 |4
 |Marie Christine

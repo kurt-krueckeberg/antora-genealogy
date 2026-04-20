@@ -10,37 +10,39 @@ image::carl-f-bleeke/christian-friederich-bleeke-1828-birth.png[title="Click to 
 
 == Transliteration and Translation
 
-.Transliteration of Christian Friederich Bleeke 1828 Birth
-[cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
-|===
-10+^s|Geborene und Getaufte im Jarhe 1828
+Transliteration of page header: *Geborene und Getaufte im Jarhe 1828*.
 
-s|Nro.
-s|Tauf-Name
+Translation of page header: *Births and Baptims in 1828*.
+
+.Transliteration of Christian Friederich Bleeke 1828 Birth
+[%header,cols="1l,4l,4l,2l,4l,4l,3l,2l,3l,5l"]
+|===
+|Nro.
+|Tauf-Name
 des Kindes.
-s|Tag und Stunde
+|Tag und Stunde
 der Geburt
 in
 Buchstaben und Ziffern.
-s|Ob es
+|Ob es
 ehelich
 oder
 unehelich.
-s|Vor- and Zuname
+|Vor- and Zuname
 des Vaters,
 auch Stand desselben
-s|Vor- und Zuname
+|Vor- und Zuname
 der
 Mutter.
-s|Wohnort
+|Wohnort
 der
 Eltern
-s|Tag
+|Tag
 der
 Taufe.
-s|Namen des Predigers,
+|Namen des Predigers,
 der es getauft.
-s|Name der Taufzeugen
+|Name der Taufzeugen
 
 |9
 |Christian Friederich
@@ -62,20 +64,18 @@ ke
 |=== 
 
 .Translation of Christian Friederich Bleeke 1828 Birth
-[cols="1,4,4,2,4,4,3,2,3,5"]
+[%header,cols="1,4,4,2,4,4,3,2,3,5"]
 |===
-10+^s|Births and Baptims in 1828
-
-s|Num.
-s|Baptism-Name of the child.
-s|Day and Hour of the Birth (in words and numbers).
-s|Whether it is legitimate or illegitimate
-s|Given and Surname of the Father, and his Status.
-s|Given and Surname of the Mother.
-s|Dwelling Place of the Parents
-s|Baptism Day
-s|Name of the Pastor who baptized child.
-s|Baptismal Sponsors
+|Num.
+|Baptism-Name of the child.
+|Day and Hour of the Birth (in words and numbers).
+|Whether it is legitimate or illegitimate
+|Given and Surname of the Father, and his Status.
+|Given and Surname of the Mother.
+|Dwelling Place of the Parents
+|Baptism Day
+|Name of the Pastor who baptized child.
+|Baptismal Sponsors
 
 |9
 |Christian Friederich Bleeke

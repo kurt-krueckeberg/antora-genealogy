@@ -9,30 +9,22 @@ The birth of a stillborn daughter of Heinrich Wilhelm Weiland is entry 17 on <<P
 
 image::petzen-band2-img133.jpg[title="Stillborn daughter of Friedrich Wilhelm Weiland entry 1 (Click to enlarge)",link=self]
 
-[caption="Transliteration and Translation: "]
+Page header transliteration: *Geboren im Kirchspiele Petzen im Jahr 1815*.
+
+Page header trasnlations: *Births in the Petzen parish in 1815*.
+
+[caption="Transliteration: "]
 .Pages 260-261 Stillborn Weiland
-[cols="1m,3m,2m,3m,3m,3m,3m,2m,3m",frame="none",options="noheader"]
+[%header,cols="1m,3m,2m,3m,3m,3m,3m,2m,3m",frame="none",options="noheader"]
 |===
-9+^|260         Geboren im Kirchspiele Petzen (Births in the Petzen Parish)             im Jahr 1815                            261
-
-s|Zahl s|Name des Kindes s|Zahl s|Geburtzeit +
-u. Geburtsort s|Taufzeit u. +
-Taufort s|Name, Stand Religion +
-u. Geburtsrt des Vaters s|Name, Religion +
+|Zahl |Name des Kindes |Zahl |Geburtzeit +
+u. Geburtsort |Taufzeit u. +
+Taufort |Name, Stand Religion +
+u. Geburtsrt des Vaters |Name, Religion +
 u. Geburtsort der +
-Mutter s|Wohnort + 
+Mutter |Wohnort + 
 der +
-Eltern s|Taufzeugen
-
-s|Number s|Child's Name s|Number s|Birth time +
-and Place s|Baptism Time +
-and +
-Place s|Name, Job, Religion +
-and Birth place of Father s|Name, Religion +
-and Birth Place of +
-Mother s|Residence + 
-of +
-Parents s|Baptism Witnesses
+Eltern |Taufzeugen
 
 |1.
 |Ein todtgeborene Töchterchen
@@ -53,6 +45,21 @@ Luth. Conf.
 auf n. 20 +
 in Evesen
 |[empty of text]
+|===
+
+[caption="Translation: "]
+.Pages 260-261 Stillborn Weiland
+[%header,cols="1m,3m,2m,3m,3m,3m,3m,2m,3m",frame="none",options="noheader"]
+|===
+|Number |Child's Name |Number |Birth time +
+and Place |Baptism Time +
+and +
+Place |Name, Job, Religion +
+and Birth place of Father |Name, Religion +
+and Birth Place of +
+Mother |Residence + 
+of +
+Parents |Baptism Witnesses
 
 |1.
 |a stillborn little daugher
