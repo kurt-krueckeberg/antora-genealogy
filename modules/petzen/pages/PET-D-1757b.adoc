@@ -8,10 +8,10 @@
 |===
 |Name|Age|Residence|Burial
 
-|*Individual*|Anna Maria Krückeberg|56|Berenbusch|May 8, 1757
+|Anna Maria Krückeberg|56|Berenbusch|May 8, 1757
 |===
 
-[.narrow[
+[.narrow]
 == Citation
 
 The May 8, 1757, burial of Anna Maria Krückeberg from Berenbusch appears on <<PET-D-1757b, image 178>>, on the right-hand page, of the Petzen
