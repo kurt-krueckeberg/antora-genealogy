@@ -8,7 +8,7 @@
 |===
 |Name|Age|Residence|Burial
 
-|Johan Henirch Krückeberg|55||Berenbusch|Dec. 26, 1759
+|Johan Henirch Krückeberg|55|Berenbusch|Dec. 26, 1759
 |===
 
 == Citation
