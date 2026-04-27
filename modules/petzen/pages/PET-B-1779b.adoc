@@ -50,11 +50,11 @@ A _Hofmeister_ is defined in Thode's German-English Genealogical Dictionary as:
 
  "adminstrator of a manorial estate; child's tutor"
 
-In the entry, Otto Rösener is the _Hofmeister auf der Hockersaue_. "Hocker Aue" also appears in image 274 in the
-baptism record of
-xref:petzen:PET-B-1782a.adoc#johanna-sophie-charlotte-krückeberg-baptism-1782[Johanna Sophie
-Charlotte Kruckebergen]. Her godmother **Johanna Sophie Margedalenna Wilkeningen** is described as: "von der
-Hockerers Aue".
+In the entry, Otto Rösener is the _Hofmeister auf der Hockersaue_. "Hocker
+Aue" also appears in image 274 in the baptism record of
+xref:petzen:PET-B-1782a.adoc[Johanna Sophie Charlotte Kruckebergen]. Her
+godmother **Johanna Sophie Margedalenna Wilkeningen** is described as: "von
+der Hockerers Aue".
 ====
 
 .Meaning of -au  or -aue Suffix
