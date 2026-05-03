@@ -6,7 +6,7 @@
 [.narrow]
 == Citation
 
-The baptism appears on <<PET-B-1746b, image 173>> of the
+The baptism appears on <<PET-B-1746a, image 173>> of the
 Petzen Kirchenbuch "Verzeichnis der Getauften und Konfirmierten 1641-1784".
 on link:https://archion.de[Archion.de].
 
