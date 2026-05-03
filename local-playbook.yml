@@ -30,7 +30,5 @@ ui:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
     snapshot: true
   supplemental_files: ./antora-supplemental-ui
-# I copied these last two lines from https://gitlab.com/antora/docs.antora.org/-/blob/main/antora-playbook.yml
-# because Gitlab Pages requires your static site's build process output files to be in a folder call "public".
 output:
    dir: ./public
