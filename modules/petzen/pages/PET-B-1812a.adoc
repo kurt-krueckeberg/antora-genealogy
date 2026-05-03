@@ -42,7 +42,7 @@
 |===
 |Baptism
 
-|xref:petzen-band1a-image287[4 May 1783]
+|xref:PET-B-1783a.adoc[4 May 1783]
 |===
 
 .Baptismal Sponsors
