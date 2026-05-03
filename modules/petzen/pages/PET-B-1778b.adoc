@@ -34,7 +34,7 @@ image::petzen-band1a-img261-left.jpg[align=left,title='Sophia Ernestine Bleken B
 ....
 
 
-[biliography]
+[bibliography]
 == Citations
 
 * [[[PET-B-1778b]]] "Archion Protestant Kirchenbücher Portal", database
