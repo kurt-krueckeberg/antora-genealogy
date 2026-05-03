@@ -33,7 +33,7 @@ image::petzen-band1a-img251-bleke.jpg[align=left,title='Fridrich Wilhelm Bleke B
     was Mom[k/d]hoft from Evesen No. 5     
 ....
 
-[biliography]
+[bibliography]
 == Citations
 
 * [[[PET-B-1776a]]] "Archion Protestant Kirchenbücher Portal", database
