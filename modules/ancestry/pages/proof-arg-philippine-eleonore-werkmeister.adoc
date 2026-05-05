@@ -164,7 +164,7 @@ While the mother's maiden is now *Blecken*, her given name and residence prior t
 |===
 |Baptism
 
-|xref:petzen:petzen-band1a-image287[4 May 1783]
+|xref:petzen:PET-B-1783a.adoc[4 May 1783]
 |===
 +
 [.underline]#Key finding#: Caroline Dorothee Krückeberg’s baptism also lists the mother as *Philippine Leonore geb. Blecken aus N. 11 in Evesen*.  
