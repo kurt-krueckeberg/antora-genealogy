@@ -16,7 +16,8 @@ link:https://www.familysearch.org/en/wiki/Germany_-\_Marriage_-_1500-1874_Search
 Chapter one of link:https://rpmgrtpublications.wixsite.com/mysite-2[Dechiphering Handingwriting in German Documents] discusses German gothic script in depth. It is indispensible.
 For example, he mentions the gothic **R** and **K** displayed below in their canonical form
 
-pass:[<span style="font-family: 'Wiegel Kurrent Medium'; font-size: 1.7em;">R</span>] and pass:[<span style="font-family: 'Wiegel Kurrent Medium'; font-size: 2em;">K </span>]
+pass:[<span style="font-family: 'Wiegel Kurrent Medium'; font-size: 1.7em;">R</span>] and pass:[<span style="font-family: 'Wiegel Kurrent
+Medium'; font-size: 2em;">K </span>]
 
 can be hard to distinguish, but it is very uncommon for **R** to start a word.
 
@@ -24,7 +25,9 @@ can be hard to distinguish, but it is very uncommon for **R** to start a word.
 
  * The `+` symbol denotes a death date.
  * `Eod em` means _on the same day_ as the entry above.
- * The embellished Gothic `d` (ending in an elaborate descending inward loop) often appears immediately after the line number and preceding a date -- as in the entries in the _Marriage Entry 3_ figure <<image3, below>>. It means "den (the)".
+ * The embellished Gothic `d` (ending in an elaborate descending inward
+loop) often appears immediately after the line number and preceding a
+date.
 
 === Differences in Spelling 
 
