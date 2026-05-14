@@ -1,6 +1,7 @@
 .Research Threads
 // * xref:background-info.adoc[]
 * xref:sigla-explained.adoc[]
+* xref:case-study-howto.adoc[]
 * Bückeberg Archive Research
 ** xref:completed-research.adoc[]
 ** xref:completed-research-conclusions.adoc[]
