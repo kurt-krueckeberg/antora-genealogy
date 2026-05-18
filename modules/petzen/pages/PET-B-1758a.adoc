@@ -14,19 +14,30 @@ image::petzen-band1a-img199.jpg[align=left,title='Jobst Heinrich Weiland, image 
 [.narrow]
 == Transliteration and Translation
 
-[caption="Transliteration and Translation: "]
-.1758 Baptism of Jobst Heinrich Weiland
-[cols="m",frame="none",options="noheader"]
-|===
-<|1758                  Getaufte (Baptisms)
+[literal.bordered,subs="verbatim,quotes"]
+....
+1758                  Getaufte (Baptisms)
 
-|d 10 Dec. Jobst Heinrich Weiland +
-   des Einlieger Ludowig Weiland zu Evesen Sohn +
-   getrauft. Gev Jobst Hei/Fre Weiland Sa???? yu Berenbusch[abbreviation]
-|===
+d 10 Dec. Jobst Heinrich Weiland 
+   des Einlieger Ludowig Weiland zu Evesen Sohn 
+   getauft. Gev Jobst Hei/Fre Weiland Sa???? yu Berenbusch[abbreviation]
+....
+
+[literal.bordered,subs="verbatim,quotes"]
+....
+1758                  Getaufte (Baptisms)
+
+d 10 Dec. Jobst Heinrich Weiland 
+   des Einlieger Ludowig Weiland zu Evesen Sohn 
+   getauft. Gev Jobst Hei/Fre Weiland Sa???? yu Berenbusch[abbreviation]
+....
 
 
 [bibliography]
 == Citations
 
-* [[[PET-B-1758a]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/aeb69c46c5/ : 2 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 200 of 322
+* [[[PET-B-1758a]]] "Archion Protestant Kirchenbücher Portal", database
+  with images, _Archion_ (https://www.archion.de/p/8ce93b30e8/ : 2 November
+2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
+der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getauften und Konfirmierten 1641-1784, image 199 of 322
