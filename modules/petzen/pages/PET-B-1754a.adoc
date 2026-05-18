@@ -15,22 +15,23 @@ image::petzen-band1a-img190-right.jpg[align=left,title='Anna Maria Weiland, imag
 [.narrow]
 == Transliteration and Translation
 
-[caption="Transliteration and Translation: "]
-.1754 Baptism of Anna Maria Weiland
-[cols="m",frame="none",options="noheader"]
-|===
-<|`1754                  Getaufte (Baptisms)`
+[literal.bordered,subs="verbatim,quotes"]
+....
+1754                  Getaufte (Baptisms)
 
-|[preceding entries snipped]
+[preceding entries snipped]
 
-|d 1ten Sept. Anna Maria Weilands +
+d 1ten Sept. Anna Maria Weilands +
 des Herman Heinrich Weiland jun. zu Evesen +
 Tochter getauft. Gev. Joh. Stedings Ehefrau.
+....
 
-|On Sept 1^st^ Anna Maria Weilands was baptized +
+[literal.bordered,subs="verbatim,quotes"]
+....
+On Sept 1^st^ Anna Maria Weilands was baptized +
 the younger daughter of Herman Heinrich Weiland at Evesen +
 Godmother was Joh. Stedings wife.
-|===
+....
 
 
 [bibliography]
