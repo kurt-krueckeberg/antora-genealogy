@@ -10,23 +10,25 @@ The FamilySearch Tree-IDS [??TODO????].
 
 image::petzen-band1a-img262-1779.jpg[align=left,title="Sophia Margaretha Weiland's baptism (Click to enlarge)",link=self]
 
-[caption="Transliteration and Translation: "]
 .1779 Baptism of Sophia Margaretha Weiland
-[cols="l",frame="none"]
-|===
-l|               ANNO 1779                                                1779
+              ANNO 1779                                                1779
 
-|5) 31ten Jan: ist getrafut Sophia Margaretha Weilands
+[literal.bordered,subs="verbatim,quotes"]
+....
+5) 31ten Jan: ist getrafut Sophia Margaretha Weilands
     des Friederich Wilhelm Weilands aus Evesen No 20
     mit seiner Ehefrau Anna Maria geb. Weilands
     erzeugte Tochter. Die Gevaterin war Catha
     rine Margaretha Korfen aus Nammen 
+....
 
-|5) 31th Jan: Sophia Margaretha was baptism the begotten
+[literal.bordered,subs="verbatim,quotes"]
+....
+5) 31th Jan: Sophia Margaretha was baptism the begotten
     daughter of Friederich Wilhelm Weilands from Evesen No 20
     and his wife Anna Maria born Weiland
     The godmother was Catheine Korfen from Nammen.
-|===
+....
 
 
 [bibliography]
