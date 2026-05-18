@@ -12,13 +12,17 @@ Petzen "Verzeichnis der Getaufte und Confirmirte, 1641-1784"
 
 image::petzen-band1a-img261-right.jpg[align=center,title='Sophia Eleonora Weiland Baptism (Click to enlarge)',link=self]
 
+[literal.bordered,subs="verbatim,quotes"]
 ....
 29) d 4ten Octobr ist getauft Sophia Eleonora Weilands
     des Johann Heinrich Weilands aus Evesen No. 21 mit
     seiner Ehefrau Sophia Elisbeth geb Astrehs[????]
     erzeugte Tochter die Gevatterin war des
     Sickmeier  Ehefrau aus Evesen No. 2
+....
 
+[literal.bordered,subs="verbatim,quotes"]
+....
 29) the 4th October Sophia Eleonoare Weiland was baptized
     the begotten daughter of Johann Heinrich Weiland from 
     Evesen No, 21 and his wufe Sophia Elisabeth born Astrehs[????]
