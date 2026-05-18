@@ -20,23 +20,22 @@ image::petzen-band2-img3-weiland.jpg[align=left,title='Marriage Entry 3',link=se
 The horizontal line written above the **n** in Waterman means double the n.
 This was done because the scribe encountered the right edge of the page and ran out of space.
 
-//:table-caption: Transliteration
+[literal.bordered,subs="verbatim,quotes"]
+....
+                   Getrauete im Jahr 1785                            1
+[Note: Lines one and two not shown]
 
-[caption="Transliteration and Translation 1: "]
-.Marriage entry no. 3 for Friderich Weiland
-[%autowidth, cols="l",frame="none"]
-|===
-|                   Getrauete im Jahr 1785                            1
-                   Marriages in the year 1785                        1
-
-|Lines one and two not shown.
-
-|3) d[en] 27th ist copulirt Friderich Weiland Canonier
+3) d[en] 27th ist copulirt Friderich Weiland Canonier
   aus Evesen mit Philippina Watermann Sch[?????] aus Evesen
+....
+
+[literal.bordered,subs="verbatim,quotes"]
+....
+                   Marriages in the year 1785                        1
 3) the 27th Friderich Weiland, gunner [or artillery gunner]
     from Evesen was married to Philippina Watermann
     widow Scheifer[or Schnifer] from Evesen
-|===
+....
 
 [bibliography]
 == Citations
