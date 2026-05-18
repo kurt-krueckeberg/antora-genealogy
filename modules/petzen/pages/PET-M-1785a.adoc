@@ -24,6 +24,7 @@ This was done because the scribe encountered the right edge of the page and ran 
 [literal.bordered,subs="verbatim,quotes"]
 ....
                    Getrauete im Jahr 1785                            1
+
 [Note: Lines one and two not shown]
 
 3) d[en] 27th ist copulirt Friderich Weiland Canonier
@@ -33,6 +34,9 @@ This was done because the scribe encountered the right edge of the page and ran 
 [literal.bordered,subs="verbatim,quotes"]
 ....
                    Marriages in the year 1785                        1
+
+[Note: Lines one and two not shown]
+
 3) the 27th Friderich Weiland, gunner [or artillery gunner]
     from Evesen was married to Philippina Watermann
     widow Scheifer[or Schnifer] from Evesen
