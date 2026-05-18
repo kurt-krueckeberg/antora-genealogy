@@ -20,7 +20,7 @@ image::petzen-band1a-img199.jpg[align=left,title='Jobst Heinrich Weiland, image 
 
 d 10 Dec. Jobst Heinrich Weiland 
    des Einlieger Ludowig Weiland zu Evesen Sohn 
-   getauft. Gev Jobst Hei/Fre Weiland Sa???? yu Berenbusch[abbreviation]
+   getauft. Gev Jobst [pHen.] Weiland Sander zu Bernb[abbreviation]
 ....
 
 [literal.bordered,subs="verbatim,quotes"]
@@ -29,7 +29,8 @@ d 10 Dec. Jobst Heinrich Weiland
 
 d 10 Dec. Jobst Heinrich Weiland 
    des Einlieger Ludowig Weiland zu Evesen Sohn 
-   getauft. Gev Jobst Hei/Fre Weiland Sa???? yu Berenbusch[abbreviation]
+   getauft. Gev Jobst [Hen.] Weiland, Sander at Berenb[abbreviation
+   for Berenbusch?]
 ....
 
 
