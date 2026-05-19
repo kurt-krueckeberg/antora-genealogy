@@ -196,7 +196,7 @@
 ** xref:petzen:PET-B-1790b.adoc[]
 ** xref:petzen:PET-M-1790b.adoc[]
 ** xref:petzen:PET-M-1790d.adoc[]
-** xref:petzen:PET-B-1790a.adoc[1790 Twins: Hans Heinrich and Carolina Weiland Baptism]
+** xref:petzen:PET-B-1790a.adoc[]
 ** xref:petzen:PET-C-1790a.adoc[]
 ** xref:petzen:PET-M-1790e.adoc[]
 ** xref:petzen:PET-M-1802a.adoc[]
