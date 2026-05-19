@@ -5,8 +5,7 @@
 
 The entry for the marriage Abrecht Weyland is on <<PET-M-1802a, image 12, page 18, on Archion>> of Petzen Kirchenbuch: Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
 
-== Page 18
-
+== Image
 On 28 March 1802 Albrecht Weyland married Sophie Margaretha née Vogt Weiland, whose maiden name was Vogt.
 The marriage of Albrecht Weyland is entry 6 on page 18. The year 1802 is written above entry number 1:
 
@@ -17,14 +16,14 @@ The middle of the left page shown below has the year of **1802**; this the year 
 
 image::petzen-band2-img12-left.jpg[align=left,title="Click to enlarge",link=self]
 
+== Transliteration and Translation
+
 [caption="Transliteration and Translation: "]
 .Marriage entry number 6, page 18
-[%autowidth,frame="none"]
+[%header,%autowidth,frame="none"]
 |===
-7+l|18                Getraute im Jahre 1801.1802 (Marriages in the years 1801. 1802)                  
-
-s|An +
-Zahl s|Nahmen des Bräutigams s|Ortschaft s|Nr s|Nahmen der Braut s|Ortschaft s|No.
+|An +
+Zahl |Nahmen des Bräutigams |Ortschaft |Nr |Nahmen der Braut |Ortschaft |No.
 
 <|On +
 No <|Name of Groom <|Village <|Nr <|Name of Bride <|Village <|No.
