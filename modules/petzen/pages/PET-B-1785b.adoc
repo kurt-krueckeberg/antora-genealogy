@@ -14,7 +14,7 @@ image::petzen-band2-img34-right.jpg[align=left,title='Click to enlarge',link=sel
 
 == Transliteration and Translation
 
-[literal.bordered,subs="verbatim.quotes"]
+[literal.bordered,subs="verbatim,quotes"]
 ....
 38) d[ate] 23ten Septbr: ist des Johann Heinrich Weilands aus Evesen +
 No 21 mit seiner Ehefrau Catherine Elisabeth +
@@ -22,7 +22,7 @@ geb. Barnemanns erzeugter Sohn Todt[archaic form of Tod] +
 auf die Welt gekommen
 ....
 
-[literal.bordered,subs="verbatim.quotes"]
+[literal.bordered,subs="verbatim,quotes"]
 ....
 38) On 23^th^ Sept: the begotten son of Johann Heinrich Weilands from Evesen +
 No 21 and his wife Katheine Elisabeth +
