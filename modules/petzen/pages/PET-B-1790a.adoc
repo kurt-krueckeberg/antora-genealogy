@@ -5,10 +5,8 @@
 
 image::petzen-band2-img48-left.jpg[align=left,title="Twins Hans Heinrich and Carolina Weiland 1790 (Click to enlarge)",link=self]
 
+[.narrow]
 == Transliteration and Translation
-
-[NOTE]
-**meiersche** translates as: (female) overseer of milkmaids
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
