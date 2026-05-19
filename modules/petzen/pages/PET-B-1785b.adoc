@@ -1,11 +1,12 @@
-= 1785 Stillborn son of  
+= 1785 Stillborn son of John Heinrich Weiland 
 :page-role: wide
 
 Page 63 has the baptims of Joahnn Heinrich Weiland.
 
 == Citations
 
-The stillborn son of Johann Heinrich Weiland's is on <<PET-B-1785b, image 34 page 63 on Archion>> of Petzen Kirchenbuch volume 2.
+The stillborn son of Johann Heinrich Weiland's is on <<PET-B-1785b, image
+34 page 63 on Archion>> of Petzen Kirchenbuch volume 2.
 
 == Image 34, page 63, entry 38
 
@@ -13,32 +14,29 @@ image::petzen-band2-img34-right.jpg[align=left,title='Click to enlarge',link=sel
 
 == Transliteration and Translation
 
-[caption="Transliteration: "]
-.Baptism entry no. 38 for the stillborn son of Johann Heinrich Weiland
-[%autowidth,cols="m",header,frame="none"]
-|===
-^|Getaufte Aoo 1785                         63
-
-|38) d[ate] 23ten Septbr: ist des Johann Heinrich Weilands aus Evesen +
+[literal.bordered,subs="verbatim.quotes"]
+....
+38) d[ate] 23ten Septbr: ist des Johann Heinrich Weilands aus Evesen +
 No 21 mit seiner Ehefrau Catherine Elisabeth +
 geb. Barnemanns erzeugter Sohn Todt[archaic form of Tod] +
 auf die Welt gekommen
-|===
+....
 
-[caption="Translation: "]
-.Baptism entry no. 29 for the stillborn sone of Johann Heinrich Weildand
-[%autowidth,cols="m",options="noheader",frame="none"]
-|===
-^|Getaufte Aoo 1785                         63
-
-|38) On 23^th^ Sept: the begotten son of Johann Heinrich Weilands from Evesen +
+[literal.bordered,subs="verbatim.quotes"]
+....
+38) On 23^th^ Sept: the begotten son of Johann Heinrich Weilands from Evesen +
 No 21 and his wife Katheine Elisabeth +
 born Bornemann came into the world dead. 
-|===
+....
 
 
 [bibliography]
 == Citations
 
-* [[[PET-B-1785b]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/268214a4fd/ : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 34 of 357
+* [[[PET-B-1785b]]] "Archion Protestant Kirchenbücher Portal", database
+with images, _Archion_ (http://www.archion.de/p/268214a4fd/ : 10 October
+2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
+der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
+1785-1827 > Image 34 of 357
 
