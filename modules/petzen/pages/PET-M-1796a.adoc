@@ -46,18 +46,6 @@ image::petzen-band2-img8.jpg[title='Hans Heinrich Wilharm marriage record (click
 [.narrow]
 == Transliteration and Translation
 
-.Transliteration of Page Header
-[literal.bordered,subs="verbatim,quotes"]
-....
-   [Getraute] im Jahre 1796       
-....
-
-.Translation of Page Header
-[literal.bordered,subs="verbatim,quotes"]
-....
-  [Marriages] in the year 1796
-....
-
 .Transliteration
 [cols="5%,30%,12%,5%,30%,12%,5%"]
 |===
