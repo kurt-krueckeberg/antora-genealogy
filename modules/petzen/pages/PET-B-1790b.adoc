@@ -3,15 +3,13 @@
 
 image::petzen-band2-img49.jpg[align=left,title="Twins Hans Heinrich and Carolina Weiland 1790 (Click to enlarge)",link=self]
 
+[.narrow]
 == Transliteration and Translation
 
-.Transliteration and Translation of page 85 Header
-----
-92                                 Getauft(Baptized) 1790
-----
-
 [NOTE]
+====
 Petzen is evidently spelled here as _Penzen_
+====
 
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
