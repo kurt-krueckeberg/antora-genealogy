@@ -20,7 +20,7 @@ image::petzen-band1a-img259.jpg[align=left,title='Stillborn son of Johann Christ
 18) d 27ten Jul: ist des Johan Christian Weilands Einlieger in
     Penzen mit seiner Ehefrau Christine Ilsabei
     geb Stediegen erzeugtes Söhnlein todtgeborhren
-....,
+....
  
 [literal.bordered,subs="verbatim,quotes"]
 ....
