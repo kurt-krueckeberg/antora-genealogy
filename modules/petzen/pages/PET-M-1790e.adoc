@@ -9,11 +9,11 @@ Kirchenbuch volume "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gest
 image::petzen-band2-img6-page7.jpg[align=left,title="Anna Maria Weiland 1791, entry 3 on page 7",link=self]
 
 [NOTE]
-**Eod em** means "on the same day" as the prior marriage entry.
+*Eod em* means "on the same day" as the prior marriage entry.
 
 [literal.bordered,subs="verbatim,quote"]
 ....
-8) Eod em [Eod em=on the same day] ist copuliert Hans Heinrich Tellermann ein Wittver
+8) Eod em ist copuliert Hans Heinrich Tellermann ein Wittver
     und [bisheriger?] Leibzüchter in Eisbergen [Hab?] No 14 mit
     der wittven Anna Maria Weiland aus Evesen [Hab?] No 20.
     [???] No 20.
@@ -21,7 +21,7 @@ image::petzen-band2-img6-page7.jpg[align=left,title="Anna Maria Weiland 1791, en
 
 [literal.bordered,subs="verbatim,quote"]
 ....
-8) On the same day[20th Nov.] Hans Heinrich Teller a widower
+8) On the same day[20th Nov.] Hans Heinrich Tellermann a widower
    and up to now life annuitant in Eisbergen [property?] No 14 with
    the window Anna Maria Weiland from Evesen [property ?]
    No. 20.
