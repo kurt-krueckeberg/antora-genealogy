@@ -36,8 +36,8 @@ image::petzen-band2-img48-left.jpg[align=left,title="Twins Hans Heinrich and Car
 ....
 
 NOTE: Sopia Maria appears appears to be identified as *Pichtsmeiersche*,
-apparently to be the adjective form of the surname Pichtsmeier, but the
-abbreviation *Pichtsmeiersche* is uncertain.
+apparently the adjective form of the surname Pichtsmeier, but the
+abbreviation before *Pichtsmeiersche* is uncertain.
 
 [bibliography]
 == Citations
