@@ -9,10 +9,6 @@ The marriage is on <<PET-M-1790b, page 5, entry 10>> of Petzen Kirchenbuch volum
 
 === Image of Marriage Record
 
-Header spans page 4 and 5:
-
-image::petzen-band2-img5-header.jpg[align=left,title='Page Header for Entries 8, 10 and 13',link=self]
-
 The marriages of Johann Heinrich Kruckeberg and Jobst Heinrich Weiland are recorded are on pages 4 and 5 on entries 8 and 10:
 
 image::petzen-band2-img5-1.jpg[align=left,title='Page 5 Entries 8 and 10',link=self]
@@ -28,7 +24,6 @@ image::petzen-band2-img5-1.jpg[align=left,title='Page 5 Entries 8 and 10',link=s
 [.narrow]
 == Transliteration and Translation
 
-.Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
                        Married Couples 1790                                5
@@ -43,7 +38,8 @@ image::petzen-band2-img5-1.jpg[align=left,title='Page 5 Entries 8 and 10',link=s
 
 13) d 12th October ist copulirt Jobst Heinrich Kruckeberg aus Berenbusch
                                              +1849
-    No 10 ein Schuster mit Jfr Philippine Christine Eleonore Tegtmeyern aus Meissen[faded, ambiguous] N:4
+    No 10 ein Schuster mit Jfr Philippine Christine Eleonore Tegtmeyern aus
+    Meissen[faded, ambiguous] N:4
 ....
 
 .Translation
@@ -59,7 +55,8 @@ image::petzen-band2-img5-1.jpg[align=left,title='Page 5 Entries 8 and 10',link=s
 
 13) date 12th October Jobst Heinrich Kruckeberg from Berenbusch
                                              +1849
-    No 10 a cobbler was married to Philippine Christine Eleonore Tegtmeyer from Meinsen[faded, ambiguous] N:4
+    No 10 a cobbler was married to Philippine Christine Eleonore Tegtmeyer from
+    Meinsen[faded, ambiguous] N:4
 ....
 
 
