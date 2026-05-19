@@ -40,8 +40,6 @@ image::petzen-band1a-img253.jpg[title="Overview of pages 244-245 (Click to enlar
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
-           ANNO 1777
-
 2) d 26ten Jan: ist getauft Friderich Wilhelm Weiland
    des Friederich Wilhelm Weiland aus Evesen
    No 20 mit seiner Ehefrau Anna Maria geb[oren]
@@ -53,8 +51,6 @@ image::petzen-band1a-img253.jpg[title="Overview of pages 244-245 (Click to enlar
 .Translation
 [literal.bordered,subs="verbatim,quotes"]
 ....
-          Year 1777
-
 2) 26th Jan: Friderich Wilhelm Weiland baptized 
    the begotten son of Friederich Wilhelm Weiland of Evesen
    No 20, by his wife Anna Maria born 
