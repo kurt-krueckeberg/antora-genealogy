@@ -15,6 +15,7 @@ image::petzen-band2-img13-heading.jpg[align=left,title="Page Header for Fridrich
 
 image::petzen-band2-img13.jpg[align=left,title="Entry for Fridrich Wilhelm Weyland Marriage",link=self]
 
+[.narrow]
 == Transliteration and Translation
 
 [caption="Transliteration: "]
