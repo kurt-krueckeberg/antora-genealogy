@@ -18,22 +18,25 @@ Below is entry 7 from page 85, year 1789.
 
 image::petzen-band2-img45-85.jpg[align=left,title="Click to enlarge",link=self]
 
-.Transliteration of entry 7.
-----
+== Transliteration and Translation
+
+[literal.bordered,subs="verbatim,quotes"]
+....
                 ANNO 1789 (in the year 1789)                85
 6) [omitted]
  
 7) d 20ten Feb Christine Eleonore Weiland der oben Benannte
 Elterns Tochter. Gevatterin war Frau Christine Eleonore
 Wittwe Rinne des Schusters in Penyen Haushalterin zu fünf
-----
+....
 
-.Translation of entry 7
-----
+
+[literal.bordered,subs="verbatim,quotes"]
+....
 7) date 20th Febr. Chrstine Eleonore Weiland the daughter of the above named parents.
 Godmother was Mrs. Christine Eleonore widow Rinne ["of the"] cobbler in Penyen/Peten, head of household
 to five.
-----
+....
 
 
 [bibliography]
