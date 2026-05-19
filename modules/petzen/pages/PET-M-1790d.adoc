@@ -10,18 +10,19 @@ The marriage of Johann Heinrich Weiland shown occurred on 17 October 1790:
 
 image::petzen-band2-img6-page6.jpg[align=left,title="Johann Heinrch Weiland 1790, entry 14 on page 6",link=self] 
 
-[caption="Transliteration and Translation: "]
-.Marriage of Johann Heinrich Weiland 1790
-[%autowidth,cols="l",frame="none", options="noheader"]
-|===
-|6                  Getraute 1790             
+== Transliteration and Translation
 
-|14) d[en] 17ten October ist copuliert Johann Heinrich Weiland aus Evesen
+[literal.bordered,subs="verbatim,quotes"]
+....
+14) d[en] 17ten October ist copuliert Johann Heinrich Weiland aus Evesen
     No. 24 mit Jfr Anna Margarthea [H?]arren aus Meissen[only one 's' or if 'ß' was written] No 1
+....
 
-|14) the 17th October Johann Heinrich Weiland from Evesen
+[literal.bordered,subs="verbatim,quotes"]
+....
+14) the 17th October Johann Heinrich Weiland from Evesen
      No. 24 was married to maiden Anna Margarthea [H?]arren aus Meissen No. 1
-|===
+....
 
 
 [bibliography]
