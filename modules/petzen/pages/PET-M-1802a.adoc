@@ -6,8 +6,10 @@
 The entry for the marriage Abrecht Weyland is on <<PET-M-1802a, image 12, page 18, on Archion>> of Petzen Kirchenbuch: Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
 
 == Image
-On 28 March 1802 Albrecht Weyland married Sophie Margaretha née Vogt Weiland, whose maiden name was Vogt.
-The marriage of Albrecht Weyland is entry 6 on page 18. The year 1802 is written above entry number 1:
+
+On 28 March 1802 Albrecht Weyland married Sophie Margaretha née Vogt
+Weiland, whose maiden name was Vogt.  The marriage of Albrecht Weyland is
+entry 6 on page 18. The year 1802 is written above entry number 1:
 
 image::petzen-band2-img12-left-header.jpg[align=left,title="Click to enlarge",link=self]
 
@@ -18,16 +20,11 @@ image::petzen-band2-img12-left.jpg[align=left,title="Click to enlarge",link=self
 
 == Transliteration and Translation
 
-[caption="Transliteration and Translation: "]
+[caption="Transliteration: "]
 .Marriage entry number 6, page 18
 [%header,%autowidth,frame="none"]
 |===
-|An +
-Zahl |Nahmen des Bräutigams |Ortschaft |Nr |Nahmen der Braut |Ortschaft |No.
-
-<|On +
-No <|Name of Groom <|Village <|Nr <|Name of Bride <|Village <|No.
-
+|An Zahl |Nahmen des Bräutigams |Ortschaft |Nr |Nahmen der Braut |Ortschaft |No.
 |6
 |am 28ten März +
 Jggs: Albrecht Weyland
@@ -37,6 +34,13 @@ Jggs: Albrecht Weyland
   gebor: Vogt in Meissen
 |Meinsen 
 |21
+|===
+
+[caption="Translation: "]
+.Marriage entry number 6, page 18
+[%header,%autowidth,frame="none"]
+|===
+|On No |Name of Groom |Village |Nr |Name of Bride |Village |No.
 
 |6
 |on 28th March +
@@ -48,7 +52,6 @@ born: Vogt in Meissen
 |Evesen
 |21
 |===
-
 
 [bibliography]
 == Citations
