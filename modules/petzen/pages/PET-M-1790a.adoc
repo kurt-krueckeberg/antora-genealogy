@@ -40,19 +40,6 @@ The abbreviation **Jfr** stands for Jungfrau or maiden.
 [.narrow]
 == Transliteration and Translation
 
-.Transliteration of Page Header
-[literal.bordered,subs="verbatim,quotes"]
-....
-                        Getraute       1790                                5
-....
-
-.Translation of Page Header
-[literal.bordered,subs="verbatim,quotes"]
-....
-                       Married Couples 1790                                5
-....
-
-
 .Transliteration
 [literal.bordered,subs="verbatim,quotes"]
 ....
