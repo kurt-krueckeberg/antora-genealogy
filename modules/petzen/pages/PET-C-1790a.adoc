@@ -14,16 +14,10 @@ Image 190 shows the recorded name of Christina Krückebergen of Berenbusch liste
 
 image::petzen-band2-img190-fwweiland.jpg[title="ANNO 1790, on page 405 (Click to enlarge)",link=self]
 
-[caption="German Transliteration: "]
-.Page 405
-[cols="l", frame="none", grid="rows"]
-|===
-|       ANNO 1790
-
-|[entries 1 thru 7 snipped]
-
-|8) Friderich Wilhelm Weiland---------------Evesen 20
-|===
+[literal.bordered,subs="verbatim,quotes"]
+....
+8) Friderich Wilhelm Weiland---------------Evesen 20
+....
 
 [bibliography]
 == Citations
