@@ -18,8 +18,8 @@ image::petzen-band2-img48-left.jpg[align=left,title="Twins Hans Heinrich and Car
             Anna Maria geb. Weilands erzeugter Sohn. Gevatter 
             war Johan Christoph Ludowig Weiland aus Evesen No. 21
 
-6) --- --- b. Caroline Weilands die Schwester von demselben 
-            Gavatterin war Sophie Maria geb. Monckhoft 
+6) --- --- b. Carolina Weilands die Schwester von demselben 
+            Gavatterin war Sophie Maria geb. Monckhoffs 
             [al?] Pichtsmeiersche aus Evesen no. 4
 ....
 
@@ -32,11 +32,14 @@ image::petzen-band2-img48-left.jpg[align=left,title="Twins Hans Heinrich and Car
            born. Weiland. Godfather was Johann Christoph Ludowig Weiland 
            from Evesen no. 21
 
-6) --- --- b. Caroline Weilands the sister of the same 
-            Godmother was Sophie Maria geb. Monckhoft 
-            [Initial? or single letter abbrev?] Pichts female overseer of milkmaids from Evesen no. 4
+6) --- --- b. Carolina Weilands the sister of the same 
+            Godmother was was Sophie Maria, née Monckhoff
+            [Pichtsmeier's wife?]  from Evesen no. 4
 ....
 
+NOTE: Sopia Maria appears appears to be identified as *Pichtsmeiersche*,
+which appears to be the adjective form of the surname Pichtsmeier, but the
+abbreviation *Pichtsmeiersche* is uncertain.
 
 [bibliography]
 == Citations
