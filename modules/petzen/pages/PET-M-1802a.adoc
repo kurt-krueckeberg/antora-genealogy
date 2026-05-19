@@ -22,7 +22,7 @@ image::petzen-band2-img12-left.jpg[align=left,title="Click to enlarge",link=self
 
 [caption="Transliteration: "]
 .Marriage entry number 6, page 18
-[%header,%autowidth,cols="1,4,3,2,4,3,1",frame="none"]
+[%header,%autowidth,cols="1,4,3,1,4,3,1",frame="none"]
 |===
 |An Zahl |Nahmen des Bräutigams |Ortschaft |Nr |Nahmen der Braut |Ortschaft |No.
 |6
@@ -38,7 +38,7 @@ Jggs: Albrecht Weyland
 
 [caption="Translation: "]
 .Marriage entry number 6, page 18
-[%header,%autowidth,cols="1,4,3,2,4,3,1",frame="none"]
+[%header,%autowidth,cols="1,4,3,1,4,3,1",frame="none"]
 |===
 |On No |Name of Groom |Village |Nr |Name of Bride |Village |No.
 
