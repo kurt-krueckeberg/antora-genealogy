@@ -5,7 +5,8 @@
 
 image::petzen-band2-img46-87.jpg[align=left,title="Christin Maria Weiland Baptism, page 87 (Click to enlarge)",link=self]
 
-.Transliteration and Translation
+== Transliteration and Translation
+
 [literal.bordered,subs="verbatim,quotes"]
 ....
                                Getaufte(Baptized) 1789                      87
@@ -14,7 +15,10 @@ image::petzen-band2-img46-87.jpg[align=left,title="Christin Maria Weiland Baptis
     mit seiner Ehefrau Catherine Elisabeth geb.
     Bornemans erzeugte Tochter. Gavatterin war Maria
     Elisabeth Bornemans aus Evesen No. 7   
+....
 
+[literal.bordered,subs="verbatim,quotes"]
+....
 19) d 24th May: Christina Maria Weilands was baptized
     the begotten daughter of Johann Heinrich Weiland
     from Evesen No 21 and his wife Catherine Elisabeth
@@ -27,7 +31,7 @@ image::petzen-band2-img46-87.jpg[align=left,title="Christin Maria Weiland Baptis
 == Citations
 
 * [[[PET-B-1789b]]] "Archion Protestant Kirchenbücher Portal", database with images, *Archion*
-([<https://www.archion.de/p/ed0ebd924b/>](https://www.archion.de/p/ed0ebd924b/) : 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+(https://www.archion.de/p/ed0ebd924b/ : 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
 Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften,
 Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 46 of 357
 
