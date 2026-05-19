@@ -11,22 +11,21 @@ image::petzen-band2-img6-page7.jpg[align=left,title="Anna Maria Weiland 1791, en
 [NOTE]
 **Eod em** means "on the same day" as the prior marriage entry.
 
-[caption="Transliteration and Translation 2: "]
-.Image 6, page 7
-[%autowidth,cols="l",options="noheader",frame="none"]
-|===
-|                  Getraute 1791        
-
-|8) Eod em [Eod em=on the same day] ist copuliert Hans Heinrich Tellermann ein Wittver
+[literal.bordered,subs="verbatim,quote"]
+....
+8) Eod em [Eod em=on the same day] ist copuliert Hans Heinrich Tellermann ein Wittver
     und [bisheriger?] Leibzüchter in Eisbergen [Hab?] No 14 mit
     der wittven Anna Maria Weiland aus Evesen [Hab?] No 20.
     [???] No 20.
+....
 
-|8) On the same day[20th Nov.] Hans Heinrich Teller a widower
+[literal.bordered,subs="verbatim,quote"]
+....
+8) On the same day[20th Nov.] Hans Heinrich Teller a widower
    and up to now life annuitant in Eisbergen [property?] No 14 with
    the window Anna Maria Weiland from Evesen [property ?]
    No. 20.
-|===
+....
 
 
 [bibliography]
