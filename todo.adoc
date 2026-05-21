@@ -1,5 +1,9 @@
 = TODO
 
+== Seee researching*.md Files
+
+For furtherrearch idea and steps.
+
 == Complete Translation of Einlieger Article
 
 It is in the link:https://github.com/kurt-krueckeberg/funke[Funke] github
