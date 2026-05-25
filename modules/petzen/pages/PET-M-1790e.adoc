@@ -3,10 +3,12 @@
 
 == Citation
 
-The marriage entry for  Anna Maria Weiland is on the <<image6-page7, image 6>>, page 6, entry 8 of Petzen
-Kirchenbuch volume "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
+The marriage entry for  Anna Maria Weiland is on the <<image6-page7, image 6>>,
+page 6, entry 8 of Petzen Kirchenbuch volume "Verzeichnis der Getauften,
+Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
-image::petzen-band2-img6-page7.jpg[align=left,title="Anna Maria Weiland 1791, entry 3 on page 7",link=self]
+image::petzen-band2-img6-page7.jpg[align=left,title="Anna Maria Weiland
+1791, entry 3 on page 7",link=self]
 
 [NOTE]
 *Eod em* means "on the same day" as the prior marriage entry.
