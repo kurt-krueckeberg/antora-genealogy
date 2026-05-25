@@ -11,7 +11,9 @@ image::petzen-band2-img6-page7.jpg[align=left,title="Anna Maria Weiland
 1791, entry 3 on page 7",link=self]
 
 [NOTE]
+====
 *Eod em* means "on the same day" as the prior marriage entry.
+====
 
 [literal.bordered,subs="verbatim,quote"]
 ....
