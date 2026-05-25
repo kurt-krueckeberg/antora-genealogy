@@ -54,9 +54,9 @@ Berenbusch, and before him the holder was *Johann Tönnis Eggerding*.
 *TODO:* Are there any other key bits of information from his replies that
 are inportant?
 
-The 1745 "Vermessung der Dörfer Evesen, Berenbusch und Nordholz" also shows
-he is the Besitzer (holder) of no. 10 Berenbusch. Belows is the content of
-page 110 where Johann Heinrich appears:
+The 1745 xref:nla:2713:index.adoc[] also shows he is the Besitzer (holder)
+of no. 10 Berenbusch. Belows is the content of page 110 where Johann
+Heinrich appears:
 
 [literal.bordered]
 ....
