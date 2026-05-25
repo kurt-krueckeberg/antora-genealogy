@@ -1,8 +1,9 @@
 = TODO
 
-== Seee researching*.md Files
+== Finish Moehle Research Rewrite
 
-For furtherrearch idea and steps.
+Rewrite `m/research/p/completed-research.adoc`. I have started such a
+version. It is called `m/research/p/new-completed-research.adoc`.
 
 == Complete Translation of Einlieger Article
 
