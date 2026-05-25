@@ -28,19 +28,32 @@ Arensburg, mit Nummerierung der sämtlichen Häuser.
 List of names of all Kolonen in the districts of Bückeburg and Arensburg, with numbering of all houses.
 |===
 
-Johann Heinrich Krückeberg first appears in the Petzen Kirchenbuch records
+== Johann Henrich Krückeberg
+
+=== In Church Records
+
+Johann Henrich Krückeberg first appears in the Petzen Kirchenbuch records
 when he marries Anna Marie Vahlsing on
-xref:petzen:PET-M-1727a.adoc[September 18, 1727].  According to their
-marriage record:
+xref:petzen:PET-M-1727a.adoc[September 18, 1727]. This report tells us:
 
-* he is *"aus Berenbusch"*, and 
-* she is *aus Evesen*. 
+|===
+|Name|Locality
 
-They remain married until she dies on xref:petzen:PET-D-1757b.adoc[May 8,
-1757]. The following year, on xref:petzen:PET-M-1758a.adoc[September 29,
-1758], he marries Ilse (Elisabeth) Margarethe Rösener. He, then, dies the
-following year and is xref:petzen:PET-D-1759a.adoc[buried on December 26,
-1759] age 55.
+|Johann Heinrich Krückeberg|aus Berenbusch (from Berenbusch)
+
+|Anna Maria Vahlsing|aus Evesen (from Evesen)
+|===
+
+* On xref:petzen:PET-D-1757b.adoc[buried on May 8, 1757] Anna Maria
+Krückeberg is buried.
+* On xref:petzen:PET-M-1758a.adoc[September 29, 1758] *Johan Henr. Krückeberg aus Bernbusch* marries 
+*Ilse (Elisabeth) Margarethe Rösener*.
+* On xref:petzen:PET-B-1759a.adoc[September 16, 1759] a daughter is born to
+*Johan Henrich Krückeberg zu Berenbusch*.
+* On xref:petzen:PET-D-1759a.adoc[December 26,1759] *Johan Henrich Krückeberg
+aus Berenbusch* age 55 is buried.
+
+=== In Governmental Records
 
 Johann Heinrich Krückeberg does not appear in the 1737
 xref:nla:2728:survey-1737.adoc[] as the holder/owner (Besitzer) of no. 10
