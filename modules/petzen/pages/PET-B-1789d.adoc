@@ -9,11 +9,6 @@ Entry is on <<image45, image 45, on entry 7>>.
 
 === Image 45, page 85, entry 7
 
-Below is an overview of both pages 84 and 85, showing page 84 covers 1788 and page 85 covers the year 1789, starting with the 
-month of January for the first entry of page 85.
-
-image::petzen-band2-img45-overview.jpg[align=left,title="Click to enlarge",link=self]
-
 Below is entry 7 from page 85, year 1789.
 
 image::petzen-band2-img45-85.jpg[align=left,title="Click to enlarge",link=self]
