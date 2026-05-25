@@ -15,7 +15,7 @@ image::petzen-band2-img6-page7.jpg[align=left,title="Anna Maria Weiland
 *Eod em* means "on the same day" as the prior marriage entry.
 ====
 
-[literal.bordered,subs="verbatim,quote"]
+[literal.bordered,subs="verbatim,quotes"]
 ....
 8) Eod em ist copuliert Hans Heinrich Tellermann ein Wittver
     und [bisheriger?] Leibzüchter in Eisbergen [Hab?] No 14 mit
@@ -23,7 +23,7 @@ image::petzen-band2-img6-page7.jpg[align=left,title="Anna Maria Weiland
     [???] No 20.
 ....
 
-[literal.bordered,subs="verbatim,quote"]
+[literal.bordered,subs="verbatim,quotes"]
 ....
 8) On the same day[20th Nov.] Hans Heinrich Tellermann a widower
    and up to now life annuitant in Eisbergen [property?] No 14 with
