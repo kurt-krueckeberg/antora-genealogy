@@ -1,6 +1,6 @@
 = Dr. Möhle's Completed Research 
 
-== Background
+== Background /Timeline
 
 On xref:petzen:PET-M-1727a.adoc[September 18, 1727], Johann Heinrich Krückeberg 
 marries Anna Marie Vahlsing in the Petzen parish. According to the marriage
@@ -20,5 +20,150 @@ house and farm owners in the Bückeburg district as part of a general state
 inspection ("Erfassung der Haus- und Hofbesitzer im Amt Bückeburg im Rahmen
 einer Generallandesvisitation")* as the holder/owner (Besitzer) of no. 10
 Berenbusch. He may have not met the criteria for inclusion.
+
+Johann Heinrich Krückeberg does not appear in the 1737 *Registration of
+house and farm owners in the Bückeburg district as part of a general state
+inspection ("Erfassung der Haus- und Hofbesitzer im Amt Bückeburg im Rahmen
+einer Generallandesvisitation")* as the holder/owner (Besitzer) of no. 10
+Berenbusch. He may have not met the criteria for inclusion.
+
+He does appear in the 1743-1744 xref:nla:2728:survey-1737.adoc[Records of the interviews
+with individual farm owners in Evesen, Berenbusch, Nordholz, and Rusbend as
+part of the general land survey (state land survey)] (*"Protokolle über die Befragung der
+einzelnen Hofbesitzer in Evesen, Berenbusch, Nordholz und Rusbend im Rahmen
+der Generallandesvisitation (Landesvermessung)")*. His replies to the
+questions--which were not preserved--are below:
+
+[literal.bordered,subs="verbatim,quotes"]
+....
+N. X [Rf?] er hiesse
+
+1. Johann Henrich Krückeberg
+
+vormahls Friedrich Kuhlmann auch
+
+Joh. Tönnies Eggerding
+
+2. habe darauf geheyrahtet
+
+3. ein Brinksitzer
+
+4. Er habe nichts als einen Garten
+
+worin zugl. etwas Saatlandt
+
+Nach der neuen Messung.
+
+5. cessat
+
+6. er habe kein Rottland ausser
+
+dem Garthen
+
+7. Sey Illmo eigen.
+
+8. Wöchentl. Dienste verrichte er [symbol = nicht; old code for
+‚not‘]
+
+9. jährl. 12 Burgfesten
+
+10. cessat
+
+11. funff Erndte Tage
+
+12. so offt es nöhtig
+
+13. so offt es erforderlig [bei anderen: Landfolge mit der Hand]
+
+14. 15. 16. ut reliqui [bei anderen: auch Jagd und Wachten]
+
+17. cessat
+
+18. [Dues]
+
+a) contribat 2 [Groschen] 2 [Pfennige]
+
+b) Rottzinß 11 [Groschen]
+
+c) Mahl[...] 12 [Groschen]
+
+d) Michael Schatz cessit
+
+e) –
+
+f) – 4 [Pfennige]
+
+g) Landschatz gibt er nicht weilen
+
+er kein Land habe
+
+h) nescit
+
+i) ut reliqui
+
+k) Viehschatz p nro. des Viehes
+
+4 mgr [Groschen] 4 Pf [Pfennige] auch 8 mgr [Groschen]
+
+l) cessat
+
+m) Ein Rauchhuhn an gdste Herrschafft
+
+n) nescit
+
+19)
+
+a) ut reliqui
+
+b) Erbe 3 rthlr [Taler] 4 mgr [Groschen] 4 Pf [Pfennige]
+
+c-g nescit
+
+20-23 cessat
+
+24. 1 Kuh 1 Rind
+
+1 Schwein
+
+25. treibe solche vor den Hirten
+
+26. nein
+
+27-31 cessat
+
+32. Er gebe niemand
+
+etwas als dem
+
+pastori und Küster
+
+das gewöhnliche
+
+33. nein
+
+34. Vermeyne, da er
+
+keine Länderey
+
+habe, solche nicht
+
+schuldig zu seyn
+
+35. nein
+
+*36., 37.* cessat
+
+38. nein
+
+39. ut reliqui
+
+40. Er samle
+
+das Holtz in
+
+der Waldung
+
+oder kauffe es.
+....
 
 
