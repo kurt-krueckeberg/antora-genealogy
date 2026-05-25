@@ -46,10 +46,8 @@ Johann Heinrich Krückeberg does not appear in the 1737
 xref:nla:2728:survey-1737.adoc[] as the holder/owner (Besitzer) of no. 10
 Berenbusch. He may have not met the criteria for inclusion.
 
-He does appear in the 1743-1744 xref:nla:2728:survey-1737.adoc[] (*"Protokolle über die Befragung der
-einzelnen Hofbesitzer in Evesen, Berenbusch, Nordholz und Rusbend im Rahmen
-der Generallandesvisitation (Landesvermessung)")*.  His replies to the
-questions--which were unfortunately not preserved--are below:
+He does appear in the 1743-1744 xref:nla:2741:index.adoc[].  His replies to
+the questions--which were unfortunately not preserved--are below:
 
 [literal.bordered,subs="verbatim,quotes"]
 ....
