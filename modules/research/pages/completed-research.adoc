@@ -30,26 +30,29 @@ List of names of all Kolonen in the districts of Bückeburg and Arensburg, with 
 
 == Johann Henrich Krückeberg Timeline
 
-=== In Church Records
-
 [cols="1,4"]
 |===
-|Date|Event/Details
+|Date|Ceremony|Church Ceremony/Details
 
 |xref:petzen:PET-M-1727a.adoc[September 18, 1727]
+|Marriage
 |Johann Heinrich Krückeberg aus Berenbusch
 (from Berenbusch) marries Anna Maria Vahlsing aus Evesen
 
 |xref:petzen:PET-D-1757b.adoc[May 8, 1757]
+|Burial
 |Anna Maria Krückeberg aus Berenbsuch buried
 
 |xref:petzen:PET-M-1758a.adoc[September 29, 1758]
+|Marriage
 |Johan Henr. Krückeberg aus Bernbusch marries Ilse (Elisabeth) Margarethe Rösener
 
 |xref:petzen:PET-B-1759a.adoc[September 16, 1759]
+|Baptism
 |a daughter is born to Johan Henrich Krückeberg zu Berenbusch.
 
 |xref:petzen:PET-D-1759a.adoc[December 26,1759]
+|Burial
 |Johan Henrich Krückeberg aus Berenbusch age 55 is buried
 |===
 
