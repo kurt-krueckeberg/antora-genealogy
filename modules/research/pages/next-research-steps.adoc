@@ -1,0 +1,301 @@
+= Next Research Steps
+
+The responses show that *No. 10 Berenbusch was a very small,
+non-full-farm holding*, occupied by *Johann Henrich Krückeberg*, who had
+acquired his position *by marriage*.
+
+==== Main conclusions
+
+*1. Johann Henrich Krückeberg was not a full farmer.* He is explicitly
+called *“ein Brinksitzer”*. A _Brinksitzer_ was a smallholder/cottager,
+normally below the level of a full Meier or Colon. His holding was
+marginal.
+
+*2. He held the place through marriage.* Answer 2 says:
+
+____
+_habe darauf geheyrahtet_
+____
+
+That means he “married onto it,” i.e. he obtained the holding by
+marrying the woman connected with the place or household.
+
+*3. Earlier occupants or possessors were Friedrich Kuhlmann and Johann
+Tönnies Eggerding.* The line:
+
+____
+_vormahls Friedrich Kuhlmann auch Joh. Tönnies Eggerding_
+____
+
+means that before Johann Henrich Krückeberg, the place was associated
+with those two men. This may indicate prior household heads, tenants, or
+possessors of No. 10.
+
+*4. The holding was extremely small.* He says he had:
+
+____
+_nichts als einen Garten worin zugl. etwas Saatlandt_
+____
+
+That is, “nothing except a garden, in which there is also a little
+arable/sown land.” He had *no real farmland* in the normal sense.
+
+*5. He had no separate Rottland.* Answer 6 says he had no _Rottland_
+except the garden. So any cleared or newly cultivated land attached to
+the holding was minimal and effectively part of the garden.
+
+*6. The holding belonged to the lordship.* Answer 7:
+
+____
+_Sey Illmo eigen._
+____
+
+This means it was owned by *His Serene Highness / the ruling lordship*.
+So Krückeberg was not an allodial owner; he held under the territorial
+lord.
+
+*7. His labor duties were limited but not absent.* He did *not* perform
+weekly services, but he owed:
+
+* *12 Burgfesten annually*
+* *5 harvest days*
+* services “as often as necessary” or “as often as required”
+* the same obligations as the others for some categories, apparently
+including hunting and watch duties
+
+So he was not free of obligations, but his duties were scaled to his
+small status.
+
+*8. He paid some dues despite having little land.* He owed several
+payments, including:
+
+* contribution tax
+* _Rottzins_
+* milling-related dues
+* livestock tax
+* a *Rauchhuhn* to the lordship
+* inheritance-related payment: *Erbe 3 Taler 4 Groschen 4 Pfennige*
+
+But he explicitly did *not* pay _Landschatz_ because:
+
+____
+_weilen er kein Land habe_
+____
+
+“because he has no land.”
+
+That is one of the clearest statements of his economic status.
+
+*9. His livestock was modest but not negligible.* He had:
+
+____
+_1 Kuh 1 Rind / 1 Schwein_
+____
+
+So: *one cow, one head of young cattle, and one pig*. This fits a
+smallholder household with limited subsistence capacity.
+
+*10. He used the common herding system.* Answer 25 says he drove the
+animals:
+
+____
+_vor den Hirten_
+____
+
+That means he sent them out with the village herdsman, rather than
+herding them independently.
+
+*11. He denied owing some obligations because he lacked land.* Answer 34
+says he believed that because he had no land, he was not liable for the
+obligation being asked about:
+
+____
+_da er keine Länderey habe, solche nicht schuldig zu seyn_
+____
+
+This reinforces that his legal and fiscal status was tied to being
+nearly landless.
+
+*12. He owed ordinary church dues.* Answer 32 says he gave nothing to
+anyone except the usual payments to the:
+
+____
+_pastori und Küster_
+____
+
+that is, the pastor and sexton/clerk.
+
+*13. His fuel supply came from gathering wood or buying it.* Answer 40:
+
+____
+_Er samle das Holtz in der Waldung oder kauffe es._
+____
+
+He gathered wood in the forest or bought it. This suggests he did not
+have sufficient private woodland rights to rely on his own land.
+
+==== Overall conclusion
+
+Johann Henrich Krückeberg at *No. 10 Berenbusch* was a *Brinksitzer*, not a
+full landholding farmer. Johann Henrich Krückeberg appears to have entered
+or taken up residence on No. 10 Berenbusch through marriage, but the record
+does not yet prove the precise legal mechanism by which he acquired
+occupancy or possessory rights.
+
+He possessed essentially only a garden with a little arable ground, kept a
+few animals, owed limited but real labor services and dues to the lordship,
+and was exempt from some land-based taxes because he had *no real
+farmland*. The record portrays No. 10 as a small dependent holding under
+the Schaumburg-Lippe lordship, economically modest and legally subordinate.
+
+The record identifies Johann Henrich Krückeberg as the current resident of
+No. 10 Berenbusch and names Friedrich Kuhlmann and Johann Tönnies Eggerding
+as earlier persons associated with that same holding. The wording “habe
+darauf geheyrahtet” still indicates that Krückeberg came onto the holding
+through marriage. However, since his wife Anna Maria Vahlsing was a
+shepherd’s daughter, the evidence no longer supports the stronger
+assumption that he married directly into the Kuhlmann or Eggerding family
+as an heiress or widow. The exact mechanism by which the marriage gave him
+access to No. 10 remains unproven.
+
+== Next Research Steps
+
+Given what we now know, the next step is *not
+church records* and not specifically a “purchase petition.” The next
+step is to trace *No. 10 Berenbusch as a holding* through
+administrative/fiscal records.
+
+=== Best next research step
+
+Look for records that list *each house/holding in Berenbusch by number,
+holder, dues, services, or taxes*, especially from about *1720–1745*.
+
+The goal is to find when No. 10 changes from:
+
+____
+Friedrich Kuhlmann / Johann Tönnies Eggerding to Johann Henrich
+Krückeberg
+____
+
+That will probably give you the best evidence for *when Krückeberg came
+into possession*.
+
+=== Records to seek first
+
+==== 1. Berenbusch tax and dues registers
+
+Search for annual or periodic registers under Amt Bückeburg / Rentkammer
+/ Alte Regierung for:
+
+* *Contribution*
+* *Schatz / Landschatz*
+* *Viehschatz*
+* *Rottzins*
+* *Rauchhuhn*
+* *Mahlgeld / Mühlenabgaben*
+* *Burgfesten*
+* *Dienste / Dienstregister*
+* *Heberegister*
+* *Amtsrechnungen*
+
+These are the most promising because No. 10’s obligations are listed in
+the 1743–1744 protocol. If those same obligations appear year by year,
+you may be able to track the holder.
+
+==== 2. Registers of holdings
+
+Look for compiled lists such as:
+
+* *Lagerbuch*
+* *Erbregister*
+* *Haus- und Hofregister*
+* *Brinksitzerregister*
+* *Register der Hauswirte*
+* *Verzeichnis der Pflichtigen*
+* *Verzeichnis der Dienste und Abgaben*
+
+These may list No. 10 directly and may preserve former names.
+
+==== 3. Landesvermessung / Generallandesvisitation companion volumes
+
+Since the interrogation protocol survives, there may also be related
+material:
+
+* measurement register
+* village summary
+* tax summary
+* service summary
+* map or sketch
+* final compiled register
+* householder list
+
+These companion records may state more plainly who held No. 10 and what
+it consisted of.
+
+==== 4. Records of possession change or fees
+
+Because the protocol mentions:
+
+____
+*Erbe 3 rthlr 4 mgr 4 Pf*
+____
+
+look for fiscal records concerning succession or entry fees, under terms
+such as:
+
+* *Erbe*
+* *Erbgelder*
+* *Weinkauf*
+* *Auffahrt*
+* *Abfahrt*
+* *Antrittsgeld*
+* *Sterbfall*
+* *Besitzveränderung*
+* *Veränderungen*
+* *Mutationes*
+
+These may not be cataloged under Krückeberg. They may be buried in
+annual account books.
+
+=== What not to rely on
+
+Do *not* assume there must be a Krückeberg petition to buy No. 10. The
+phrase:
+
+____
+*habe darauf geheyrahtet*
+____
+
+points to entry by marriage/household succession, not necessarily
+purchase.
+
+=== Practical archive search terms
+
+Use combinations of:
+
+* *Berenbusch*
+* *Nr. 10*
+* *Brinksitzer*
+* *Krückeberg*
+* *Kuhlmann*
+* *Eggerding*
+* *Rottzins*
+* *Rauchhuhn*
+* *Viehschatz*
+* *Contribution*
+* *Generallandesvisitation*
+* *Landesvermessung*
+* *Amt Bückeburg*
+* *Hauswirte*
+* *Heberegister*
+* *Amtsrechnung*
+
+=== Most likely useful source
+
+If I had to choose one category first, I would seek:
+
+*Amt Bückeburg annual account books / Heberegister / tax registers for
+Berenbusch, ca. 1720–1745.*
+
+Those are more likely than a case file to show the year-by-year
+transition of No. 10 from earlier names to Johann Henrich Krückeberg.

@@ -46,7 +46,6 @@ ____
 
 That determines which Bückeburg documents you should examine next.
 
-
 == 1. The correct archival focus (what _not_ to pursue further)
 
 You have already exhausted the *Landesvermessung / Statistik* series for
@@ -60,7 +59,6 @@ this question:
 These establish *status and succession*, but not *mechanism*.
 
 No further surveying documents will explain _how_ the transfer happened.
-
 
 === 2. The document types that can answer your question
 
