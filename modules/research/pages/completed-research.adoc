@@ -30,7 +30,7 @@ List of names of all Kolonen in the districts of Bückeburg and Arensburg, with 
 
 == Johann Henrich Krückeberg Timeline
 
-[cols="1,1,4"]
+[cols="2,1,4"]
 |===
 |Date|Ceremony|Church Ceremony/Details
 
