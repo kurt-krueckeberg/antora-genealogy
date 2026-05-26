@@ -3,7 +3,7 @@
 * xref:sigla-explained.adoc[]
 * Bückeberg Archive Research
 ** xref:completed-research.adoc[]
-** xref:completed-research-conclusions.adoc[]
+** xref:conclu-completed-research.adoc[]
 ** xref:bueckeburg-further-research.adoc[]
 ** xref:other-high-value-research-documents.adoc[]
 ** xref:anna-maria-vahlsing-kuhlmann-connection.adoc[]
