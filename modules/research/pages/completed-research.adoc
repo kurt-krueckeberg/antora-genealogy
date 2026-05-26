@@ -32,6 +32,7 @@ List of names of all Kolonen in the districts of Bückeburg and Arensburg, with 
 
 === In Church Records
 
+[cols="1,4"]
 |===
 |Date|Event/Details
 
