@@ -32,25 +32,27 @@ List of names of all Kolonen in the districts of Bückeburg and Arensburg, with 
 
 === In Church Records
 
-Johann Henrich Krückeberg first appears in the Petzen Kirchenbuch records
-when he marries Anna Marie Vahlsing on
-xref:petzen:PET-M-1727a.adoc[September 18, 1727]. This report tells us:
-
 |===
-|Name|Locality
+|Date|Event/Details
 
-|Johann Heinrich Krückeberg|aus Berenbusch (from Berenbusch)
+|September 18, 1727
+|xref:petzen:PET-M-1727a.adoc[Johann Heinrich Krückeberg aus Berenbusch
+(from Berenbusch) marries Anna Maria Vahlsing aus Evesen]
 
-|Anna Maria Vahlsing|aus Evesen (from Evesen)
+|May 8, 1757
+|Burial
+|xref:petzen:PET-D-1757b.adoc[Anna Maria Krückeberg].
+
+|September 29, 1758
+|xref:petzen:PET-M-1758a.adoc[Johan Henr. Krückeberg aus Bernbusch marries Ilse (Elisabeth) Margarethe Rösener]
+
+|September 16, 1759
+|xref:petzen:PET-B-1759a.adoc[a daughter is born to Johan Henrich Krückeberg zu Berenbusch].
+|
+
+|December 26,1759
+|xref:petzen:PET-D-1759a.adoc[Johan Henrich Krückeberg aus Berenbusch age 55 is buried]
 |===
-
-* On xref:petzen:PET-D-1757b.adoc[May 8, 1757] Anna Maria Krückeberg is buried.
-* On xref:petzen:PET-M-1758a.adoc[September 29, 1758] *Johan Henr. Krückeberg aus Bernbusch* marries 
-*Ilse (Elisabeth) Margarethe Rösener*.
-* On xref:petzen:PET-B-1759a.adoc[September 16, 1759] a daughter is born to
-*Johan Henrich Krückeberg zu Berenbusch*.
-* On xref:petzen:PET-D-1759a.adoc[December 26,1759] *Johan Henrich Krückeberg
-aus Berenbusch* age 55 is buried.
 
 === In Governmental Records
 
