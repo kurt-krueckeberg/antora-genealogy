@@ -4,7 +4,6 @@
 * Bückeberg Archive Research
 ** xref:completed-research.adoc[]
 ** xref:next-research-steps.adoc[]
-** xref:conclu-completed-research.adoc[]
 ** xref:bueckeburg-further-research.adoc[]
 ** xref:other-high-value-research-documents.adoc[]
 ** xref:anna-maria-vahlsing-kuhlmann-connection.adoc[]
