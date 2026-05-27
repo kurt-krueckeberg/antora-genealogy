@@ -1,9 +1,13 @@
 = TODO
 
-== Finish Moehle Research Rewrite
+== Finish Moehle Research Summary and Research Plan Write Up
 
-Rewrite `m/research/p/completed-research.adoc`. I have started such a
-version. It is called `m/research/p/new-completed-research.adoc`.
+Merge and consolidate the information in the Moehle Research/Further
+Follow-Up Research area.
+
+Read up on:
+* Schaumburg-Lippe's government and the Rentkammer
+* Laws like Anerbenrecht, etc.
 
 == Complete Translation of Einlieger Article
 
@@ -25,7 +29,7 @@ Do this.
 Work on the family ancestry proof. Gaps can be filled in later.
 This will provide other research items for Dr. Möhle to research.
 
-== Carl Friedrich Gottlieb is Jobst Heinrich Krückeberg in NLA 146
+== Wrtie Case Study: Carl Friedrich Gottlieb is Jobst Heinrich Krückeberg in NLA 146
 
 Analyze the NLA 146 case file documents. Use the ChatGPT the background information at
 xref:genealogy:ancestry:two-jobsts.adoc[].
