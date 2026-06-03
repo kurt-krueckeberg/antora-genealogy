@@ -1,0 +1,187 @@
+= Craftsman Research Pattern
+
+*drop the farm-property model* for your Krückebergs unless a particular
+person is explicitly tied to a house, plot, debt, lease, or sale file.
+
+For *18th-century rural tailors and shoemakers in Berenbusch*, the
+systematic strategy should be narrower:
+
+== Best target: records created because artisans needed permission or regulation
+
+For tailors and shoemakers, look for records involving:
+
+* *Schneider*
+* *Schuhmacher / Schuster*
+* *Handwerker*
+* *Professionisten*
+* *Zünfte / Ämter*
+* *Konzession*
+* *Meister*
+* *Geselle*
+* *Lehrling*
+* *Wanderbuch / Kundschaft*
+* *Nahrung / Gewerbe*
+* *Hausierer / Handel*
+
+Do *not* search these as one-off guesses. Search them inside the likely
+Bückeburg governmental fonds and note which fonds actually contain
+occupational regulation files.
+
+The real question becomes:
+
+____
+Did Schaumburg-Lippe regulate rural tailoring and shoemaking through
+guilds, Amtsakten, concession files, tax lists, or police/administrative
+permissions?
+____
+
+That is a focused archival question.
+
+== Most efficient record classes for your case
+
+=== 1. Guild or craft-administration records
+
+If a Berenbusch Krückeberg was a *Schneidermeister* or
+*Schuhmachermeister*, the best non-church evidence may be in craft
+regulation records, not parish or land records.
+
+Search terms:
+
+* `Schneider`
+* `Schuhmacher`
+* `Schuster`
+* `Zunft`
+* `Amt`
+* `Innung`
+* `Meister`
+* `Geselle`
+* `Lehrjunge`
+* `Lehrbrief`
+* `Meisterstück`
+
+The problem is that these may be cataloged under *Bückeburg*, not
+Berenbusch. A rural craftsman might appear under a Bückeburg-town craft
+body or territorial craft regulation file.
+
+=== 2. Concession / permission records
+
+A village tailor or shoemaker may have needed permission to practice,
+especially if not part of a guild structure.
+
+Search terms:
+
+* `Konzession`
+* `Concession`
+* `Erlaubnis`
+* `Nahrung`
+* `Gewerbe`
+* `Profession`
+* `Professionist`
+* `Handwerk`
+* `Nebengewerbe`
+
+These are more likely to name individuals than general village files.
+
+=== 3. Tax and status lists
+
+Even if they were not farmers, they may appear as taxable householders,
+lodgers, or occupational taxpayers.
+
+Search terms:
+
+* `Kopfsteuer`
+* `Kontribution`
+* `Schatzung`
+* `Steuer`
+* `Einlieger`
+* `Brinksitzer`
+* `Heuerling`
+* `Professionisten`
+* `Berenbusch`
+* `Petzen`
+
+These may not prove parentage directly, but they can confirm continuity
+of residence and distinguish same-named men.
+
+=== 4. Guardianship, estate, and debt files
+
+For artisans, these may be higher yield than land files. Tailors and
+shoemakers had tools, debts, apprenticeships, household goods, and minor
+children.
+
+Search terms:
+
+* `Vormundschaft`
+* `Curatel / Kuratel`
+* `Nachlass`
+* `Erbschaft`
+* `Teilung`
+* `Inventar`
+* `Schulden`
+* `Concurs / Konkurs`
+* `Obligation`
+
+These are more likely to state relationships.
+
+=== 5. Poor relief / settlement / mobility records
+
+If a rural artisan moved, married outside the parish, became poor, or
+needed permission to settle, those files can be genealogically valuable.
+
+Search terms:
+
+* `Heimatrecht`
+* `Aufenthalt`
+* `Niederlassung`
+* `Armensache`
+* `Unterstützung`
+* `Bettel`
+* `Pass`
+* `Reisepass`
+* `Wanderschaft`
+
+For a shoemaker or tailor, *mobility records* may be especially relevant
+because training and journeyman movement were normal.
+
+== What I would not do
+
+I would not pay the archive to “search for Krückeberg.”
+
+That is too vague and almost guaranteed to waste paid time.
+
+== What I would pay for, if using the 60-minute paid search
+
+Ask them a *finding-aid question*, not a surname question:
+
+____
+Which fonds or finding aids in NLA Bückeburg contain 18th-century
+Schaumburg-Lippe records for rural artisans — especially tailors and
+shoemakers — such as guild records, concession records, lists of
+masters, apprentices, journeymen, occupational taxpayers, or permissions
+to practice a trade in villages of the Amt Bückeburg, including
+Berenbusch/Petzen?
+____
+
+That uses their hour to identify *record systems*, not individual names.
+
+== My recommended next move
+
+Make a table of every 18th-century Krückeberg in Petzen Kirchenbücher
+with these columns:
+
+++|++ Person ++|++ Event years ++|++ Residence ++|++ Occupation ++|++
+Status term ++|++ Spouse ++|++ Witness/godparent network ++|++ Notes
+++|++
+++|++---++|++---:++|++---++|++---++|++---++|++---++|++---++|++---++|++
+
+Then identify only the people who are called *Schneider*, *Schuhmacher*,
+*Schuster*, *Meister*, *Geselle*, *Einlieger*, *Brinksitzer*, etc.
+
+After that, search/order records by *occupation {plus} administrative
+mechanism*, not by Berenbusch alone.
+
+The key shift is this:
+
+*For farm families, the archival spine is the holding. +
+For your Krückebergs, the archival spine is occupation {plus} residence
+{plus} legal status.*

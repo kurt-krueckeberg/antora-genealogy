@@ -5,6 +5,7 @@
 ** xref:completed-research.adoc[]
 ** xref:next-research-steps.adoc[]
 ** xref:bueckeburg-further-research.adoc[]
+** xref:new-research-plan.adoc[]
 ** xref:other-high-value-research-documents.adoc[]
 ** xref:anna-maria-vahlsing-kuhlmann-connection.adoc[]
 ** xref:jobst-hk-1765-1822-guild-records.adoc[]
