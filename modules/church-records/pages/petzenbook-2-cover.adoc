@@ -1,3 +1,0 @@
-= Kirchenbuch II Cover
-
-image::petzenbook-2-cover.jpg[]
