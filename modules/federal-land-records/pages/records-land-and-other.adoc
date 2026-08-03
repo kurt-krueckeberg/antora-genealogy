@@ -96,7 +96,8 @@ Indianapolis office. I believe its records were merge with the Indianapolis offi
 
 === Adams County
 
-See the general land records<<general-land-recs, above>> that includes the Fort Wayne and Indianapolis land office records (and others) 
+See the general land records <<land-records, above>> that includes the
+Fort Wayne and Indianapolis land office records (and others)  uy
 since the Fort Wayne district office handled Adams county land sales.
 
 The **U.S Census Agricultural Schedule for Indiana** on Microfilm. Navigation path:

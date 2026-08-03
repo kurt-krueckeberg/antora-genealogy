@@ -1,45 +1,59 @@
 = Federal Land Records Overview
 
-TODO: Make this a  subsection
-TODO: Add info in this link:https://youtu.be/jF0YlWkNcok?si=MLiYXf10Tx4TXwqp[Craig Scott video]
+TODO: Make this a  subsection TODO: Add info in this
+link:https://youtu.be/jF0YlWkNcok?si=MLiYXf10Tx4TXwqp[Craig Scott video]
 
-When individuals successfully completed the purchase of land in the Public Domain land states (of Ohio, Indiana, Illinois, Michigan,
-Florida, Wisconsin, Alabama, Mississippi, Louisiana, Minnesota, Iowa, Missouri, and Arkansas), they were awarded a Land Patent by
-the federal General Land Office in Washington D.C. This represented the first deed. The process of applying to buy federal land
-was termed **land entry**, and the prospective buyer was called the **entryman**.
+When individuals successfully completed the purchase of land in the Public
+Domain land states (of Ohio, Indiana, Illinois, Michigan, Florida,
+Wisconsin, Alabama, Mississippi, Louisiana, Minnesota, Iowa, Missouri, and
+Arkansas), they were awarded a Land Patent by the federal General Land
+Office in Washington D.C. This represented the first deed. The process of
+applying to buy federal land was termed **land entry**, and the prospective
+buyer was called the **entryman**.
 
-The Land Ordinance Act of May 20, 1785, authorized the Treasury Department to survey and sell Public Domain land as a source of revenue. 
+The Land Ordinance Act of May 20, 1785, authorized the Treasury Department
+to survey and sell Public Domain land as a source of revenue. 
 
-The Act also established the policy of "survey before settlement" and used a link:https://www.familysearch.org/en/wiki/Rectangular_Surveys[
-rectangular survery system] (known also as the Public Land Survey System) that divided most of the land in the public domain into townships
-and sections. Later laws established local land offices to distribute the land. These were under the direction of the General Land Office
-(GLO) in Washington, D.C. (now known as the Bureau of Land Management).
+The Act also established the policy of "survey before settlement" and used
+a link:https://www.familysearch.org/en/wiki/Rectangular_Surveys[
+rectangular survery system] (known also as the Public Land Survey System)
+that divided most of the land in the public domain into townships and
+sections. Later laws established local land offices to distribute the land.
+These were under the direction of the General Land Office (GLO) in
+Washington, D.C. (now known as the Bureau of Land Management).
 
 image::rectangular_survey_grid.jpg[title="Townnship Grid", xref=image$rectangular_survey_grid.jpg]
 
-The purchase process involved several steps and generated various documents. These documenmts were kept in a Land Entry case files
-maintained by the local Land Office that were later sent to the General Land Office in Washington, D.C.. For Adams county, Indiana,
-this office was in Fort Wayne.
+The purchase process involved several steps and generated various
+documents. These documenmts were kept in a Land Entry case files maintained
+by the local Land Office that were later sent to the General Land Office in
+Washington, D.C.. For Adams county, Indiana, this office was in Fort Wayne.
 
-The related Northwest Ordinance of 1787 "set out a process by which land was to be organized as dependent territories and then as
-states fully equal in status to those already in the union."
+The related Northwest Ordinance of 1787 "set out a process by which land
+was to be organized as dependent territories and then as states fully equal
+in status to those already in the union."
 
-These two related Acts are dicussed on the Library of Congress webpage link:https://www.loc.gov/collections/pioneering-the-upper-midwest/articles-and-essays/history-of-the-upper-midwest-overview/northwest-and-ordinances/[The Northwest
-and the Ordinances, 1783-1858].
+These two related Acts are dicussed on the Library of Congress webpage
+link:https://www.loc.gov/collections/pioneering-the-upper-midwest/articles-and-essays/history-of-the-upper-midwest-overview/northwest-and-ordinances/[The
+Northwest and the Ordinances, 1783-1858].
 
 == Land Acts
 
-Genealogist Kimberly Powel has create a link:https://learngenealogy.com/timeline-of-us-public-land-laws/[Genealogy Timeline of Land Acts].
+Genealogist Kimberly Powel has create a
+link:https://learngenealogy.com/timeline-of-us-public-land-laws/[Genealogy Timeline of Land Acts].
 
 == Sources that Use Legal Descriptions of Land
 
-NOTE: This information is taken directly from link:https://www.familysearch.org/en/wiki/Grants_from_the_Federal_Government_(Public_Domain)#Obtaining_a_Legal_Description_of_the_Land[Legal Description of the Land] 
-on the FamilySearch wiki.
+NOTE: This information is taken directly from
+link:https://www.familysearch.org/en/wiki/Grants_from_the_Federal_Government_(Public_Domain)#Obtaining_a_Legal_Description_of_the_Land[Legal
+Description of the Land] on the FamilySearch wiki.
 
 The legal description of a parcel of land includes the
 https://www.familysearch.org/en/wiki/United_States_Land_Terms_and_Definitions[township&#44;
-range and section of] the property, or in the case of a great portion of Ohio bounty-warrant land, may include
-https://www.familysearch.org/en/wiki/United_States_Land_Terms_and_Definitions[metes and bounds].
+range and section of] the property, or in the case of a great portion of
+Ohio bounty-warrant land, may include
+https://www.familysearch.org/en/wiki/United_States_Land_Terms_and_Definitions[metes
+and bounds].
 
 The following are places where a legal description of land may be found:
 
@@ -122,26 +136,33 @@ state archive may also have microfilm copies for the state.
 
 == Land Entry
 
-Land Entry refers to the initial application or filing made by an individual to claim a piece of public land from the
-government, essentially marking the first step in the process of acquiring legal title to that land, which ultimately
-culminates in the issuance of a land patent; it documents who applied for the land and where it is located. The entryma
-was the prospective buyer seeking a land patent.
+Land Entry refers to the initial application or filing made by an
+individual to claim a piece of public land from the government, essentially
+marking the first step in the process of acquiring legal title to that
+land, which ultimately culminates in the issuance of a land patent; it
+documents who applied for the land and where it is located. The entryma was
+the prospective buyer seeking a land patent.
 
-The local land offices of the General Land Office were staffed by two officials: a Register and a Receiver. The Register was
-responsible for maintaining the land records and registers, which included logging claims, deeds, and sales of public land. They
-ensured all transactions and land transfers were properly documented. The Register also issued certificates of purchase to
-individuals who bought land.
+The local land offices of the General Land Office were staffed by two
+officials: a Register and a Receiver. The Register was responsible for
+maintaining the land records and registers, which included logging claims,
+deeds, and sales of public land. They ensured all transactions and land
+transfers were properly documented. The Register also issued certificates
+of purchase to individuals who bought land.
 
-The Receiver handled the financial aspect of land sales. Their responsibilities included receiving payments for land
-purchases, issuing receipts, and managing the funds collected from land sales. The Receiver worked closely with the Register
-to ensure proper accounting of all transactions.
+The Receiver handled the financial aspect of land sales. Their
+responsibilities included receiving payments for land purchases, issuing
+receipts, and managing the funds collected from land sales. The Receiver
+worked closely with the Register to ensure proper accounting of all
+transactions.
 
-Together, these two officials ensured the orderly sale and distribution of public land as part of the broader mission of the
-General Land Office.
+Together, these two officials ensured the orderly sale and distribution of
+public land as part of the broader mission of the General Land Office.
 
 == Land Entry Case Files
 
-The most important records for genealogical purposes are the Land Entry Case Files stored at the National Archives.
+The most important records for genealogical purposes are the Land Entry
+Case Files stored at the National Archives.
 
 Land Entry Case File::
 
