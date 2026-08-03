@@ -10,7 +10,7 @@ asciidoc:
 nav:
   - modules/ROOT/nav-top.adoc
   - modules/background/nav.adoc
-# - modules/families/nav.adoc
+  - modules/families/nav.adoc
 # - modules/church-records/nav.adoc
   - modules/family-church-records/nav.adoc
   - modules/early-secular-srcs/nav.adoc
@@ -18,14 +18,14 @@ nav:
   - modules/cincinnati-churches/nav.adoc
   - modules/immanuel-lutheran/nav.adoc
 # - modules/timelines/nav.adoc
-# - modules/persons/nav.adoc
-# - modules/emigration/nav.adoc
+  - modules/persons/nav.adoc
+  - modules/emigration/nav.adoc
 # - modules/findings/nav.adoc
 # - modules/edu/nav.adoc
 # - modules/earth/nav.adoc
-# - modules/federal-land-records/nav.adoc
-# - modules/naturalization/nav.adoc
-# - modules/military/nav.adoc
+  - modules/federal-land-records/nav.adoc
+  - modules/naturalization/nav.adoc
+  - modules/military/nav.adoc
 # - modules/related-trees/nav.adoc
 # - modules/newspapers/nav.adoc
   - modules/research/nav.adoc
