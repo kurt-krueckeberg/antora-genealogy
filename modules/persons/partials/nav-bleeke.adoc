@@ -4,7 +4,6 @@
 ** xref:bleeke:1853-school-enumeration.adoc[]
 * xref:bleeke:cf-bleeke-bio.adoc[Carl Friedrich Bleeke]
 ** xref:bleeke:carl-friedrich-bleeke-family-us-arrival.adoc[]
-** xref:bleeke:1853-school-enumeration.adoc[]
 * Christian Friedrich Bleeke
 ** xref:bleeke:1853-school-enumeration.adoc[]
 * Maria Louise Eleonore Bleeke
