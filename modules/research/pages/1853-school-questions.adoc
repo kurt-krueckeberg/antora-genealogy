@@ -2,7 +2,8 @@
 
 * **Question**: In 1853 the children of "Christian F. Bleakey" and "John H. Bleakey" attend different
 schools than the children of "Charles Krickenbarger" and "Henry Krickenbargor"--but why? 
-According to the 1853 Indiana School Enumeration, the Bleeke children go to school xref:bleeke:1853-school-enumeration.adoc[school No. 4]
+According to the 1853 Indiana School Enumeration, the Bleeke children go to
+school xref:bleeke:jhp-bleeke-1853-school-enumeration.adoc[school No. 4]
 while the children of "Charles Krickenbarger" and "Henry Krickenbargor" go to
 xref:krückeberg:1853-school-enumeration.adoc[school No. 5]?
 +
