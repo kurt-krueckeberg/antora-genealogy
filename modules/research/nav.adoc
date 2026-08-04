@@ -34,7 +34,7 @@
 ** xref:buuck-family-questions.adoc[]
 ** xref:research-plans.adoc[]
 ** xref:naturalization-research-plan.adoc[]
-** xref:jhp-bleeke-1853-school-questions.adoc[]
+** xref:1853-school-questions.adoc[]
 ** xref:carl-friedrich-krueckeberg-naturalization.adoc[]
 ** xref:missing-naturalization-img-numbers.adoc[]
 ** xref:bleeke-children-confirmations.adoc[]
