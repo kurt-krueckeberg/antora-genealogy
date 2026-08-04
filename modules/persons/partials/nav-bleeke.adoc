@@ -1,10 +1,11 @@
 * xref:bleeke:bleeke-land-records.adoc[]
 * Johann Heinrich Philipp Bleeke
-** xref:bleeke:jhp-bleeke/jhp-bleeke-land-patents.adoc[]
-** xref:bleeke:1853-school-enumeration.adoc[]
+** xref:bleeke:jhp-bleeke-land-patents.adoc[]
+** xref:bleeke:jhp-bleeke-1853-school-enumeration.adoc[]
 * xref:bleeke:cf-bleeke-bio.adoc[Carl Friedrich Bleeke]
 ** xref:bleeke:carl-friedrich-bleeke-family-us-arrival.adoc[]
+*** Add Land Patent?
 * Christian Friedrich Bleeke
-** xref:bleeke:1853-school-enumeration.adoc[]
+** xref:bleeke:cf-bleeke-1853-school-enumeration.adoc[]
 * Maria Louise Eleonore Bleeke
 ** xref:bleeke:maria-louise-eleonore/confirmation.adoc[]
