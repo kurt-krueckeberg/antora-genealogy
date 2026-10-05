@@ -178,7 +178,7 @@ An addendum below this entry states: *“get. 4.5.83”* (baptized 4 May 1783). 
 +
 remain unchanged.
 
-. xref:petzen:PET-B-1783a.adoc[*Baptism Record (4 May 1783, Evesen Parish)*] of 
+. xref:petzen:PET-B-1783a.adoc[Baptism Record (4 May 1783, Evesen Parish)] of 
 *Philippina Eleonore Werkmeister*, daughter of *Tönnies Werkmeister* of *Evesen No. 11* tells us:
 +
 ....
@@ -191,7 +191,7 @@ from Evesen
 [.underline]#Key finding#: The only baptism recorded in the Petzen parish on May 4, 1783, was of *Philipina Eleonore Werkmeister*, whose family
 resided at *No. 11 Evesen*.
 
-. xref:families:krueckeberg.adoc[*Familienschein (Family Certificate)*]  
+. xref:families:krueckeberg.adoc[Familienschein (Family Certificate)]  
 Lists the mother as *Philippine Leonore, geb. Bleeken, von N. 11 in Evesen*.  
 This is a derivative summary reflecting the inconsistent primary records.
 
