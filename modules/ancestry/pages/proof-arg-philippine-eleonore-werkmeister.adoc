@@ -29,7 +29,7 @@ surname attribution.
 
 This summarizes the key findings.
 
-. The xref:petzen:PET-M-1803a.adoc[*Marriage Record (13 March 1803, Petzen Parish)*] when 
+. The xref:petzen:PET-M-1803a.adoc[Marriage Record (13 March 1803, Petzen Parish)] when 
 Carl Friedrich Gottlieb Krückeberg married *Jungfrau Philippine Eleonore Werkmeister* of *Evesen No. 11*. 
 tells us:
 +
@@ -84,7 +84,7 @@ Christine Philippine Krückeberg tells us:
 [.underline]#Key finding#: The 1^st^ daughter of Carl Friedrich, Christine Philippine, is by his wife *Philippine née Werkmeister*.
 She is the mother of their first child.
 
-. xref:petzen:PET-B-1807a.adoc[*Baptism of Second Child (24 May 1807)*]  
+. xref:petzen:PET-B-1807a.adoc[Baptism of Second Child (24 May 1807)]  
 tells us:
 +
 .Family Group Facts
@@ -123,7 +123,7 @@ tells us:
 [.underline]#Key finding#: Carl Friedrich Krückeberg’s baptism lists the mother as *Philippine Lenore geb. Blecken aus N. 11 in Evesen*.
 While the mother's maiden is now *Blecken*, her given name and residence prior to marriage remain the same.
 
-. xref:petzen:PET-B-1812a.adoc[*Baptism of Third Child (2 December 1812)*]  
+. xref:petzen:PET-B-1812a.adoc[Baptism of Third Child (2 December 1812)]  
 +
 .Baptism Facts
 [%header,cols="3,2,1,1,1,2",width="85%"]
