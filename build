@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 rm -rf public
 npx antora local-playbook.yml 
-sudo rsync -av --delete \
+rsync -av --delete \
   ~/antora-genealogy/public/ \
   /var/www/krueckeberg.org/docs/public/
 #/usr/bin/rm -rf /var/www/krueckeberg.org/docs/*
