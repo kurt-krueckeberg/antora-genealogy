@@ -5,3 +5,20 @@ website at  https://krueckeberg.gitlab.io/krueckeberg/genealogy[https://krueckeb
 
 The website is an Antora documentation website built from the repo  at
 https://gitlab.com/krueckeberg/genealogy[https://gitlab.com/krueckeberg/genealogy] that holds the Antora setup and playbook.
+
+== Deploy to Cloudflare
+
+The site is a Cloudflare Worker named `antora-genealogy` that serves the HTML
+Antora writes to `./public` (see `wrangler.jsonc`). Cloudflare builds it from
+this repository on every push to `main`, with these settings
+(Worker -> Settings -> Build):
+
+[cols="1,2"]
+|===
+|Build command |`npm install && npx antora local-playbook.yml`
+|Deploy command |`npx wrangler deploy`
+|Root directory |`/`
+|===
+
+Cloudflare serves no file larger than 25 MiB, so keep every image and
+attachment under that size.
