@@ -109,14 +109,6 @@
   color: var(--c-orange-text);
 }
 .doc kbd { background: var(--c-cream); border-color: var(--c-cream-line); box-shadow: 0 1px 0 var(--c-cream-line), 0 0 0 .1em #fff inset; }
-.doc .admonitionblock .title,
-.doc .exampleblock .title,
-.doc .imageblock .title,
-.doc .listingblock .title,
-.doc .literalblock .title,
-.doc .openblock .title,
-.doc .videoblock .title,
-.doc table.tableblock caption { color: var(--c-blue-dark); }
 
 /* ---------- Code blocks ---------------------------------------------- */
 .doc .listingblock pre:not(.highlight),
